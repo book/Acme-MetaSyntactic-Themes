@@ -1,0 +1,43 @@
+package Acme::MetaSyntactic::tokipona;
+use strict;
+use Acme::MetaSyntactic::List;
+our @ISA = qw( Acme::MetaSyntactic::List );
+__PACKAGE__->init();
+1;
+
+=head1 NAME
+
+Acme::MetaSyntactic::tokipona - Words from the Toki Pona language.
+
+=head1 DESCRIPTION
+
+Toki Pona is a constructed language, with only 118 words. This theme
+has them all.
+
+=head1 CONTRIBUTOR
+
+Original contributor: Abigail
+
+=head1 SEE ALSO
+
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
+
+=cut
+
+__DATA__
+# names
+a akesi ala ale ali anpa ante anu awen
+e en
+ijo ike ilo insa
+jaki jan jelo jo 
+kala kalama kama kasi ken kepeken kili kiwen ko kon kule kute kulupu
+la lape laso lawa len lete li lili linja lipu loje lon luka lukin lupa
+ma mama mani meli mi mije moku moli monsi mu mun musi mute
+nanpa nasa nasin nena ni nimi noka
+o oko olin ona open
+pakala pali palisa pana pi pilin pimeja pini pipi poka poki pona
+sama seli selo seme sewi sijelo sike sin sina sinpin sitelen sona soweli
+   suli suno supa suwi
+tan taso tawa telo tenpo toki tomo tu
+unpa uta utala
+walo wan waso wawa weka wile
