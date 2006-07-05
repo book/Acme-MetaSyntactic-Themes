@@ -11,7 +11,15 @@ Acme::MetaSyntactic::soviet -- NATO codenames for Soviet-designed equipment
 
 =head1 DESCRIPTION
 
-Some codenames given by NATO to Soviet-designed aircraft, missiles and radars
+Some codenames given by NATO to Soviet-designed aircraft, missiles and radars.
+
+Although these codenames were attributed by NATO, the USSR
+has adopted some of them as commercial designations.
+The contributor remembers visiting
+at the Paris-Le Bourget Airshow in 1991 (or was it 1989?).
+There, he went to the USSR pavilion and saw a videotape 
+entitled "MiG 29 Fulcrum". One of the strange effects
+of perestroika, no doubt.
 
 =head1 CONTRIBUTOR
 
