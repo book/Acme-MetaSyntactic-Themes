@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::planets;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -23,13 +24,16 @@ Pluto is not a planet any more.
 
 Abigail
 
-Introduced in version 0.63, published on February 27, 2006.
+Introduced in Acme-MetaSyntactic version 0.63, published on February 27, 2006.
 
 Made multilingual in version 0.73, published on May 8, 2006.
 
 Updated to 42 languages by Abigail in version 0.74, published on May 15, 2006.
 
 Updated to remove Pluto in version 0.89, published on August 28, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
