@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::simpsons;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -41,7 +42,7 @@ Characters from the Simpsons serial.
 
 Philippe "BooK" Bruhat.
 
-Introduced in version 0.04, published on January 15, 2005.
+Introduced in Acme-MetaSyntactic version 0.04, published on January 15, 2005.
 
 Disappeared in version 0.12, published on March 6, 2005.
 
@@ -50,6 +51,9 @@ Re-introduced in version 0.26, published on June 13, 2005.
 Made updatable with L<http://tim.rawle.org/simpsons/chars.htm>
 (link provided on January 16, 2005 by Matthew Musgrove)
 in version 0.84, published on July 24, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
