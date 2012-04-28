@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::nis;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -19,6 +20,11 @@ L<http://www.nntp.perl.org/group/perl.perl5.porters/116654>.
 =head1 CONTRIBUTOR
 
 Abigail
+
+Introduced in Acme-MetaSyntactic version 0.94, published on October 2, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
