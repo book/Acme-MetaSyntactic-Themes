@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::swords;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -38,7 +39,10 @@ I<The Colour of Magic>, Terry Pratchett.
 
 Jean Forget.
 
-Introduced in version 0.81, published on July 3, 2006.
+Introduced in Acme-MetaSyntactic version 0.81, published on July 3, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
