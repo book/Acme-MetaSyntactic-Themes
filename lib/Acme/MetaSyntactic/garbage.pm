@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::garbage;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -20,7 +21,10 @@ French list taken from L<http://dico.isc.cnrs.fr/dico/fr/search>.
 
 Jérôme Fenal.
 
-Introduced in version 0.35, published on August 15, 2005.
+Introduced in Acme-MetaSyntactic version 0.35, published on August 15, 2005.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
