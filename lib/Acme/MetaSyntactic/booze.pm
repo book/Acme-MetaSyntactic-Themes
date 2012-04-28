@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::booze;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -18,10 +19,14 @@ Types of alcoholic beverages.
 Nicholas Clark, after seeing BooK's talk at YAPC::Europe 2005 and amazed
 that there was such an obvious omission.
 
-Introduced in version 0.45, published on October 24, 2005.
+Introduced in Acme-MetaSyntactic version 0.45, published on October 24, 2005.
 
 Updated in version 0.51 (thus closing RT ticket #16256 opened by David
 Landgren), published on December 5, 2005.
+
+Updated with Chartreuse (incredible omission!), and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 BUGS
 
@@ -62,3 +67,4 @@ suze
 tequila
 amaretto
 drambuie
+chartreuse
