@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::amber;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -20,7 +21,10 @@ of the author.
 
 Offer Kaye.
 
-Introduced in version 0.18, published on April 18, 2005.
+Introduced in Acme-MetaSyntactic version 0.18, published on April 18, 2005.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
