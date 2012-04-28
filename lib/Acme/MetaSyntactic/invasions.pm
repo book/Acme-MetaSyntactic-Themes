@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::invasions;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -24,8 +25,11 @@ Paul Adkins, Motorbooks International
 
 Jean Forget
 
-Introduced in version 0.92, published on September 18, 2006
+Introduced in Acme-MetaSyntactic version 0.92, published on September 18, 2006
 (the 62nd anniversary of Market-Garden).
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
