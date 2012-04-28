@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::hhgg;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -24,7 +25,7 @@ I wonder if I should include all the entries...
 
 Aldo Calpini.
 
-Introduced in version 0.11, published on February 28, 2005.
+Introduced in Acme-MetaSyntactic version 0.11, published on February 28, 2005.
 
 Updated by Philippe "BooK" Bruhat in version 0.14, published on March 21, 2005.
 
@@ -33,6 +34,9 @@ Link to I<The Ultra-Complete Index to the Hitch Hiker's Guide to the Galaxy>
 entry on wikipedia provided by Jean Forget in time for version 0.28,
 published on June 27, 2005. Link updated for version 0.69, published
 on April 10, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
