@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::phonetic;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -24,7 +25,7 @@ Added Swahili and English on request of David Landgren, thus closing
 RT ticket #14276.
 While I was at it, I also added French, German and Italian.
 
-Introduced in version 0.08, published on February 7, 2005.
+Introduced in Acme-MetaSyntactic version 0.08, published on February 7, 2005.
 
 Updated to handle multilingual phonetics in version 0.38,
 published on September 5, 2005.
@@ -34,6 +35,9 @@ May 15, 2006.
 
 Updated with the Dutch list by Abigail in version 0.91, published on
 September 11, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
