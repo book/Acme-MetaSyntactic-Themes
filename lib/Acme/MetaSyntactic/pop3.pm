@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::pop3;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -28,7 +29,10 @@ RFC 1081.
 
 Philippe "BooK" Bruhat
 
-Introduced in version 0.67, published on March 27, 2006.
+Introduced in Acme-MetaSyntactic version 0.67, published on March 27, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
