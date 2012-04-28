@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::opcodes;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 
 # get the list from the current perl
 use Opcode qw( opset_to_ops full_opset );
@@ -25,7 +26,10 @@ C<Opcode> module.
 
 Abigail
 
-Introduced in version 0.53, published on December 19, 2005.
+Introduced in Acme-MetaSyntactic version 0.53, published on December 19, 2005.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 DEDICATION
 
