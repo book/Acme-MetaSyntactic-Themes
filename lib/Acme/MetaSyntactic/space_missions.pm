@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::space_missions;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 
 # And the magic true value to end the module
@@ -66,13 +67,16 @@ L<http://en.wikipedia.org/wiki/Space_disaster>.
 
 Jean Forget
 
-Introduced in version 0.41 as C<apollo>, published on September 26, 2005.
+Introduced in Acme-MetaSyntactic version 0.41 as C<apollo>, published on September 26, 2005.
 
 Augmented with other space missions and renamed C<space_missions> in
 version 0.86, published on August 7, 2006.
 
 Updated with themes C<manned_spacecraft>, C<launch_vehicles> and C<victims>
 in version 0.88, published on August 21, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
