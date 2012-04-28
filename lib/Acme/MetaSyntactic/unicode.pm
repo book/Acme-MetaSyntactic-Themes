@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::unicode;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 
 {
     # a very basic list
@@ -56,10 +57,13 @@ Philippe "BooK" Bruhat.
 Thanks to Sébastien Aperghis-Tramoni for his help in finding
 F<unicore/Name.pl>.
 
-Introduced in version 0.50, published on November 28, 2005.
+Introduced in Acme-MetaSyntactic version 0.50, published on November 28, 2005.
 
 Updated to support more Perl versions in version 0.51, published
 on December 5, 2005.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
