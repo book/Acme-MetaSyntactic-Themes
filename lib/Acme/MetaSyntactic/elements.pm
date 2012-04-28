@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::elements;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw(Acme::MetaSyntactic::Locale);
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -11,7 +12,7 @@ Acme::MetaSyntactic::elements - The chemical elements theme
 
 =head1 DESCRIPTION
 
-This theme provides the English names of the chemical elements, 
+This theme provides the names of the chemical elements, 
 as given in the standard periodic table, up to the 118th element. 
 
 The default list is the list of chemical symbols. The language code
@@ -21,7 +22,10 @@ for this list is C<x-elements> (an extension to RFC 3066).
 
 Sébastien Aperghis-Tramoni.
 
-Introduced in version 0.17, published on April 11, 2005.
+Introduced in Acme-MetaSyntactic version 0.17, published on April 11, 2005.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
