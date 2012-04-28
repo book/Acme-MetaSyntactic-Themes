@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::haddock;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -30,9 +31,12 @@ Tintin was translated in many languages, please send my your lists.
 Jérôme Fenal provided the original idea and the French and English lists.
 Jan Pieter Cornet provided the Dutch list.
 
-Introduced in version 0.16, published on April 4, 2005.
+Introduced in Acme-MetaSyntactic version 0.16, published on April 4, 2005.
 
 Updated with the Dutch list in version 0.59, published on January 30, 2006. 
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
