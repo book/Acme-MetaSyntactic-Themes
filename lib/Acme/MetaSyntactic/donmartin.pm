@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::donmartin;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -46,7 +47,7 @@ L<http://www.collectmad.com/madcoversite/index-dmd.html>.
 
 Vahe Sarkissian.
 
-Introduced in version 0.03, published on January 14, 2005.
+Introduced in Acme-MetaSyntactic version 0.03, published on January 14, 2005.
 
 Duplicates removed in version 0.15, published on March 28, 2005.
 
@@ -57,6 +58,9 @@ I had to cut two items that were more than 251 character long, so that
 list items are still valid Perl identifiers.)
 
 Updated from the online list in version 0.84, published on July 24, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
