@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::norse_mythology;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -17,9 +18,12 @@ A selection of characters from Norse mythology.
 
 Abigail
 
-Introduced in version 0.75, published on May 22, 2006.
+Introduced in Acme-MetaSyntactic version 0.75, published on May 22, 2006.
 
 Updated by Jean Forget in version 0.80, published on June 26, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SOURCES
 
