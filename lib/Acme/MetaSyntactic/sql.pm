@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::sql;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -25,7 +26,10 @@ I blame Maddingue for showing me this link, and rgs for
 saying: I<IL LE FAUT>. I blame C<#perlfr> in general for
 the existence of C<Acme::MetaSyntactic>.
 
-Introduced in version 0.71, published on April 24, 2006.
+Introduced in Acme-MetaSyntactic version 0.71, published on April 24, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
