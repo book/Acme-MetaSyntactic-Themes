@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::gems;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -18,7 +19,10 @@ L<http://http://en.wikipedia.org/wiki/Gemstone>.
 
 Abigail
 
-Introduced in version 0.60, published on February 6, 2006.
+Introduced in Acme-MetaSyntactic version 0.60, published on February 6, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
