@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::dwarves;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -21,11 +22,14 @@ Proposed yet again by Xavier Caron (October 2005).
 
 I definitely I<had> to include this list! C<:-)>
 
-Introduced in version 0.48, published on November 14, 2005.
+Introduced in Acme-MetaSyntactic version 0.48, published on November 14, 2005.
 
 Updated by Abigail (added Danish, German, Spanish, Finnish, Hungarian,
 Italian, Norwegian, Portuguese and Swedish) in version 0.74, published
 on May 15, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
