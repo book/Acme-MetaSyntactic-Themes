@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::jamesbond;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -28,7 +29,7 @@ The default category is C<films>.
 
 Philippe "BooK" Bruhat.
 
-Introduced in version 0.07 (heh), published on January 31, 2005.
+Introduced in Acme-MetaSyntactic version 0.07 (heh), published on January 31, 2005.
 
 Updated in version 0.45, published on October 24, 2005.
 
@@ -38,6 +39,9 @@ on April 17, 2006.
 
 Updated in version 0.76 with 4 categories (some of them having sub-categories)
 by Abigail. Theme published on May 29, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
