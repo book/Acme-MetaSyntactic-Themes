@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::vcs;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -17,9 +18,12 @@ This theme lists popular (and not so popular) Version Control systems.
 
 Éric Cholet
 
-Introduced in version 0.91, published on September 11, 2006.
+Introduced in Acme-MetaSyntactic version 0.91, published on September 11, 2006.
 
 Updated by Abigail in version 0.92, published on September 18, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
