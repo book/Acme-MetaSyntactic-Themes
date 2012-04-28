@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::us_presidents;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -31,10 +32,14 @@ L<http://www.whitehouse.gov/history/presidents/index.html>.
 
 Abigail
 
-Introduced in version 0.52, published on December 12, 2005.
+Introduced in Acme-MetaSyntactic version 0.52, published on December 12, 2005.
 
 Updated (correction of a typo) by Abigail again
 in version 0.57, published on January 16, 2006.
+
+Updated with the new US president since 2008, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
@@ -47,6 +52,7 @@ __DATA__
 Abraham_Lincoln
 Andrew_Jackson
 Andrew_Johnson
+Barack_Obama
 Benjamin_Harrison
 Calvin_Coolidge
 Chester_Arthur
