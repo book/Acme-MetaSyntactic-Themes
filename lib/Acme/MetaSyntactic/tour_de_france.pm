@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::tour_de_france;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 
 =head1 NAME
 
@@ -28,7 +29,12 @@ The winners from 1903 onwards are:
 
 =pod
 
-    2006   Floyd Landis          USA
+    2011   Cadel Evans           AUS
+    2010   Andy Schleck          LUX
+    2009   Alberto Contador      ESP
+    2008   Carlos Sastre         ESP
+    2007   Alberto Contador      ESP
+    2006   Óscar Pereiro         ESP
     2005   Lance Armstrong       USA
     2004   Lance Armstrong       USA
     2003   Lance Armstrong       USA
@@ -138,7 +144,11 @@ The official website for I<Le tour de France> is L<http://www.letour.fr/>.
 
 Abigail
 
-Introduced in version 0.84, published on July 24, 2006.
+Introduced in Acme-MetaSyntactic version 0.84, published on July 24, 2006.
+
+Updated with winners since 2006, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
