@@ -2,8 +2,11 @@ package Acme::MetaSyntactic::magma;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
+
+=encoding utf8
 
 =head1 NAME
 
@@ -14,7 +17,7 @@ Acme::MetaSyntactic::magma - The Magma theme
 This theme list the song titles of the Magma band.
 
 The band was created in 1969 by Christian Vander and is still
-touring in 2006. 
+touring in 2012.
 
 Some links:
 
@@ -38,7 +41,11 @@ L<http://en.wikipedia.org/wiki/Magma_(band)>
 
 Philippe "BooK" Bruhat.
 
-Introduced in version 0.98, published on October 30, 2006.
+Introduced in Acme-MetaSyntactic version 0.98, published on October 30, 2006.
+
+Updated with the songs from the album Ëmëhntëhtt-Rê, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
@@ -97,7 +104,7 @@ Kobah
 Lihns
 Da_Zeuhl_Worts_Mekanik
 Mekanik_Zain
-# names Attahk
+# names attahk
 The_Last_Seven_Minutes
 Spiritual
 Rinde
@@ -127,4 +134,10 @@ Ektah
 Ka_I
 Ka_II
 Ka_III
-
+# names emehntehtt_re
+Emehntehtt_Re_I
+Emehntehtt_Re_II
+Emehntehtt_Re_III
+Emehntehtt_Re_IV
+Funehrarium_Kanht
+Sehe
