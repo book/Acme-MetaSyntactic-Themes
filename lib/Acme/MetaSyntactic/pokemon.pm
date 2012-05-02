@@ -2,21 +2,24 @@ package Acme::MetaSyntactic::pokemon;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
     source =>
-        'http://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number',
+        'http://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon',
     extract => sub {
         return    # support for Unicode female/male symbols
             map { tr/-'. /_/s; s/_$//; $_ }
-            grep { $_ ne 'Chimeglebell' }    # alias to Lisyan
             map { Acme::MetaSyntactic::RemoteList::tr_utf8_basic($_) }
-            $_[0] =~ m!<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>!gm;
+            map { s/Nidoran/Nidoran /; $_ }
+            $_[0] =~ m!^<td><a href="/wiki/[^"]+" title="[^"]+"[^>]*>([^<]+)</a>.*</td>$!gm;
     },
 );
 
 1;
+
+=encoding iso-8859-1
 
 =head1 NAME
 
@@ -24,11 +27,11 @@ Acme::MetaSyntactic::pokemon - The Pokémon theme
 
 =head1 DESCRIPTION
 
-List of the 493 Pokémon characters that are officially known to exist
+List of the 648 Pokémon characters that are officially known to exist
 in the franchise.
 
 This list is based on the following wikipedia article:
-L<http://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number>.
+L<http://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon>.
 
 The Wikipedia page lists I<English names>, I<Romanisation> and
 I<Trademarked Romaji>. For each Pokémon, the named linked internaly
@@ -38,7 +41,7 @@ by Wikipedia has been chosen.
 
 Abigail
 
-Introduced in version 0.56, published on January 9, 2006.
+Introduced in Acme-MetaSyntactic version 0.56, published on January 9, 2006.
 
 Updated in version 0.57, published on January 16, 2006.
 
@@ -49,6 +52,10 @@ Updated in version 0.64, published on March 6, 2006.
 Updated in version 0.82, published on July 10, 2006.
 
 Updated in version 0.99, published on November 6, 2006.
+
+Updated with new extraction code and new Pokémons since November 2006, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
@@ -307,7 +314,7 @@ Larvitar
 Pupitar
 Tyranitar
 Lugia
-Ho_oh
+Ho_Oh
 Celebi
 Treecko
 Grovyle
@@ -444,111 +451,265 @@ Groudon
 Rayquaza
 Jirachi
 Deoxys
-Naetle
-Hayashigame
-Dodaitose
-Hikozaru
-Moukazaru
-Goukazaru
-Pochama
-Pottaishi
-Emperte
-Mukkuru
-Mukubird
-Mukuhawk
-Bippa
-Bidaru
-Koroboshi
-Korotokku
-Kolink
-Rukushio
-Rentorer
-Subomie
+Turtwig
+Grotle
+Torterra
+Chimchar
+Monferno
+Infernape
+Piplup
+Prinplup
+Empoleon
+Starly
+Staravia
+Staraptor
+Bidoof
+Bibarel
+Kricketot
+Kricketune
+Shinx
+Luxio
+Luxray
+Budew
 Roserade
-Zugaidosu
-Rampard
-Tatetops
-Trideps
-Minomutchi
-Minomadam
-Garmeil
-Mitsuhoney
-Beequeen
+Cranidos
+Rampardos
+Shieldon
+Bastiodon
+Burmy
+Wormadam
+Mothim
+Combee
+Vespiquen
 Pachirisu
-Buoysel
-Flowsel
-Cherinbo
-Cherimu
-Karanakushi
-Toritodon
-Eteboss
-Fuwante
-Fuwaride
-Mimirol
-Mimilop
-Mumage
-Donkarasu
-Nyarmar
-Bunyatto
-Lisyan
-Sukanpu
-Sukatanku
-Domira
-Dotakun
+Buizel
+Floatzel
+Cherubi
+Cherrim
+Shellos
+Gastrodon
+Ambipom
+Drifloon
+Drifblim
+Buneary
+Lopunny
+Mismagius
+Honchkrow
+Glameow
+Purugly
+Chingling
+Stunky
+Skuntank
+Bronzor
+Bronzong
 Bonsly
 Mime_Jr
-Pinpuku
-Perap
-Mikaruge
-Fukamaru
+Happiny
+Chatot
+Spiritomb
+Gible
 Gabite
-Gablias
+Garchomp
 Munchlax
 Riolu
 Lucario
-Hipopotasu
-Kabarudon
-Scorpi
-Dorapion
-Greggle
-Dokurog
-Muskippa
-Keikouo
-Neorant
-Tamanta
-Yukikaburi
-Yukinooh
+Hippopotas
+Hippowdon
+Skorupi
+Drapion
+Croagunk
+Toxicroak
+Carnivine
+Finneon
+Lumineon
+Mantyke
+Snover
+Abomasnow
 Weavile
-Jibacoil
-Berobelt
-Dosidon
-Mojanbo
-Elekible
-Booburn
+Magnezone
+Lickilicky
+Rhyperior
+Tangrowth
+Electivire
+Magmortar
 Togekiss
-Megayanma
-Leafia
-Glacia
-Glion
-Manmoo
-PolygonZ
-Erlade
-Dainose
-Yonowahru
-Yukimenoko
+Yanmega
+Leafeon
+Glaceon
+Gliscor
+Mamoswine
+Porygon_Z
+Gallade
+Probopass
+Dusknoir
+Froslass
 Rotom
-Yuxie
-Emurit
-Agnome
+Uxie
+Mesprit
+Azelf
 Dialga
 Palkia
 Heatran
 Regigigas
 Giratina
-Crecelia
+Cresselia
 Phione
 Manaphy
 Darkrai
-Sheimi
-Arseus
-
+Shaymin
+Arceus
+Victini
+Snivy
+Servine
+Serperior
+Tepig
+Pignite
+Emboar
+Oshawott
+Dewott
+Samurott
+Patrat
+Watchog
+Lillipup
+Herdier
+Stoutland
+Purrloin
+Liepard
+Pansage
+Simisage
+Pansear
+Simisear
+Panpour
+Simipour
+Munna
+Musharna
+Pidove
+Tranquill
+Unfezant
+Blitzle
+Zebstrika
+Roggenrola
+Boldore
+Gigalith
+Woobat
+Swoobat
+Drilbur
+Excadrill
+Audino
+Timburr
+Gurdurr
+Conkeldurr
+Tympole
+Palpitoad
+Seismitoad
+Throh
+Sawk
+Sewaddle
+Swadloon
+Leavanny
+Venipede
+Whirlipede
+Scolipede
+Cottonee
+Whimsicott
+Petilil
+Lilligant
+Basculin
+Sandile
+Krokorok
+Krookodile
+Darumaka
+Darmanitan
+Maractus
+Dwebble
+Crustle
+Scraggy
+Scrafty
+Sigilyph
+Yamask
+Cofagrigus
+Tirtouga
+Carracosta
+Archen
+Archeops
+Trubbish
+Garbodor
+Zorua
+Zoroark
+Minccino
+Cinccino
+Gothita
+Gothorita
+Gothitelle
+Solosis
+Duosion
+Reuniclus
+Ducklett
+Swanna
+Vanillite
+Vanillish
+Vanilluxe
+Deerling
+Sawsbuck
+Emolga
+Karrablast
+Escavalier
+Foongus
+Amoonguss
+Frillish
+Jellicent
+Alomomola
+Joltik
+Galvantula
+Ferroseed
+Ferrothorn
+Klink
+Klang
+Klinklang
+Tynamo
+Eelektrik
+Eelektross
+Elgyem
+Beheeyem
+Litwick
+Lampent
+Chandelure
+Axew
+Fraxure
+Haxorus
+Cubchoo
+Beartic
+Cryogonal
+Shelmet
+Accelgor
+Stunfisk
+Mienfoo
+Mienshao
+Druddigon
+Golett
+Golurk
+Pawniard
+Bisharp
+Bouffalant
+Rufflet
+Braviary
+Vullaby
+Mandibuzz
+Heatmor
+Durant
+Deino
+Zweilous
+Hydreigon
+Larvesta
+Volcarona
+Cobalion
+Terrakion
+Virizion
+Tornadus
+Thundurus
+Reshiram
+Zekrom
+Landorus
+Kyurem
+Keldeo
+Meloetta
