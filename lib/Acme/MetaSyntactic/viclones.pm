@@ -6,7 +6,7 @@ our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
-    source  => 'http://www.saki.com.au/mirror/vi/clones.php3',
+    source  => 'http://www.guckes.net/vi/clones.php3',
     extract => sub {
         return
             map { y!- /!__!d; /clone/ ? () : $_ }
@@ -23,7 +23,7 @@ Acme::MetaSyntactic::viclones - The C<vi> clones theme
 =head1 DESCRIPTION
 
 A list of vi clones, as maintained by Sven Guckes on
-L<http://www.saki.com.au/mirror/vi/clones.php3>.
+L<http://www.guckes.net/vi/clones.php3>.
 
 =head1 CONTRIBUTOR
 
