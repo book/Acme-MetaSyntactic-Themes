@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::dilbert;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -16,6 +17,8 @@ our %Remote = (
 );
 
 1;
+
+=encoding iso-8859-1
 
 =head1 NAME
 
@@ -32,7 +35,7 @@ L<http://www.triviaasylum.com/dilbert/diltriv.html>.
 
 Original contributor: Sébastien Aperghis-Tramoni.
 
-Introduced in version 0.03, published on January 14, 2005.
+Introduced in Acme-MetaSyntactic version 0.03, published on January 14, 2005.
 
 Duplicate removed in version 0.15, published on March 28, 2005.
 
@@ -75,6 +78,10 @@ Later updates (from the source web site):
 =item * version 0.98, published on October 30, 2006
 
 =back
+
+Updated with new additions since November 2006, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
@@ -121,3 +128,11 @@ steve
 lyin_john
 mindy
 robbie_the_frightening_hobo
+admiral_b_tang_b_tang albert amber angry_jack antimatter_dilbert
+awesome_bob beth brendan_and_brandon burt_nount darryl disgruntled_doug
+eddie elrod erin gabe graybeard helen_fry henry humphrey ixpu jeff
+jenny jesus keith kim logan lying_larry matt_the_temp morgan mort
+mutobu_the_impaler nancy neo old_johannsen oobanoobah pete raj rodney
+ronald rubbin_robin ruth sarah scott shelly silent_gary sue_boysenberry
+tom_jackson trixie victor vlad wolfgang
+
