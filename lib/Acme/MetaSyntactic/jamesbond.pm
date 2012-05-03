@@ -40,7 +40,8 @@ on April 17, 2006.
 Updated in version 0.76 with 4 categories (some of them having sub-categories)
 by Abigail. Theme published on May 29, 2006.
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+Updated with movie titles and actresses since 2006, and 
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
 published on May 7, 2012.
 
 =head1 SEE ALSO
@@ -53,12 +54,14 @@ __DATA__
 # default 
 films
 # names films
-Dr_No From_Russia_With_Love Goldfinger Thunderball
-You_Only_Live_Twice On_Her_Majesty_s_Secret_Service Diamonds_Are_Forever
+Dr_No From_Russia_With_Love Goldfinger Thunderball You_Only_Live_Twice
+On_Her_Majesty_s_Secret_Service
+Diamonds_Are_Forever
 Live_and_Let_Die The_Man_With_the_Golden_Gun The_Spy_Who_Loved_Me
 Moonraker For_Your_Eyes_Only Octopussy A_View_to_a_Kill
-The_Living_Daylights Licence_To_Kill GoldenEye Tomorrow_Never_Dies
-The_World_is_Not_Enough Die_Another_Day Casino_Royale
+The_Living_Daylights Licence_To_Kill
+GoldenEye Tomorrow_Never_Dies The_World_is_Not_Enough Die_Another_Day
+Casino_Royale Quantum_of_Solace Skyfall
 # names actors
 Sean_Connery George_Lazenby Roger_Moore
 Timothy_Dalton Pierce_Brosnan Daniel_Craig
@@ -73,7 +76,10 @@ Lynn_Holly_Johnson Cassandra_Harris Kristina_Wayborn
 Fiona_Fullerton Grace_Jones Tanya_Roberts Maryam_D_Abo Carey_Lowell
 Talisa_Soto Famke_Janssen Izabella_Dorota_Scorupco Daphne_Deckers
 Teri_Hatcher Cecilie_Thomsen Michelle_Yeoh Maria_Grazia_Cucinotta
-Sophie_Marceau Denise_Richards Halle_Berry Rachel_Grant Rosamund_Pik
+Sophie_Marceau Denise_Richards Halle_Berry Rachel_Grant Rosamund_Pike
+Eva_Green Caterina_Murino Ivana_Milicevic
+Olga_Kurylenko Gemma_Arterton
+Naomie_Harris Berenice_Marlohe
 # names novels fleming
 Casino_Royale Live_and_Let_Die Moonraker Diamonds_Are_Forever
 From_Russia_With_Love Dr_No Goldfinger For_Your_Eyes_Only Thunderball
