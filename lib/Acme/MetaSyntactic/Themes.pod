@@ -126,6 +126,18 @@ the distribution is documented below:
 This distribution contains all the above themes, except the themes C<any>
 (which picks up I<any> installed theme) and C<foo> (the default theme).
 
+This distribution also contains several themes proposed during the
+years 2005-2006, but that couldn't be included due to self-imposed
+limits (I wanted to have 99 themes in version 0.99).
+These themes are: C<abba>, C<zodiac>.
+Due to a timely coincidence, another new theme has been added:
+C<french_presidents>. Thus bringing it to a total of 100 themes.
+
+    2012-05-07    1.000   abba, french_presidents, zodiac
+
+Future releases will contain more themes proposed in the pre-1.000 era,
+as well as updates to the themes already in the distribution.
+
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their
 own distribution (see for example L<Acme::MetaSyntactic::buzzwords>,
