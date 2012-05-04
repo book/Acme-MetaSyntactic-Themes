@@ -1,7 +1,7 @@
 package Acme::MetaSyntactic::currency;
 use strict;
-use Acme::MetaSyntactic::List;
-our @ISA = qw( Acme::MetaSyntactic::List );
+use Acme::MetaSyntactic::MultiList;
+our @ISA = qw( Acme::MetaSyntactic::MultiList );
 our $VERSION = '1.000';
 __PACKAGE__->init();
 
