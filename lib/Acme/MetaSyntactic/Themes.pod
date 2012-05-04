@@ -12,7 +12,7 @@ Acme::MetaSyntactic::Themes - The original Acme::MetaSyntactic themes
 From January 2005 to November 2006, I have published a CPAN distribution
 a week, including new themes for L<Acme::MetaSyntactic> (almost) every week.
 
-With the version 1.000 of Acme::MetaSyntactic, I have split the core
+With the version 1.000 of L<Acme::MetaSyntactic>, I have split the core
 modules (that provide the list behaviour) from the actual themes, making
 the distribution containing the very stable L<Acme::MetaSyntactic> modules
 driving its behaviour a lot thinner.
@@ -143,8 +143,9 @@ distribution. They can (and probably should) be distributed in their
 own distribution (see for example L<Acme::MetaSyntactic::buzzwords>,
 L<Acme::MetaSyntatic::daleks>, L<Acme::MetaSyntatic::nethack>, and
 L<Acme::MetaSyntatic::vim>).
-To make your own Acme::MetaSyntactic theme distribution, see the F<eg/>
-directory shipped with the C<Acme-MetaSyntactic> distribution.
+To make your own Acme::MetaSyntactic theme distribution, you can
+take example from this distribution. Have a look at the F<t/>
+directory in particular.
 
 L<Bundle::MetaSyntactic> is a bundle meant to collect all available
 L<Acme::MetaSyntactic> themes. Please contact the bundle maintainer if
