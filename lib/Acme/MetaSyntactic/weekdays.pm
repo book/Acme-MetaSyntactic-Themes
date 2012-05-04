@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::weekdays;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -12,7 +13,7 @@ Acme::MetaSyntactic::weekdays - The days of the week theme
 =head1 DESCRIPTION
 
 Days of the week, in various languages.
-(Some letters have been brutally transliterated to latin-1.)
+(Some letters have been brutally transliterated to us-ascii.)
 
 See L<http://www.lexilogos.com/calendrier_jours.htm>, for
 many other languages.
@@ -27,12 +28,15 @@ Souche for her help with the Yiddish names).
 Gisbert W. Selke (Egyptian Arabic, Bulgarian, Czech, Modern Greek,
 Esperanto, Gaelic, Japanese, Norwegian, Russian and Tagalog).
 
-Introduced in version 0.51, published on December 5, 2005.
+Introduced in Acme-MetaSyntactic version 0.51, published on December 5, 2005.
 
 Made multilingual in version 0.55, published on January 2, 2006.
 
 Ten new languages added by Gisbert W. Selke in version 0.74, published
 on May 15, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
