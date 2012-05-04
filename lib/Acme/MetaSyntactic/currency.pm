@@ -2,7 +2,17 @@ package Acme::MetaSyntactic::currency;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
+
+our %Remote = (
+    source => {
+        current  => 'http://www.currency-iso.org/dl_iso_table_a1.xml',
+        historic => 'http://www.currency-iso.org/dl_iso_tables_a3.xml',
+    },
+    extract => sub { $_[0] =~ m{<ALPHABETIC_CODE>(\S+)</ALPHABETIC_CODE>}mig },
+);
+
 1;
 
 =head1 NAME
@@ -20,7 +30,11 @@ L<http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html>.
 
 Philippe "BooK" Bruhat.
 
-Introduced in version 0.36, published (one day late) on August 23, 2005.
+Introduced in Acme-MetaSyntactic version 0.36, published (one day late) on August 23, 2005.
+
+Updated with historical (withdrawn) currencies, made updatable, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
@@ -29,7 +43,9 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 =cut
 
 __DATA__
-# names
+# default
+current
+# names current
 AED
 AFN
 ALL
@@ -39,7 +55,7 @@ AOA
 ARS
 AUD
 AWG
-AZM
+AZN
 BAM
 BBD
 BDT
@@ -47,25 +63,34 @@ BGN
 BHD
 BIF
 BMD
+BND
+BOB
+BOV
 BRL
 BSD
+BTN
 BWP
 BYR
 BZD
 CAD
 CDF
+CHE
 CHF
+CHW
+CLF
+CLP
 CNY
+COP
+COU
 CRC
+CUC
 CUP
 CVE
-CYP
 CZK
 DJF
 DKK
 DOP
 DZD
-EEK
 EGP
 ERN
 ETB
@@ -74,7 +99,7 @@ FJD
 FKP
 GBP
 GEL
-GHC
+GHS
 GIP
 GMD
 GNF
@@ -83,6 +108,7 @@ GYD
 HKD
 HNL
 HRK
+HTG
 HUF
 IDR
 ILS
@@ -106,26 +132,33 @@ LAK
 LBP
 LKR
 LRD
+LSL
 LTL
 LVL
 LYD
 MAD
 MDL
+MGA
 MKD
 MMK
 MNT
 MOP
-MTL
+MRO
 MUR
+MVR
 MWK
+MXN
+MXV
 MYR
-MZM
+MZN
+NAD
 NGN
 NIO
 NOK
 NPR
 NZD
 OMR
+PAB
 PEN
 PGK
 PHP
@@ -133,37 +166,43 @@ PKR
 PLN
 PYG
 QAR
+RON
+RSD
 RUB
 RWF
 SAR
 SBD
 SCR
-SDD
+SDG
 SEK
 SGD
 SHP
-SIT
-SKK
 SLL
 SOS
 SRD
+SSP
 STD
+SVC
 SYP
 SZL
 THB
 TJS
-TMM
+TMT
 TND
 TOP
+TRY
 TTD
 TWD
 TZS
 UAH
 UGX
 USD
+USN
+USS
+UYI
 UYU
 UZS
-VEB
+VEF
 VND
 VUV
 WST
@@ -176,15 +215,135 @@ XBC
 XBD
 XCD
 XDR
-XFO
 XFU
 XOF
 XPD
 XPF
 XPT
+XSU
 XTS
+XUA
 XXX
 YER
 ZAR
 ZMK
+ZWL
+# names historic
+ADP
+AFA
+ALK
+ANG
+AOK
+AON
+AOR
+ARA
+ARP
+ARY
+ATS
+AYM
+AZM
+BAD
+BEC
+BEF
+BEL
+BGJ
+BGK
+BGL
+BOP
+BRB
+BRC
+BRE
+BRN
+BRR
+BUK
+BYB
+CHC
+CNX
+CSD
+CSJ
+CSK
+CYP
+DDM
+DEM
+ECS
+ECV
+EQE
+ESA
+ESB
+ESP
+FIM
+FRF
+GEK
+GHC
+GHP
+GNE
+GNS
+GQE
+GRD
+GWE
+GWP
+HRD
+IDR
+IEP
+ILP
+ILR
+ISJ
+ITL
+LAJ
+LSM
+LTT
+LUC
+LUF
+LUL
+LVR
+MAF
+MGF
+MLF
+MTL
+MTP
+MVQ
+MXP
+MZE
+MZM
+NIC
+NLG
+PEH
+PEI
+PES
+PLZ
+PTE
+RHD
+ROK
+ROL
+RUR
+SDD
+SDP
+SIT
+SKK
+SRG
+SUR
+TJR
+TMM
+TPE
+TRL
+TRY
+UAK
+UGS
+UGW
+UYN
+UYP
+VEB
+VNC
+XFO
+XRE
+YDD
+YUD
+YUM
+YUN
+ZAL
+ZRN
+ZRZ
+ZWC
 ZWD
+ZWN
+ZWR
