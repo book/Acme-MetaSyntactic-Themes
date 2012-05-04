@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::barbapapa;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -22,7 +23,11 @@ The official Barbapapa web site is at L<http://www.barbapapa.fr/>.
 
 Abigail
 
-Introduced in version 0.54, published on December 26, 2005.
+Introduced in Acme-MetaSyntactic version 0.54, published on December 26, 2005.
+
+Updated with the Italian, Spanish and Slovene version, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 DEDICATION
 
@@ -38,23 +43,22 @@ __DATA__
 # default
 fr
 # names fr
-Barbapapa Barbamama Barbabelle Barbalala Barbibul Barbidou Barbidur
-Barbotine Barbouille
+Barbapapa Barbamama  Barbabelle Barbotine    Barbalala  Barbidou Barbidur   Barbibul    Barbouille
 # names en
-Barbapapa Barbamama Barbabravo Barbabright Barbazoo Barbabeau Barbabelle
-Barbalala Barbalib
+Barbapapa Barbamama  Barbabelle Barbalib     Barbalala  Barbazoo Barbabravo Barbabright Barbabeau
 # names nl
-Barbapapa Barbamama Barbabenno Barbabella Barbabientje Barbaborre
-Barbabob Barbabee Barbalala
+Barbapapa Barbamama  Barbabella Barbabientje Barbalala  Barbabee Barbaborre Barbabenno  Barbabob
 # names de
-Barbapapa Barbamama Barbabella Barbaletta Barbarix Barbawum Barbabo
-Barbakus Barbalala
+Barbapapa Barbamama  Barbabella Barbaletta   Barbalala  Barbakus Barbawum   Barbarix    Barbabo
 # names fi
-Barbapapa Barbamama Barbabravo Barbalib Barbazoo Barbabelle Barbalala
-Barbabright Barbabeau
+Barbapapa Barbamama  Barbabelle Barbalib     Barbalala  Barbazoo Barbabravo Barbabright Barbabeau
 # names pl
-Barbapapa Barbamama Barbabelle Barbalala Barbibul Barbidou Barbidur
-Barbotine Barbouille
+Barbapapa Barbamama  Barbabelle Barbotine    Barbalala  Barbidou Barbidur   Barbibul    Barbouille
 # names sv
-Barbapapa Barbamama Barbazoo Barbalala Barbabok Barbaskon Barbafin
-Barbaflink Barbastark
+Barbapapa Barbamama  Barbafin   Barbabok     Barbalala  Barbazoo Barbastark Barbaflink  Barbaskon
+# names it
+Barbapapa Barbamamma Barbabella Barbottina   Barbalalla Barbazoo Barbaforte Barbabravo  Barbabarba
+# names es
+Barbapapa Barbamama  Barbabella Barbalib     Barbalala  Barbazoo Barbabravo Barbabrillo Barbabello
+# names sl
+Barbapapa Barbamama  Barbalepa  Barbabrala   Barbalala  Barbazoo Barbabravo Barbaplus   Barbazal
