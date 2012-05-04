@@ -2,7 +2,14 @@ package Acme::MetaSyntactic::tld;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
+
+our %Remote = (
+    source  => 'http://www.ics.uci.edu/pub/websoft/wwwstat/country-codes.txt',
+    extract => sub { return map lc, $_[0] =~ m!^(\S+)!gm },
+);
+
 1;
 
 =head1 NAME
@@ -20,7 +27,11 @@ L<http://www.ics.uci.edu/pub/websoft/wwwstat/country-codes.txt>
 
 Idea by Scott Lanning (who suggested ISO 3166 country codes).
 
-Introduced in version 0.06, published on January 18, 2005.
+Introduced in Acme-MetaSyntactic version 0.06, published on January 18, 2005.
+
+Made updatable, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
