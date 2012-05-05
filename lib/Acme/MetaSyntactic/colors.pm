@@ -1,6 +1,7 @@
 package Acme::MetaSyntactic::colors;
 use Acme::MetaSyntactic::Alias;
 our @ISA = qw( Acme::MetaSyntactic::Alias );
+our $VERSION = '1.000';
 __PACKAGE__->init('colours');
 1;
 
@@ -17,7 +18,10 @@ speakers of the various dialects of English. C<;-)>
 
 Philippe Bruhat
 
-Introduced in version 0.77, published on June 5, 2006.
+Introduced in Acme-MetaSyntactic version 0.77, published on June 5, 2006.
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
