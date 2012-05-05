@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::olympics;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 
 =head1 NAME
 
@@ -45,6 +46,7 @@ our %Remote = (
     Summer Games
     ============
 
+    2014   Rio
     2012   London
     2008   Beijing
     2004   Athens
@@ -77,6 +79,7 @@ our %Remote = (
     Winter Games
     ============
 
+    2014   Sochi
     2010   Vancouver
     2006   Torino
     2002   Salt Lake City
@@ -113,7 +116,11 @@ __END__
 
 Abigail
 
-Introduced in version 0.82, published on July 10, 2006.
+Introduced in Acme-MetaSyntactic version 0.82, published on July 10, 2006.
+
+Updated with recent future Olympic cities, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
