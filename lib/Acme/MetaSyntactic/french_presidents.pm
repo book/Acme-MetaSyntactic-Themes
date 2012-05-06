@@ -31,7 +31,9 @@ The typograpical errors in the names have been corrected, though.
 
 =over 4
 
-=item Nicolas Sarkozy (2007-)
+=item François Hollande (2012-)
+
+=item Nicolas Sarkozy (2007-2012)
 
 =item Jacques Chirac (1995-2007)
 
@@ -121,7 +123,7 @@ The typograpical errors in the names have been corrected, though.
 Philippe Bruhat (BooK)
 
 Introduced in Acme-MetaSyntactic-Themes version 1.000, published on May 7, 2012
-(the day after the election of FIXME).
+(the day after the election of François Hollande).
 
 =head1 SEE ALSO
 
