@@ -54,6 +54,8 @@ Viisas     Lystikas    Joro        Vilkas      Unelias     Nuhanena    Ujo
 Prof       Joyeux      Grincheux   Simplet     Dormeur     Atchoum     Timide
 # names ga
 Saoi       Sonai       Cancran     Simpleoir   Codlatan    Sraothachan Cuthalachan
+# names hr
+Uco        Srecko      Ljutko      Glupko      Pospanko    Kihavko     Stidljivko
 # names hu
 Tudor      Vidor       Morgo       Kuka        Szundi      Hapci       Szende
 # names it
