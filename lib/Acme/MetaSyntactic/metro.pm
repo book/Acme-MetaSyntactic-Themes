@@ -65,7 +65,7 @@ C<uk/london>: London, United Kingdom, 12 lines.
 
 =item *
 
-C<nl/rotterdam>: Rottedam, Netherlands, 2 lines.
+C<nl/rotterdam>: Rotterdam, Netherlands, 2 lines.
 
 =item *
 

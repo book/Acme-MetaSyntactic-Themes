@@ -46,7 +46,7 @@ our %Remote = (
     Summer Games
     ============
 
-    2014   Rio
+    2016   Rio de Janeiro
     2012   London
     2008   Beijing
     2004   Athens
@@ -79,6 +79,7 @@ our %Remote = (
     Winter Games
     ============
 
+    2018   Pyeongchang
     2014   Sochi
     2010   Vancouver
     2006   Torino

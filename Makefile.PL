@@ -14,8 +14,8 @@ WriteMakefile(
     },
     PREREQ_PM  => {
         'Acme::MetaSyntactic' => 1.000,
-        'perl'                => 5.006_002,
     },
+    MIN_PERL_VERSION => 5.006002,
     META_MERGE => {
         resources => {
             repository => 'http://github.com/book/Acme-MetaSyntactic-Themes',
