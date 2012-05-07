@@ -46,7 +46,7 @@ our %Remote = (
     Summer Games
     ============
 
-    2014   Rio
+    2016   Rio
     2012   London
     2008   Beijing
     2004   Athens
