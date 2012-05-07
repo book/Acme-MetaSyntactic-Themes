@@ -23,7 +23,8 @@ Philippe "BooK" Bruhat.
 
 Introduced in Acme-MetaSyntactic version 0.21, published on May 9, 2005.
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+Updated with small fixes for category C<nato> (see RT #50160), and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
 published on May 7, 2012.
 
 =head1 ACKNOWLEDGMENTS
@@ -55,7 +56,7 @@ lamed mem  nun  samekh ayen pey tsadik kuf  reysh shin tov
 alpha beta gamma   delta epsilon zeta  eta theta   iota kappa lambda mu
 nu    xi   omicron pi    rho     sigma tau upsilon phi  chi   psi    omega
 # names nato
-alpha   bravo charlie  delta echo foxtrot golf  hotel  india juliet  kilo
+alfa    bravo charlie  delta echo foxtrot golf  hotel  india juliett kilo
 lima    mike  november oscar papa quebec  romeo sierra tango uniform victor
 whiskey xray  yankee   zulu
 # names ja
