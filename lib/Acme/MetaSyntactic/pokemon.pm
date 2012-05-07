@@ -34,7 +34,7 @@ This list is based on the following wikipedia article:
 L<http://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon>.
 
 The Wikipedia page lists I<English names>, I<Romanisation> and
-I<Trademarked Romaji>. For each Pokémon, the named linked internaly
+I<Trademarked Romaji>. For each Pokémon, the named linked internally
 by Wikipedia has been chosen.
 
 =head1 CONTRIBUTOR
