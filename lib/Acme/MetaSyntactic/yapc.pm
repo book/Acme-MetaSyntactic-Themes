@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::yapc;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -24,16 +25,21 @@ The various YAPC are:
 
 Pittsburgh (1999, 2000), Montreal (2001), Saint-Louis (2002),
 Boca Raton (2003), Buffalo (2004), Toronto (2005), Chicago (2006),
-Houston (2007).
+Houston (2007), Chicago (2008), Pittsburgh (2009), Columbus (2010),
+Asheville (2011), Madison (2012).
 
 =item YAPC::Europe
 
 London (2000),  Amsterdam (2001), Munich (2002), Paris (2003),
-Belfast (2004), Braga (2005), Birmingham (2006), Vienna (2007).
+Belfast (2004), Braga (2005), Birmingham (2006), Vienna (2007),
+Copenhagen (2008), Lisbon (2009), Pisa (2010), Rīga (2011),
+Frankfurt (2012).
 
 =item YAPC::Israel
 
-Haifa (2003),  Herzliya (2004, 2005), Netanya (2006).
+Haifa (2003),  Herzliya (2004, 2005).
+
+In 2006, YAPC::Israel became OSDC::Israel.
 
 =item YAPC::Canada
 
@@ -41,23 +47,32 @@ Ottawa (2003).
 
 =item YAPC::Australia
 
-Melbourne (2004, 2005, 2006).
+Melbourne (2004).
+
+The first YAPC::Australia was held as part of OSDC (.au) 2004 in Melbourne,
+and has been held jointly thereafter.
+
+=item YAPC::Brazil
+
+Porto Alegre (2005-2006), São Paulo (2007, 2008), Rio de Janeiro (2009),
+Fortaleza (2010), Rio de Janeiro (2011), São Paulo (2012).
 
 =item YAPC::Taipei
 
 Taipei (2004, 2005).
 
-=item YAPC::Brazil
-
-Porto Alegre (2005).
+YAPC Taipei became YAPC::Asia in 2006.
 
 =item YAPC::Asia
 
-Tokyo (2006, 2007).
+Tokyo (2006-2012).
 
 =item YAPC::America::South
 
-São Paulo (2006).
+São Paulo (2006), Porte Alegre (2007-2009).
+
+This conference was held in conjunction with CONISLI
+(Congresso Internacional de Software Livre).
 
 =back
 
@@ -65,7 +80,7 @@ São Paulo (2006).
 
 Mark Fowler asked me for this list during YAPC::Europe 2005.
 
-Introduced in version 0.40, published on September 19, 2005.
+Introduced in Acme-MetaSyntactic version 0.40, published on September 19, 2005.
 
 Updated by Abigail in version 0.47, published on November 7, 2005.
 
@@ -78,6 +93,10 @@ Updated with the YAPC for 2007 in version 0.90, published on September 4, 2006.
 Updated with several other 2006 and 2007 YAPC, and turned into a
 MultiList by Abigail in version 0.91, published on September 11, 2006.
 
+Updated with all YAPC since 2007, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
@@ -89,20 +108,22 @@ __DATA__
 :all
 # names america north
 Pittsburgh Montreal Saint_Louis Boca_Raton Buffalo Toronto Chicago Houston
+Chicago Pittsburgh Columbus Asheville Madison
 # names europe
-London Amsterdam Munich Paris Belfast Braga Birmingham Vienna
+London Amsterdam Munich Paris Belfast Braga Birmingham Vienna Copenhagen
+Lisbon Pisa Riga Frankfurt
 # names israel
-Haifa Herzliya Netanya
+Haifa Herzliya
 # names canada
 Ottawa
 # names australia
 Melbourne
 # names taipei
-Tai_Pei
+Taipei
 # names brazil
-Porto_Alegre
+Porto_Alegre Sao_Paulo Rio_de_Janeiro Fortaleza Rio_de_Janeiro Sao_Paulo
 # names asia
 Tokyo
 # names america south
-Sao_Paulo
+Sao_Paulo Porto_Alegre
 
