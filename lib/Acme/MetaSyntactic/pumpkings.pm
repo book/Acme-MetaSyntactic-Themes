@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::pumpkings;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -20,10 +21,14 @@ changed to C<NI_S>).
 
 Rafael Garcia-Suarez.
 
-Introduced in version 0.14, published on March 21, 2005.
+Introduced in Acme-MetaSyntactic version 0.14, published on March 21, 2005.
 
 Turned into a multilist (separate lists for different versions of Perl)
 by Abigail in version 0.74, published on May 15, 2006.
+
+Updated with new pumpkings since 2006, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 SEE ALSO
 
@@ -43,8 +48,9 @@ lwall
 # names perl3
 lwall
 # names perl4
-lwall
+lwall andyd
 # names perl5
 lwall andyd tomc cbail ni_s chips timb micb gsar gbarr
-jhi hvds rgarcia nwclark lbrocard
-
+jhi hvds rgarcia nwclark lbrocard jesse rjbs
+dapm mstrout shay miyagawa bingos dagolden flora zefram
+avar stevan drolsky corion abigail
