@@ -79,6 +79,7 @@ our %Remote = (
     Winter Games
     ============
 
+    2018   Pyeongchang
     2014   Sochi
     2010   Vancouver
     2006   Torino
