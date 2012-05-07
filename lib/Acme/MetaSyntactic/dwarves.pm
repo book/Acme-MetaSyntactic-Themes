@@ -52,6 +52,8 @@ Sabio      Feliz       Grunon      Tontin      Dormilon    Alergico    Romantico
 Viisas     Lystikas    Joro        Vilkas      Unelias     Nuhanena    Ujo
 # names fr
 Prof       Joyeux      Grincheux   Simplet     Dormeur     Atchoum     Timide
+# names ga
+Saoi       Sonai       Cancran     Simpleoir   Codlatan    Sraothachan Cuthalachan
 # names hu
 Tudor      Vidor       Morgo       Kuka        Szundi      Hapci       Szende
 # names it
