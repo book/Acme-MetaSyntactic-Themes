@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::metro;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -80,7 +81,7 @@ to play I<Mornington Crescent>.
 
 Philippe 'BooK' Bruhat
 
-Introduced in version 0.83, published on July 17, 2006.
+Introduced in Acme-MetaSyntactic version 0.83, published on July 17, 2006.
 
 Updated with station names for Lyon, Marseille, Lille, Rennes (with
 stations grouped by line) in version 0.88, published on August 21, 2006.
@@ -88,6 +89,10 @@ stations grouped by line) in version 0.88, published on August 21, 2006.
 Updated by Elliot Shank with the Chicago metro and by Abigail with
 the London Tube, Rotterdam and Toronto metro lines in version 0.91,
 published on September 11, 2006.
+
+Updated for some French metro lines, and
+received its own version number for Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
 
 =head1 DEDICATION
 
@@ -104,7 +109,7 @@ __DATA__
 # default
 fr/paris
 # names fr paris ligne_1
-La_Defense_Grande_Arche
+La_Defense
 Esplanade_de_la_Defense
 Pont_de_Neuilly
 Les_Sablons
@@ -496,6 +501,7 @@ Gare_de_Lyon
 Bercy
 Cour_Saint_Emilion
 Bibliotheque_Francois_Mitterrand
+Olympiades
 # names fr lyon ligne_A
 Perrache
 Ampere_Victor_Hugo
@@ -510,6 +516,7 @@ Gratte_Ciel
 Flachet
 Cusset
 Laurent_Bonnevay
+Vaulx_en_Velin_La_Soie
 # names fr lyon ligne_B
 Stade_de_Gerland
 Debourg
@@ -543,6 +550,10 @@ Gorge_de_Loup
 Valmy
 Gare_de_Vaise
 # names fr marseille ligne_1
+La_Fourragere
+Saint_Barnabe
+Louis_Armand
+La_Blancarde
 La_Timone
 Baille
 Castellane
