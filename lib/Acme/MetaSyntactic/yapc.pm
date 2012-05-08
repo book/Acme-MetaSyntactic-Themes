@@ -6,6 +6,8 @@ our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
+=encoding utf8
+
 =head1 NAME
 
 Acme::MetaSyntactic::yapc - The YAPC theme

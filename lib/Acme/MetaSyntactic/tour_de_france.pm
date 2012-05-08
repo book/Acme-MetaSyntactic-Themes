@@ -4,6 +4,8 @@ use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
 our $VERSION = '1.000';
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::tour_de_france - Tour de France winners

@@ -39,6 +39,10 @@ our $VERSION = '1.000';
 
 __END__
 
+=for irony
+
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::unicode - The unicode theme

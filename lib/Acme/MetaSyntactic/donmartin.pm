@@ -33,6 +33,8 @@ our %Remote = (
 
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::donmartin - The Don Martin theme

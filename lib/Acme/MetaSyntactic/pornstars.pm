@@ -23,6 +23,8 @@ our %Remote = (
 
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::pornstars - The porn stars theme
