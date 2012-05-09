@@ -19,12 +19,31 @@ of the author.
 
 =head1 CONTRIBUTOR
 
-Offer Kaye.
+Offer Kaye
 
-Introduced in Acme-MetaSyntactic version 0.18, published on April 18, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-04-18
+
+Introduced in Acme-MetaSyntactic version 0.18.
+
+=item *
+
+2005-03-23
+
+Submitted by Offer Kaye.
+
+=back
 
 =head1 SEE ALSO
 
