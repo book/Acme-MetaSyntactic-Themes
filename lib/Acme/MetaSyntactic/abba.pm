@@ -18,10 +18,19 @@ early 1980s.
 
 =head1 CONTRIBUTOR
 
-Submitted Abigail on November 1st, 2005.
+Submitted by Abigail on November 1st, 2005.
 
-Introduced in Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.000.
+
+=back
 
 =head1 SEE ALSO
 
