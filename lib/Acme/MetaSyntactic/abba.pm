@@ -18,7 +18,7 @@ early 1980s.
 
 =head1 CONTRIBUTOR
 
-Submitted by Abigail on November 1st, 2005.
+Abigail
 
 =head1 CHANGES
 
@@ -29,6 +29,12 @@ Submitted by Abigail on November 1st, 2005.
 2012-05-07 - v1.000
 
 Introduced in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-11-01
+
+Submitted by Abigail.
 
 =back
 
