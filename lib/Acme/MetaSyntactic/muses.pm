@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::muses;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = 1.000;
 __PACKAGE__->init();
 1;
 
@@ -15,7 +16,10 @@ The nine muses from Greek mythology.
 
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Submitted by Abigail on October 24, 2005.
+
+Introduced in Acme-MetaSyntactic-Themes version 1.001,
+published on May 14, 2012.
 
 =head1 SEE ALSO
 
