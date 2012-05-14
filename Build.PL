@@ -5,17 +5,17 @@ use Module::Build;
 my $build = Module::Build->new(
     module_name    => 'Acme-MetaSyntactic-Themes', # complains if this is not set!
     dist_name      => 'Acme-MetaSyntactic-Themes',
-    dist_version   => '1.000',
+    dist_version   => '1.001',
     dist_abstract  => 'The original set of Acme::MetaSyntactic themes',
     dist_author    => 'Philippe Bruhat (BooK) <book@cpan.org>',
     license        => 'perl',
     build_requires => {
         'Test::More'          => '0.94',
-        'Test::MetaSyntactic' => '1.000',
+        'Test::MetaSyntactic' => '1.001',
     },
     requires => {
         'perl'                => '5.006_002',
-        'Acme::MetaSyntactic' => '1.000',
+        'Acme::MetaSyntactic' => '1.001',
     },
     meta_merge => {
         resources => {

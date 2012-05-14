@@ -134,6 +134,7 @@ Due to a timely coincidence, another new theme has been added:
 C<french_presidents>. Thus bringing it to a total of 100 themes.
 
     2012-05-07    1.000   abba, french_presidents, zodiac
+    2012-05-14    1.001   muses
 
 Future releases will contain more themes proposed in the pre-1.000 era,
 as well as updates to the themes already in the distribution.
