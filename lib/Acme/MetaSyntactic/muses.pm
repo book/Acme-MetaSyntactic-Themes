@@ -16,14 +16,34 @@ The nine muses from Greek mythology.
 
 =head1 CONTRIBUTORS
 
-Submitted by Abigail on October 24, 2005.
+Abigail, Philippe Bruhat (BooK)
 
-Introduced in Acme-MetaSyntactic-Themes version 1.001,
-published on May 14, 2012.
+=head1 CHANGES
 
-Made multilingual and added translations for I<de>, I<en>, I<eo>, I<es>,
-I<fr>, I<it>, I<la> (the default), I<nl>, I<pl>, I<pt> in version 1.001,
-published in Acme-MetaSyntactic-Themes version 1.002, on May 21, 2012.
+=over 4
+
+=item *
+
+2012-05-21 - v1.001
+
+Made multilingual. Added translations for I<de>, I<en>, I<eo>, I<es>,
+I<fr>, I<it>, I<la> (the default), I<nl>, I<pl>, I<pt>.
+
+Published in Acme-MetaSyntactic-Themes version 1.002.
+
+=item *
+
+2012-05-14 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2005-10-24
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
