@@ -1,4 +1,5 @@
 Build.PL
+Changes
 lib/Acme/MetaSyntactic/abba.pm
 lib/Acme/MetaSyntactic/alphabet.pm
 lib/Acme/MetaSyntactic/amber.pm
@@ -46,6 +47,7 @@ lib/Acme/MetaSyntactic/magicroundabout.pm
 lib/Acme/MetaSyntactic/magma.pm
 lib/Acme/MetaSyntactic/metro.pm
 lib/Acme/MetaSyntactic/monty_spam.pm
+lib/Acme/MetaSyntactic/muses.pm
 lib/Acme/MetaSyntactic/nis.pm
 lib/Acme/MetaSyntactic/norse_mythology.pm
 lib/Acme/MetaSyntactic/octothorpe.pm

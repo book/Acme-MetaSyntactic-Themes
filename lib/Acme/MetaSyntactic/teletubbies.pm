@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::teletubbies;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 1;
 
@@ -28,6 +28,9 @@ published on May 7, 2012.
 =head1 ACKNOWLEDGMENT
 
 Thanks to Jérôme Fenal, for inspiration over IRC.
+
+Updated with an C<=encoding> pod command in version 1.001,
+published on May 14,2012
 
 =head1 SEE ALSO
 

@@ -5,15 +5,15 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME           => 'Acme::MetaSyntactic::Themes',
     AUTHOR         => 'Philippe Bruhat (BooK) <book@cpan.org>',
-    VERSION        => '1.000',
+    VERSION        => '1.001',
     ABSTRACT       => 'The original set of Acme::MetaSyntactic themes',
     PL_FILES       => {},
     BUILD_REQUIRES => {
         'Test::More'          => 0.94,
-        'Test::MetaSyntactic' => 1.000,
+        'Test::MetaSyntactic' => 1.001,
     },
     PREREQ_PM  => {
-        'Acme::MetaSyntactic' => 1.000,
+        'Acme::MetaSyntactic' => 1.001,
     },
     MIN_PERL_VERSION => 5.006002,
     META_MERGE => {

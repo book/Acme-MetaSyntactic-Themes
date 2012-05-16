@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::garbage;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 1;
 
@@ -27,6 +27,9 @@ Introduced in Acme-MetaSyntactic version 0.35, published on August 15, 2005.
 
 Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
 published on May 7, 2012.
+
+Updated with an C<=encoding> pod command in version 1.001,
+published on May 14,2012
 
 =head1 SEE ALSO
 

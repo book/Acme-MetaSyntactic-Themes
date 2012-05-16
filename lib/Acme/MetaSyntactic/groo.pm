@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::groo;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 1;
 
@@ -31,6 +31,9 @@ Corrected a typo in version 0.82, published on July 10, 2006.
 
 Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
 published on May 7, 2012.
+
+Updated with an C<=encoding> pod command in version 1.001,
+published on May 14,2012
 
 =head1 SEE ALSO
 

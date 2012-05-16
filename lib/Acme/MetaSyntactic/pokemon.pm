@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pokemon;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -101,6 +101,9 @@ Submitted by Agigail as a simple list.
 
 
 
+
+Updated with typographical corrections by Abigail in version 1.001,
+published on May 14, 2012.
 
 =head1 SEE ALSO
 

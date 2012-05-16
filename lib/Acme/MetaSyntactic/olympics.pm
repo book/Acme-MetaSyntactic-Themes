@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::olympics;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 
 =head1 NAME
 
@@ -122,6 +122,8 @@ Introduced in Acme-MetaSyntactic version 0.82, published on July 10, 2006.
 Updated with recent future Olympic cities, and
 received its own version number for Acme-MetaSyntactic-Themes version 1.000,
 published on May 7, 2012.
+
+Updated by Abigail in version 1.001, published on May 14, 2012.
 
 =head1 SEE ALSO
 
