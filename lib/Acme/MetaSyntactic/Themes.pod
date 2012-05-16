@@ -134,10 +134,12 @@ Due to a timely coincidence, another new theme has been added:
 C<french_presidents>. Thus bringing it to a total of 100 themes.
 
     2012-05-07    1.000   abba, french_presidents, zodiac
-    2012-05-14    1.001   muses
 
 Future releases will contain more themes proposed in the pre-1.000 era,
 as well as updates to the themes already in the distribution.
+
+    2012-05-14    1.001   muses
+    2012-05-21    1.002   reindeer
 
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their
@@ -158,7 +160,7 @@ Philippe Bruhat (BooK), C<< <book@cpan.org> >>.
 
 =head1 COPYRIGHT
 
-Copyright 2005-2012 Philippe 'BooK' Bruhat, All Rights Reserved.
+Copyright 2005-2012 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
