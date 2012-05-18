@@ -33,15 +33,43 @@ Tintin was translated in many languages, please send my your lists.
 Jérôme Fenal provided the original idea and the French and English lists.
 Jan Pieter Cornet provided the Dutch list.
 
-Introduced in Acme-MetaSyntactic version 0.16, published on April 4, 2005.
+=head1 CHANGES
 
-Updated with the Dutch list in version 0.59, published on January 30, 2006. 
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number for Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-01-30
+
+Updated with the Dutch list provided by Jan Peter Cornet
+in Acme-MetaSyntactic version 0.59.
+
+=item *
+
+2005-04-04
+
+Introduced in Acme-MetaSyntactic version 0.16.
+
+=item *
+
+2005-03-17
+
+Two lists submitted by Jérôme Fénal, as I<haddock_en> and I<haddock_fr>.
+
+=back
 
 =head1 SEE ALSO
 
