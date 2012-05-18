@@ -47,6 +47,13 @@ Abigail, Philippe Bruhat (BooK)
 
 =item *
 
+2012-05-14 - v1.001
+
+Updated with typographical corrections by Abigail
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
 2012-05-07 - v1.000
 
 Updated with new extraction code and new Pokémons since November 2006, and
@@ -94,16 +101,7 @@ Introduced in Acme-MetaSyntactic version 0.56, with a remote list.
 
 Submitted by Agigail as a simple list.
 
-=item *
-
-
-
-
-
-
-
-Updated with typographical corrections by Abigail in version 1.001,
-published on May 14, 2012.
+=back
 
 =head1 SEE ALSO
 
