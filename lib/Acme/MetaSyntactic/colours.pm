@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::colours;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 1;
 
@@ -28,10 +28,6 @@ with the help of <http://en.wikipedia.org/wiki/List_of_colors>.
 
 Philippe Bruhat added the X11 colors lying in F</usr/X11R6/lib/X11/rgb.txt>.
 
-Abigail added the seven colours of the rainbow, in English, Dutch, German,
-French, Spanish, Esperanto, Latin, Italian, Polish, Tagalog, Swedish,
-Portuguese, Danish, and Interlingua.
-
 Introduced in Acme-MetaSyntactic version 0.76, published on May 29, 2006.
 
 Made multilingual in version 0.77, published on June 5, 2006.
@@ -41,6 +37,11 @@ published on May 7, 2012.
 
 Updated with an C<=encoding> pod command in version 1.001,
 published on May 14,2012
+
+Abigail added the seven colours of the rainbow, in English, Dutch, German,
+French, Spanish, Esperanto, Latin, Italian, Polish, Tagalog, Swedish,
+Portuguese, Danish, and Interlingua in version 1.002,
+published on May 21, 2012.
 
 =head1 SEE ALSO
 
