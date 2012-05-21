@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME           => 'Acme::MetaSyntactic::Themes',
     AUTHOR         => 'Philippe Bruhat (BooK) <book@cpan.org>',
-    VERSION        => '1.001',
+    VERSION        => '1.002',
     ABSTRACT       => 'The original set of Acme::MetaSyntactic themes',
     PL_FILES       => {},
     BUILD_REQUIRES => {
