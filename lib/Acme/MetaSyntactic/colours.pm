@@ -29,7 +29,8 @@ with the help of <http://en.wikipedia.org/wiki/List_of_colors>.
 Philippe Bruhat added the X11 colors lying in F</usr/X11R6/lib/X11/rgb.txt>.
 
 Abigail added the seven colours of the rainbow, in English, Dutch, German,
-French, Spanish, Esperanto, Latin, Italian, and Polish.
+French, Spanish, Esperanto, Latin, Italian, Polish, Tagalog, Swedish,
+Portuguese, Danish, and Interlingua.
 
 Introduced in Acme-MetaSyntactic version 0.76, published on May 29, 2006.
 
@@ -212,3 +213,13 @@ ruber aurantius flavus viridus caeruleus indicum violaceus
 rosso arancione giallo verde azzurro indaco violetto
 # names rainbow pl
 czerwona pomaranczowa zolta zielona niebieska indygo fioletowa
+# names rainbow ia
+rubie orange jalne verde blau anil violetto
+# names rainbow sv
+rod orange gul gron bla indigo violett
+# names rainbow pt
+vermelho laranja amarelo verde azul anil violeta
+# names rainbow dk
+rod orange gul gron bla indigo violet
+# names rainbow tl
+pula kahel dilaw lunti bughaw indigo lila
