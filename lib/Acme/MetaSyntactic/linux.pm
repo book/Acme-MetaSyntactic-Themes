@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -59,6 +59,9 @@ Updated with new extraction code and changes since November 2006, and
 received its own version number for Acme-MetaSyntactic-Themes version 1.000,
 published on May 7, 2012.
 
+Updated from the source web site for v1.001,
+published in Acme-MetaSyntactic-Themes v1.003, May 28, 2012.
+
 =head1 DEDICATION
 
 This module is dedicated to the Linux kernel for its fifteenth
@@ -94,7 +97,6 @@ Arch
 ArchBang
 ArcheOS
 AriOS
-Ark
 ArtistX
 Asianux
 Astaro
@@ -117,6 +119,7 @@ BLAG
 BlankOn
 Bodhi
 BOSS
+Bridge
 BRLix
 Burapha
 CAELinux
@@ -187,6 +190,7 @@ Guadalinex
 Hacao
 Haiku
 Hanthana
+Hybryde
 IDMS
 Imagineos
 Inquisitor
@@ -212,6 +216,7 @@ Kwort
 Leeenux
 Legacy
 LFS
+Libert
 LinHES
 Linpus
 LinuxConsole
@@ -242,7 +247,6 @@ MINIX
 Mint
 Miracle
 MirOS
-MoLinux
 Momonga
 Monomaxos
 Musix
