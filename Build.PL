@@ -5,7 +5,7 @@ use Module::Build;
 my $build = Module::Build->new(
     module_name    => 'Acme-MetaSyntactic-Themes', # complains if this is not set!
     dist_name      => 'Acme-MetaSyntactic-Themes',
-    dist_version   => '1.002',
+    dist_version   => '1.003',
     dist_abstract  => 'The original set of Acme::MetaSyntactic themes',
     dist_author    => 'Philippe Bruhat (BooK) <book@cpan.org>',
     license        => 'perl',
