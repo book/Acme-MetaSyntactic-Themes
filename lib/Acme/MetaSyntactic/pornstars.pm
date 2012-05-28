@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -76,8 +76,11 @@ abandoned the obsolete source for male pornstars, and
 received its own version number for Acme-MetaSyntactic-Themes version 1.000,
 published on May 7, 2012.
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+Updated with an C<=encoding> pod command for version 1.001,
+published in Acme-MetaSyntactic-Themes v1.001, on May 14,2012
+
+Updated from the source web site for v1.002,
+published in Acme-MetaSyntactic-Themes v1.003, on May 28, 2012.
 
 =head1 SEE ALSO
 
@@ -149,7 +152,6 @@ Annie_Cruz
 Annie_Sprinkle
 Ann_Marie_Rios
 April_Flowers
-April_West
 Arcadia_Lake
 Aria_Giovanni
 Ariana_Jollee
@@ -185,6 +187,7 @@ Barbara_Dare
 Bella
 Belladonna
 Bibian_Norai
+Bibi_Jones
 Bionca
 Black_Angelika
 Bobbi_Bliss
@@ -219,6 +222,7 @@ Brooke_Banner
 Brooke_Haven
 Brooke_Hunter
 Brooke_Skye
+Brooklyn_Lee
 Bunko_Kanazawa
 Bunny_Bleu
 Bunny_Luv
@@ -383,6 +387,7 @@ Ilona_Staller
 Inari_Vachs
 India_Summer
 Isabel_Ice
+Isis_Taylor
 Jacklyn_Lick
 Jada_Fire
 Jade
@@ -467,7 +472,6 @@ Kaylani_Lei
 Kaylynn
 Kay_Parker
 Kazuko_Shirakawa
-Keeani_Lei
 Keiko_Nakazawa
 Kei_Mizutani
 Keisha

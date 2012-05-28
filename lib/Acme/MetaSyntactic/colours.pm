@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::colours;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 1;
 
@@ -37,6 +37,11 @@ published on May 7, 2012.
 
 Updated with an C<=encoding> pod command in version 1.001,
 published on May 14,2012
+
+Abigail added the seven colours of the rainbow, in English, Dutch, German,
+French, Spanish, Esperanto, Latin, Italian, Polish, Tagalog, Swedish,
+Portuguese, Danish, and Interlingua in version 1.002,
+published on May 21, 2012.
 
 =head1 SEE ALSO
 
@@ -191,4 +196,31 @@ gray92 grey92 gray93 grey93 gray94 grey94 gray95 grey95 gray96 grey96
 gray97 grey97 gray98 grey98 gray99 grey99 gray100 grey100 dark_grey
 DarkGrey dark_gray DarkGray dark_blue DarkBlue dark_cyan DarkCyan
 dark_magenta DarkMagenta dark_red DarkRed light_green LightGreen
-
+# names rainbow en
+red orange yellow green blue indigo violet
+# names rainbow nl
+rood oranje geel groen blauw indigo violet
+# names rainbow de
+rot orange gelb grun blau indigo violett
+# names rainbow fr
+rouge orange jaune vert bleu indigo violet
+# names rainbow es
+rojo naranja amarillo verde azul anil violeta
+# names rainbow eo
+ruga oranga flava verda blua indiga viola
+# names rainbow la
+ruber aurantius flavus viridus caeruleus indicum violaceus
+# names rainbow it
+rosso arancione giallo verde azzurro indaco violetto
+# names rainbow pl
+czerwona pomaranczowa zolta zielona niebieska indygo fioletowa
+# names rainbow ia
+rubie orange jalne verde blau anil violetto
+# names rainbow sv
+rod orange gul gron bla indigo violett
+# names rainbow pt
+vermelho laranja amarelo verde azul anil violeta
+# names rainbow dk
+rod orange gul gron bla indigo violet
+# names rainbow tl
+pula kahel dilaw lunti bughaw indigo lila

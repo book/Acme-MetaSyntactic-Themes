@@ -140,12 +140,13 @@ as well as updates to the themes already in the distribution.
 
     2012-05-14    1.001   muses
     2012-05-21    1.002   reindeer
+    2012-05-28    1.003   afke
 
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their
 own distribution (see for example L<Acme::MetaSyntactic::buzzwords>,
-L<Acme::MetaSyntatic::daleks>, L<Acme::MetaSyntatic::nethack>, and
-L<Acme::MetaSyntatic::vim>).
+L<Acme::MetaSyntactic::daleks>, L<Acme::MetaSyntactic::nethack>,
+L<Acme::MetaSyntactic::vim> and L<Acme::MetaSyntactic::Themes::Abigail>).
 To make your own Acme::MetaSyntactic theme distribution, you can
 take example from this distribution. Have a look at the F<t/>
 directory in particular.
