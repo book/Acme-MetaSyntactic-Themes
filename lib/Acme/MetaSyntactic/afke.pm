@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::afke;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -17,7 +18,10 @@ the ten names.
 
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
+
+Introduced in Acme-MetaSyntactic-Themes version 1.003,
+published on May 28, 2012.
 
 =head1 SEE ALSO
 
