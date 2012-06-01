@@ -1,3 +1,7 @@
+=encoding iso-8859-1
+
+=cut
+
 package Acme::MetaSyntactic::donmartin;
 use strict;
 use Acme::MetaSyntactic::List;
@@ -32,8 +36,6 @@ our %Remote = (
 );
 
 1;
-
-=encoding iso-8859-1
 
 =head1 NAME
 
