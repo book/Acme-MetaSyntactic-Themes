@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::fabeltjeskrant;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -15,14 +16,15 @@ The I<Fabeltjeskrant> was a Dutch puppet animation television series,
 which appeared on and off on Dutch television between 1968 and 1995, 
 for a total of 1640 episodes.
 
+Website: L<http://www.fabeltjesweb.nl/>.
+
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
 
 =head1 SEE ALSO
 
-L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>,
-L<http://www.fabeltjesweb.nl/>.
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 =cut
 
@@ -38,7 +40,7 @@ Piet_de_Pad
 Chico_Lama          Zaza_Zebra            John_Maraboe
 
 Droes_de_Beer       Jodocus_de_Marmot     Teun_Stier
-Oléta_Vulpécula     Harry_Lepelaar        Tijl_Schavuit
+Oleta_Vulpecula     Harry_Lepelaar        Tijl_Schavuit
 Sjefke_Schelm       Rocus_de_Vrije_Vogel  Pepijn_de_Kater
 Timme_de_Hond       Plons_de_Kikvors      Blinkert_de_Bliek
 Arthur_de_Leeuw     Flora_Nachtegaal      George_de_Wezel
