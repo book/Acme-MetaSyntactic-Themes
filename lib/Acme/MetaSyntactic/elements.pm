@@ -42,7 +42,7 @@ Fe Co Ni Cu Zn Ga Ge As Se Br Ky Rb Sr Y  Zr Nb Mo Tc Ru Rh Pd Ag Cd In
 Sn Sb Te I  Xe Cs Ba La Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu Hf Ta
 W  Re Os Ir Pt Au Hg Tl Pb Bi Po At Rn Fr Ra Ac Th Pa U  Np Pu Am Cm Bk
 Cf Es Fm Md Bo Lr Rf Db Sg Bh Hs Mt Ds Rg
-Uub Uut Uuq Uup Uuh Uus Uuo
+Cn Uut Fl Uup Lv Uus Uuo
 # names en
 hydrogen helium lithium beryllium boron carbon nitrogen oxygen fluorine
 neon sodium magnesium aluminum silicon phosphorus sulfur chlorine argon
@@ -57,8 +57,8 @@ osmium iridium platinum gold mercury thallium lead bismuth polonium
 astatine radon francium radium actinium thorium protactinium uranium
 neptunium plutonium americium curium berkelium californium einsteinium
 fermium mendelevium nobelium lawrencium rutherfordium dubnium seaborgium
-bohrium hassium meitnerium darmstadtium roentgenium ununbium ununtrium
-ununquadium ununpentium ununhexium ununseptium ununoctium
+bohrium hassium meitnerium darmstadtium roentgenium copernicium ununtrium
+flerovium ununpentium livermorium ununseptium ununoctium
 # names fr
 hydrogene helium lithium beryllium bore carbone azote oxygene fluor
 neon sodium magnesium aluminium silicium phosphore soufre chlore argon
@@ -73,6 +73,6 @@ mercure thallium plomb bismuth polonium astate radon francium radium
 actinium thorium protactinium uranium neptunium plutonium americium
 curium berkelium californium einsteinium fermium mendelevium nobelium
 lawrencium rutherfordium dubnium seaborgium bohrium hassium meitnerium
-darmstadtium roentgenium ununbium ununtrium ununquadium ununpentium
-ununhexium ununseptium ununoctium
+darmstadtium roentgenium copernicium ununtrium flerovium ununpentium
+livermorium ununseptium ununoctium
 
