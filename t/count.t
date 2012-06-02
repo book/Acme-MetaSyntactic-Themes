@@ -1,10 +1,10 @@
 use Test::More;
 use Acme::MetaSyntactic;
+use Acme::MetaSyntactic::Themes;
 
 plan tests => 1;
 
-my $count
-    = do { local @ARGV = qw( Build.PL ); ( grep /dist_version/, <> )[0] };
+my $count = $Acme::MetaSyntactic::Themes::VERSION;
 my ($version) = $count =~ /(\d+\.\d+)/;
 $count =~ s/.*1\.(\d+).*/$1/;
 $count += 100;
