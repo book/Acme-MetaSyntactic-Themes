@@ -224,3 +224,18 @@ vermelho laranja amarelo verde azul anil violeta
 rod orange gul gron bla indigo violet
 # names rainbow tl
 pula kahel dilaw lunti bughaw indigo lila
+# names resistor en
+black brown red orange yellow green blue violet gray white gold silver
+# names resistor ca
+negre marro vermell taronja groc vert blau violeta gris blanc daurat argent
+# names resistor dk
+sort brun rod orange gul gron bla violet gra hvid guld solv
+# names resistor du
+zwart bruin rood oranje geel groen blauw violet grijs wit goud zilver
+# names resistor ee
+must pruun punane oranz kollane reheline sinine violetne hall valge
+kuldne hobedane 
+# names resistor es
+negro marron rojo naranja amarillo verde azul violeta gris blanco dorado plata
+# names resistor fr
+noir marron rouge orange jaune vert blue violet gris blanc or argent
