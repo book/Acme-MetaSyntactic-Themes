@@ -1142,6 +1142,20 @@ Library
 LaSalle_and_Van_Buren
 Quincy
 Washington_and_Wells
+# names us philadelphia market_frankford_line
+Sixty_Ninth_Street_Transportation_Center Millbourne Sixty_Third_Street
+Sixtieth_Street Fifty_Sixth_Street Fifty_Second_Street Fourty_Sixth_Street
+Fortieth_Street Thirty_Fourth_Street Thirtieth_Street Fifteenth_Street
+Thirteenth_Street Eleventh_Street Eigth_Street Fifth_Street Second_Street
+Spring_Garden Girard Berks York_Dauphin Huntingdon Somerset Allegheny Tioga
+Erie_Torresdale Church Margaret_Orthodox Frankford_Transportation_Center
+# names us philadelphia broad_street_line
+Fern_Rock_Transportation_Center Olney_Transportation_Center Logan Wyoming
+Hunting_Park Erie Allegheny North Philadelphia Susquehanna_Dauphin
+Cecil_B_Moore Girard Fairmount Spring Garden Race_Vine City_Hall Walnut_Locust
+Lombard_South Ellsworth_Federal Tasker_Morris Snyder Oregon AT_T_Station
+# names us philadelphia broad_ridge_spur
+Spring Garden Chinatown Eigth_Street
 # names uk london bakerloo_line
 Harrow_and_Wealdstone Kenton South_Kenton North_Wembley Wembley_Central
 Stonebridge_Park Harlesden Willesden_Junction Kensal_Green Queen_s_Park
