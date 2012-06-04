@@ -50,10 +50,24 @@ Default category is I<Western/Traditional>.
 
 Abigail
 
-Submitted Abigail on May 13, 2006.
+=head1 CHANGES
 
-Included with its own version number, in Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Included with its own version number
+in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-05-13
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
