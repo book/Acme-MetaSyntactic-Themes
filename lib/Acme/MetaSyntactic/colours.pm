@@ -26,6 +26,12 @@ José Castro, Abigail, Philippe Bruhat (BooK).
 
 =over 4
 
+2012-06-04 - v1.003
+
+Abigail added the color codes for resistors in English, Catalan, Danish,
+Dutch, Estonian, Spanish and French
+in Acme-MetaSyntactic-Themes version 1.004.
+
 =item *
 
 2012-05-21 - v1.002
@@ -33,7 +39,7 @@ José Castro, Abigail, Philippe Bruhat (BooK).
 Abigail added the seven colours of the rainbow in English, Dutch, German,
 French, Spanish, Esperanto, Latin, Italian, Polish, Tagalog, Swedish,
 Portuguese, Danish, and Interlingua
-in Acme-MetaSyntactic-Themes v1.003.
+in Acme-MetaSyntactic-Themes version 1.002.
 
 =item *
 
@@ -79,10 +85,6 @@ based on L<http://en.wikipedia.org/wiki/List_of_colors>.
 Theme I<colors> submitted by José Castro.
 
 =back
-
-Abigail added the color codes for resistors in English, Catalan, Danish,
-Dutch, Estonian, Spanish and French in version 1.003,
-published on June 4, 2012.
 
 =head1 SEE ALSO
 
