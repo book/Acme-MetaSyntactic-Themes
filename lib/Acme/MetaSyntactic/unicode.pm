@@ -61,16 +61,36 @@ Philippe "BooK" Bruhat.
 Thanks to Sébastien Aperghis-Tramoni for his help in finding
 F<unicore/Name.pl>.
 
-Introduced in Acme-MetaSyntactic version 0.50, published on November 28, 2005.
+=head1 CHANGES
 
-Updated to support more Perl versions in version 0.51, published
-on December 5, 2005.
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-12-05
+
+Updated to support more Perl versions in version 0.51.
+
+=item *
+
+2005-11-28
+
+Introduced in Acme-MetaSyntactic version 0.50.
+
+=back
 
 =head1 SEE ALSO
 
