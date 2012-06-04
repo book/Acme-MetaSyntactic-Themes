@@ -1,12 +1,16 @@
+=encoding iso-8859-1
+
+=cut
+
 package Acme::MetaSyntactic::donmartin;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 
 our %Remote = (
-    source  => 'http://www.collectmad.com/madcoversite/dmd-alphabetical.html',
+    source  => 'http://madcoversite.com/dmd-alphabetical.html',
     extract => sub {
         return map {
             s/\s+/ /g;
@@ -33,8 +37,6 @@ our %Remote = (
 
 1;
 
-=encoding iso-8859-1
-
 =head1 NAME
 
 Acme::MetaSyntactic::donmartin - The Don Martin theme
@@ -42,8 +44,9 @@ Acme::MetaSyntactic::donmartin - The Don Martin theme
 =head1 DESCRIPTION
 
 The sound effects from Don Martin's comics.
-The comprehensive list is found here:
-L<http://www.collectmad.com/madcoversite/index-dmd.html>.
+
+The comprehensive list is found on Doug Gilford's Mad Cover Site:
+L<http://www.madcoversite.com/dmd.html>.
 
 =head1 CONTRIBUTOR
 
@@ -65,7 +68,13 @@ Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
 published on May 7, 2012.
 
 Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+published in Acme-MetaSyntactic-Themes version 1.001,
+on May 14,2012
+
+Updated the source URL, and updated the data from the source web site
+in version 1.002,
+published in Acme-MetaSyntactic-Themes version 1.004,
+on June 4, 2012.
 
 =head1 SEE ALSO
 
@@ -286,7 +295,7 @@ EEEAAAGH
 EEEEEEEEEEEEEEEEE
 FABA_DABA_ZAP
 FABADAP
-FAGROON_KLUMBLE_KLUMBLE
+FAGROON_KLUBBLE_KLUBBLE
 FAGROOOSH_SHUSSHH_SHPISHLE_FROOM
 FAGWOOSH_SHOSSH_GOOGLOOOM_FUSH
 FAP

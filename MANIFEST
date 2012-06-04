@@ -26,6 +26,7 @@ lib/Acme/MetaSyntactic/discworld.pm
 lib/Acme/MetaSyntactic/donmartin.pm
 lib/Acme/MetaSyntactic/dwarves.pm
 lib/Acme/MetaSyntactic/elements.pm
+lib/Acme/MetaSyntactic/fabeltjeskrant.pm
 lib/Acme/MetaSyntactic/facecards.pm
 lib/Acme/MetaSyntactic/flintstones.pm
 lib/Acme/MetaSyntactic/french_presidents.pm
@@ -90,6 +91,7 @@ lib/Acme/MetaSyntactic/state_flowers.pm
 lib/Acme/MetaSyntactic/summerwine.pm
 lib/Acme/MetaSyntactic/swords.pm
 lib/Acme/MetaSyntactic/teletubbies.pm
+lib/Acme/MetaSyntactic/Themes.pm
 lib/Acme/MetaSyntactic/Themes.pod
 lib/Acme/MetaSyntactic/thunderbirds.pm
 lib/Acme/MetaSyntactic/tld.pm

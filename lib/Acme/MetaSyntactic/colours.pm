@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::colours;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 1;
 
@@ -79,6 +79,10 @@ based on L<http://en.wikipedia.org/wiki/List_of_colors>.
 Theme I<colors> submitted by José Castro.
 
 =back
+
+Abigail added the color codes for resistors in English, Catalan, Danish,
+Dutch, Estonian, Spanish and French in version 1.003,
+published on June 4, 2012.
 
 =head1 SEE ALSO
 
@@ -261,3 +265,18 @@ vermelho laranja amarelo verde azul anil violeta
 rod orange gul gron bla indigo violet
 # names rainbow tl
 pula kahel dilaw lunti bughaw indigo lila
+# names resistor en
+black brown red orange yellow green blue violet gray white gold silver
+# names resistor ca
+negre marro vermell taronja groc vert blau violeta gris blanc daurat argent
+# names resistor dk
+sort brun rod orange gul gron bla violet gra hvid guld solv
+# names resistor nl
+zwart bruin rood oranje geel groen blauw violet grijs wit goud zilver
+# names resistor et
+must pruun punane oranz kollane reheline sinine violetne hall valge
+kuldne hobedane
+# names resistor es
+negro marron rojo naranja amarillo verde azul violeta gris blanco dorado plata
+# names resistor fr
+noir marron rouge orange jaune vert blue violet gris blanc or argent

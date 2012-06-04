@@ -141,6 +141,7 @@ as well as updates to the themes already in the distribution.
     2012-05-14    1.001   muses
     2012-05-21    1.002   reindeer
     2012-05-28    1.003   afke
+    2012-06-04    1.004   fabeltjeskrant
 
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their
