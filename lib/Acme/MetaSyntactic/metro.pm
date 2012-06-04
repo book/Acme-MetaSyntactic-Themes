@@ -1160,6 +1160,10 @@ Cecil_B_Moore Girard Fairmount Spring Garden Race_Vine City_Hall Walnut_Locust
 Lombard_South Ellsworth_Federal Tasker_Morris Snyder Oregon AT_T_Station
 # names us philadelphia broad_ridge_spur
 Spring Garden Chinatown Eigth_Street
+# names uk glasgow
+Buchanan_Street St_Enoch Bridge_Street West_Street Shields_Road Kinning_Park
+Cessnock Ibrox Govan Patrick Kelvinhall Hillhead Kelvinbridge St_Georges_Cross
+Cowcaddens
 # names uk london bakerloo_line
 Harrow_and_Wealdstone Kenton South_Kenton North_Wembley Wembley_Central
 Stonebridge_Park Harlesden Willesden_Junction Kensal_Green Queen_s_Park
