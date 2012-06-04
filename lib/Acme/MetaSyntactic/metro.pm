@@ -933,6 +933,10 @@ Marques
 Combatentes
 Salgueiros
 Polo_Universitario
+# names us camden PATCO
+Lindenwold Ashland Woodcrest Haddonfield Westmont Collingswood Ferry_Avenue
+Broadway City_Hall Franklin_Square Eigth_and_Market Ninth_Tenth_and_Locust
+Twelfth_Thirteenth_and_Locust Fifteenth_Sixteenth_and_Locust
 # names us chicago red
 Ninety_Fifth
 Eighty_Seventh
