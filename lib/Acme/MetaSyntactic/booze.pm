@@ -28,6 +28,8 @@ where I get to. C<%-)>
 
 =over 4
 
+=item *
+
 2012-05-07 - v1.000
 
 Updated with Chartreuse (incredible omission!), and

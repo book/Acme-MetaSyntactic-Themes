@@ -26,6 +26,8 @@ José Castro, Abigail, Philippe Bruhat (BooK).
 
 =over 4
 
+=item *
+
 2012-06-04 - v1.003
 
 Abigail added the color codes for resistors in English, Catalan, Danish,
