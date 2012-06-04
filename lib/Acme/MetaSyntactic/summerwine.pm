@@ -30,13 +30,30 @@ are quite fun to use as identifiers, and it was an unlikely theme to be
 included otherwise.  Having minor characters called 'Pearl' and 'Smiler' is a
 bonus.
 
-Introduced in Acme-MetaSyntactic version 0.99, published on November 6, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-11-06
+
+Introduced in Acme-MetaSyntactic version 0.99.
+
+=back
 
 =head1 SEE ALSO
 
