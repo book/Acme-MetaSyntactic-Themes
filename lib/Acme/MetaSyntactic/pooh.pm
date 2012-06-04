@@ -6,6 +6,8 @@ our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::pooh - The characters from I<Winnie-the-Pooh> theme
@@ -25,7 +27,7 @@ I<Winnie-the-Pooh> is the correct spelling, no matter what Disney says.
 
 =head1 CONTRIBUTORS
 
-Abigail, LÃ©on Brocard.
+Abigail, Léon Brocard.
 
 =head1 CHANGES
 
