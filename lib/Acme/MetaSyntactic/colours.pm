@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::colours;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 1;
 
@@ -42,6 +42,10 @@ Abigail added the seven colours of the rainbow, in English, Dutch, German,
 French, Spanish, Esperanto, Latin, Italian, Polish, Tagalog, Swedish,
 Portuguese, Danish, and Interlingua in version 1.002,
 published on May 21, 2012.
+
+Abigail added the color codes for resistors in English, Catalan, Danish,
+Dutch, Estonian, Spanish and French in version 1.003,
+published on June 4, 2012.
 
 =head1 SEE ALSO
 
