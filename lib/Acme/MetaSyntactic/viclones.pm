@@ -29,12 +29,29 @@ L<http://www.guckes.net/vi/clones.php3>.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.10, published on February 21, 2005.
+=head1 CHANGES
 
-Added a remote list in version 0.49, published on November 21, 2005.
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-11-21
+
+Added a remote list in Acme-MetaSyntactic version 0.49.
+
+=item *
+
+2005-02-21
+
+Introduced in Acme-MetaSyntactic version 0.10.
+
+=back
 
 =head1 SEE ALSO
 
