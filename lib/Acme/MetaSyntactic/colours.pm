@@ -230,11 +230,11 @@ black brown red orange yellow green blue violet gray white gold silver
 negre marro vermell taronja groc vert blau violeta gris blanc daurat argent
 # names resistor dk
 sort brun rod orange gul gron bla violet gra hvid guld solv
-# names resistor du
+# names resistor nl
 zwart bruin rood oranje geel groen blauw violet grijs wit goud zilver
-# names resistor ee
+# names resistor et
 must pruun punane oranz kollane reheline sinine violetne hall valge
-kuldne hobedane 
+kuldne hobedane
 # names resistor es
 negro marron rojo naranja amarillo verde azul violeta gris blanco dorado plata
 # names resistor fr
