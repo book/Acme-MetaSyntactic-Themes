@@ -22,6 +22,9 @@ Website: L<http://www.fabeltjesweb.nl/>.
 
 Abigail
 
+Introduced in Acme-MetaSyntactic-Themes version 1.004,
+published on June 4, 2012.
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
