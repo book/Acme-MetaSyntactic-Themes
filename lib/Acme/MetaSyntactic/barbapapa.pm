@@ -19,19 +19,39 @@ later as a television series.
 
 The official Barbapapa web site is at L<http://www.barbapapa.fr/>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Abigail
-
-Introduced in Acme-MetaSyntactic version 0.54, published on December 26, 2005.
-
-Updated with the Italian, Spanish and Slovene version, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+Abigail, Philippe Bruhat (BooK).
 
 =head1 DEDICATION
 
 Philippe dedicates this module to his niece Enora. Merry Christmas!
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Updated with the Italian, Spanish and Slovene version, and
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-12-26
+
+Introduced in Acme-MetaSyntactic version 0.54.
+
+=item *
+
+2005-10-25
+
+Submitted by Abigail with seven languages (English, French, Dutch, German,
+Finnish, Polish and Swedish).
+
+=back
 
 =head1 SEE ALSO
 
