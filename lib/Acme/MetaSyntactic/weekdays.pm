@@ -22,21 +22,48 @@ many other languages.
 
 Abigail (English).
 
-Philippe "BooK" Bruhat (all the others languages, many thanks to Estelle
-Souche for her help with the Yiddish names).
-
 Gisbert W. Selke (Egyptian Arabic, Bulgarian, Czech, Modern Greek,
 Esperanto, Gaelic, Japanese, Norwegian, Russian and Tagalog).
 
-Introduced in Acme-MetaSyntactic version 0.51, published on December 5, 2005.
+Philippe "BooK" Bruhat (all the others languages, many thanks to Estelle
+Souche for her help with the Yiddish names).
 
-Made multilingual in version 0.55, published on January 2, 2006.
+=head1 CHANGES
 
-Ten new languages added by Gisbert W. Selke in version 0.74, published
-on May 15, 2006.
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-05-15
+
+Ten new languages added by Gisbert W. Selke
+in Acme-MetaSyntactiuc version 0.74.
+
+=item *
+
+2006-01-02
+
+Made multilingual in Acme-MetaSyntactic version 0.55.
+
+=item *
+
+2005-12-05
+
+Introduced in Acme-MetaSyntactic version 0.51.
+
+=item *
+
+2005-10-20
+
+Submitted by Abigail (English names).
+
+=back
 
 =head1 SEE ALSO
 
