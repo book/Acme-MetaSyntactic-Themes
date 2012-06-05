@@ -1199,9 +1199,6 @@ Whitechapel Stepney_Green Mile_End Bow_Road Bromley_by_Bow West_Ham
 Plaistow Upton Park East Ham Barking Upney Becontree Dagenham_Heathway
 Dagenham_East Elm_Park Hornchurch Upminster_Bridge Upminster
 High_Street_Kensington Notting_Hill_Gate Bayswater Paddington Edgware_Road
-# names uk london east_london_line
-Shoreditch Whitechapel Shadwell Wapping Rotherhithe Canada_Water
-Surrey_Quays New_Cross_Gate New_Cross
 # names uk london hammersmith_and_city_line
 Hammersmith Goldhawk_Road Shepherd_s_Bush Latimer_Road Ladbroke_Grove
 Westbourne_Park Royal_Oak Paddington Edgware_Road Baker_Street
