@@ -1245,6 +1245,21 @@ Warren_Street Oxford_Circus Green_Park Victoria Pimlico Vauxhall
 Stockwell Brixton
 # names uk london waterloo_and_city_line
 Bank Waterloo
+# names uk london dlr bank_tower_gateway_canning_town
+Bank Blackwall Canning East_India Limehouse Poplar Shadwell Westferry
+Tower_Gateway
+# names uk london dlr lewisham_branch
+Canary_Wharf Crossharbour Cutty_Sark Deptford_Bridge Elverson_Road
+Heron_Quays Greenwich Island_Gardens Lewisham Mudchute South_Quay
+West_India_Quay
+# names uk london dlr stratford_branch
+All_Saints Bow_Church Devons_Road Langdon_Park Pudding_Mill_Lane Stratford
+# names uk london dlr woolwich_arsenal_branch
+King_George_V London_City_Airport Pontoon_Dock West_Silvertown Woolwich_Arsenal
+# names uk london dlr stratford_international_branch
+Abbey_Road
+Canning_Town Star_Lane Stratford Stratford_High_Street Stratford_International
+West_Ham
 # names nl rotterdam erasmus_line
 De_Akkers Heemraadlaan Spijkenisse_Centrum Zalmplaat Hoogvliet Tussenwater
 Poortugaal Rhoon Slinge Zuidplein Maashaven Rijnhaven Wilhelminaplein
