@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::tarot;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -22,14 +23,15 @@ I<Wheel of Fortune>, I<Justice>, I<Hanged Man>, I<Death>, I<Temperance>,
 I<Devil>, I<Tower>, I<Star>, I<Moon>, I<Sun>, I<Judgement>, and finally,
 I<World>.
 
+Source: L<http://www.learntarot.com/>
+
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
 
 =head1 SEE ALSO
 
-L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>,
-L<http://www.learntarot.com/>
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 =cut
 
