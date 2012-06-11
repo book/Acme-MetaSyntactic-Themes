@@ -29,6 +29,24 @@ Source: L<http://www.learntarot.com/>
 
 Abigail
 
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-06-11 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.005.
+
+=item,*
+
+2005-11-01
+
+Submitted by Abigail.
+
+=back
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
