@@ -29,6 +29,9 @@ Source: L<http://www.learntarot.com/>
 
 Abigail
 
+Introduced in Acme-MetaSyntactic-Themes version 1.005,
+published on June 11, 2012.
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
