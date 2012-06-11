@@ -6,6 +6,8 @@ our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::stars - The stars theme
@@ -17,12 +19,31 @@ L<http://en.wikipedia.org/wiki/List_of_traditional_star_names>.
 
 =head1 CONTRIBUTOR
 
-Rafael Garcia-Suarez.
+Rafaël Garcia-Suarez.
 
-Introduced in Acme-MetaSyntactic version 0.39, published on September 12, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-09-12
+
+Introduced in Acme-MetaSyntactic version 0.39.
+
+=item *
+
+2005-08-24
+
+Wikipedia link provided by Rafaël Garcia-Suarez, helpfully providing ideas.
+
+=back
 
 =head1 SEE ALSO
 
