@@ -12,14 +12,14 @@ Acme::MetaSyntactic::Themes - The original Acme::MetaSyntactic themes
 From January 2005 to November 2006, I have published a CPAN distribution
 a week, including new themes for L<Acme::MetaSyntactic> (almost) every week.
 
-With the version 1.000 of L<Acme::MetaSyntactic>, I have split the core
-modules (that provide the list behaviour) from the actual themes, making
-the distribution containing the very stable L<Acme::MetaSyntactic> modules
-driving its behaviour a lot thinner.
+In 2012, with the version 1.000 of L<Acme::MetaSyntactic>, I have split
+the core modules (that provide the list behaviour) from the actual themes,
+making the distribution containing the very stable L<Acme::MetaSyntactic>
+modules driving its behaviour a lot thinner.
 
-When Acme-MetaSyntactic 0.99 was published, the distribution contained
-99 themes. The full list of theme and the date of their inclusion in
-the distribution is documented below:
+When Acme-MetaSyntactic 0.99 was published in November 2006, the
+distribution contained 99 themes. The full list of theme and the date
+of their inclusion in the distribution is documented below:
 
     Date         Release  Theme changes
     ================================================================
@@ -142,6 +142,7 @@ as well as updates to the themes already in the distribution.
     2012-05-21    1.002   reindeer
     2012-05-28    1.003   afke
     2012-06-04    1.004   fabeltjeskrant
+    2012-06-11    1.005   tarot
 
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their
