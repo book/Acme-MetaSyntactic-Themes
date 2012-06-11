@@ -32,6 +32,12 @@ Abigail
 
 Introduced in Acme-MetaSyntactic-Themes version 1.004.
 
+=item *
+
+2005-10-26
+
+Submitted by Abigail.
+
 =back
 
 =head1 SEE ALSO
