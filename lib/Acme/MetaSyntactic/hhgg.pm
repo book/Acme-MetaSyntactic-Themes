@@ -21,22 +21,56 @@ After glancing at
 L<http://en.wikisource.org/wiki/The_Ultra-Complete_Index_to_the_Hitch_Hiker%27s_Guide_to_the_Galaxy>,
 I wonder if I should include all the entries...
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Aldo Calpini.
+Aldo Calpini, Philippe Bruhat, Jean Forget.
 
-Introduced in Acme-MetaSyntactic version 0.11, published on February 28, 2005.
 
-Updated by Philippe "BooK" Bruhat in version 0.14, published on March 21, 2005.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-04-10
+
+Link updated in Acme-MetaSyntactic version 0.69.
+
+=item *
+
+2005-06-27
 
 Link to I<The Ultra-Complete Index to the Hitch Hiker's Guide to the Galaxy>
 (written and entirely copyrighted 1992-94 by Mathias Maul)
-entry on wikipedia provided by Jean Forget in time for version 0.28,
-published on June 27, 2005. Link updated for version 0.69, published
-on April 10, 2006.
+entry on Wikipedia provided by Jean Forget in time for
+Acme-MetaSyntactic version 0.28.
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
+
+2005-03-21
+
+Updated by Philippe "BooK" Bruhat (item C<fortytwo>)
+in Acme-MetaSyntactic version 0.14.
+
+=item *
+
+2005-02-28
+
+Introduced in Acme-MetaSyntactic version 0.11.
+
+=item *
+
+2005-02-22
+
+Submitted by Aldo Calpini.
+
+=back
 
 =head1 SEE ALSO
 
