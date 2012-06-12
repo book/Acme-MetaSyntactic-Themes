@@ -122,8 +122,18 @@ The typograpical errors in the names have been corrected, though.
 
 Philippe Bruhat (BooK)
 
-Introduced in Acme-MetaSyntactic-Themes version 1.000, published on May 7, 2012
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.000
 (the day after the election of François Hollande).
+
+=back
 
 =head1 SEE ALSO
 
