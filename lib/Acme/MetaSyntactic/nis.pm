@@ -37,6 +37,12 @@ Received its own version number for Acme-MetaSyntactic-Themes version 1.000.
 
 Introduced in Acme-MetaSyntactic version 0.94.
 
+=item *
+
+2006-09-27
+
+Submitted by Abigail.
+
 =back
 
 =head1 SEE ALSO
