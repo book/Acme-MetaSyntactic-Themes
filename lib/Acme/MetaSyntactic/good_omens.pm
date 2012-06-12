@@ -192,10 +192,38 @@ __END__
 
 Jean Forget.
 
-Introduced in Acme-MetaSyntactic version 0.97, published on October 23, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-10-23
+
+Introduced in Acme-MetaSyntactic version 0.97.
+
+=item *
+
+2006-09-14
+
+Impressed by Abigail's technique of POD within here-doc, Jean Forget
+submitted a version of F<good_omens.pm> which uses the same trick,
+using the exact text of the corresponding chapter in the novel,
+with minor formatting changes to turn it into normal POD.
+
+=item *
+
+2006-06-21
+
+Submitted by Jean Forget
+
+=back
 
 =head1 SEE ALSO
 
