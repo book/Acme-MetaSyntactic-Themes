@@ -25,11 +25,30 @@ Paul Adkins, Motorbooks International
 
 Jean Forget
 
-Introduced in Acme-MetaSyntactic version 0.92, published on September 18, 2006
-(the 62nd anniversary of Market-Garden).
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-09-18
+
+Introduced in Acme-MetaSyntactic version 0.92,
+on the 62nd anniversary of Market-Garden.
+
+=item *
+
+2006-06-14
+
+Submitted by Jean Forget.
+
+=back
 
 =head1 SEE ALSO
 
