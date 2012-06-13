@@ -30,11 +30,24 @@ L<http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html>.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.36, published (one day late) on August 23, 2005.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with historical (withdrawn) currencies, made updatable, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-08-23
+
+Introduced in Acme-MetaSyntactic version 0.36, published (one day late).
+
+=back
 
 =head1 SEE ALSO
 
