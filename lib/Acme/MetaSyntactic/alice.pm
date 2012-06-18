@@ -27,6 +27,30 @@ Abigail
 Philippe dedicates this module to his eldest daughter, Alice,
 for her fifth birthday.
 
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-06-18 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.006.
+
+=item *
+
+2012-06-12
+
+Alice Bruhat-Souche turns 5.
+
+=item *
+
+2005-10-24
+
+Submitted by Abigail.
+
+=back
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>,
