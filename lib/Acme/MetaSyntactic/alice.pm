@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::alice;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -13,15 +14,22 @@ Acme::MetaSyntactic::alice - Alice in Wonderland/Through the Looking Glass
 
 Characters from both I<Alice in Wonderland> and I<Through the Looking Glass>.
 
+References:
+L<http://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland>,
+L<http://en.wikipedia.org/wiki/Through_the_Looking-Glass>.
+
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
+
+=head1 DEDICATION
+
+Philippe dedicates this module to his eldest daughter, Alice,
+for her fifth birthday.
 
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>,
-L<http://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland>,
-L<http://en.wikipedia.org/wiki/Through_the_Looking-Glass>.
 
 =cut
 
