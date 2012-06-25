@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -82,6 +82,9 @@ published in Acme-MetaSyntactic-Themes v1.001, on May 14,2012
 Updated from the source web site for v1.002,
 published in Acme-MetaSyntactic-Themes v1.003, on May 28, 2012.
 
+Updated from the source web site for v1.003,
+published in Acme-MetaSyntactic-Themes v1.007, on June 25, 2012.
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
@@ -124,7 +127,6 @@ Allysin_Chaynes
 Alyssa_Love
 Alyssa_Reece
 Amber_Lynn
-Amber_Michaels
 Amber_Rayne
 Ami_Ayukawa
 Amy_Ried
@@ -246,7 +248,6 @@ Cate_Harrington
 Catherine_Count
 Cathy_Barry
 Celeste
-Celeste_Star
 Celia_Blanco
 Chanel_Preston
 Charley_Chase
@@ -280,6 +281,7 @@ Claudia_Rossi
 Claudine_Beccarie
 Colleen_Brennan
 Constance_Money
+Coralie_Trinh_Thi
 Courtney_Cummz
 Courtney_Simpson
 Crissy_Moran
@@ -359,11 +361,11 @@ Haley_Paige
 Halli_Aston
 Hannah_Harper
 Hanna_Hilton
-Harmony_Rose
 Haruki_Mizuno
 Heather_Gables
 Heather_Hunter
 Heather_Lynn
+Heather_Starlet
 Heidi_Mayne
 Helen_Duval
 Hikari_Hino
