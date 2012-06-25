@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::camelidae;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -15,7 +16,7 @@ The Perl community's favourite animals.
 
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
 
 =head1 SEE ALSO
 
