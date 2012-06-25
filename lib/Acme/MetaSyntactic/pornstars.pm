@@ -55,6 +55,12 @@ Sébastien Aperghis-Tramoni.
 
 =item *
 
+2012-06-25 - v1.003
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.007.
+
+=item *
+
 2012-05-28 - v1.002
 
 Updated from the source web site in Acme-MetaSyntactic-Themes version 1.003.
