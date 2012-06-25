@@ -47,6 +47,12 @@ Philippe Bruhat (BooK).
 
 =item *
 
+2012-06-25 - v1.002
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.007.
+
+=item *
+
 2012-05-28 - v1.001
 
 Updated from the source web site in Acme-MetaSyntactic-Themes version 1.003.
@@ -83,9 +89,6 @@ Updated from the source web site in Acme-MetaSyntactic version 0.97.
 Introduced in Acme-MetaSyntactic version 0.95.
 
 =back
-
-Updated from the source web site for v1.002,
-published in Acme-MetaSyntactic-Themes v1.007, June 25, 2012.
 
 =head1 DEDICATION
 
