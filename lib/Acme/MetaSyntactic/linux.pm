@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -84,6 +84,9 @@ Introduced in Acme-MetaSyntactic version 0.95.
 
 =back
 
+Updated from the source web site for v1.002,
+published in Acme-MetaSyntactic-Themes v1.007, June 25, 2012.
+
 =head1 DEDICATION
 
 This module is dedicated to the Linux kernel for its fifteenth
@@ -149,7 +152,6 @@ CAINE
 Caixa_M_gica
 Calculate
 Canaima
-Caos
 C_tix
 CCux
 CDlinux
@@ -219,6 +221,7 @@ Inquisitor
 Insigne
 IPCop
 IPFire
+iQunix
 Jibbed
 JoLinux
 Joli_OS
@@ -303,7 +306,6 @@ PAIPIX
 paldo
 PapugLinux
 Parabola
-Pardus
 Parsix
 Parted_Magic
 PC_BSD
