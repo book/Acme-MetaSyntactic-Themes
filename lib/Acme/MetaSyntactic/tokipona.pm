@@ -3,6 +3,15 @@ use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
 __PACKAGE__->init();
+
+our %Remote = (
+    source  => 'http://en.tokipona.org/wiki/Category:Toki_Pona_words',
+    extract => sub {
+        map { split /, / }
+        $_[0] =~ m{<li><a href="/wiki/[\w,]+" title="([\w, ]+)">\1</a></li>}mg;
+    },
+);
+
 1;
 
 =head1 NAME
