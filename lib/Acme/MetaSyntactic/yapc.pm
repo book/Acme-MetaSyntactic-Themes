@@ -78,29 +78,70 @@ This conference was held in conjunction with CONISLI
 
 =back
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Mark Fowler asked me for this list during YAPC::Europe 2005.
+Mark Fowler, Philippe Bruhat (BooK), Abigail.
 
-Introduced in Acme-MetaSyntactic version 0.40, published on September 19, 2005.
+=head1 CHANGES
 
-Updated by Abigail in version 0.47, published on November 7, 2005.
+=over 4
 
-Updated in version 0.49, published on November 21, 2005.
+=item *
 
-Updated in version 0.59, published on January 30, 2006.
+2012-05-14 - v1.001
 
-Updated with the YAPC for 2007 in version 0.90, published on September 4, 2006.
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
 
-Updated with several other 2006 and 2007 YAPC, and turned into a
-MultiList by Abigail in version 0.91, published on September 11, 2006.
+=item *
+
+2012-05-07 - v1.000
 
 Updated with all YAPC since 2007, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=item *
+
+2006-09-11
+
+Updated with several other 2006 and 2007 YAPC, and turned into a
+MultiList by Abigail in Acme-MetaSyntactic version 0.91.
+
+=item *
+
+2006-09-04
+
+Updated with the YAPC for 2007 in Acme-MetaSyntactic version 0.90.
+
+=item *
+
+2006-01-30
+
+Updated in Acme-MetaSyntactic version 0.59.
+
+=item *
+
+2005-11-21
+
+Updated in Acme-MetaSyntactic version 0.49.
+
+=item *
+
+2005-11-07
+
+Updated by Abigail in Acme-MetaSyntactic version 0.47.
+
+=item *
+
+2005-09-19
+
+Introduced in Acme-MetaSyntactic version 0.40.
+
+=item *
+
+Mark Fowler asked me for this list during YAPC::Europe 2005 in Braga, Portgual.
+
+=back
 
 =head1 SEE ALSO
 
