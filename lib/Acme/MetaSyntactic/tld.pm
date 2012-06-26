@@ -36,7 +36,7 @@ Scott Lanning, Philippe Bruhat (BooK).
 2012-05-07 - v1.000
 
 Made updatable, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
 =item *
 

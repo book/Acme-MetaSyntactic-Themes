@@ -38,7 +38,7 @@ Alberto Manuel Brandão Simões.
 
 Updated with roman numbers up to 3999 and an explanation about this
 limit by Jean Forget, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
 =item *
 

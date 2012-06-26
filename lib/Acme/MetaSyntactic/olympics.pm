@@ -132,7 +132,7 @@ Updated by Abigail in Acme-MetaSyntactic-Themes version 1.001.
 2012-05-07 - v1.000
 
 Updated with recent future Olympic cities, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
 =item *
 

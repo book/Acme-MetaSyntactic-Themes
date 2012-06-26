@@ -26,7 +26,7 @@ Ricardo Signes.
 
 2012-05-07 - v1.000
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000.
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
 =item *
 

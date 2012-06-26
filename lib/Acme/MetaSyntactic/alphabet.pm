@@ -34,7 +34,7 @@ Thanks to Estelle Souche for help with the Yiddish Alef-Beys.
 2012-05-07 - v1.000
 
 Updated with small fixes for category C<nato> (see RT #50160), and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
 =item *
 
