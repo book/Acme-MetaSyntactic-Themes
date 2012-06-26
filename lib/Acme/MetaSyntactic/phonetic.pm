@@ -6,6 +6,8 @@ our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::phonetic - The phonetic theme
@@ -17,28 +19,85 @@ Several phonetic alphabets.
 Most of them come from this list:
 L<http://montgomery.cas.muohio.edu/meyersde/PhoneticAlphabets.htm>
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
+
+Michel Rodriguez, Philippe Bruhat (BooK), David Landgren, Gisbert W. Selke,
+Abigail, Olivier Mengué, Jean Forget.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Updated with small fixes for categories C<x-nato> and C<en>, and
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2012-04-26
+
+Jean Forget requested that "tare" is used instead of "tare" for the
+English list (RT #50160).
+
+=item *
+
+2009-10-01
+
+Olivier Mengué spotted a typo in the C<x-nato> list (RT #50160).
+
+=item *
+
+2006-09-11
+
+Updated in Acme-MetaSyntactic version 0.91.
+
+=item *
+
+2006-09-10
+
+Abigail sent a patch adding the Dutch list.
+
+=item *
+
+2006-05-15
+
+Updated in Acme-MetaSyntactic version 0.74.
+
+=item *
+
+2006-05-10
+
+Gisbert W. Selke sent a fix for the German version.
+
+=item *
+
+2005-09-05
+
+Updated to handle multilingual phonetics in Acme-MetaSyntactic version 0.38
+While I was at it, I also added French, German and Italian.
+
+=item *
+
+2005-08-23
+
+David Landgren requested Swahili and English (RT #14276).
+
+=item *
+
+2005-02-07
+
+Introduced in Acme-MetaSyntactic version 0.08.
+
+=item *
+
+2005-01-16
 
 Michel Rodriguez provided the first list (NATO official phonetic alphabet).
 
-Added Swahili and English on request of David Landgren, thus closing
-RT ticket #14276.
-While I was at it, I also added French, German and Italian.
-
-Introduced in Acme-MetaSyntactic version 0.08, published on February 7, 2005.
-
-Updated to handle multilingual phonetics in version 0.38,
-published on September 5, 2005.
-
-Updated (German fix by Gisbert W. Selke) in version 0.74, published on
-May 15, 2006.
-
-Updated with the Dutch list by Abigail in version 0.91, published on
-September 11, 2006.
-
-Updated with small fixes for categories C<x-nato> and C<en> (see RT #50160), and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=back
 
 =head1 SEE ALSO
 
