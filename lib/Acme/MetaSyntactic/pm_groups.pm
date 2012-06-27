@@ -29,54 +29,122 @@ Perl Mongers file L<http://www.pm.org/groups/perl_mongers.xml>.
 
 =head1 CONTRIBUTOR
 
-Philippe "BooK" Bruhat
+Philippe Bruhat (BooK)
 
-Introduced in Acme-MetaSyntactic version 0.49, published on November 21, 2005.
-
-Updated in version 0.56 (28 groups disappeared and 4 groups were created),
-published on January 9, 2006.
-
-Later updates (from the source web site):
+=head1 CHANGES
 
 =over 4
 
-=item * version 0.58, published on January 23, 2006.
+=item *
 
-=item * version 0.60, published on February 6, 2006.
+2012-06-25 - v1.002
 
-=item * version 0.61, published on February 13, 2006.
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.007.
 
-=item * version 0.64, published on March 6, 2006.
+=item *
 
-=item * version 0.72, published on May 1, 2006.
+2012-05-28 - v1.001
 
-=item * version 0.77, published on June 5, 2006.
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.003.
 
-=item * version 0.79, published on June 19, 2006.
+=item *
 
-=item * version 0.82, published on July 10, 2006.
-
-=item * version 0.87, published on August 14, 2006.
-
-=item * version 0.91, published on September 11, 2006.
-
-=item * version 0.93, published on September 25, 2006.
-
-=item * version 0.95, published on October 9, 2006.
-
-=item * version 0.99, published on November 6, 2006.
-
-=back
+2012-05-07 - v1.000
 
 Updated with changes since November 2006, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated from the source web site for v1.001,
-published in Acme-MetaSyntactic-Themes v1.003, May 28, 2012.
+=item *
 
-Updated from the source web site for v1.002,
-published in Acme-MetaSyntactic-Themes v1.007, June 25, 2012.
+2006-11-06
+
+Updated from the source web site in Acme-MetaSyntactic version 0.99.
+
+=item *
+
+2006-10-09
+
+Updated from the source web site in Acme-MetaSyntactic version 0.95.
+
+=item *
+
+2006-09-25
+
+Updated from the source web site in Acme-MetaSyntactic version 0.93.
+
+=item *
+
+2006-09-11
+
+Updated from the source web site in Acme-MetaSyntactic version 0.91.
+
+=item *
+
+2006-080-14
+
+Updated from the source web site in Acme-MetaSyntactic version 0.87.
+
+=item *
+
+2006-07-10
+
+Updated from the source web site in Acme-MetaSyntactic version 0.82.
+
+=item *
+
+2006-06-19
+
+Updated from the source web site in Acme-MetaSyntactic version 0.79.
+
+=item *
+
+2006-06-05
+
+Updated from the source web site in Acme-MetaSyntactic version 0.77.
+
+=item *
+
+2006-05-01
+
+Updated from the source web site in Acme-MetaSyntactic version 0.72.
+
+=item *
+
+2006-03-06
+
+Updated from the source web site in Acme-MetaSyntactic version 0.64.
+
+=item *
+
+2006-02-13
+
+Updated from the source web site in Acme-MetaSyntactic version 0.61.
+
+=item *
+
+2006-02-06
+
+Updated from the source web site in Acme-MetaSyntactic version 0.60.
+
+=item *
+
+2006-01-23
+
+Updated from the source web site in Acme-MetaSyntactic version 0.58.
+
+=item *
+
+2006-01-09
+
+Updated from the source web site in Acme-MetaSyntactic version 0.56.
+
+=item *
+
+2005-11-21
+
+Introduced in Acme-MetaSyntactic version 0.49.
+
+=back
 
 =head1 SEE ALSO
 

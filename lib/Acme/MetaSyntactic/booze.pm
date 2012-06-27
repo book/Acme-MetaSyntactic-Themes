@@ -19,19 +19,42 @@ Types of alcoholic beverages.
 Nicholas Clark, after seeing BooK's talk at YAPC::Europe 2005 and amazed
 that there was such an obvious omission.
 
-Introduced in Acme-MetaSyntactic version 0.45, published on October 24, 2005.
-
-Updated in version 0.51 (thus closing RT ticket #16256 opened by David
-Landgren), published on December 5, 2005.
-
-Updated with Chartreuse (incredible omission!), and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
 =head1 BUGS
 
 This list is incomplete. I try to drink my way further along, but I forget
 where I get to. C<%-)>
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Updated with Chartreuse (incredible omission!), and
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-12-05
+
+Updated in Acme-MetaSyntactic version 0.51
+(thus closing RT ticket #16256 opened by David Landgren).
+
+=item *
+
+2005-10-24
+
+Introduced in Acme-MetaSyntactic version 0.45.
+
+=item *
+
+2005-09-08
+
+Submitted by Nicholas Clark.
+
+=back
 
 =head1 SEE ALSO
 

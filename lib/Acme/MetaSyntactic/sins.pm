@@ -35,14 +35,34 @@ French: L<http://mapage.noos.fr/lesaviezvous/cps/seven.htm>.
 
 =back
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Abigail
+Abigail, Philippe Bruhat (BooK).
 
-Introduced in Acme-MetaSyntactic version 0.87, published on August 14, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-08-14
+
+Introduced in Acme-MetaSyntactic version 0.87,
+with the addition of the French list.
+
+=item *
+
+2005-10-24
+
+Submitted by Abigail, with English and Dutch lists of the sins.
+
+=back
 
 =head1 SEE ALSO
 

@@ -25,23 +25,39 @@ of dancers that appears on several pages of her site.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.12, published on March 7, 2005.
-
-Patched to contain valid identifiers in version 0.15,
-published on March 28, 2005.
-
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
-=head1 SEE ALSO
-
-L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
-
 =head1 PRIVATE MESSAGES
 
 Happy birthday!
 
 C<< Philippe <3 Estelle. >>
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-03-28
+
+Patched to contain valid identifiers in Acme-MetaSyntactic version 0.15.
+
+=item *
+
+2005-03-07
+
+Introduced in Acme-MetaSyntactic version 0.12.
+
+=back
+
+=head1 SEE ALSO
+
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 =cut
 

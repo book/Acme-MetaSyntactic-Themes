@@ -23,13 +23,36 @@ French list taken from L<http://dico.isc.cnrs.fr/dico/fr/search>.
 
 Jérôme Fenal.
 
-Introduced in Acme-MetaSyntactic version 0.35, published on August 15, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-08-15
+
+Introduced in Acme-MetaSyntactic version 0.35.
+
+=item *
+
+2005-03-21
+
+Submitted by Jérôme Fenal.
+
+=back
 
 =head1 SEE ALSO
 

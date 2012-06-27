@@ -25,10 +25,29 @@ L<http://web.mit.edu/network/pgpfone/manual/#PGP000062>
 
 David Golden
 
-Introduced in Acme-MetaSyntactic version 0.80, published on June 26, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-06-26
+
+Introduced in Acme-MetaSyntactic version 0.80.
+
+=item *
+
+2006-01-19
+
+Submitted by David Golden.
+
+=back
 
 =head1 SEE ALSO
 

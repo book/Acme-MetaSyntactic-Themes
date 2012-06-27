@@ -19,10 +19,29 @@ L<http://http://en.wikipedia.org/wiki/Gemstone>.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.60, published on February 6, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-02-06
+
+Introduced in Acme-MetaSyntactic version 0.60.
+
+=item *
+
+2005-10-27
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

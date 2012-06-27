@@ -32,14 +32,35 @@ L<http://www.whitehouse.gov/history/presidents/index.html>.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.52, published on December 12, 2005.
+=head1 CHANGES
 
-Updated (correction of a typo) by Abigail again
-in version 0.57, published on January 16, 2006.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with the new US president since 2008, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-01-16
+
+Updated (correction of a typo) by Abigail again
+in Acme-MetaSyntactic version 0.57.
+
+=item *
+
+Introduced in Acme-MetaSyntactic version 0.52, published on December 12, 2005.
+
+=item *
+
+2005-10-20
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

@@ -113,17 +113,40 @@ __PACKAGE__->init( { names => $data } );
 
 __END__
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Abigail
+Abigail, Philippe Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.82, published on July 10, 2006.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated by Abigail in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with recent future Olympic cities, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated by Abigail in version 1.001, published on May 14, 2012.
+=item *
+
+2006-07-10
+
+Introduced in Acme-MetaSyntactic version 0.82.
+
+=item *
+
+2006-01-26
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

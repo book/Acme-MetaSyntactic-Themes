@@ -51,23 +51,64 @@ in games (who'll be the wolf?)
 
 =head1 CONTRIBUTORS
 
+Xavier Caron, Paul-Christophe Varoutas, Abigail, Yanick and Anja Champoux.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command in Acme-Meta version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-04-03
+
+Updated with the German theme in Acme-MetaSyntactic version 0.68.
+
+=item *
+
+2006-03-24
+
+Yanick Champoux provided a patch to add a German countring rhyme (RT #18330).
+
+=item *
+
+2005-11-07
+
+Updated with the Dutch theme in Acme-MetaSyntactic version 0.47.
+
+=item *
+
+2005-10-25
+
+Abigail provided a patch to add a Dutch counting rhyme.
+
+=item *
+
+2005-09-12
+
+Patched a typo in Acme-MetaSyntactic version 0.39.
+
+=item *
+
+2005-07-11
+
+Introduced in Acme-MetaSyntactic version 0.30.
+
 Xavier Caron proposed the idea in French, and Paul-Christophe Varoutas
-provided the English version. Abigail provided the Dutch version.
-Yanick and Anja Champoux provided the German theme.
+provided the English version.
 
-Introduced in Acme-MetaSyntactic version 0.30, published on July 11, 2005.
-
-Patched a typo in version 0.39, published on September 12, 2005.
-
-Updated with the Dutch theme in version 0.47, published on November 7, 2005.
-
-Updated with the German theme in version 0.68, published on April 3, 2006.
-
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=back
 
 =head1 SEE ALSO
 

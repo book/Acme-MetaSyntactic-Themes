@@ -56,16 +56,38 @@ which increased the theme size by a factor of 14.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.33, published on August 1, 2005.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-07-24
+
+Updated with a link to the IANA list in Acme-MetaSyntactic version 0.84.
+
+=item *
+
+2006-04-03
 
 Updated and made automatically updatable with the I<graffiti.com> list
-in version 0.68, published on April 3, 2006.
+in Acme-MetaSyntactic version 0.68.
 
-Updated with a link to the IANA list in version 0.84, published
-on July 24, 2006.
+=item *
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+2005-08-01
+
+Introduced in Acme-MetaSyntactic version 0.33, published on August 1, 2005.
+
+I got the idea for this list on IRC, on the day it was published.
+
+=back
 
 =head1 SEE ALSO
 

@@ -42,18 +42,43 @@ Characters from the Simpsons serial.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.04, published on January 15, 2005.
+=head1 CHANGES
 
-Disappeared in version 0.12, published on March 6, 2005.
+=over 4
 
-Re-introduced in version 0.26, published on June 13, 2005.
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-07-24
 
 Made updatable with L<http://tim.rawle.org/simpsons/chars.htm>
 (link provided on January 16, 2005 by Matthew Musgrove)
-in version 0.84, published on July 24, 2006.
+in Acme-MetaSyntactic version 0.84.
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
+
+2005-06-13
+
+Re-introduced in Acme-MetaSyntactic version 0.26.
+
+=item *
+
+2005-03-06
+
+Disappeared in Acme-MetaSyntactic version 0.12.
+
+=item *
+
+2005-01-15
+
+Introduced in Acme-MetaSyntactic version 0.04, published on January 15, 2005.
+
+=back
 
 =head1 SEE ALSO
 

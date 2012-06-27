@@ -17,16 +17,33 @@ Names of various punctuation marks.
 This list is based on a browsing session starting from:
 L<http://en.wikipedia.org/wiki/Punctuation>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Philippe "BooK" Bruhat.
+Philippe Bruhat (BooK), Abigail.
 
-Introduced in Acme-MetaSyntactic version 0.29, published on July 4, 2005.
+=head1 CHANGES
 
-Updated by Abigail in version 0.91, publish on September 11, 2006.
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-09-11
+
+Updated by Abigail in Acme-MetaSyntactic version 0.91.
+
+=item *
+
+2005-07-04
+
+Introduced in Acme-MetaSyntactic version 0.29.
+
+=back
 
 =head1 SEE ALSO
 

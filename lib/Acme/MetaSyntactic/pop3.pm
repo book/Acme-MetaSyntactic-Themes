@@ -29,10 +29,23 @@ RFC 1081.
 
 Philippe "BooK" Bruhat
 
-Introduced in Acme-MetaSyntactic version 0.67, published on March 27, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-03-27
+
+Introduced in Acme-MetaSyntactic version 0.67.
+
+=back
 
 =head1 SEE ALSO
 

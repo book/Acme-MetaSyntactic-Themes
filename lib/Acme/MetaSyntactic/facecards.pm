@@ -18,10 +18,23 @@ The traditional names of face cards in French playing cards.
 
 Estelle Souche.
 
-Introduced in Acme-MetaSyntactic version 0.47, published on November 7, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-11-07
+
+Introduced in Acme-MetaSyntactic version 0.47.
+
+=back
 
 =head1 SEE ALSO
 

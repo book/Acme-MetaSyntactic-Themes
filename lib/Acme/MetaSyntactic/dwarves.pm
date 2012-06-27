@@ -16,23 +16,59 @@ Snow-White seven dwarves.
 
 =head1 CONTRIBUTORS
 
-Antoine Hulin (January 2005).
-Proposed again by Abigail (October 2005).
-Proposed yet again by Xavier Caron (October 2005).
+Antoine Hulin, Abigail, Xavier Caron.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated by Abigail (added Irish Gaelic and Croatian)
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-05-15
+
+Updated by Abigail (added Danish, German, Spanish, Finnish, Hungarian,
+Italian, Norwegian, Portuguese and Swedish) in Acme-MetaSyntactic version 0.74.
+
+=item *
+
+2005-11-14
+
+Introduced in Acme-MetaSyntactic version 0.48.
+
+=item *
+
+2005-10-28
+
+English and French lists proposed by Xavier Caron.
 
 I definitely I<had> to include this list! C<:-)>
 
-Introduced in Acme-MetaSyntactic version 0.48, published on November 14, 2005.
+=item *
 
-Updated by Abigail (added Danish, German, Spanish, Finnish, Hungarian,
-Italian, Norwegian, Portuguese and Swedish) in version 0.74, published
-on May 15, 2006.
+2005-10-23
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+Submitted as a simple list of English names by Abigail.
 
-Updated by Abigail (added Irish Gaelic and Croatian) in version 1.001,
-published in May 14, 2012.
+=item *
+
+2005-01-30
+
+Initial lists (French and English) proposed by Antoine Hulin.
+
+=back
 
 =head1 SEE ALSO
 

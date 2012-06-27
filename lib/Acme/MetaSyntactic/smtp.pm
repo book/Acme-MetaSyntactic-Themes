@@ -20,10 +20,29 @@ RFC 2821 (L<http://www.ietf.org/rfc/rfc2821.txt>).
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.66, published on March 20, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-03-20
+
+Introduced in Acme-MetaSyntactic version 0.66.
+
+=item *
+
+2005-10-27
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

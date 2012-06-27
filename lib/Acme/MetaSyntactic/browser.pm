@@ -26,18 +26,43 @@ L<https://en.wikipedia.org/wiki/List_of_web_browsers>.
 
 Philippe "BooK" Bruhat, Sébastien Aperghis-Tramoni, Rafaël Garcia-Suarez.
 
-Introduced in Acme-MetaSyntactic version 0.05, published on January 16, 2005.
+=head1 CHANGES
 
-Updated in version 0.70, published on April 17, 2006.
+=over 4
 
-Updated in version 0.96, published on October 16, 2006.
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with Google Chrome, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=item *
+
+2006-10-16
+
+Updated in Acme-MetaSyntactic version 0.96.
+
+=item *
+
+2006-04-17
+
+Updated in Acme-MetaSyntactic version 0.70.
+
+=item *
+
+2005-01-16
+
+Introduced in Acme-MetaSyntactic version 0.05.
+
+=back
 
 =head1 SEE ALSO
 

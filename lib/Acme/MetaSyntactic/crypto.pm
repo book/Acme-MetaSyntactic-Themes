@@ -24,18 +24,45 @@ L<http://en.wikipedia.org/wiki/Alice_and_Bob>
 
 =head1 CONTRIBUTORS
 
-Idea by Anonymous C<< <nobody@nowhere.org> >>. See ticket #9725 on
-L<http://rt.cpan.org/>.
+Anonymous, Guy Widloecher.
 
-Guy Widloecher provided some more items and links. See the
-same ticket on RT.
+=head1 CHANGES
 
-Introduced in Acme-MetaSyntactic version 0.04, published on January 15, 2005.
+=over 4
 
-Updated in version 0.28, published on June 27, 2005.
+=item *
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-06-27
+
+Updated in Acme-MetaSyntactic version 0.28.
+
+=item *
+
+2005-06-23
+
+Guy Widloecher provided some more items and links.
+See ticket #9725 on L<http://rt.cpan.org/>.
+
+=item *
+
+2005-01-15
+
+Introduced in Acme-MetaSyntactic version 0.04.
+
+=item *
+
+2005-01-14
+
+Idea by Anonymous C<< <nobody@nowhere.org> >>.
+See ticket #9725 on L<http://rt.cpan.org/>.
+
+=back
 
 =head1 SEE ALSO
 

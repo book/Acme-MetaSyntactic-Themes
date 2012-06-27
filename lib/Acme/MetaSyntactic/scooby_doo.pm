@@ -18,10 +18,29 @@ Characters from the Scooby-Doo serial.
 
 Michel Rodriguez
 
-Introduced in Acme-MetaSyntactic version 0.78, published on June 12, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-06-12
+
+Introduced in Acme-MetaSyntactic version 0.78.
+
+=item *
+
+2005-01-16
+
+List proposed by Michel Rodriguez.
+
+=back
 
 =head1 SEE ALSO
 

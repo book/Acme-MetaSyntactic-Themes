@@ -16,19 +16,47 @@ Acme::MetaSyntactic::discworld - The Discworld theme
 
 This theme contains items from Terry Pratchett's Discworld series.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Martin Vorländer.
+Martin Vorländer, Jean Forget.
 
-Introduced in Acme-MetaSyntactic version 0.42, published on October 3, 2005.
+=head1 CHANGES
 
-Updated by Jean Forget in version 0.47, published on November 7, 2005.
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command.
+
+Published in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-11-07
+
+Updated by Jean Forget in Acme-MetaSyntactic version 0.47.
+
+=item *
+
+2005-10-03
+
+Introduced in Acme-MetaSyntactic version 0.42.
+
+=item *
+
+2005-09-02
+
+Initial list proposed by Martin Vorländer.
+
+=back
 
 =head1 SEE ALSO
 

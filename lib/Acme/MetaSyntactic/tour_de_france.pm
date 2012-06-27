@@ -146,14 +146,38 @@ The official website for I<Le tour de France> is L<http://www.letour.fr/>.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.84, published on July 24, 2006.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with winners since 2006, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=item *
+
+2006-07-24
+
+Introduced in Acme-MetaSyntactic version 0.84.
+
+=item *
+
+2005-11-08
+
+Submitted by Abigail, who suggested to peek at the code, as it's using
+an interesting trick to mix code and POD.
+
+=back
 
 =head1 SEE ALSO
 

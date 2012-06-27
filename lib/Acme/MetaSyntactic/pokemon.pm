@@ -37,28 +37,71 @@ The Wikipedia page lists I<English names>, I<Romanisation> and
 I<Trademarked Romaji>. For each Pokémon, the named linked internally
 by Wikipedia has been chosen.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Abigail
+Abigail, Philippe Bruhat (BooK)
 
-Introduced in Acme-MetaSyntactic version 0.56, published on January 9, 2006.
+=head1 CHANGES
 
-Updated in version 0.57, published on January 16, 2006.
+=over 4
 
-Updated in version 0.59, published on January 30, 2006.
+=item *
 
-Updated in version 0.64, published on March 6, 2006.
+2012-05-14 - v1.001
 
-Updated in version 0.82, published on July 10, 2006.
+Updated with typographical corrections by Abigail
+in Acme-MetaSyntactic-Themes version 1.001.
 
-Updated in version 0.99, published on November 6, 2006.
+=item *
+
+2012-05-07 - v1.000
 
 Updated with new extraction code and new Pokémons since November 2006, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated with typographical corrections by Abigail in version 1.001,
-published on May 14, 2012.
+=item *
+
+2006-11-06
+
+Updated in Acme-MetaSyntactic version 0.99.
+
+=item *
+
+2006-07-10
+
+Updated in Acme-MetaSyntactic version 0.82.
+
+=item *
+
+2006-03-06
+
+Updated in Acme-MetaSyntactic version 0.64.
+
+=item *
+
+2006-01-30
+
+Updated in Acme-MetaSyntactic version 0.59.
+
+=item *
+
+2006-01-16
+
+Updated in Acme-MetaSyntactic version 0.57.
+
+=item *
+
+2006-01-09
+
+Introduced in Acme-MetaSyntactic version 0.56, with a remote list.
+
+=item *
+
+2005-10-26
+
+Submitted by Agigail as a simple list.
+
+=back
 
 =head1 SEE ALSO
 

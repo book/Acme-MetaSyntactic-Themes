@@ -21,8 +21,23 @@ See L<https://en.wikipedia.org/wiki/Santa_Claus%27s_reindeer>
 
 Abigail
 
-Introduced in Acme-MetaSyntactic-Themes version 1.002,
-published on May 21, 2012.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-21 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.002.
+
+=item *
+
+2005-10-24
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

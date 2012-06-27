@@ -21,15 +21,28 @@ be wrong. Please correct me.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.21, published on May 9, 2005.
-
-Updated with small fixes for category C<nato> (see RT #50160), and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
 =head1 ACKNOWLEDGMENTS
 
 Thanks to Estelle Souche for help with the Yiddish Alef-Beys.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Updated with small fixes for category C<nato> (see RT #50160), and
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-05-09
+
+Introduced in Acme-MetaSyntactic version 0.21.
+
+=back
 
 =head1 SEE ALSO
 

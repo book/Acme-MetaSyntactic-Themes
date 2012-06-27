@@ -21,10 +21,29 @@ flower. Which leaves 43 different flowers.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.90, published on September 4, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-09-04
+
+Introduced in Acme-MetaSyntactic version 0.90.
+
+=item *
+
+2005-11-01
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

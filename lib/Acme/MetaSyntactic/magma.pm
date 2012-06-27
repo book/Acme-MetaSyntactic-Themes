@@ -41,11 +41,24 @@ L<http://en.wikipedia.org/wiki/Magma_(band)>
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.98, published on October 30, 2006.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with the songs from the album Ëmëhntëhtt-Rê, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-10-30
+
+Introduced in Acme-MetaSyntactic version 0.98.
+
+=back
 
 =head1 SEE ALSO
 

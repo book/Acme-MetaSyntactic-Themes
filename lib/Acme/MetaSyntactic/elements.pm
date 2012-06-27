@@ -20,21 +20,41 @@ as given in the standard periodic table, up to the 118th element.
 The default list is the list of chemical symbols. The language code
 for this list is C<x-elements> (an extension to RFC 3066).
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Sébastien Aperghis-Tramoni.
+Sébastien Aperghis-Tramoni, Abigail.
 
-Introduced in Acme-MetaSyntactic version 0.17, published on April 11, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14, 2012.
+=item *
+
+2012-06-04 - v1.002
 
 Updated with Copernicium, Flerovium, and Livermorium by Abigail
-in version 1.002,
-published on June 4, 2012.
+in Acme-MetaSyntactic-Themes version 1.004.
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-04-11
+
+Introduced in Acme-MetaSyntactic version 0.17.
+
+=back
 
 =head1 SEE ALSO
 

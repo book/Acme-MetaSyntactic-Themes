@@ -26,13 +26,36 @@ team of 30 physicists at the Stanford Positron-Electron Asymmetric Ring.
 
 Sébastien Aperghis-Tramoni.
 
-Introduced in Acme-MetaSyntactic version 0.22, published on May 16, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-05-16
+
+Introduced in Acme-MetaSyntactic version 0.22.
+
+=item *
+
+2005-03-14
+
+List proposed by Sébastien Aperghis-Tramoni.
+
+=back
 
 =head1 SEE ALSO
 

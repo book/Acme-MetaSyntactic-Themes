@@ -21,10 +21,30 @@ L<http://en.wikipedia.org/wiki/List_of_stars_by_constellation>.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.44, published on October 17, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-10-17
+
+Introduced in Acme-MetaSyntactic version 0.44.
+
+=item *
+
+2005-08-24
+
+The IRC conversation that lead to L<Acme::MetaSyntactic::stars>
+inevitably lead to this theme also.
+
+=back
 
 =head1 SEE ALSO
 

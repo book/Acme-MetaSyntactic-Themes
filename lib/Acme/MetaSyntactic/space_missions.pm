@@ -67,16 +67,55 @@ L<http://en.wikipedia.org/wiki/Space_disaster>.
 
 Jean Forget
 
-Introduced in Acme-MetaSyntactic version 0.41 as C<apollo>, published on September 26, 2005.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-08-21
+
+Updated with themes C<manned_spacecraft>, C<launch_vehicles> and C<victims>
+in Acme-MetaSyntactic version 0.88.
+
+=item *
+
+2006-08-07
 
 Augmented with other space missions and renamed C<space_missions> in
 version 0.86, published on August 7, 2006.
 
-Updated with themes C<manned_spacecraft>, C<launch_vehicles> and C<victims>
-in version 0.88, published on August 21, 2006.
+=item *
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+2006-06-14 - 2006-06-26
+
+Jean Forget proposed a new C<mercury> theme.
+I suggested grouping both lists under a single theme
+(C<space_missions>? C<nasa>?).
+
+Jean selected the name C<space_missions> for the theme,
+as he already had plans for other lists that were not related to the NASA.
+
+=item *
+
+2005-09-26
+
+Introduced in Acme-MetaSyntactic version 0.41 as theme C<apollo>.
+
+=item *
+
+2005-09-12
+
+Jean Forget proposed the list of Apollo command and lunar modules
+radio call signs.
+
+=back
 
 =head1 SEE ALSO
 

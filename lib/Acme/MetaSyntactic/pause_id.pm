@@ -27,45 +27,97 @@ This list seems to require frequent updates. C<;-)>
 
 =head1 CONTRIBUTOR
 
-Philippe "BooK" Bruhat.
+Philippe Bruhat (BooK).
 
-Introduced in Acme-MetaSyntactic version 0.89, published on August 28, 2006.
-
-Further updates:
+=head1 CHANGES
 
 =over 4
 
-=item * version 0.90, published on September 4, 2006
+=item *
 
-=item * version 0.91, published on September 11, 2006
+2012-06-25 - v1.002
 
-=item * version 0.92, published on September 18, 2006
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.007.
+=item *
 
-=item * version 0.93, published on September 25, 2006
+2012-05-28 - v1.001
 
-=item * version 0.94, published on October 2, 2006
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.003.
 
-=item * version 0.95, published on October 9, 2006
+=item *
 
-=item * version 0.96, published on October 16, 2006
+2012-05-07 - v1.000
 
-=item * version 0.97, published on October 23, 2006
+Updated with additions since November 2006, and
+received its own version number in  Acme-MetaSyntactic-Themes version 1.000.
 
-=item * version 0.98, published on October 30, 2006
+=item *
 
-=item * version 0.99, published on November 6, 2006.
+2006-11-06
+
+Updated from the source web site in Acme-MetaSyntactic version 0.99.
+
+=item *
+
+2006-10-30
+
+Updated from the source web site in Acme-MetaSyntactic version 0.98.
+
+=item *
+
+2006-10-23
+
+Updated from the source web site in Acme-MetaSyntactic version 0.97.
+
+=item *
+
+2006-10-16
+
+Updated from the source web site in Acme-MetaSyntactic version 0.96.
+
+=item *
+
+2006-10-09
+
+Updated from the source web site in Acme-MetaSyntactic version 0.95.
+
+=item *
+
+2006-10-02
+
+Updated from the source web site in Acme-MetaSyntactic version 0.94.
+
+=item *
+
+2006-09-25
+
+Updated from the source web site in Acme-MetaSyntactic version 0.93.
+
+=item *
+
+2006-09-18
+
+Updated from the source web site in Acme-MetaSyntactic version 0.92.
+
+=item *
+
+2006-09-11
+
+Updated from the source web site in Acme-MetaSyntactic version 0.91.
+
+=item *
+
+2006-09-04
+
+Updated from the source web site in Acme-MetaSyntactic version 0.90.
+
+=item *
+
+2006-08-28
+
+Introduced in Acme-MetaSyntactic version 0.89.
 
 =back
-
-Updated with updates since November 2006, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
-Updated from the source web site for v1.001,
-published in Acme-MetaSyntactic-Themes v1.003, May 28, 2012.
-
-Updated from the source web site for v1.002,
-published in Acme-MetaSyntactic-Themes v1.007, June 25, 2012.
 
 =head1 SEE ALSO
 

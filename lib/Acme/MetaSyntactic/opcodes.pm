@@ -20,21 +20,41 @@ Acme::MetaSyntactic::opcodes - The Perl opcodes theme
 =head1 DESCRIPTION
 
 The names of the Perl opcodes. They are given by the
-C<Opcode> module.
+L<Opcode> module.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Abigail
-
-Introduced in Acme-MetaSyntactic version 0.53, published on December 19, 2005.
-
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+Abigail, Philippe Bruhat (BooK)
 
 =head1 DEDICATION
 
 This module is dedicated to Perl, which turned 18 years old the day
 before this release was published.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-12-19
+
+Introduced in Acme-MetaSyntactic version 0.53, with the opcodes obtained
+automatically from the L<Opcode> module.
+
+=item *
+
+2005-10-25
+
+Submitted by Abigail as a simple list, with the C<OP_> prefix removed.
+
+=back
 
 =head1 SEE ALSO
 

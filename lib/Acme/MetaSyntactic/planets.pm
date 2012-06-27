@@ -24,16 +24,47 @@ Pluto is not a planet any more.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.63, published on February 27, 2006.
+=head1 CHANGES
 
-Made multilingual in version 0.73, published on May 8, 2006.
+=over 4
 
-Updated to 42 languages by Abigail in version 0.74, published on May 15, 2006.
+=item *
 
-Updated to remove Pluto in version 0.89, published on August 28, 2006.
+2012-05-07
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-08-28
+
+Updated to remove Pluto in Acme-MetaSyntactic version 0.89.
+
+=item *
+
+2006-05-15
+
+Updated to 42 languages by Abigail in Acme-MetaSyntactic version 0.74.
+
+=item *
+
+2006-05-08
+
+Made multilingual in Acme-MetaSyntactic version 0.73.
+
+=item *
+
+2006-02-27
+
+Introduced in Acme-MetaSyntactic version 0.63.
+
+=item *
+
+2005-10-27
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

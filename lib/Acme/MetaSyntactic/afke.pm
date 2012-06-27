@@ -20,8 +20,23 @@ the ten names.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic-Themes version 1.003,
-published on May 28, 2012.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-28 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.003.
+
+=item *
+
+2005-10-24
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

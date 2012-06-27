@@ -21,14 +21,31 @@ changed to C<NI_S>).
 
 Rafael Garcia-Suarez.
 
-Introduced in Acme-MetaSyntactic version 0.14, published on March 21, 2005.
+=head1 CHANGES
 
-Turned into a multilist (separate lists for different versions of Perl)
-by Abigail in version 0.74, published on May 15, 2006.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with new pumpkings since 2006, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-05-15
+
+Turned into a multilist (separate lists for different versions of Perl)
+by Abigail in Acme-MetaSyntactic version 0.74.
+
+=item *
+
+2005-03-21
+
+Introduced in Acme-MetaSyntactic version 0.14.
+
+=back
 
 =head1 SEE ALSO
 

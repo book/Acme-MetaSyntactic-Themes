@@ -18,10 +18,29 @@ The Pythonesque variable names used in Python examples.
 
 Ricardo Signes.
 
-Introduced in Acme-MetaSyntactic version 0.15, published on March 28, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-03-28
+
+Introduced in Acme-MetaSyntactic version 0.15.
+
+=item *
+
+2005-03-17
+
+Submitted by Ricardo Signes.
+
+=back
 
 =head1 SEE ALSO
 

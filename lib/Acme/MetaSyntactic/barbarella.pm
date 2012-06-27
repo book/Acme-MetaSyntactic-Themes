@@ -28,10 +28,29 @@ The list is taken from L<http://www.imdb.com/title/tt0062711/fullcredits>.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.57, published on January 16, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-01-16
+
+Introduced in Acme-MetaSyntactic version 0.57.
+
+=item *
+
+2005-10-26
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

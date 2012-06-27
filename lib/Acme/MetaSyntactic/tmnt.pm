@@ -35,12 +35,35 @@ the TMNT, see L<http://www.ninjaturtles.com/>.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.58, published on January 23, 2006.
+=head1 CHANGES
 
-Made updatable in version 0.59, published on January 30, 2006.
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
+
+2012-05-07
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-01-30
+
+Made updatable in Acme-MetaSyntactic version 0.59.
+
+=item *
+
+2006-01-23
+
+Introduced in Acme-MetaSyntactic version 0.58.
+
+=item *
+
+2005-10-26
+
+Submitted by Abigail.
+
+=back
 
 Source URL and list updated in v1.001, published in Acme-MetaSyntactic-Theme
 1.002, on May 21, 2012.

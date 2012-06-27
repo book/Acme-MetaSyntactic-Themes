@@ -18,6 +18,24 @@ The Perl community's favourite animals.
 
 Abigail
 
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-06-25 - v1.000
+
+Published in Acme-MetaSyntactic-Themes version 1.007
+
+=item *
+
+2005-11-01
+
+Submitted by Abigail.
+
+=back
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.

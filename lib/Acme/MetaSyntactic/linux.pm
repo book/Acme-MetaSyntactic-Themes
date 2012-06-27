@@ -39,31 +39,56 @@ Note that the distribution list also contains the *BSD projects.
 
 =head1 CONTRIBUTOR
 
-Philippe "BooK" Bruhat.
+Philippe Bruhat (BooK).
 
-Introduced in Acme-MetaSyntactic version 0.95, published on October 9, 2006.
-
-Later updates (from the source web site):
+=head1 CHANGES
 
 =over 4
 
-=item * version 0.97, published on October 23, 2006.
+=item *
 
-=item * version 0.98, published on October 30, 2006.
+2012-06-25 - v1.002
 
-=item * version 0.99, published on November 6, 2006.
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.007.
 
-=back
+=item *
+
+2012-05-28 - v1.001
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.003.
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with new extraction code and changes since November 2006, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated from the source web site for v1.001,
-published in Acme-MetaSyntactic-Themes v1.003, May 28, 2012.
+=item *
 
-Updated from the source web site for v1.002,
-published in Acme-MetaSyntactic-Themes v1.007, June 25, 2012.
+2006-11-06
+
+Updated from the source web site in Acme-MetaSyntactic version 0.99.
+
+=item *
+
+2006-10-30
+
+Updated from the source web site in Acme-MetaSyntactic version 0.98.
+
+=item *
+
+2006-10-23
+
+Updated from the source web site in Acme-MetaSyntactic version 0.97.
+
+=item *
+
+2006-10-09
+
+Introduced in Acme-MetaSyntactic version 0.95.
+
+=back
 
 =head1 DEDICATION
 

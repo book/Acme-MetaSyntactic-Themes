@@ -22,13 +22,35 @@ List taken from I<Pantagruel>, chapter 2, by Maistre Françoys Rabelais.
 
 Rafael Garcia-Suarez
 
-Introduced in Acme-MetaSyntactic version 0.72, published on May 1, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command in version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-05-01
+
+Introduced in Acme-MetaSyntactic version 0.72.
+
+=item *
+
+2006-03-23
+
+Initial list proposed by Rafaël Garcia-Suarez.
+
+=back
 
 =head1 SEE ALSO
 

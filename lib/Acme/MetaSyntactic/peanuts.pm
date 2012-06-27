@@ -22,10 +22,23 @@ The official Peanuts website is at L<http://www.snoopy.com/>.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.34, published on August 8, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-08-08
+
+Introduced in Acme-MetaSyntactic version 0.34.
+
+=back
 
 =head1 SEE ALSO
 

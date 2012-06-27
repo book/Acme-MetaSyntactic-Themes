@@ -28,12 +28,30 @@ L<http://8ball.ofb.net/answers.html>.
 
 Philippe "BooK" Bruhat.
 
-Introduced in Acme-MetaSyntactic version 0.19, published on April 25, 2005.
+=head1 CHANGES
 
-Corrected (4 items were missing) in version 0.24, published on May 30, 2005.
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-05-30
+
+Corrected (4 items were missing)
+in Acme-MetaSyntactic version 0.24.
+
+=item *
+
+2005-04-25
+
+Introduced in Acme-MetaSyntactic version 0.19.
+
+=back
 
 =head1 SEE ALSO
 

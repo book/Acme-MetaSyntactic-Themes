@@ -23,15 +23,32 @@ The list of top-level domainnames.
 The source for the list is
 L<http://www.ics.uci.edu/pub/websoft/wwwstat/country-codes.txt>
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
+
+Scott Lanning, Philippe Bruhat (BooK).
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Made updatable, and
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-01-24
+
+Introduced in Acme-MetaSyntactic version 0.06.
+
+=item *
 
 Idea by Scott Lanning (who suggested ISO 3166 country codes).
 
-Introduced in Acme-MetaSyntactic version 0.06, published on January 18, 2005.
-
-Made updatable, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=back
 
 =head1 SEE ALSO
 

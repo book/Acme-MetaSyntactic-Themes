@@ -16,17 +16,6 @@ Acme::MetaSyntactic::norse_mythology - Characters from Norse mythology.
 
 A selection of characters from Norse mythology.
 
-=head1 CONTRIBUTOR
-
-Abigail
-
-Introduced in Acme-MetaSyntactic version 0.75, published on May 22, 2006.
-
-Updated by Jean Forget in version 0.80, published on June 26, 2006.
-
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
 =head1 SOURCES
 
 Among others:
@@ -35,7 +24,7 @@ Among others:
 
 =item *
 
-I<La Saga de Gunnlöd>, 
+I<La Saga de Gunnlöd>,
 written by Svava Jakobsdottir,
 translated into French and annotated by Régis Boyer
 and published by José Corti
@@ -52,8 +41,52 @@ published by Gudrun
 
 =back
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=head1 CONTRIBUTORS
+
+Abigail, Jean Forget.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-06-26
+
+Updated by Jean Forget in Acme-MetaSyntactic version 0.80.
+
+Jean provided his bibliographic references.
+
+=item *
+
+2006-05-22
+
+Introduced in Acme-MetaSyntactic version 0.75, with categories
+I<dwarves>, I<giants>, I<gods>, I<valkyries>, I<worlds>.
+
+=item *
+
+2005-11-03
+
+Abigail submitted five more lists for L<Acme::MetaSyntactic>,
+all sharing a common element: Norse Mythology.
+
+The lists were Gods, Giants, Dwarves, Valkyries and Worlds.
+
+=back
 
 =head1 SEE ALSO
 

@@ -26,14 +26,31 @@ See the official Oulipo web site at L<http://www.oulipo.net/>.
 Philippe "BooK" Bruhat (co-creator of the first Oulipo web site, back
 in 1995).
 
-Introduced in Acme-MetaSyntactic version 0.28, published on June 27, 2005.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in version Acme-MetaSyntactic-Themes 1.001.
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with the new Oulipo members since 2007, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
+=item *
+
+2005-06-27
+
+Introduced in Acme-MetaSyntactic version 0.28.
+
+=back
 
 =head1 SEE ALSO
 

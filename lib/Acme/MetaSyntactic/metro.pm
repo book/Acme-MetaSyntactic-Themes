@@ -77,30 +77,69 @@ According to Abigail, the addition of the London Tube stations to
 C<Acme::MetaSyntactic> makes for another milestone: we can now use B<meta>
 to play I<Mornington Crescent>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Philippe 'BooK' Bruhat
-
-Introduced in Acme-MetaSyntactic version 0.83, published on July 17, 2006.
-
-Updated with station names for Lyon, Marseille, Lille, Rennes (with
-stations grouped by line) in version 0.88, published on August 21, 2006.
-
-Updated by Elliot Shank with the Chicago metro and by Abigail with
-the London Tube, Rotterdam and Toronto metro lines in version 0.91,
-published on September 11, 2006.
-
-Updated for some French metro lines, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
-Updated with typographical corrections by Abigail in version 1.001,
-published on May 14, 2012.
+Philippe Bruhat (BooK), Abigail, Elliot Shank.
 
 =head1 DEDICATION
 
 This module is dedicated to the Paris subway, which was opened to the
 public on July 19, 1900.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated with typographical corrections by Abigail
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Updated for some French metro lines, and
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-09-11
+
+Updated by Elliot Shank with the Chicago metro and by Abigail with
+the London Tube, Rotterdam and Toronto metro lines
+in Acme-MetaSyntactic version 0.91.
+
+=item *
+
+2006-09-06
+
+Abigail sent the lists of stations for London Tube. Later in the same
+day, he sent the lists of stations for the Rotterdam and Toronto metro lines.
+
+=item *
+
+2006-09-04
+
+Elliot Shank sent a patch adding the Chicago metro (RT #21325).
+
+=item *
+
+2006-08-21
+
+Updated with station names for Lyon, Marseille, Lille, Rennes, Amsterdam,
+Vienna, Porto, and grouped stations by line
+in Acme-MetaSyntactic version 0.88.
+
+=item *
+
+2006-07-17
+
+Introduced in Acme-MetaSyntactic version 0.83.
+
+=back
 
 =head1 SEE ALSO
 

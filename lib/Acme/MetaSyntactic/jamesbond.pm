@@ -25,24 +25,52 @@ and C<other>), and C<firearms> (firearms used by Bond).
 
 The default category is C<films>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Philippe "BooK" Bruhat.
+Philippe Bruhat (BooK), Abigail
 
-Introduced in Acme-MetaSyntactic version 0.07 (heh), published on January 31, 2005.
+=head1 CHANGES
 
-Updated in version 0.45, published on October 24, 2005.
+=over 4
 
-Updated in version 0.70 (that's 0.07 shifted left) with actors names
-and "girls" names. Both lists were provided by Abigail. Theme published
-on April 17, 2006.
+=item *
 
-Updated in version 0.76 with 4 categories (some of them having sub-categories)
-by Abigail. Theme published on May 29, 2006.
+2012-05-07 - v1.000
 
-Updated with movie titles and actresses since 2006, and 
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+Updated with movie titles and actresses since 2006, and received its
+own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-05-29
+
+Updated in Acme-MetaSyntactic version 0.76 with categories I<villains>,
+I<vehicles> (with subcategories I<cars>, I<motorcycles>, I<aircraft>,
+I<ships>, and I<others>), and I<firearms>, all provided by Abigail
+on 2006-05-22.
+
+=item *
+
+2006-04-17
+
+Updated in Acme-MetaSyntactic version 0.70 (that's 0.07 shifted left)
+with categories I<actors> and I<girls>. Both lists were provided by Abigail
+as I<bond_actors> (actors playing James Bond) and I<bond_girls> (actresses
+playing Bond girls) on 2005-10-24.
+
+=item *
+
+2005-10-24
+
+Updated in Acme-MetaSyntactic version 0.45.
+
+=item *
+
+2005-01-31
+
+Introduced in Acme-MetaSyntactic version 0.07 (heh).
+
+=back
 
 =head1 SEE ALSO
 

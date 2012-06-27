@@ -18,34 +18,75 @@ This theme list several colour names.
 
 Note: this theme is aliased by C<Acme::MetaSyntactic::colors>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-JosÃ© Castro proposed the original list of 12 colours, and a few
-translations upon request.
+José Castro, Abigail, Philippe Bruhat (BooK).
 
-Abigail later and independently proposed and extended list for English,
-with the help of <http://en.wikipedia.org/wiki/List_of_colors>.
+=head1 CHANGES
 
-Philippe Bruhat added the X11 colors lying in F</usr/X11R6/lib/X11/rgb.txt>.
+=over 4
 
-Introduced in Acme-MetaSyntactic version 0.76, published on May 29, 2006.
+=item *
 
-Made multilingual in version 0.77, published on June 5, 2006.
-
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
-Updated with an C<=encoding> pod command in version 1.001,
-published on May 14,2012
-
-Abigail added the seven colours of the rainbow, in English, Dutch, German,
-French, Spanish, Esperanto, Latin, Italian, Polish, Tagalog, Swedish,
-Portuguese, Danish, and Interlingua in version 1.002,
-published on May 21, 2012.
+2012-06-04 - v1.003
 
 Abigail added the color codes for resistors in English, Catalan, Danish,
-Dutch, Estonian, Spanish and French in version 1.003,
-published on June 4, 2012.
+Dutch, Estonian, Spanish and French
+in Acme-MetaSyntactic-Themes version 1.004.
+
+=item *
+
+2012-05-21 - v1.002
+
+Abigail added the seven colours of the rainbow in English, Dutch, German,
+French, Spanish, Esperanto, Latin, Italian, Polish, Tagalog, Swedish,
+Portuguese, Danish, and Interlingua
+in Acme-MetaSyntactic-Themes version 1.002.
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-06-05
+
+Made multilingual in Acme-MetaSyntactic version 0.77,
+with the large list of colours submitted by Abigail,
+several translations by José Castro,
+and the X11 colors lying in F</usr/X11R6/lib/X11/rgb.txt>
+by Philippe Bruhat (BooK).
+
+=item *
+
+2006-05-29
+
+Introduced in Acme-MetaSyntactic version 0.76,
+with the twelve colours proposed by José Castro.
+
+=item *
+
+2005-10-20
+
+Theme I<colours> submitted by Abigail,
+based on L<http://en.wikipedia.org/wiki/List_of_colors>.
+
+=item *
+
+2005-10-13
+
+Theme I<colors> submitted by José Castro.
+
+=back
 
 =head1 SEE ALSO
 

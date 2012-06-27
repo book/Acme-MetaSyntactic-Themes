@@ -33,55 +33,135 @@ L<http://www.triviaasylum.com/dilbert/diltriv.html>.
 
 =head1 CONTRIBUTOR
 
-Original contributor: Sébastien Aperghis-Tramoni.
+Sébastien Aperghis-Tramoni.
 
-Introduced in Acme-MetaSyntactic version 0.03, published on January 14, 2005.
-
-Duplicate removed in version 0.15, published on March 28, 2005.
-
-Updated with a brand new list in version 0.29, published on July 4, 2005.
-
-Remote list added and theme updated in version 0.49, published on November 21, 2005.
-
-Later updates (from the source web site):
+=head1 CHANGES
 
 =over 4
 
-=item * version 0.51, published on December 5, 2005
+=item *
 
-=item * version 0.52, published on December 12, 2005
-
-=item * version 0.53, published on December 19, 2005
-
-=item * version 0.57, published on January 16, 2006
-
-=item * version 0.60, published on February 6, 2006
-
-=item * version 0.68, published on April 3, 2006
-
-=item * version 0.78, published on June 12, 2006
-
-=item * version 0.80, published on June 26, 2006
-
-=item * version 0.81, published on July 3, 2006
-
-=item * version 0.82, published on July 10, 2006
-
-=item * version 0.89, published on August 28, 2006
-
-=item * version 0.91, published on September 11, 2006
-
-=item * version 0.92, published on September 18, 2006
-
-=item * version 0.97, published on October 23, 2006
-
-=item * version 0.98, published on October 30, 2006
-
-=back
+2012-05-07 - v1.000
 
 Updated with new additions since November 2006, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item * 
+
+2006-10-30
+
+Updated from the source web site in Acme-MetaSyntactic version 0.98.
+
+=item * 
+
+2006-10-23
+
+Updated from the source web site in Acme-MetaSyntactic version 0.97.
+
+
+=item * 
+
+2006-09-18
+
+Updated from the source web site in Acme-MetaSyntactic version 0.92.
+
+=item * 
+
+2006-09-11
+
+Updated from the source web site in Acme-MetaSyntactic version 0.91.
+
+=item * 
+
+2006-08-26
+
+Updated from the source web site in Acme-MetaSyntactic version 0.89.
+
+=item * 
+
+2006-07-10
+
+Updated from the source web site in Acme-MetaSyntactic version 0.82.
+
+=item * 
+
+2006-07-03
+
+Updated from the source web site in Acme-MetaSyntactic version 0.81.
+
+=item * 
+
+2006-06-26
+
+Updated from the source web site in Acme-MetaSyntactic version 0.80.
+
+=item * 
+
+2006-06-12
+
+Updated from the source web site in Acme-MetaSyntactic version 0.78.
+
+=item * 
+
+2006-04-03
+
+Updated from the source web site in Acme-MetaSyntactic version 0.68.
+
+=item * 
+
+2006-02-06
+
+Updated from the source web site in Acme-MetaSyntactic version 0.60.
+
+=item * 
+
+2006-01-16
+
+Updated from the source web site in Acme-MetaSyntactic version 0.57.
+
+=item * 
+
+2005-12-19
+
+Updated from the source web site in Acme-MetaSyntactic version 0.53.
+
+=item * 
+
+2005-12-12
+
+Updated from the source web site in Acme-MetaSyntactic version 0.52.
+
+=item * 
+
+2005-12-05
+
+Updated from the source web site in Acme-MetaSyntactic version 0.51.
+
+=item *
+
+2005-11-21
+
+Remote list added and theme updated in Acme-MetaSyntactic version 0.49.
+
+=item *
+
+2005-07-04
+
+Updated with a brand new list in Acme-MetaSyntactic version 0.29.
+
+=item *
+
+2005-03-28
+
+Duplicate removed in Acme-MetaSyntactic version 0.15.
+
+=item *
+
+2005-01-14
+
+Introduced in Acme-MetaSyntactic version 0.03.
+
+=back
 
 =head1 SEE ALSO
 

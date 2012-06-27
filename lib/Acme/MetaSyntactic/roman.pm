@@ -28,12 +28,31 @@ L<http://datetime.mongueurs.net/divers/nombres-romains/Roman_Numbers.html>.
 
 Alberto Manuel Brandão Simões.
 
-Introduced in Acme-MetaSyntactic version 0.43, published on October 10, 2005.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with roman numbers up to 3999 and an explanation about this
 limit by Jean Forget, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-10-10
+
+Introduced in Acme-MetaSyntactic version 0.43.
+
+=item *
+
+2005-09-06
+
+List proposed by Alberto Manuel Brandão Simões.
+
+=back
 
 =head1 SEE ALSO
 

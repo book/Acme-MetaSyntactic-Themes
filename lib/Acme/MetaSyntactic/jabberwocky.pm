@@ -100,10 +100,29 @@ L<http://perlmonks.org/?node_id=195873> by RMGir.
 
 Abigail
 
-Introduced in Acme-MetaSyntactic version 0.93, published on September 25, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-09-25
+
+Introduced in Acme-MetaSyntactic version 0.93.
+
+=item *
+
+2005-10-24
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 

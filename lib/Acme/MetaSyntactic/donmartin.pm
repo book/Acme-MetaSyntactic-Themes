@@ -52,29 +52,60 @@ L<http://www.madcoversite.com/dmd.html>.
 
 Vahe Sarkissian.
 
-Introduced in Acme-MetaSyntactic version 0.03, published on January 14, 2005.
+=head1 CHANGES
 
-Duplicates removed in version 0.15, published on March 28, 2005.
+=over 4
 
-List entirely updated in version 0.59, published on January 30, 2006.
-(Flavio Poletti told me that a few onomatopoeias were missing. I didn't
-add them, but made the list updatable from the original list URL.
-I had to cut two items that were more than 251 character long, so that
-list items are still valid Perl identifiers.)
+=item *
 
-Updated from the online list in version 0.84, published on July 24, 2006.
-
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
-
-Updated with an C<=encoding> pod command in version 1.001,
-published in Acme-MetaSyntactic-Themes version 1.001,
-on May 14,2012
+2012-06-04 - v1.002
 
 Updated the source URL, and updated the data from the source web site
-in version 1.002,
-published in Acme-MetaSyntactic-Themes version 1.004,
-on June 4, 2012.
+in Acme-MetaSyntactic-Themes version 1.004.
+
+=item *
+
+2012-05-14 - v1.001
+
+Updated with an C<=encoding> pod command
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-07-24
+
+Updated from the online list in Acme-MetaSyntactic version 0.84.
+
+=item *
+
+2006-01-30
+
+Flavio Poletti told me that a few onomatopoeias were missing. I didn't
+add them, but made the list updatable from the original list URL.
+I had to cut two items that were more than 251 character long, so that
+list items are still valid Perl identifiers.
+
+List entirely updated in Acme-MetaSyntactic version 0.59.
+
+=item *
+
+2005-03-28
+
+Duplicates removed in Acme-MetaSyntactic version 0.15.
+
+=item *
+
+2005-01-14
+
+Introduced in Acme-MetaSyntactic version 0.03.
+
+=back
 
 =head1 SEE ALSO
 

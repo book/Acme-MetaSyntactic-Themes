@@ -49,38 +49,86 @@ The C<male> category is therefore obsolete.
 
 Sébastien Aperghis-Tramoni.
 
-Introduced in Acme-MetaSyntactic version 0.69, published on April 10, 2006.
-
-Updates from Wikipedia:
+=head1 CHANGES
 
 =over 4
 
-=item version 0.70, published on April 17, 2006
+=item *
 
-=item version 0.71, published on April 24, 2006
+2012-06-25 - v1.003
 
-=item version 0.72, published on May 1, 2006
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.007.
 
-=item version 0.74, published on May 15, 2006
+=item *
 
-=item version 0.75, published on May 22, 2006
+2012-05-28 - v1.002
 
-=item version 0.79, published on June 19, 2006
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.003.
 
-=item version 0.89, published on August 28, 2006
+=item *
 
-=back
+2012-05-14 - v1.001
+ 
+Updated with an C<=encoding> pod command 
+in Acme-MetaSyntactic-Themes version 1.001.
+
+=item *
+
+2012-05-07 - v1.000
 
 Updated with a new remote source for female pornstars,
 abandoned the obsolete source for male pornstars, and
-received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
-Updated with an C<=encoding> pod command for version 1.001,
-published in Acme-MetaSyntactic-Themes v1.001, on May 14,2012
+=item *
 
-Updated from the source web site for v1.002,
-published in Acme-MetaSyntactic-Themes v1.003, on May 28, 2012.
+2006-08-28
+
+Updated from the source web site in Acme-MetaSyntactic version 0.89.
+
+=item *
+
+2006-06-19
+
+Updated from the source web site in Acme-MetaSyntactic version 0.79.
+
+=item *
+
+2006-05-22
+
+Updated from the source web site in Acme-MetaSyntactic version 0.75.
+
+=item *
+
+2006-05-15
+
+Updated from the source web site in Acme-MetaSyntactic version 0.74.
+
+=item *
+
+2006-05-01
+
+Updated from the source web site in Acme-MetaSyntactic version 0.72.
+
+=item *
+
+2006-04-24
+
+Updated from the source web site in Acme-MetaSyntactic version 0.71.
+
+=item *
+
+2006-04-17
+
+Updated from the source web site in Acme-MetaSyntactic version 0.70.
+
+=item *
+
+2006-04-10
+
+Introduced in Acme-MetaSyntactic version 0.69.
+
+=back
 
 Updated from the source web site for v1.003,
 published in Acme-MetaSyntactic-Themes v1.007, on June 25, 2012.

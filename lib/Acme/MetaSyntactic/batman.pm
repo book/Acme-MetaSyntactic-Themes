@@ -22,12 +22,25 @@ L<http://www.batmania.com.ar/paginas/serie_onomatopeyas.htm>.
 
 =head1 CONTRIBUTOR
 
-Philippe Bruhat.
+Philippe Bruhat (BooK).
 
-Introduced in Acme-MetaSyntactic version 0.01, published on January 14, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-01-14
+
+Introduced in Acme-MetaSyntactic version 0.01.
+
+=back
 
 =head1 SEE ALSO
 

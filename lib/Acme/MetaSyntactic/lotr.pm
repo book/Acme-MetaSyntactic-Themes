@@ -22,10 +22,36 @@ Turin's names were found in I<The Silmarillion>.
 
 Jean Forget
 
-Introduced in Acme-MetaSyntactic version 0.79, published on June 19, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-06-19
+
+Introduced in Acme-MetaSyntactic version 0.79.
+
+=item *
+
+2005-09-12
+
+Jean Forget provided the names of Turin and Sauron.
+
+=item *
+
+2005-08-05
+
+Jean Forget provided the idea for the theme,
+along with the names of Gandalf and Aragorn.
+
+=back
 
 =head1 SEE ALSO
 

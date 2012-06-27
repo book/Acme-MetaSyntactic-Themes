@@ -20,10 +20,29 @@ A list of English pies.
 
 Nicholas Clark
 
-Introduced in Acme-MetaSyntactic version 0.86, published on August 7, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-08-07
+
+Introduced in Acme-MetaSyntactic version 0.86.
+
+=item *
+
+2005-11-28
+
+List proposed by Nicholas Clark.
+
+=back
 
 =head1 SEE ALSO
 

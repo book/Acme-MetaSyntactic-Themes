@@ -6,6 +6,8 @@ our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::sql - The SQL theme
@@ -22,14 +24,50 @@ C<Acme::MetaSyntactic>.
 
 Philippe "BooK" Bruhat
 
+=head1 ACKNOWLEDGEMENTS
+
 I blame Maddingue for showing me this link, and rgs for
 saying: I<IL LE FAUT>. I blame C<#perlfr> in general for
 the existence of C<Acme::MetaSyntactic>.
 
-Introduced in Acme-MetaSyntactic version 0.71, published on April 24, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-04-24
+
+Introduced in Acme-MetaSyntactic version 0.71.
+
+=item *
+
+2006-03-23
+
+The IRC conversation that inspired this module:
+
+    15:16 <@Maddingue_> thedailywtf++ "Remember, the enterprisocity of an application is directly proportionate to the number of constants defined" ha ha :)
+    15:17 <@Maddingue_>  » http://thedailywtf.com/forums/64833/ShowPost.aspx
+    ...
+    17:21 <@BooK> AMS::SQL
+    17:22 <@rgs> SELECT_STAR
+    ...
+    17:22 <@rgs> IL LE FAUT
+    17:23 <@BooK> rgs: oui, avec un lien vers ce post
+    17:23 <@BooK> il me faut une grammaire SQL, maintenant
+    17:23 <@BooK> comme source
+    17:24 <@BooK> evidemment, ce sera l'occasion de passer en multitheme, avec le support du plusieurs DB!
+    17:24 <@BooK> muahhaha
+    17:26 <@Maddingue_> GIMMIE!
+    17:27  * rgs chante du ABBA
+
+=back
 
 =head1 SEE ALSO
 

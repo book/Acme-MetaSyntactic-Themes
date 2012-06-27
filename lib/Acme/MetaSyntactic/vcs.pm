@@ -16,19 +16,47 @@ Acme::MetaSyntactic::vcs - The vcs theme
 
 This theme lists popular (and not so popular) Version Control systems.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Éric Cholet
+Éric Cholet, Abigail.
 
-Introduced in Acme-MetaSyntactic version 0.91, published on September 11, 2006.
+=head1 CHANGES
 
-Updated by Abigail in version 0.92, published on September 18, 2006.
+=over 4
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=item *
+
+2012-05-14 - v1.001
 
 Updated with an C<=encoding> pod command in version 1.001,
 published on May 14,2012
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000,
+published on May 7, 2012.
+
+=item *
+
+2006-09-18
+
+Updated by Abigail in Acme-MetaSyntactic version 0.92.
+
+=item *
+
+2006-09-11
+
+Introduced in Acme-MetaSyntactic version 0.91.
+
+=item *
+
+2006-06-29
+
+Initial list proposed by Éric Cholet.
+
+=back
 
 =head1 SEE ALSO
 

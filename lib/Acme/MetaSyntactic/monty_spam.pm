@@ -27,10 +27,23 @@ L<http://www.cusd.claremont.edu/~mrosenbl/spamfiction.html#mp>.
 
 Philippe "BooK" Bruhat, inspired by Ricardo Signes.
 
-Introduced in Acme-MetaSyntactic version 0.31, published on July 18, 2005.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2005-07-18
+
+Introduced in Acme-MetaSyntactic version 0.31.
+
+=back
 
 =head1 SEE ALSO
 

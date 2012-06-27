@@ -19,10 +19,23 @@ probably the 17 that race in the Palio di Siena.
 
 Estelle Souche
 
-Introduced in Acme-MetaSyntactic version 0.65, published on March 13, 2006.
+=head1 CHANGES
 
-Received its own version number for Acme-MetaSyntactic-Themes version 1.000,
-published on May 7, 2012.
+=over 4
+
+=item *
+
+2012-05-07 - v1.000
+
+Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
+
+=item *
+
+2006-03-13
+
+Introduced in Acme-MetaSyntactic version 0.65.
+
+=back
 
 =head1 SEE ALSO
 
