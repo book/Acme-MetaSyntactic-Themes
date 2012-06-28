@@ -23,9 +23,28 @@ Acme::MetaSyntactic::icao - ICAO airport codes.
 
 The four letter ICAO codes for airports.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Abigail
+Abigail, Philippe Bruhat (BooK)
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-07-09 - v1.000
+
+Updated with a remote source that doubled the number of airport codes,
+and published in Acme-MetaSyntactic-Themes version 1.009.
+
+=item *
+
+2005-11-11
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
