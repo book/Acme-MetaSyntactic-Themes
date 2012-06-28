@@ -47,6 +47,12 @@ Updated in Acme-MetaSyntactic version 0.64.
 
 =item *
 
+2006-02-16
+
+Abigail sent a patch with a few additions.
+
+=item *
+
 2006-02-13
 
 Introduced in Acme-MetaSyntactic version 0.61.
