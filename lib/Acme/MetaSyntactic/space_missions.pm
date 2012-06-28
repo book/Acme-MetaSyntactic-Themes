@@ -19,14 +19,18 @@ This theme lists the names of various space missions flights.
 
 =over 4
 
-=item Apollo
+=item *
+
+C<apollo>
 
 As from Apollo 9, the command and lunar modules of Project Apollo were
 given radio call signs. This list document them.
 
 Source: I<A Man on the Moon>, by Andrew Chaikin.
 
-=item Mercury
+=item *
+
+C<mercury>
 
 This list gives the names of the six Mercury spacecraft,
 plus the name of the flight cancelled when Deke Slayton
@@ -34,12 +38,16 @@ was grounded for health reasons.
 
 Source: I<The Right Stuff>, by Tom Wolfe.
 
-=item Manned Spacecraft
+=item *
+
+C<manned_spacecraft>
 
 This list gives the names of the manned spacecraft,
 all nations and all agencies or firms combined.
 
-=item Launch Vehicles
+=item *
+
+C<launch_vehicles>
 
 This list gives the names of launch vehicles type. For vehicles with
 several numbered subtypes, only the main type has been given, without
@@ -53,7 +61,9 @@ To this book, I have added
 L<http://en.wikipedia.org/wiki/List_of_launch_vehicles> and
 L<http://en.wikipedia.org/wiki/Scaled_Composites_White_Knight>.
 
-=item Victims
+=item *
+
+C<victims>
 
 This list gives the names of the humans who were killed in a
 spacecraft accident.
