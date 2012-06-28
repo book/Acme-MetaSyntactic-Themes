@@ -1,27 +1,53 @@
-From: Laurent GAUTROT <l.gautrot@free.fr>
-To: philippe.bruhat@free.fr
-Subject: Acme::Metasyntactic::mars ?
-Date: Wed, 31 May 2006 20:48:48 +0200
-Message-Id: <200605312048.48514.l.gautrot@free.fr>
+package Acme::MetaSyntactic::mars;
+use strict;
+use Acme::MetaSyntactic::List;
+our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
+__PACKAGE__->init();
+1;
 
-Hello,
+=head1 NAME
 
-Je suis replongé dans la trilogie martienne de Kim Stanley Robinson.
-C'est la faute à Stef Payrard. ;o)
+Acme::MetaSyntactic::mars - The mars theme
 
-Il appararît de manière récurrente une liste des noms de Mars.
+=head1 DESCRIPTION
 
-Peut-être suffisante pour un Acme::Metasyntactic::mars ?
+This theme provides the list of the names of planet Mars,
+as they appear in Kim Stanley Robinson's I<Mars> trigoly.
 
-Al-Qahira
-Arès
+=head1 CONTRIBUTOR
+
+Laurent Gautrot.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2006-05-31
+
+List proposed by Laurent Gautrot.
+
+=back
+
+=head1 SEE ALSO
+
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
+
+=cut
+
+__DATA__
+# names
+Al_Qahira
+Ares
 Auqakuh
 Bahram
 Harmakhis
 Hrad
-Huo Hsing
+Huo_Hsing
 Kasei
-Ma'adim
+Ma_adim
 Maja
 Mamers
 Mangala
@@ -31,4 +57,3 @@ Nirgal
 Shalbatanu
 Simud
 Tiu
-
