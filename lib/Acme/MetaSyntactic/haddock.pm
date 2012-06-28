@@ -54,8 +54,16 @@ Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
 
 2006-01-30
 
-Updated with the Dutch list provided by Jan Peter Cornet
+Updated with the Dutch list provided by Jan Pieter Cornet
 in Acme-MetaSyntactic version 0.59.
+
+=item *
+
+2006-01-25
+
+Jan Pieter Corlet provided the list of all Cpt. Haddock "violent
+expressions" in the dutch translation of Tintin, taken from the website:
+L<http://www.xs4all.nl/~janhee/haddock.html>
 
 =item *
 
