@@ -15,7 +15,25 @@ Various of the smurfs (and supporting characters).
 
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2006-05-16
+
+Theme proposed independently by Flavio Poletti.
+
+=item *
+
+2005-11-01
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
