@@ -39,6 +39,7 @@ lib/Acme/MetaSyntactic/good_omens.pm
 lib/Acme/MetaSyntactic/groo.pm
 lib/Acme/MetaSyntactic/haddock.pm
 lib/Acme/MetaSyntactic/hhgg.pm
+lib/Acme/MetaSyntactic/iata.pm
 lib/Acme/MetaSyntactic/invasions.pm
 lib/Acme/MetaSyntactic/jabberwocky.pm
 lib/Acme/MetaSyntactic/jamesbond.pm

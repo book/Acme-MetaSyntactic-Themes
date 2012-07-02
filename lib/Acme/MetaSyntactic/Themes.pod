@@ -144,7 +144,8 @@ as well as updates to the themes already in the distribution.
     2012-06-04    1.004   fabeltjeskrant
     2012-06-11    1.005   tarot
     2012-06-18    1.006   alice
-    2012-06-25    1.006   camelidae
+    2012-06-25    1.007   camelidae
+    2012-07-02    1.008   iata
 
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their

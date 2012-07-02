@@ -13,7 +13,7 @@ WriteMakefile(
         'Test::MetaSyntactic' => 1.001,
     },
     PREREQ_PM  => {
-        'Acme::MetaSyntactic' => 1.001,
+        'Acme::MetaSyntactic' => 1.004,
     },
     MIN_PERL_VERSION => 5.006002,
     META_MERGE => {

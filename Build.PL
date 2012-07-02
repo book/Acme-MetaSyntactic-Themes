@@ -12,7 +12,7 @@ my $build = Module::Build->new(
     },
     requires => {
         'perl'                => '5.006_002',
-        'Acme::MetaSyntactic' => '1.001',
+        'Acme::MetaSyntactic' => '1.004',
     },
     meta_merge => {
         resources => {
