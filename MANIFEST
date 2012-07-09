@@ -40,6 +40,7 @@ lib/Acme/MetaSyntactic/groo.pm
 lib/Acme/MetaSyntactic/haddock.pm
 lib/Acme/MetaSyntactic/hhgg.pm
 lib/Acme/MetaSyntactic/iata.pm
+lib/Acme/MetaSyntactic/icao.pm
 lib/Acme/MetaSyntactic/invasions.pm
 lib/Acme/MetaSyntactic/jabberwocky.pm
 lib/Acme/MetaSyntactic/jamesbond.pm
@@ -93,10 +94,10 @@ lib/Acme/MetaSyntactic/stars.pm
 lib/Acme/MetaSyntactic/state_flowers.pm
 lib/Acme/MetaSyntactic/summerwine.pm
 lib/Acme/MetaSyntactic/swords.pm
+lib/Acme/MetaSyntactic/tarot.pm
 lib/Acme/MetaSyntactic/teletubbies.pm
 lib/Acme/MetaSyntactic/Themes.pm
 lib/Acme/MetaSyntactic/Themes.pod
-lib/Acme/MetaSyntactic/tarot.pm
 lib/Acme/MetaSyntactic/thunderbirds.pm
 lib/Acme/MetaSyntactic/tld.pm
 lib/Acme/MetaSyntactic/tmnt.pm
