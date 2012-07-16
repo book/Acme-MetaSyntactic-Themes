@@ -12,6 +12,7 @@ lib/Acme/MetaSyntactic/batman.pm
 lib/Acme/MetaSyntactic/booze.pm
 lib/Acme/MetaSyntactic/browser.pm
 lib/Acme/MetaSyntactic/buffy.pm
+lib/Acme/MetaSyntactic/calvin.pm
 lib/Acme/MetaSyntactic/camelidae.pm
 lib/Acme/MetaSyntactic/chess.pm
 lib/Acme/MetaSyntactic/colors.pm
