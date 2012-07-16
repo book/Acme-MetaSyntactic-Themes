@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::calvin;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -15,6 +16,8 @@ Characters from the famous comic strip, I<Calvin and Hobbes>,
 by I<Bill Watterson>. The comic ran from November 18th, 1985 till
 December 31, 1995, 3150 strips in total.
 
+See L<http://en.wikipedia.org/wiki/Calvin_and_Hobbes>.
+
 =head1 QUOTE
 
     It's a magical world, Hobbes ol' buddy!
@@ -22,12 +25,29 @@ December 31, 1995, 3150 strips in total.
 
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-07-16 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.010.
+
+=item *
+
+2005-11-01
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
-L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>,
-L<http://en.wikipedia.org/wiki/Calvin_and_Hobbes>
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 =cut
 
