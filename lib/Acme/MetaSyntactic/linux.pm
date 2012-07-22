@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-07-23 - v1.003
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.011.
 
 =item *
 
@@ -174,6 +180,7 @@ Debian
 DebXPde
 Deepin
 DEFT
+Descent_OS
 Devil
 DigAnTel
 DoudouLinux
@@ -305,7 +312,6 @@ Oracle
 OS4
 Otakux
 Overclockix
-PAIPIX
 paldo
 PapugLinux
 Parabola
@@ -396,6 +402,7 @@ Turbolinux
 TurnKey
 UberStudent
 Ubuntu
+Ubuntu_Christian
 Ubuntu_DP
 Ubuntu_Rescue
 Ubuntu_Studio
