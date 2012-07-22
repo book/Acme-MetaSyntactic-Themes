@@ -1,7 +1,8 @@
 package Acme::MetaSyntactic::colors;
+use strict;
 use Acme::MetaSyntactic::Alias;
 our @ISA = qw( Acme::MetaSyntactic::Alias );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init('colours');
 1;
 
@@ -21,6 +22,13 @@ Philippe Bruhat
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-07-23 - v1.001
+
+C<use strict> to make Acme-MetaSyntactic-Themes version 1.011
+satisfy all required CPANTS kwalitee tests.
 
 =item *
 
