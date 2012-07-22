@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-07-23 - v1.004
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.011.
 
 =item *
 
@@ -130,9 +136,6 @@ Introduced in Acme-MetaSyntactic version 0.69.
 
 =back
 
-Updated from the source web site for v1.003,
-published in Acme-MetaSyntactic-Themes v1.007, on June 25, 2012.
-
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
@@ -182,7 +185,6 @@ Anastasia_Blue
 Andie_Valentino
 Andrea_True
 Angela_Devi
-Angela_Stone
 Angela_Summers
 Angel_Dark
 Angelica_Bella
@@ -190,7 +192,6 @@ Angelica_Costello
 Angelina_Valentine
 Angel_Kelly
 Angel_Long
-Angie_Savage
 Anja_Juliette_Laval
 Annabel_Chong
 Annabelle_Lee
@@ -335,8 +336,6 @@ Courtney_Simpson
 Crissy_Moran
 Cristina_Bella
 Crystal_Knight
-Crystal_Ray
-Crystal_Wilder
 Cyndee_Summers
 Cytherea
 Dahlia_Grey
@@ -395,7 +394,6 @@ Gail_Force
 Gauge
 Gen_Padova
 Georgia_Jones
-Georgia_Southe
 Georgina_Spelvin
 Gianna_Lynn
 Gianna_Michaels
@@ -481,7 +479,6 @@ Jessica_Sweet
 Jessie_Andrews
 Jessie_St_James
 Jewel_De_Nyle
-Jezebelle_Bond
 Jill_Kelly
 Joanna_Angel
 Joanna_Storm
@@ -538,7 +535,6 @@ Kim_Chambers
 Kimiko_Matsuzaka
 Kinzie_Kenner
 Kira_Kener
-Kitty_Yung
 Kobe_Tai
 Kokoro_Amano
 Krista_Lane
@@ -605,6 +601,7 @@ Marie_Luv
 Marie_McCray
 Mariko_Morikawa
 Marilyn_Chambers
+Marlene_Willoughby
 Mary_Carey
 Marylin_Star
 Mary_Millington
@@ -742,6 +739,7 @@ Shay_Jordan
 Shayla_LaVeaux
 Shay_Sights
 Shay_Sweet
+Sheri_St_Claire
 Shoko_Goto
 Shyla_Foxxx
 Shyla_Stylez
