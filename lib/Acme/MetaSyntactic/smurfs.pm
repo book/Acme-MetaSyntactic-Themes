@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::smurfs;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -20,6 +21,12 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-07-23 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.011.
 
 =item *
 
