@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::tour_de_france;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 
 =encoding iso-8859-1
 
@@ -31,6 +31,7 @@ The winners from 1903 onwards are:
 
 =pod
 
+    2012   Bradley Wiggins       GBR
     2011   Cadel Evans           AUS
     2010   Andy Schleck          LUX
     2009   Alberto Contador      ESP
@@ -149,6 +150,13 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-07-23 - v1.002
+
+Updated with the winner for 2012
+in Acme-MetaSyntactic-Themes version 1.011.
 
 =item *
 
