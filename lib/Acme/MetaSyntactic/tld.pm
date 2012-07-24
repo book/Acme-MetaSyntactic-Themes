@@ -6,8 +6,11 @@ our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
-    source  => 'http://www.ics.uci.edu/pub/websoft/wwwstat/country-codes.txt',
-    extract => sub { return map lc, $_[0] =~ m!^(\S+)!gm },
+    source  => 'http://www.iana.org/domains/root/db/',
+    extract => sub {
+        local $/;
+        return $_[0] =~ m{<td><a href="/domains/root/db/(\w+).html">.\w+</a></td>\s+<td>(?:[^<]+)</td>\s+<!-- <td>(?:[^<\n]*)}g;
+    },
 );
 
 1;
@@ -21,7 +24,7 @@ Acme::MetaSyntactic::tld - The Top-Level Domain theme
 The list of top-level domainnames.
 
 The source for the list is
-L<http://www.ics.uci.edu/pub/websoft/wwwstat/country-codes.txt>
+L<http://www.iana.org/domains/root/db/>.
 
 =head1 CONTRIBUTORS
 
@@ -58,14 +61,15 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 __DATA__
 # names
-ad ae af ag ai al am an ao aq ar as at au aw ax az ba bb bd be bf bg bh
-bi bj bm bn bo br bs bt bv bw by bz ca cc cd cf cg ch ci ck cl cm cn co
-cr cs cu cv cx cy cz de dj dk dm do dz ec ee eg eh er es et fi fj fk fm
-fo fr fx ga gb gd ge gf gh gi gl gm gn gp gq gr gs gt gu gw gy hk hm hn
-hr ht hu id ie il in io iq ir is it jm jo jp ke kg kh ki km kn kp kr kw
-ky kz la lb lc li lk lr ls lt lu lv ly ma mc md mg mh mk ml mm mn mo mp
-mq mr ms mt mu mv mw mx my mz na nc ne nf ng ni nl no np nr nu nz om pa
-pe pf pg ph pk pl pm pn pr ps pt pw py qa re ro ru rw sa sb sc sd se sg sh
-si sj sk sl sm sn so sr st su sv sy sz tc td tf tg th tj tk tl tm tn to tp
-tr tt tv tw tz ua ug uk um us uy uz va vc ve vg vi vn vu wf ws ye yt yu za
-zm zr zw biz com edu gov int mil net org pro aero arpa coop info name nato
+ac ad ae aero af ag ai al am an ao aq ar arpa as asia at au aw ax az ba
+bb bd be bf bg bh bi biz bj bl bm bn bo bq br bs bt bv bw by bz ca cat
+cc cd cf cg ch ci ck cl cm cn co com coop cr cu cv cw cx cy cz de dj dk
+dm do dz ec edu ee eg eh er es et eu fi fj fk fm fo fr ga gb gd ge gf gg
+gh gi gl gm gn gov gp gq gr gs gt gu gw gy hk hm hn hr ht hu id ie il im
+in info int io iq ir is it je jm jo jobs jp ke kg kh ki km kn kp kr kw ky
+kz la lb lc li lk lr ls lt lu lv ly ma mc md me mf mg mh mil mk ml mm mn
+mo mobi mp mq mr ms mt mu museum mv mw mx my mz na name nc ne net nf ng
+ni nl no np nr nu nz om org pa pe pf pg ph pk pl pm pn pr pro ps pt pw
+py qa re ro rs ru rw sa sb sc sd se sg sh si sj sk sl sm sn so sr ss st
+su sv sx sy sz tc td tel tf tg th tj tk tl tm tn to tp tr travel tt tv
+tw tz ua ug uk um us uy uz va vc ve vg vi vn vu wf ws xxx ye yt za zm zw
