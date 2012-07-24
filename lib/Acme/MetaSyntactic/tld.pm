@@ -1,15 +1,17 @@
 package Acme::MetaSyntactic::tld;
 use strict;
-use Acme::MetaSyntactic::List;
-our @ISA = qw( Acme::MetaSyntactic::List );
+use Acme::MetaSyntactic::MultiList;
+our @ISA = qw( Acme::MetaSyntactic::MultiList );
 our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
     source  => 'http://www.iana.org/domains/root/db/',
     extract => sub {
+        ( my $type = $_[1]) =~ y/_/-/;
         local $/;
-        return $_[0] =~ m{<td><a href="/domains/root/db/(\w+).html">.\w+</a></td>\s+<td>(?:[^<]+)</td>\s+<!-- <td>(?:[^<\n]*)}g;
+        my %type = $_[0] =~ m{<td><a href="/domains/root/db/(\w+).html">.\w+</a></td>\s+<td>([^<]+)</td>\s+<!-- <td>(?:[^<\n]*)}g;
+        return grep $type{$_} eq $type, keys %type;
     },
 );
 
@@ -60,16 +62,23 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 =cut
 
 __DATA__
-# names
-ac ad ae aero af ag ai al am an ao aq ar arpa as asia at au aw ax az ba
-bb bd be bf bg bh bi biz bj bl bm bn bo bq br bs bt bv bw by bz ca cat
-cc cd cf cg ch ci ck cl cm cn co com coop cr cu cv cw cx cy cz de dj dk
-dm do dz ec edu ee eg eh er es et eu fi fj fk fm fo fr ga gb gd ge gf gg
-gh gi gl gm gn gov gp gq gr gs gt gu gw gy hk hm hn hr ht hu id ie il im
-in info int io iq ir is it je jm jo jobs jp ke kg kh ki km kn kp kr kw ky
-kz la lb lc li lk lr ls lt lu lv ly ma mc md me mf mg mh mil mk ml mm mn
-mo mobi mp mq mr ms mt mu museum mv mw mx my mz na name nc ne net nf ng
-ni nl no np nr nu nz om org pa pe pf pg ph pk pl pm pn pr pro ps pt pw
-py qa re ro rs ru rw sa sb sc sd se sg sh si sj sk sl sm sn so sr ss st
-su sv sx sy sz tc td tel tf tg th tj tk tl tm tn to tp tr travel tt tv
-tw tz ua ug uk um us uy uz va vc ve vg vi vn vu wf ws xxx ye yt za zm zw
+# names country_code
+ac ad ae af ag ai al am an ao aq ar as at au aw ax az ba bb bd be bf bg
+bh bi bj bl bm bn bo bq br bs bt bv bw by bz ca cc cd cf cg ch ci ck cl
+cm cn co cr cu cv cw cx cy cz de dj dk dm do dz ec ee eg eh er es et eu
+fi fj fk fm fo fr ga gb gd ge gf gg gh gi gl gm gn gp gq gr gs gt gu gw
+gy hk hm hn hr ht hu id ie il im in io iq ir is it je jm jo jp ke kg kh
+ki km kn kp kr kw ky kz la lb lc li lk lr ls lt lu lv ly ma mc md me mf
+mg mh mk ml mm mn mo mp mq mr ms mt mu mv mw mx my mz na nc ne nf ng ni
+nl no np nr nu nz om pa pe pf pg ph pk pl pm pn pr ps pt pw py qa re ro
+rs ru rw sa sb sc sd se sg sh si sj sk sl sm sn so sr ss st su sv sx sy
+sz tc td tf tg th tj tk tl tm tn to tp tr tt tv tw tz ua ug uk um us uy
+uz va vc ve vg vi vn vu wf ws ye yt za zm zw
+# names generic
+com info net org
+# names generic_restricted
+biz name pro
+# names infrastructure
+arpa
+# names sponsored
+aero asia cat coop edu gov int jobs mil mobi museum tel travel xxx
