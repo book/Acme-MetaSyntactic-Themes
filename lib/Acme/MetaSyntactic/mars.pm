@@ -27,7 +27,8 @@ Laurent Gautrot.
 
 2012-07-31 - v1.000
 
-Introduced (one day late) in Acme-MetaSyntactic-Themes version 1.012.
+Introduced in Acme-MetaSyntactic-Themes version 1.012
+(published one day late).
 
 =item *
 
