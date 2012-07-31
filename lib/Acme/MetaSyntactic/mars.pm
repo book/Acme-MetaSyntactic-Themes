@@ -25,6 +25,12 @@ Laurent Gautrot.
 
 =item *
 
+2012-07-31 - v1.000
+
+Introduced (one day late) in Acme-MetaSyntactic-Themes version 1.012.
+
+=item *
+
 2006-05-31
 
 List proposed by Laurent Gautrot.
