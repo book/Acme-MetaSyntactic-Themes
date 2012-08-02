@@ -55,13 +55,29 @@ C<au/vienna>: Vienna, Austria, 5 lines.
 
 C<pt/porto>: Port, Portugal, 4 lines.
 
+=item *
+
+C<us/camden>: Camden, United States, 1 line.
+
+=item *
+
+C<us/philadelpha>: Philadelphia, United States, 2 lines.
+
 =item * 
 
 C<us/chicago>: Chicago, United States, 8 lines.
 
 =item *
 
-C<uk/london>: London, United Kingdom, 12 lines.
+C<uk/glasgow>: Glasgow, United Kingdom, 1 line.
+
+=item *
+
+C<uk/london>: London, United Kingdom, 11 lines.
+
+=item *
+
+C<uk/london/dlr>: Docklands Light Rail, London, United Kingdom, 6 branches.
 
 =item *
 
