@@ -25,8 +25,6 @@ of perestroika, no doubt.
 
 Jean Forget
 
-Introduced in version 0.xx, published on xx, 2006.
-
 =head1 SOURCES
 
 I<Air Superiority>
@@ -71,6 +69,18 @@ the ex-USSR. On the first week, several hundred thousand soldiers
 from the ex-Red Army were taken prisoners by the Wehrmacht."
 This is particularly stupid since the Red Army and the USSR outlasted
 the Third Reich and the Wehrmacht by 45 years.
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2006-07-05
+
+Submitted by Jean Forget.
+
+=back
 
 =head1 SEE ALSO
 
