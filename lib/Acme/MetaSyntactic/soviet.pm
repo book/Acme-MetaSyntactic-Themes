@@ -5,6 +5,8 @@ our @ISA = qw( Acme::MetaSyntactic::MultiList );
 __PACKAGE__->init();
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::soviet - NATO codenames for Soviet-designed equipment
