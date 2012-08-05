@@ -61,7 +61,7 @@ C<us/camden>: Camden, United States, 1 line.
 
 =item *
 
-C<us/philadelpha>: Philadelphia, United States, 2 lines.
+C<us/philadelpha>: Philadelphia, United States, 3 lines.
 
 =item * 
 
@@ -105,6 +105,15 @@ public on July 19, 1900.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-08-06 - v1.002
+
+Updated by Abigail with three metro lines for Philadelphia, the PATCO line
+between Camden and Philadelphia, the metro line for Glascow, the Docklands
+Light Rail lines for London, and the removal the East London metro line,
+in Acme-MetaSyntactic-Themes version 1.013.
 
 =item *
 
