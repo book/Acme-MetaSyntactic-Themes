@@ -49,6 +49,7 @@ lib/Acme/MetaSyntactic/jerkcity.pm
 lib/Acme/MetaSyntactic/linux.pm
 lib/Acme/MetaSyntactic/loremipsum.pm
 lib/Acme/MetaSyntactic/lotr.pm
+lib/Acme/MetaSyntactic/lucky_luke.pm
 lib/Acme/MetaSyntactic/magic8ball.pm
 lib/Acme/MetaSyntactic/magicroundabout.pm
 lib/Acme/MetaSyntactic/magma.pm
