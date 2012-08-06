@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::lucky_luke;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -19,7 +20,25 @@ This list isn't complete.
 
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-08-06 - v1.000
+
+Introduced in Acme-MetaSyntactic-Themes version 1.013.
+
+=item *
+
+2005-10-27
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
