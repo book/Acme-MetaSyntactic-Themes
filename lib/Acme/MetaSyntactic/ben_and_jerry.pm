@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::ben_and_jerry;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 
 my $regex = {
@@ -39,14 +39,16 @@ The official I<Ben & Jerry's> website is at L<http://www.benjerry.com/>.
 
 Abigail, Philippe Bruhat (BooK).
 
-=head1 BUGS
-
-The package doesn't list retired flavours. The Ben & Jerry website
-hides the retired flavours in a hideous flash application.
-
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-08-20 - v1.001
+
+Added a remote list for "retired" flavors and turned the existing list
+into the "current" category in Acme-MetaSyntactic-Themes version 1.015.
 
 =item *
 
