@@ -3,6 +3,17 @@ use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
 __PACKAGE__->init();
+
+our %Remote = (
+    source  => 'http://www.benjerry.com/flavors/our-flavors',
+    extract => sub {
+        return map { s/_+/_/g; s/_$//; $_ }
+            map { Acme::MetaSyntactic::RemoteList::tr_nonword($_) }
+            map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
+            $_[0] =~ m!<h3>([^<]+)</h3>!gm;
+    },
+);
+
 1;
 
 =head1 NAME
