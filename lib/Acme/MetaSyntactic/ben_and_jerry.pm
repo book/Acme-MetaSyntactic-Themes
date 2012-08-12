@@ -44,6 +44,7 @@ hides the retired flavours in a hideous flash application.
 2012-08-13 - v1.000
 
 Made updatable from a source URL,
+updated with the list of flavors for August 2012,
 and published in Acme-MetaSyntactic-Themes version 1.014.
 
 =item *
@@ -62,50 +63,63 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 __DATA__
 # names
-Apple_y_Ever_After
+Banana_Peanut_Butter
+Banana_Split
 Berry_Berry_Extraordinary
-Black_Raspberry
-Brownie_Batter
+Blueberry_Vanilla_Graham
+Bonnaroo_s_Coffee_Caramel_Buzz
+Boston_Cream_Pie
 Butter_Pecan
+Cake_Batter
+Cheesecake_Brownie
 Cherry_Garcia
-Cherry_Vanilla
 Chocolate
 Chocolate_Chip_Cookie_Dough
 Chocolate_Fudge_Brownie
+Chocolate_Nougat_Crunch
+Chocolate_Peanut_Buttery_Swirl
 Chocolate_Therapy
 Chubby_Hubby
 Chunky_Monkey
-Coconut_Almond_Fudge_Chip
+Cinnamon_Buns
+Coconut_Seven_Layer_Bar
 Coffee
+Coffee_Caramel_Buzz
 Coffee_Coffee_BuzzBuzzBuzz
 Coffee_HEATH_Bar_Crunch
-Cookie_Dough
-Dave_Matthews_Band_Magic_Brownies
+Creme_Brulee
 Dublin_Mudslide
 Everything_But_The
-Fossil_Fuel
-Fudge_Central
+Fudgy_Brownies
 Half_Baked
+Imagine_Whirled_Peace
 Karamel_Sutra
-In_A_Crunch
-Mango_Lime
-Marsha_Marsha_Marshmallow
+Late_Night_Snack
+Lemonade_Sorbet
+Mango_Mango
+Milk_Cookies
 Mint_Chocolate_Chunk
+Mint_Chocolate_Cookie
+Mud_Pie
 New_York_Super_Fudge_Chunk
 Oatmeal_Cookie_Chunk
+Peanut_Brittle
 Peanut_Butter_Cup
 Phish_Food
 Pistachio_Pistachio
+Raspberry_Fudge_Chunk
+Red_Velvet_Cake
+Rocky_Road_ish
+S_mores
+Stephen_Colbert_s_AmeriCone_Dream
 Strawberry
 Strawberry_Cheesecake
-Strawberry_Kiwi
+Strawberry_Shortcake
 Sweet_Cream_Cookies
-The_Gobfather
-The_Last_Straw
 Triple_Caramel_Chunk
-Uncanny_Cashew
 Vanilla
-Vanilla_Almond
 Vanilla_Caramel_Fudge
+Vanilla_Fudge_Chip
 Vanilla_HEATH_Bar_Crunch
-Wich_Ice_Cream_Cookie_Sandwich
+What_a_Cluster
+Willie_Nelson_s_Country_Peach_Cobbler
