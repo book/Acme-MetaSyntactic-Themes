@@ -7,11 +7,13 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::ben_and_jerry - Ben & Jerry Ice Cream Flavours
+Acme::MetaSyntactic::ben_and_jerry - Ben & Jerry's Ice Cream Flavours
 
 =head1 DESCRIPTION
 
-Flavours of the I<Ben & Jerry> ice-cream brand.
+Flavours of the I<Ben & Jerry's> ice-cream brand.
+
+The official I<Ben & Jerry's> website is at L<http://www.benjerry.com/>.
 
 =head1 CONTRIBUTOR
 
@@ -24,8 +26,7 @@ hides the retired flavours in a hideous flash application.
 
 =head1 SEE ALSO
 
-L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>,
-L<http://www.benjerry.com/>.
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 =cut
 
