@@ -1,17 +1,25 @@
 package Acme::MetaSyntactic::ben_and_jerry;
 use strict;
-use Acme::MetaSyntactic::List;
-our @ISA = qw( Acme::MetaSyntactic::List );
+use Acme::MetaSyntactic::MultiList;
+our @ISA = qw( Acme::MetaSyntactic::MultiList );
 our $VERSION = '1.000';
 __PACKAGE__->init();
 
+my $regex = {
+   current => qr{<h3>([^<]+)</h3>},
+   retired => qr{<option value="([^"]+ )">\1</option>},
+};
+
 our %Remote = (
-    source  => 'http://www.benjerry.com/flavors/our-flavors',
+    source => {
+        current => 'http://www.benjerry.com/flavors/our-flavors',
+        retired => 'https://secure.benjerry.com/contact-us/resurrect-cms.cfm',
+    },
     extract => sub {
         return map { s/_+/_/g; s/_$//; $_ }
             map { Acme::MetaSyntactic::RemoteList::tr_nonword($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
-            $_[0] =~ m!<h3>([^<]+)</h3>!gm;
+            $_[0] =~ m{$regex->{$_[1]}}gm;
     },
 );
 
@@ -63,7 +71,9 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 =cut
 
 __DATA__
-# names
+# default
+current
+# names current
 Banana_Peanut_Butter
 Banana_Split
 Berry_Berry_Extraordinary
@@ -124,3 +134,4 @@ Vanilla_Fudge_Chip
 Vanilla_HEATH_Bar_Crunch
 What_a_Cluster
 Willie_Nelson_s_Country_Peach_Cobbler
+# names retired
