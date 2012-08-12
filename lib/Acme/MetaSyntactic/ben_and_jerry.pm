@@ -16,7 +16,7 @@ our %Remote = (
         retired => 'https://secure.benjerry.com/contact-us/resurrect-cms.cfm',
     },
     extract => sub {
-        return map { s/_+/_/g; s/_$//; $_ }
+        return map { s/^10th/Tenth/; s/_+/_/g; s/_$//; $_ }
             map { Acme::MetaSyntactic::RemoteList::tr_nonword($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
             map { s{(w)/}{$1ith }i; $_ }
@@ -138,7 +138,7 @@ Vanilla_HEATH_Bar_Crunch
 What_a_Cluster
 Willie_Nelson_s_Country_Peach_Cobbler
 # names retired
-10th_Anniversary_Waltz_Nutcracker_Suite
+Tenth_Anniversary_Waltz_Nutcracker_Suite
 Aloha_Macadamia
 American_Apple_Pie
 American_Pie
