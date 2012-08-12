@@ -19,6 +19,7 @@ our %Remote = (
         return map { s/_+/_/g; s/_$//; $_ }
             map { Acme::MetaSyntactic::RemoteList::tr_nonword($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
+            map { s{(w)/}{$1ith }i; $_ }
             $_[0] =~ m{$regex->{$_[1]}}gm;
     },
 );
@@ -194,7 +195,7 @@ Chocolate_Raspberry_Fudge_Swirl
 Chocolate_Raspberry_Swirl
 Chocolate_Raspberry_Truffle
 Chocolate_Swiss_Chocolate_Almond
-Chocolate_w_Fudge_Almonds
+Chocolate_with_Fudge_Almonds
 Choco_Mint_Cow
 Chunky_Choc_Choc_Mousse
 Cinnamon
@@ -237,7 +238,7 @@ Holy_Cannoli
 Honey_Apple_Raisin_Walnut
 Honey_Vanilla
 Hunka_Burnin_Fudge
-Iced_Tea_W_Ginseng
+Iced_Tea_With_Ginseng
 Ice_Tea_with_Ginseng
 Kaffaretto
 Kahlua_Amaretto
@@ -264,7 +265,7 @@ Milk_Chocolate_Almond
 Miller_Family_Malt
 Mint_Chocolate_Fudge_Swirl
 Mint_Fudge_Swirl
-Mint_W_Cookies
+Mint_With_Cookies
 Mint_with_Oreo_Cookie
 Miz_Jelena_s_Sweet_Potato_Pie
 Mocha
@@ -335,7 +336,7 @@ Vanilla_Malted_Milk
 Vanilla_M_M
 Vanilla_Swiss_Almond
 Vanilla_Swiss_Chocolate_Almond
-Vanilla_w_Heath_Toffee_Crunch
+Vanilla_with_Heath_Toffee_Crunch
 Vanilla_with_Kit_Kat
 Vermonty_Python
 Wild_Maine_Blueberry
