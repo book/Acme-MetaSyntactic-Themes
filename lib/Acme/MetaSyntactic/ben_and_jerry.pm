@@ -27,9 +27,9 @@ Flavours of the I<Ben & Jerry's> ice-cream brand.
 
 The official I<Ben & Jerry's> website is at L<http://www.benjerry.com/>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Abigail
+Abigail, Philippe Bruhat (BooK).
 
 =head1 BUGS
 
