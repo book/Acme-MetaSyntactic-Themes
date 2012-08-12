@@ -151,6 +151,7 @@ as well as updates to the themes already in the distribution.
     2012-07-23    1.011   smurfs
     2012-07-31    1.012   mars
     2012-08-06    1.013   lucky_luke
+    2012-08-13    1.01r4  ben_and_jerry
 
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their
