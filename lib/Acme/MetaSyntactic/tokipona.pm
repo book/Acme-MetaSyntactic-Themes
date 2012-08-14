@@ -53,18 +53,17 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 __DATA__
 # names
-a akesi ala ale ali anpa ante anu awen
-e en
+a akesi ala alasa ale ali anpa ante anu awen
+e en esun
 ijo ike ilo insa
-jaki jan jelo jo 
-kala kalama kama kasi ken kepeken kili kiwen ko kon kule kute kulupu
+jaki jan jelo jo
+kala kalama kama kasi ken kepeken kili kin kipisi kiwen ko kon kule kulupu kute
 la lape laso lawa len lete li lili linja lipu loje lon luka lukin lupa
 ma mama mani meli mi mije moku moli monsi mu mun musi mute
-nanpa nasa nasin nena ni nimi noka
+namako nanpa nasa nasin nena ni nimi
 o oko olin ona open
-pakala pali palisa pana pi pilin pimeja pini pipi poka poki pona
-sama seli selo seme sewi sijelo sike sin sina sinpin sitelen sona soweli
-   suli suno supa suwi
+pakala pali palisa pan pana pi pilin pimeja pini pipi poka poki pona pu
+sama seli selo seme sewi sijelo sike sin sina sinpin sitelen sona soweli suli suno supa suwi
 tan taso tawa telo tenpo toki tomo tu
 unpa uta utala
 walo wan waso wawa weka wile
