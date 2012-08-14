@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::tokipona;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -23,6 +24,8 @@ Acme::MetaSyntactic::tokipona - Words from the Toki Pona language.
 Toki Pona is a constructed language, with little more than a hundred words.
 This theme has them all.
 
+See L<http://www.tokipona.org/>.
+
 =head1 CONTRIBUTORS
 
 Abigail, Philippe Bruhat (BooK)
@@ -30,6 +33,13 @@ Abigail, Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-08-20 - v1.000
+
+Updated from remote site, and
+published in Acme-MetaSyntactic-Themes 1.015.
 
 =item *
 
