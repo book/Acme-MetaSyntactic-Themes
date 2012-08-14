@@ -20,12 +20,30 @@ Acme::MetaSyntactic::tokipona - Words from the Toki Pona language.
 
 =head1 DESCRIPTION
 
-Toki Pona is a constructed language, with only 118 words. This theme
-has them all.
+Toki Pona is a constructed language, with little more than a hundred words.
+This theme has them all.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Original contributor: Abigail
+Abigail, Philippe Bruhat (BooK)
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-06-26
+
+Added a remote list (from the official web site).
+
+=item *
+
+2005-11-19
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
