@@ -106,6 +106,7 @@ lib/Acme/MetaSyntactic/Themes.pod
 lib/Acme/MetaSyntactic/thunderbirds.pm
 lib/Acme/MetaSyntactic/tld.pm
 lib/Acme/MetaSyntactic/tmnt.pm
+lib/Acme/MetaSyntactic/tokipona.pm
 lib/Acme/MetaSyntactic/tour_de_france.pm
 lib/Acme/MetaSyntactic/trigan.pm
 lib/Acme/MetaSyntactic/unicode.pm
