@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::yapc;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 1;
 
@@ -96,6 +96,14 @@ Mark Fowler, Philippe Bruhat (BooK), Abigail.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-08-27 - v1.002
+
+Updated by Abigail with the locations for YAPC::Europe, YAPC::NA for 2013,
+as well as the locations of past YAPC::Russia,
+in Acme-MetaSyntactic-Themes version 1.016.
 
 =item *
 
