@@ -3,6 +3,19 @@ use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
 __PACKAGE__->init();
+
+our %Remote = (
+    source  => 'http://en.wikipedia.org/wiki/List_of_towns_in_Wales',
+    extract => sub {
+        my $list = shift;
+        $list =~ s{\A.*<span class="mw-headline" id="A">A</span>}{}s;
+        $list =~ s{<span class="mw-headline" id="Notes">Notes</span>.*}{}s;
+        return map { s/_+/_/g; s/^_|_$//g; $_ }
+            map { Acme::MetaSyntactic::RemoteList::tr_nonword($_) }
+            $list =~ m{<a href="/wiki/[^"]*" title="[^"]*"[^>]*>([^<]+)</a>}g;
+    },
+);
+
 1;
 
 =head1 NAME
@@ -17,14 +30,15 @@ It would be nice to extend this to a list of all towns and villages
 in Wales, if only to be able to include
 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.
 
+Source: L<http://en.wikipedia.org/wiki/List_of_towns_in_Wales>.
+
 =head1 CONTRIBUTOR
 
 Original contributor: Abigail
 
 =head1 SEE ALSO
 
-L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>,
-L<http://en.wikipedia.org/wiki/List_of_towns_in_Wales>.
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 =cut
 
