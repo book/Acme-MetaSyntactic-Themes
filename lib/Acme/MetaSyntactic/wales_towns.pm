@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::wales_towns;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -32,9 +33,28 @@ Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.
 
 Source: L<http://en.wikipedia.org/wiki/List_of_towns_in_Wales>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Original contributor: Abigail
+Abigail, Philippe Bruhat (BooK).
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2012-08-27 - v1.000
+
+Added a remote source for the list and updated the list
+in Acme-MetaSyntactic-Themes v1.016.
+
+=item *
+
+2005-10-25
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
