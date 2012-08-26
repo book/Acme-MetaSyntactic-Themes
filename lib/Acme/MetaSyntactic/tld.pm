@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::tld;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -38,10 +38,17 @@ Scott Lanning, Philippe Bruhat (BooK).
 
 =item *
 
+2012-08-27 - v1.002
+
+Addition of the C<.post> top-level domain
+in Acme-MetaSyntactic-Themes version 1.016.
+
+=item *
+
 2012-07-31 - v1.001
 
 Updated the source URL, and updated the data from the source web site
-in Acme-MetaSyntactic version 1.012 (published one day late).
+in Acme-MetaSyntactic-Themes version 1.012 (published one day late).
 
 =item *
 
@@ -88,4 +95,4 @@ biz name pro
 # names infrastructure
 arpa
 # names sponsored
-aero asia cat coop edu gov int jobs mil mobi museum tel travel xxx
+aero asia cat coop edu gov int jobs mil mobi museum post tel travel xxx
