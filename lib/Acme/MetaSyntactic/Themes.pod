@@ -156,9 +156,15 @@ as well as updates to the themes already in the distribution.
 
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their
-own distribution (see for example L<Acme::MetaSyntactic::buzzwords>,
-L<Acme::MetaSyntactic::daleks>, L<Acme::MetaSyntactic::nethack>,
-L<Acme::MetaSyntactic::vim> and L<Acme::MetaSyntactic::Themes::Abigail>).
+own distribution (see for example
+L<Acme::MetaSyntactic::buzzwords>,
+L<Acme::MetaSyntactic::daleks>,
+L<Acme::MetaSyntactic::errno>,
+L<Acme::MetaSyntactic::nethack>,
+L<Acme::MetaSyntactic::soviet>,
+L<Acme::MetaSyntactic::vim>,
+and L<Acme::MetaSyntactic::Themes::Abigail>).
+
 To make your own Acme::MetaSyntactic theme distribution, you can
 take example from this distribution. Have a look at the F<t/>
 directory in particular.
