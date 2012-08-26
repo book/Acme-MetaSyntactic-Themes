@@ -76,7 +76,18 @@ São Paulo (2006), Porte Alegre (2007-2009).
 This conference was held in conjunction with CONISLI
 (Congresso Internacional de Software Livre).
 
+=item YAPC::Russia
+
+Moscow (2008-2009), Kiev (2010), Moscow (2011), Kiev (2012).
+
 =back
+
+=head1 NOTES
+
+Kiev and Kyiv are names for the same city. For YAPC::Russia, the name
+Kiev is used, as this is the romanization of the Russian name for the
+capital of Ukraine; however, for YAPC::Europe 2013, we opted for using
+the romanization of name in modern Ukrainian.
 
 =head1 CONTRIBUTORS
 
@@ -172,4 +183,5 @@ Porto_Alegre Sao_Paulo Rio_de_Janeiro Fortaleza Rio_de_Janeiro Sao_Paulo
 Tokyo
 # names america south
 Sao_Paulo Porto_Alegre
-
+# names russia
+Moscow Kiev Moscow Kiev
