@@ -42,31 +42,169 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 =cut
 
-#
-# Below are a few names with a single quote in the name. The quotes
-# are left on purpose - after all, it's perfectly valid for a Perl
-# variable to contain quotes.
-#
-
 __DATA__
 # names
-Aberaeron Aberdare Abergavenny Abergele Abertillery Aberystwyth Amlwch
-Ammanford Abercarn Bala Bangor Bargoed Barmouth Barry Beaumaris
-Bethesda Betws_y_Coed Blaenau_Ffestiniog Blaenavon Brecon Bridgend
-Briton_Ferry Brynmawr Buckley Builth_Wells Burry_Port Caernarfon
-Caerphilly Caldicot Cardiff Cardigan Carmarthen Chepstow Chirk
-Colwyn_Bay Connah's_Quay Conwy Corwen Cowbridge Criccieth Crickhowell
-Cwmbran Cwmcarn Denbigh Dolgellau Ebbw_Vale Ffestiniog Fishguard Flint
-Glanamman Glynneath Gorseinon Harlech Haverfordwest Hawarden Hay_on_Wye
-Holyhead Holywell Kidwelly Knighton Lampeter Laugharne Llandeilo
-Llandovery Llandrindod_Wells Llandudno Llanelli Llanfairfechan
-Llanfyllin Llangefni Llangollen Llanidloes Llanrwst Llantrisant
-Llantwit_Major Llanwrtyd_Wells Loughor Machynlleth Maerdy Maesteg
-Menai_Bridge Merthyr_Tydfil Milford_Haven Mold Monmouth Montgomery Mostyn
-Narberth Neath Newborough Newcastle_Emlyn Newport Newport Pembrokeshire
-New_Quay Newtown Neyland Pembroke Pembroke_Dock Penarth Pencoed
-Penmaenmawr Pontardawe Pontypridd Porth Porthcawl Porthmadog Port_Talbot
-Prestatyn Presteigne Pwllheli Queensferry Rhayader Rhuddlan Rhyl Ruthin
-Risca St_Asaph St_Clears St_David's Saltney Shotton Swansea Talgarth
-Tenby Tonypandy Tredegar Tregaron Treorchy Tywyn Usk Welshpool Whitland
-Wrexham Ystradgynlais
+Aberaeron
+Aberavon
+Aberbargoed
+Abercarn
+Aberdare
+Abergavenny
+Abergele
+Aberporth
+Abertillery
+Aberystwyth
+Afonwen
+Amlwch
+Ammanford
+Bagillt
+Bala
+Bangor
+Bargoed
+Barmouth
+Barry
+Beaumaris
+Bedwas
+Benllech
+Bethesda
+Blaenau_Ffestiniog
+Blaenavon
+Blackwood
+Blaina
+Brecon
+Bridgend
+Briton_Ferry
+Brynmawr
+Buckley
+Builth_Wells
+Burry_Port
+Caernarfon
+Caerphilly
+Caerwys
+Caldicot
+Cardiff
+Cardigan
+Carmarthen
+Chepstow
+Chirk
+Cilgerran
+Colwyn_Bay
+Connah_s_Quay
+Conwy
+Corwen
+Cowbridge
+Criccieth
+Crickhowell
+Crumlin
+Cwmamman
+Cwmbran
+Denbigh
+Dolgellau
+Ebbw_Vale
+Ewloe
+Ferndale
+Ffestiniog
+Fishguard
+Flint
+Gelligaer
+Glanaman
+Glynneath
+Goodwick
+Gorseinon
+Hakin
+Harlech
+Haverfordwest
+Hay_on_Wye
+Holt
+Holyhead
+Holywell
+Kidwelly
+Knighton
+Lampeter
+Laugharne
+Llandeilo
+Llandovery
+Llandrindod_Wells
+Llandudno
+Llandudno_Junction
+Llandysul
+Llanelli
+Llanfair_Caereinion
+Llanfairfechan
+Llanfyllin
+Llangefni
+Llangollen
+Llanidloes
+Llanrwst
+Llantrisant
+Llantwit_Major
+Llanwrtyd_Wells
+Llanybydder
+Loughor
+Machynlleth
+Maesteg
+Menai_Bridge
+Merthyr_Tydfil
+Milford_Haven
+Mold
+Monmouth
+Montgomery
+Mountain_Ash
+Narberth
+Neath
+Nefyn
+Newbridge
+Newcastle_Emlyn
+Newport
+Newport_Pembrokeshire
+New_Quay
+Newtown
+Neyland
+Old_Colwyn
+Old_Radnor
+Overton_on_Dee
+Pembroke
+Pembroke_Dock
+Penarth
+Pencoed
+Penmaenmawr
+Penrhyn_Bay
+Pontardawe
+Pontarddulais
+Pontypool
+Pontypridd
+Port_Talbot
+Porth
+Porthcawl
+Porthmadog
+Prestatyn
+Presteigne
+Pwllheli
+Queensferry
+Rhayader
+Rhuddlan
+Rhyl
+Rhymney
+Ruthin
+Risca
+St_Asaph
+St_Clears
+St_David_s
+Senghenydd
+Saltney
+Shotton
+Swansea
+Talgarth
+Templeton
+Tenby
+Tonypandy
+Tredegar
+Tregaron
+Treharris
+Tywyn
+Usk
+Welshpool
+Whitland
+Wrexham
+Ystradgynlais
+Ystrad_Mynach
