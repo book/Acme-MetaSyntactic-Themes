@@ -35,7 +35,7 @@ Asheville (2011), Madison (2012), Austin (2013).
 London (2000),  Amsterdam (2001), Munich (2002), Paris (2003),
 Belfast (2004), Braga (2005), Birmingham (2006), Vienna (2007),
 Copenhagen (2008), Lisbon (2009), Pisa (2010), Rīga (2011),
-Frankfurt (2012).
+Frankfurt (2012), Kyiv (2013).
 
 =item YAPC::Israel
 
