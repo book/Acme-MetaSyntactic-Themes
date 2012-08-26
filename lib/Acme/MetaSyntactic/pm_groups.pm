@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pm_groups;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -10,6 +10,7 @@ our %Remote = (
     extract => sub {
         return
             map { Acme::MetaSyntactic::RemoteList::tr_nonword($_) }
+            map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
             map { s/#/Pound_/g; $_ }
             map { s/&([aeiouy])(?:acute|grave|circ|uml);/$1/g; $_ }
             $_[0] =~ m!<group id="\d+" status="active">\s*<name>\s*([^<]+)\s*</nam!g;
@@ -34,6 +35,13 @@ Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-08-27 - v1.003
+
+Added support for accented group names
+in Acme-MetaSyntactic-Themes version 1.016.
 
 =item *
 
