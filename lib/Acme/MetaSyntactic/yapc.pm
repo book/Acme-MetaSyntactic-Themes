@@ -28,14 +28,14 @@ The various YAPC are:
 Pittsburgh (1999, 2000), Montreal (2001), Saint-Louis (2002),
 Boca Raton (2003), Buffalo (2004), Toronto (2005), Chicago (2006),
 Houston (2007), Chicago (2008), Pittsburgh (2009), Columbus (2010),
-Asheville (2011), Madison (2012).
+Asheville (2011), Madison (2012), Austin (2013).
 
 =item YAPC::Europe
 
 London (2000),  Amsterdam (2001), Munich (2002), Paris (2003),
 Belfast (2004), Braga (2005), Birmingham (2006), Vienna (2007),
 Copenhagen (2008), Lisbon (2009), Pisa (2010), Rīga (2011),
-Frankfurt (2012).
+Frankfurt (2012), Kyiv (2013).
 
 =item YAPC::Israel
 
@@ -76,7 +76,18 @@ São Paulo (2006), Porte Alegre (2007-2009).
 This conference was held in conjunction with CONISLI
 (Congresso Internacional de Software Livre).
 
+=item YAPC::Russia
+
+Moscow (2008-2009), Kiev (2010), Moscow (2011), Kiev (2012).
+
 =back
+
+=head1 NOTES
+
+Kiev and Kyiv are names for the same city. For YAPC::Russia, the name
+Kiev is used, as this is the romanization of the Russian name for the
+capital of Ukraine; however, for YAPC::Europe 2013, we opted for using
+the romanization of name in modern Ukrainian.
 
 =head1 CONTRIBUTORS
 
@@ -154,7 +165,7 @@ __DATA__
 :all
 # names america north
 Pittsburgh Montreal Saint_Louis Boca_Raton Buffalo Toronto Chicago Houston
-Chicago Pittsburgh Columbus Asheville Madison
+Chicago Pittsburgh Columbus Asheville Madison Austin
 # names europe
 London Amsterdam Munich Paris Belfast Braga Birmingham Vienna Copenhagen
 Lisbon Pisa Riga Frankfurt
@@ -172,4 +183,5 @@ Porto_Alegre Sao_Paulo Rio_de_Janeiro Fortaleza Rio_de_Janeiro Sao_Paulo
 Tokyo
 # names america south
 Sao_Paulo Porto_Alegre
-
+# names russia
+Moscow Kiev Moscow Kiev
