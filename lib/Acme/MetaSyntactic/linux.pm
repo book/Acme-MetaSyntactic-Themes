@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-08-27 - v1.004
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.016.
 
 =item *
 
@@ -176,6 +182,7 @@ Coyote
 CrunchBang
 CRUX
 CTKArch
+Damn_Small
 Debian
 DebXPde
 Deepin
@@ -217,6 +224,7 @@ Gentoo
 Gentoox
 GhostBSD
 Gibraltar
+gNewSense
 GParted
 Greenie
 Grml
@@ -259,7 +267,6 @@ Linux_EduCD
 linuX_gamers
 LinuxTLE
 Linvo
-Liquid_Lemur
 Litrix
 LliureX
 LPS
@@ -273,8 +280,8 @@ Mageia
 Magic
 Mandriva
 Mangaka
+Manjaro
 Matriux
-MAX
 MEPIS
 MidnightBSD
 MiniNo
@@ -312,6 +319,7 @@ Oracle
 OS4
 Otakux
 Overclockix
+Oz_Unity
 paldo
 PapugLinux
 Parabola
@@ -355,6 +363,7 @@ Sabayon
 Sabily
 SalineOS
 Salix
+Saluki
 SAMity
 Satux
 SchilliX
@@ -375,6 +384,8 @@ Solaris
 SolusOS
 Sorcerer
 Source_Mage
+StartOS
+Stella
 StressLinux
 SuliX
 SuperGamer
@@ -421,6 +432,7 @@ Vinux
 VLOS
 VMKnoppix
 VortexBox
+Voyager
 Vyatta
 wattOS
 Webconverger
@@ -428,7 +440,6 @@ Wifislax
 xPUD
 Xubuntu
 Yellow_Dog
-Ylmf
 Yoper
 Zentyal
 Zenwalk
