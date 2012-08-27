@@ -114,6 +114,7 @@ lib/Acme/MetaSyntactic/us_presidents.pm
 lib/Acme/MetaSyntactic/userfriendly.pm
 lib/Acme/MetaSyntactic/vcs.pm
 lib/Acme/MetaSyntactic/viclones.pm
+lib/Acme/MetaSyntactic/wales_towns.pm
 lib/Acme/MetaSyntactic/weekdays.pm
 lib/Acme/MetaSyntactic/yapc.pm
 lib/Acme/MetaSyntactic/zodiac.pm
