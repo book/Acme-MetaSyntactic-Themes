@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.004';
+our $VERSION = '1.005';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-08-27 - v1.005
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.016.
 
 =item *
 
@@ -148,7 +154,6 @@ Abigail_Clayton
 Adriana_Sage
 Adrianna_Nicole
 Aiden_Ashley
-Aiden_Starr
 Ai_Iijima
 Aika_Miura
 Ai_Kurosawa
@@ -231,7 +236,6 @@ Ava_Vincent
 Avy_Scott
 Ayano_Murasaki
 Aylar_Lie
-Azlea_Antistia
 Azumi_Kawashima
 Bambi_Woods
 Barbara_Dare
@@ -294,7 +298,6 @@ Casey_Parker
 Cassidey
 Catalina_Cruz
 Cate_Harrington
-Catherine_Count
 Cathy_Barry
 Celeste
 Celia_Blanco
@@ -310,7 +313,6 @@ Chayse_Evans
 Chelsea_Blue
 Chelsea_Charms
 Chelsie_Rae
-Cherry_Jul
 Cherry_Mirage
 Chihiro_Hasegawa
 Chloe
@@ -393,7 +395,6 @@ Gabriella_Fox
 Gail_Force
 Gauge
 Gen_Padova
-Georgia_Jones
 Georgina_Spelvin
 Gianna_Lynn
 Gianna_Michaels
@@ -404,7 +405,6 @@ Ginger_Lynn
 Gloria_Leonard
 Gwen_Summers
 Haley_Paige
-Halli_Aston
 Hannah_Harper
 Hanna_Hilton
 Haruki_Mizuno
@@ -424,7 +424,6 @@ Holly_McCall
 Holly_Ryder
 Holly_Sampson
 Holly_Wellin
-Holly_West
 Honey_Wilder
 Honoka
 Hotaru_Akane
@@ -484,6 +483,7 @@ Joanna_Angel
 Joanna_Storm
 Jodie_Moore
 Johnni_Black
+Judy_Minx
 Julia_Alexandratou
 Julia_Ann
 Julia_Bond
@@ -504,7 +504,6 @@ Kandi_Barbour
 Kaoru_Kuroki
 Kapri_Styles
 Karen_Lancaume
-Karlie_Montana
 Kat
 Katalin_Vad
 Kate_Asabuki
@@ -595,7 +594,6 @@ Mai_Lin
 Maki_Tomoda
 Manami_Yoshii
 Mandy_Bright
-Maria_Bellucci
 Maria_Ozawa
 Marie_Luv
 Marie_McCray
@@ -665,6 +663,7 @@ Olivia_Saint
 Ona_Zee
 Pandora_Peaks
 Paulina_James
+Pauline_Chan
 Peaches
 Penny_Flame
 Phoenix_Marie
@@ -779,6 +778,7 @@ Tami_Monroe
 Tania_Russof
 Tanya_Hansen
 Tanya_Hyde
+Tanya_Tate
 Tara_Lynn_Foxx
 Tarra_White
 Taryn_Thomas
@@ -811,7 +811,6 @@ Tyla_Wynn
 Tylene_Buck
 Tyler_Faith
 Tyra_Banxxx
-Ursula_Moore
 Uschi_Digard
 Vanessa_Blue
 Vanessa_del_Rio
