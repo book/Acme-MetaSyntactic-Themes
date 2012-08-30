@@ -24,6 +24,18 @@ start to read about about I<Evangelion>.
 
 Sébastien Aperghis-Tramoni.
 
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2006-01-05
+
+Submitted by Sébastien Aperghis-Tramoni (Maddingue).
+
+=back
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
