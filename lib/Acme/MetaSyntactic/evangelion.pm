@@ -31,14 +31,14 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 =cut
 
 __DATA__
-# Children / pilots
+# names pilots
 Ayanami_Rei
 Soryu_Asuka_Langley
 Ikari_Shinji
 Suzuhara_Toji
 Nagisa_Kaworu
 
-# Gehirn / Nerv staff
+# names staff nerv
 Ikari_Yui
 Ikari_Gendoo
 Fuyutsuki_Kozo
@@ -51,25 +51,25 @@ Shigeru_Aoba
 Soryu_Zeppelin_Kyoko
 Akagi_Naoko
 
-# Seele staff
+# names staff seele
 Lorenz_Keel
 
-# MAGI
+# names magi
 MAGI Melchior Balthasar Casper
 
-# Evas
+# names evas
 Zerogoki Shogoki Nigoki Sangoki Yongoki Ryousanki
 
-# Shitos
+# names shitos
 Adam Lilith Sachiel Samsiel Ramiel Gagiel Israfel Sandalfon Matarael
 Saraqiel Iroel Leliel Bardiel Zeruel Arael Armisael Tabris Lilim
 
-# other characters
+# names other
 Aida_Kensuke
 Horaki Hikari
 Pen_Pen
 
-# glossary
+# names glossary
 GEHIRN NERV Marduk SEELE
 Sephiroth
 Eva Evangelion Shito Angel
