@@ -1,7 +1,7 @@
 package Acme::MetaSyntactic::evangelion;
 use strict;
 use Acme::MetaSyntactic::List;
-our @ISA = qw(Acme::MetaSyntactic::List);
+our @ISA = qw( Acme::MetaSyntactic::MultiList );
 __PACKAGE__->init();
 1;
 
