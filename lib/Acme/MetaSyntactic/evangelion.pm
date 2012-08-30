@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::evangelion;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -27,6 +28,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-09-03 - v1.000
+
+Published in Acme-MetaSyntactic-Themes version 1.017.
 
 =item *
 
