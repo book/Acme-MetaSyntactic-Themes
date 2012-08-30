@@ -5,6 +5,8 @@ our @ISA = qw(Acme::MetaSyntactic::List);
 __PACKAGE__->init();
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::evangelion - The Neon genesis Evangelion theme
@@ -20,7 +22,7 @@ start to read about about I<Evangelion>.
 
 =head1 CONTRIBUTOR
 
-SE<eacute>bastien Aperghis-Tramoni.
+Sébastien Aperghis-Tramoni.
 
 =head1 SEE ALSO
 
