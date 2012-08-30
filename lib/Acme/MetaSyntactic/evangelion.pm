@@ -32,27 +32,27 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 __DATA__
 # Children / pilots
-Ayanami Rei
-Soryu Asuka Langley
-Ikari Shinji
-Suzuhara Toji
-Nagisa Kaworu
+Ayanami_Rei
+Soryu_Asuka_Langley
+Ikari_Shinji
+Suzuhara_Toji
+Nagisa_Kaworu
 
 # Gehirn / Nerv staff
-Ikari Yui
-Ikari Gendoo
-Fuyutsuki Kozo
-Akagi Ritsuko
-Katsuragi Misato
-Ryouji Kaji
-Ibuki Maya
-Hyuga Makoto
-Shigeru Aoba
-Soryu Zeppelin Kyoko
-Akagi Naoko
+Ikari_Yui
+Ikari_Gendoo
+Fuyutsuki_Kozo
+Akagi_Ritsuko
+Katsuragi_Misato
+Ryouji_Kaji
+Ibuki_Maya
+Hyuga_Makoto
+Shigeru_Aoba
+Soryu_Zeppelin_Kyoko
+Akagi_Naoko
 
 # Seele staff
-Lorenz Keel
+Lorenz_Keel
 
 # MAGI
 MAGI Melchior Balthasar Casper
@@ -65,7 +65,7 @@ Adam Lilith Sachiel Samsiel Ramiel Gagiel Israfel Sandalfon Matarael
 Saraqiel Iroel Leliel Bardiel Zeruel Arael Armisael Tabris Lilim
 
 # other characters
-Aida kensuke
+Aida_Kensuke
 Horaki Hikari
 Pen_Pen
 
