@@ -30,7 +30,7 @@ This theme contains the following categories:
 
 =over
 
-=item * pilots
+=item * pilots/original
 
 names of the Evangelion pilots
 
@@ -38,7 +38,7 @@ names of the Evangelion pilots
 
 names of the additional pilots in I<Rebuild of Evangelion>
 
-=item * staff/nerv
+=item * staff/nerv/original
 
 names of the people working for the Nerv organisation
 
@@ -68,15 +68,20 @@ Japanese names of the Evangelions
 
 names of the Angels (Shito)
 
-=item * students
+=item * students/original
 
 names of other students
+
+=item * students/IkuseiKeikaku
+
+names of other students
+in I<Shin Seiki Evangelion: Ikari Shinji Ikusei Keikaku>
 
 =item * animals
 
 names of the animals
 
-=item * glossary
+=item * glossary/common
 
 miscellaneous names
 
@@ -122,7 +127,7 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 =cut
 
 __DATA__
-# names pilots
+# names pilots original
 First_Children Ayanami_Rei
 Second_Children Soryu_Asuka_Langley
 Third_Children Ikari_Shinji
@@ -132,7 +137,7 @@ Fifth_Children Nagisa_Kaworu
 Shikinami_Asuka_Langley
 Makinami_Illustrious_Mari
 
-# names staff nerv
+# names staff nerv original
 Ikari_Gendoo
 Fuyutsuki_Kozo
 Akagi_Ritsuko
@@ -163,7 +168,7 @@ Zerogoki Shogoki Nigoki Sangoki Yongoki Ryousanki
 Adam Lilith Sachiel Shamshel Ramiel Gaghiel Israfel Sandalphon Matarael
 Sahaqiel Ireul Leliel Bardiel Zeruel Arael Armisael Tabris Lilin
 
-# names students
+# names students original
 Aida_Kensuke
 Horaki_Hikari
 # names students IkuseiKeikaku
@@ -172,7 +177,7 @@ Kirishima_Mana
 # names animals
 Pen_Pen
 
-# names glossary
+# names glossary common
 Seele Gehirn Nerv Marduk_Institute
 Sephiroth Dead_Sea_Scrolls Human_Instrumentality_Project
 Henflick_limit
