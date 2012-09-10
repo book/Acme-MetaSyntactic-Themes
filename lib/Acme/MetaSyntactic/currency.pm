@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::currency;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -33,6 +33,12 @@ Philippe "BooK" Bruhat.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-09-10 - v1.001
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.018.
 
 =item *
 
@@ -346,6 +352,7 @@ UGW
 UYN
 UYP
 VEB
+VEF
 VNC
 XFO
 XRE
@@ -354,6 +361,7 @@ YUD
 YUM
 YUN
 ZAL
+ZMK
 ZRN
 ZRZ
 ZWC
