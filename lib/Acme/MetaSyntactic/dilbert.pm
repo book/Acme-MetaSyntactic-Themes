@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::dilbert;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -38,6 +38,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-09-10 - v1.001
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.018.
 
 =item *
 
@@ -177,12 +183,12 @@ bob bob_flabeau bob_weaselton bobby bobby_mcnewton bobby_noober boron
 bottleneck_bill brad bradley brenda brenda_utthead brent brian bruce
 bucky bud buff_bufferman camping_carl carl carlos carol cheryl chuck
 cliffy co_op_employee connie cyrus_the_virus dan dave dawn dee_alamo
-dilbert doctor_wolfington dogbert donald dorie ed eddy edfred edna
+dilbert doctor_wolfington dogbert donald dorie doug ed eddy edfred edna
 edward_lester_mann eileen ellen ernie flossie floyd floyd_remora
 fred freshy_q gustav hammerhead_bob harold harry_middlepart helen
 holly_hollister incredulous_ed irene irv irv_klepfurd jack janet
 jennifer jenny_dworkin jim jimmy jittery_jeff john_smith johnson jose
-juan_delegator judy karl kay_and_clem_bovinski ken kronos kudos larry
+juan_delegator judy karl kay_and_clem_bovinski ken kronos kudos larry lars
 laura lauren laurie les lisa liz lola loopy loud_howard lulu mahoney
 mary matt medical_mel mel michael_t_suit mike millard_bullrush milt ming
 miss_cerberus miss_mulput miss_pennington mister_catbert mister_goodenrich
