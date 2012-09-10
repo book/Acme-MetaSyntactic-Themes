@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pm_groups;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -35,6 +35,12 @@ Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-09-10 - v1.004
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.018.
 
 =item *
 
@@ -171,6 +177,7 @@ Austin_pm
 Baltimore_pm
 Boston_pm
 Boulder_pm
+Champaign_Urbana_pm
 Charlotte_pm
 Chicago_pm
 Cincinnati_pm
@@ -378,3 +385,4 @@ Weston_pm
 Cluj_pm
 Niigata_pm
 Hardware_pm
+Baku_pm
