@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.004';
+our $VERSION = '1.005';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-09-10 - v1.005
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.018.
 
 =item *
 
@@ -223,7 +229,6 @@ GeeXboX
 Gentoo
 Gentoox
 GhostBSD
-Gibraltar
 gNewSense
 GParted
 Greenie
@@ -282,6 +287,7 @@ Mandriva
 Mangaka
 Manjaro
 Matriux
+MAX
 MEPIS
 MidnightBSD
 MiniNo
@@ -349,6 +355,7 @@ Puredyne
 PureOS
 Qimo
 Qomo
+Qubes
 Quirky
 Red_Flag
 Red_Hat
@@ -379,7 +386,6 @@ SME_Server
 SmoothWall
 SMS
 Snowlinux
-SoL
 Solaris
 SolusOS
 Sorcerer
