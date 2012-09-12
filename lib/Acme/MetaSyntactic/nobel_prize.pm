@@ -961,6 +961,18 @@ The winners are:
  2009   Physics     George E. Smith
  2009   Physics     Willard S. Boyle
 
+ 2010   Chemistry   Akira Suzuki
+ 2010   Chemistry   Ei-ichi Negishi
+ 2010   Chemistry   Richard F. Heck
+ 2010   Economics   Christopher A. Pissarides
+ 2010   Economics   Dale T. Mortensen
+ 2010   Economics   Peter A. Diamond
+ 2010   Literature  Mario Vargas Llosa
+ 2010   Medecine    Robert G. Edwards
+ 2010   Peace       Liu Xiaobo
+ 2010   Physics     Andre Geim
+ 2010   Physics     Konstantin Novoselov
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
