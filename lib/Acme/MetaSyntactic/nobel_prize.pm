@@ -973,6 +973,20 @@ The winners are:
  2010   Physics     Andre Geim
  2010   Physics     Konstantin Novoselov
 
+ 2011   Chemistry   Dan Shechtman
+ 2011   Economics   Christopher A. Sims
+ 2011   Economics   Thomas J. Sargent
+ 2011   Literature  Tomas Tranströmer
+ 2011   Medecine    Bruce A. Beutler
+ 2011   Medecine    Jules A. Hoffmann
+ 2011   Medecine    Ralph M. Steinman
+ 2011   Peace       Ellen Johnson Sirleaf
+ 2011   Peace       Leymah Gbowee
+ 2011   Peace       Tawakkol Karman
+ 2011   Physics     Adam G. Riess
+ 2011   Physics     Brian P. Schmidt
+ 2011   Physics     Saul Perlmutter
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
