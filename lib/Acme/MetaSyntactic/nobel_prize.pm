@@ -4,8 +4,6 @@ use warnings;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
 
-__PACKAGE__ -> init ();
-
 =encoding iso-8859-1
 
 =head1 NAME
@@ -22,9 +20,7 @@ The winners are:
 
 =cut
 
-no warnings 'redefine';
-
-sub Acme::MetaSyntactic::load_data {
+{
     my $data;
     my %categories;
 
@@ -835,8 +831,10 @@ sub Acme::MetaSyntactic::load_data {
 
     $$data {default} = ':all';
 
-    $data;
+    __PACKAGE__->init( $data );
 }
+
+1;
 
 __END__
 
