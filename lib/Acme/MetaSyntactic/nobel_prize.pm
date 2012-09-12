@@ -32,6 +32,7 @@ The winners are:
  1901   Peace       Frédéric Passy
  1901   Peace       Henry Dunant
  1901   Physics     Wilhelm Conrad Röntgen
+
  1902   Chemistry   Emil Fischer
  1902   Literature  Theodor Mommsen
  1902   Medicine    Ronald Ross
@@ -39,6 +40,7 @@ The winners are:
  1902   Peace       Élie Ducommun
  1902   Physics     Hendrik A. Lorentz
  1902   Physics     Pieter Zeeman
+
  1903   Chemistry   Svante Arrhenius
  1903   Literature  Bjørnstjerne Bjørnson
  1903   Medicine    Niels Ryberg Finsen
@@ -46,29 +48,34 @@ The winners are:
  1903   Physics     Henri Becquerel
  1903   Physics     Marie Curie
  1903   Physics     Pierre Curie
+
  1904   Chemistry   Sir William Ramsay
  1904   Literature  Frédéric Mistral
  1904   Literature  José Echegaray
  1904   Medicine    Ivan Pavlov
  1904   Peace       Institute of International Law
  1904   Physics     Lord Rayleigh
+
  1905   Chemistry   Adolf von Baeyer
  1905   Literature  Henryk Sienkiewicz
  1905   Medicine    Robert Koch
  1905   Peace       Bertha von Suttner
  1905   Physics     Philipp Lenard
+
  1906   Chemistry   Henri Moissan
  1906   Literature  Giosuè Carducci
  1906   Medicine    Camillo Golgi
  1906   Medicine    Santiago Ramón y Cajal
  1906   Peace       Theodore Roosevelt
  1906   Physics     J.J. Thomson
+
  1907   Chemistry   Eduard Buchner
  1907   Literature  Rudyard Kipling
  1907   Medicine    Alphonse Laveran
  1907   Peace       Ernesto Teodoro Moneta
  1907   Peace       Louis Renault
  1907   Physics     Albert A. Michelson
+
  1908   Chemistry   Ernest Rutherford
  1908   Literature  Rudolf Eucken
  1908   Medicine    Ilya Mechnikov
@@ -76,6 +83,7 @@ The winners are:
  1908   Peace       Fredrik Bajer
  1908   Peace       Klas Pontus Arnoldson
  1908   Physics     Gabriel Lippmann
+
  1909   Chemistry   Wilhelm Ostwald
  1909   Literature  Selma Lagerlöf
  1909   Medicine    Theodor Kocher
@@ -83,82 +91,100 @@ The winners are:
  1909   Peace       Paul Henri d'Estournelles de Constant
  1909   Physics     Ferdinand Braun
  1909   Physics     Guglielmo Marconi
+
  1910   Chemistry   Otto Wallach
  1910   Literature  Paul Heyse
  1910   Medicine    Albrecht Kossel
  1910   Peace       Permanent International Peace Bureau
  1910   Physics     Johannes Diderik van der Waals
+
  1911   Chemistry   Marie Curie
  1911   Literature  Maurice Maeterlinck
  1911   Medicine    Allvar Gullstrand
  1911   Peace       Alfred Fried
  1911   Peace       Tobias Asser
  1911   Physics     Wilhelm Wien
+
  1912   Chemistry   Paul Sabatier
  1912   Chemistry   Victor Grignard
  1912   Literature  Gerhart Hauptmann
  1912   Medicine    Alexis Carrel
  1912   Peace       Elihu Root
  1912   Physics     Gustaf Dalén
+
  1913   Chemistry   Alfred Werner
  1913   Literature  Rabindranath Tagore
  1913   Medicine    Charles Richet
  1913   Peace       Henri La Fontaine
  1913   Physics     Heike Kamerlingh Onnes
+
  1914   Chemistry   Theodore W. Richards
  1914   Medicine    Robert Bárány
  1914   Physics     Max von Laue
+
  1915   Chemistry   Richard Willstätter
  1915   Literature  Romain Rolland
  1915   Physics     Lawrence Bragg
  1915   Physics     William Bragg
+
  1916   Literature  Verner von Heidenstam
+
  1917   Literature  Henrik Pontoppidan
  1917   Literature  Karl Gjellerup
  1917   Peace       International Committee of the Red Cross
  1917   Physics     Charles Glover Barkla
+
  1918   Chemistry   Fritz Haber
  1918   Physics     Max Planck
+
  1919   Literature  Carl Spitteler
  1919   Medicine    Jules Bordet
  1919   Peace       Woodrow Wilson
  1919   Physics     Johannes Stark
+
  1920   Chemistry   Walther Nernst
  1920   Literature  Knut Hamsun
  1920   Medicine    August Krogh
  1920   Peace       Léon Bourgeois
  1920   Physics     Charles Edouard Guillaume
+
  1921   Chemistry   Frederick Soddy
  1921   Literature  Anatole France
  1921   Peace       Christian Lange
  1921   Peace       Hjalmar Branting
  1921   Physics     Albert Einstein
+
  1922   Chemistry   Francis W. Aston
  1922   Literature  Jacinto Benavente
  1922   Medicine    Archibald V. Hill
  1922   Medicine    Otto Meyerhof
  1922   Peace       Fridtjof Nansen
  1922   Physics     Niels Bohr
+
  1923   Chemistry   Fritz Pregl
  1923   Literature  William Butler Yeats
  1923   Medicine    Frederick G. Banting
  1923   Medicine    John Macleod
  1923   Physics     Robert A. Millikan
+
  1924   Literature  Wladyslaw Reymont
  1924   Medicine    Willem Einthoven
  1924   Physics     Manne Siegbahn
+
  1925   Chemistry   Richard Zsigmondy
  1925   Literature  George Bernard Shaw
  1925   Peace       Charles G. Dawes
  1925   Peace       Sir Austen Chamberlain
  1925   Physics     Gustav Hertz
  1925   Physics     James Franck
+
  1926   Chemistry   The Svedberg
  1926   Literature  Grazia Deledda
  1926   Medicine    Johannes Fibiger
  1926   Peace       Aristide Briand
  1926   Peace       Gustav Stresemann
  1926   Physics     Jean Baptiste Perrin
+
  1927   Chemistry   Heinrich Wieland
  1927   Literature  Henri Bergson
  1927   Medicine    Julius Wagner-Jauregg
@@ -166,10 +192,12 @@ The winners are:
  1927   Peace       Ludwig Quidde
  1927   Physics     Arthur H. Compton
  1927   Physics     C.T.R. Wilson
+
  1928   Chemistry   Adolf Windaus
  1928   Literature  Sigrid Undset
  1928   Medicine    Charles Nicolle
  1928   Physics     Owen Willans Richardson
+
  1929   Chemistry   Arthur Harden
  1929   Chemistry   Hans von Euler-Chelpin
  1929   Literature  Thomas Mann
@@ -177,38 +205,45 @@ The winners are:
  1929   Medicine    Sir Frederick Hopkins
  1929   Peace       Frank B. Kellogg
  1929   Physics     Louis de Broglie
+
  1930   Chemistry   Hans Fischer
  1930   Literature  Sinclair Lewis
  1930   Medicine    Karl Landsteiner
  1930   Peace       Nathan Söderblom
  1930   Physics     Venkata Raman
+
  1931   Chemistry   Carl Bosch
  1931   Chemistry   Friedrich Bergius
  1931   Literature  Erik Axel Karlfeldt
  1931   Medicine    Otto Warburg
  1931   Peace       Jane Addams
  1931   Peace       Nicholas Murray Butler
+
  1932   Chemistry   Irving Langmuir
  1932   Literature  John Galsworthy
  1932   Medicine    Edgar Adrian
  1932   Medicine    Sir Charles Sherrington
  1932   Physics     Werner Heisenberg
+
  1933   Literature  Ivan Bunin
  1933   Medicine    Thomas H. Morgan
  1933   Peace       Sir Norman Angell
  1933   Physics     Erwin Schrödinger
  1933   Physics     Paul A.M. Dirac
+
  1934   Chemistry   Harold C. Urey
  1934   Literature  Luigi Pirandello
  1934   Medicine    George H. Whipple
  1934   Medicine    George R. Minot
  1934   Medicine    William P. Murphy
  1934   Peace       Arthur Henderson
+
  1935   Chemistry   Frédéric Joliot
  1935   Chemistry   Irène Joliot-Curie
  1935   Medicine    Hans Spemann
  1935   Peace       Carl von Ossietzky
  1935   Physics     James Chadwick
+
  1936   Chemistry   Peter Debye
  1936   Literature  Eugene O'Neill
  1936   Medicine    Otto Loewi
@@ -216,6 +251,7 @@ The winners are:
  1936   Peace       Carlos Saavedra Lamas
  1936   Physics     Carl D. Anderson
  1936   Physics     Victor F. Hess
+
  1937   Chemistry   Norman Haworth
  1937   Chemistry   Paul Karrer
  1937   Literature  Roger Martin du Gard
@@ -223,26 +259,31 @@ The winners are:
  1937   Peace       Robert Cecil
  1937   Physics     Clinton Davisson
  1937   Physics     George Paget Thomson
+
  1938   Chemistry   Richard Kuhn
  1938   Literature  Pearl Buck
  1938   Medicine    Corneille Heymans
  1938   Peace       Nansen International Office for Refugees
  1938   Physics     Enrico Fermi
+
  1939   Chemistry   Adolf Butenandt
  1939   Chemistry   Leopold Ruzicka
  1939   Literature  Frans Eemil Sillanpää
  1939   Medicine    Gerhard Domagk
  1939   Physics     Ernest Lawrence
+
  1943   Chemistry   George de Hevesy
  1943   Medicine    Edward A. Doisy
  1943   Medicine    Henrik Dam
  1943   Physics     Otto Stern
+
  1944   Chemistry   Otto Hahn
  1944   Literature  Johannes V. Jensen
  1944   Medicine    Herbert S. Gasser
  1944   Medicine    Joseph Erlanger
  1944   Peace       International Committee of the Red Cross
  1944   Physics     Isidor Isaac Rabi
+
  1945   Chemistry   Artturi Virtanen
  1945   Literature  Gabriela Mistral
  1945   Medicine    Ernst B. Chain
@@ -250,6 +291,7 @@ The winners are:
  1945   Medicine    Sir Howard Florey
  1945   Peace       Cordell Hull
  1945   Physics     Wolfgang Pauli
+
  1946   Chemistry   James B. Sumner
  1946   Chemistry   John H. Northrop
  1946   Chemistry   Wendell M. Stanley
@@ -258,6 +300,7 @@ The winners are:
  1946   Peace       Emily Greene Balch
  1946   Peace       John R. Mott
  1946   Physics     Percy W. Bridgman
+
  1947   Chemistry   Sir Robert Robinson
  1947   Literature  André Gide
  1947   Medicine    Bernardo Houssay
@@ -266,16 +309,19 @@ The winners are:
  1947   Peace       American Friends Service Committee
  1947   Peace       Friends Service Council
  1947   Physics     Edward V. Appleton
+
  1948   Chemistry   Arne Tiselius
  1948   Literature  T.S. Eliot
  1948   Medicine    Paul Müller
  1948   Physics     Patrick M.S. Blackett
+
  1949   Chemistry   William F. Giauque
  1949   Literature  William Faulkner
  1949   Medicine    Egas Moniz
  1949   Medicine    Walter Hess
  1949   Peace       Lord Boyd Orr
  1949   Physics     Hideki Yukawa
+
  1950   Chemistry   Kurt Alder
  1950   Chemistry   Otto Diels
  1950   Literature  Bertrand Russell
@@ -284,6 +330,7 @@ The winners are:
  1950   Medicine    Tadeus Reichstein
  1950   Peace       Ralph Bunche
  1950   Physics     Cecil Powell
+
  1951   Chemistry   Edwin M. McMillan
  1951   Chemistry   Glenn T. Seaborg
  1951   Literature  Pär Lagerkvist
@@ -291,6 +338,7 @@ The winners are:
  1951   Peace       Léon Jouhaux
  1951   Physics     Ernest T.S. Walton
  1951   Physics     John Cockcroft
+
  1952   Chemistry   Archer J.P. Martin
  1952   Chemistry   Richard L.M. Synge
  1952   Literature  François Mauriac
@@ -298,12 +346,14 @@ The winners are:
  1952   Peace       Albert Schweitzer
  1952   Physics     E. M. Purcell
  1952   Physics     Felix Bloch
+
  1953   Chemistry   Hermann Staudinger
  1953   Literature  Winston Churchill
  1953   Medicine    Fritz Lipmann
  1953   Medicine    Hans Krebs
  1953   Peace       George C. Marshall
  1953   Physics     Frits Zernike
+
  1954   Chemistry   Linus Pauling
  1954   Literature  Ernest Hemingway
  1954   Medicine    Frederick C. Robbins
@@ -312,11 +362,13 @@ The winners are:
  1954   Peace       Office of the United Nations High Commissioner for Refugees
  1954   Physics     Max Born
  1954   Physics     Walther Bothe
+
  1955   Chemistry   Vincent du Vigneaud
  1955   Literature  Halldór Laxness
  1955   Medicine    Hugo Theorell
  1955   Physics     Polykarp Kusch
  1955   Physics     Willis E. Lamb
+
  1956   Chemistry   Nikolay Semenov
  1956   Chemistry   Sir Cyril Hinshelwood
  1956   Literature  Juan Ramón Jiménez
@@ -326,12 +378,14 @@ The winners are:
  1956   Physics     John Bardeen
  1956   Physics     Walter H. Brattain
  1956   Physics     William B. Shockley
+
  1957   Chemistry   Lord Todd
  1957   Literature  Albert Camus
  1957   Medicine    Daniel Bovet
  1957   Peace       Lester Bowles Pearson
  1957   Physics     Chen Ning Yang
  1957   Physics     Tsung-Dao Lee
+
  1958   Chemistry   Frederick Sanger
  1958   Literature  Boris Pasternak
  1958   Medicine    Edward Tatum
@@ -341,6 +395,7 @@ The winners are:
  1958   Physics     Igor Y. Tamm
  1958   Physics     Il´ja M. Frank
  1958   Physics     Pavel A. Cherenkov
+
  1959   Chemistry   Jaroslav Heyrovsky
  1959   Literature  Salvatore Quasimodo
  1959   Medicine    Arthur Kornberg
@@ -348,18 +403,21 @@ The winners are:
  1959   Peace       Philip Noel-Baker
  1959   Physics     Emilio Segrè
  1959   Physics     Owen Chamberlain
+
  1960   Chemistry   Willard F. Libby
  1960   Literature  Saint-John Perse
  1960   Medicine    Peter Medawar
  1960   Medicine    Sir Frank Macfarlane Burnet
  1960   Peace       Albert Lutuli
  1960   Physics     Donald A. Glaser
+
  1961   Chemistry   Melvin Calvin
  1961   Literature  Ivo Andric
  1961   Medicine    Georg von Békésy
  1961   Peace       Dag Hammarskjöld
  1961   Physics     Robert Hofstadter
  1961   Physics     Rudolf Mössbauer
+
  1962   Chemistry   John C. Kendrew
  1962   Chemistry   Max F. Perutz
  1962   Literature  John Steinbeck
@@ -368,6 +426,7 @@ The winners are:
  1962   Medicine    Maurice Wilkins
  1962   Peace       Linus Pauling
  1962   Physics     Lev Landau
+
  1963   Chemistry   Giulio Natta
  1963   Chemistry   Karl Ziegler
  1963   Literature  Giorgos Seferis
@@ -379,6 +438,7 @@ The winners are:
  1963   Physics     Eugene Wigner
  1963   Physics     J. Hans D. Jensen
  1963   Physics     Maria Goeppert-Mayer
+
  1964   Chemistry   Dorothy Crowfoot Hodgkin
  1964   Literature  Jean-Paul Sartre
  1964   Medicine    Feodor Lynen
@@ -387,6 +447,7 @@ The winners are:
  1964   Physics     Aleksandr M. Prokhorov
  1964   Physics     Charles H. Townes
  1964   Physics     Nicolay G. Basov
+
  1965   Chemistry   Robert B. Woodward
  1965   Literature  Mikhail Sholokhov
  1965   Medicine    André Lwoff
@@ -396,12 +457,14 @@ The winners are:
  1965   Physics     Julian Schwinger
  1965   Physics     Richard P. Feynman
  1965   Physics     Sin-Itiro Tomonaga
+
  1966   Chemistry   Robert S. Mulliken
  1966   Literature  Nelly Sachs
  1966   Literature  Samuel Agnon
  1966   Medicine    Charles B. Huggins
  1966   Medicine    Peyton Rous
  1966   Physics     Alfred Kastler
+
  1967   Chemistry   George Porter
  1967   Chemistry   Manfred Eigen
  1967   Chemistry   Ronald G.W. Norrish
@@ -410,6 +473,7 @@ The winners are:
  1967   Medicine    Haldan K. Hartline
  1967   Medicine    Ragnar Granit
  1967   Physics     Hans Bethe
+
  1968   Chemistry   Lars Onsager
  1968   Literature  Yasunari Kawabata
  1968   Medicine    H. Gobind Khorana
@@ -417,6 +481,7 @@ The winners are:
  1968   Medicine    Robert W. Holley
  1968   Peace       René Cassin
  1968   Physics     Luis Alvarez
+
  1969   Chemistry   Derek Barton
  1969   Chemistry   Odd Hassel
  1969   Economics   Jan Tinbergen
@@ -427,6 +492,7 @@ The winners are:
  1969   Medicine    Salvador E. Luria
  1969   Peace       International Labour Organization
  1969   Physics     Murray Gell-Mann
+
  1970   Chemistry   Luis Leloir
  1970   Economics   Paul A. Samuelson
  1970   Literature  Alexandr Solzhenitsyn
@@ -436,12 +502,14 @@ The winners are:
  1970   Peace       Norman Borlaug
  1970   Physics     Hannes Alfvén
  1970   Physics     Louis Néel
+
  1971   Chemistry   Gerhard Herzberg
  1971   Economics   Simon Kuznets
  1971   Literature  Pablo Neruda
  1971   Medicine    Earl W. Sutherland, Jr.
  1971   Peace       Willy Brandt
  1971   Physics     Dennis Gabor
+
  1972   Chemistry   Christian Anfinsen
  1972   Chemistry   Stanford Moore
  1972   Chemistry   William H. Stein
@@ -453,6 +521,7 @@ The winners are:
  1972   Physics     John Bardeen
  1972   Physics     Leon N. Cooper
  1972   Physics     Robert Schrieffer
+
  1973   Chemistry   Ernst Otto Fischer
  1973   Chemistry   Geoffrey Wilkinson
  1973   Economics   Wassily Leontief
@@ -465,6 +534,7 @@ The winners are:
  1973   Physics     Brian D. Josephson
  1973   Physics     Ivar Giaever
  1973   Physics     Leo Esaki
+
  1974   Chemistry   Paul J. Flory
  1974   Economics   Friedrich August von Hayek
  1974   Economics   Gunnar Myrdal
@@ -477,6 +547,7 @@ The winners are:
  1974   Peace       Seán MacBride
  1974   Physics     Antony Hewish
  1974   Physics     Martin Ryle
+
  1975   Chemistry   John Cornforth
  1975   Chemistry   Vladimir Prelog
  1975   Economics   Leonid Vitaliyevich Kantorovich
@@ -489,6 +560,7 @@ The winners are:
  1975   Physics     Aage N. Bohr
  1975   Physics     Ben R. Mottelson
  1975   Physics     James Rainwater
+
  1976   Chemistry   William Lipscomb
  1976   Economics   Milton Friedman
  1976   Literature  Saul Bellow
@@ -498,6 +570,7 @@ The winners are:
  1976   Peace       Mairead Corrigan
  1976   Physics     Burton Richter
  1976   Physics     Samuel C.C. Ting
+
  1977   Chemistry   Ilya Prigogine
  1977   Economics   Bertil Ohlin
  1977   Economics   James E. Meade
@@ -509,6 +582,7 @@ The winners are:
  1977   Physics     John H. van Vleck
  1977   Physics     Philip W. Anderson
  1977   Physics     Sir Nevill F. Mott
+
  1978   Chemistry   Peter Mitchell
  1978   Economics   Herbert A. Simon
  1978   Literature  Isaac Bashevis Singer
@@ -520,6 +594,7 @@ The winners are:
  1978   Physics     Arno Penzias
  1978   Physics     Pyotr Kapitsa
  1978   Physics     Robert Woodrow Wilson
+
  1979   Chemistry   Georg Wittig
  1979   Chemistry   Herbert C. Brown
  1979   Economics   Sir Arthur Lewis
@@ -531,6 +606,7 @@ The winners are:
  1979   Physics     Abdus Salam
  1979   Physics     Sheldon Glashow
  1979   Physics     Steven Weinberg
+
  1980   Chemistry   Frederick Sanger
  1980   Chemistry   Paul Berg
  1980   Chemistry   Walter Gilbert
@@ -542,6 +618,7 @@ The winners are:
  1980   Peace       Adolfo Pérez Esquivel
  1980   Physics     James Cronin
  1980   Physics     Val Fitch
+
  1981   Chemistry   Kenichi Fukui
  1981   Chemistry   Roald Hoffmann
  1981   Economics   James Tobin
@@ -553,6 +630,7 @@ The winners are:
  1981   Physics     Arthur L. Schawlow
  1981   Physics     Kai M. Siegbahn
  1981   Physics     Nicolaas Bloembergen
+
  1982   Chemistry   Aaron Klug
  1982   Economics   George J. Stigler
  1982   Literature  Gabriel García Márquez
@@ -562,6 +640,7 @@ The winners are:
  1982   Peace       Alfonso García Robles
  1982   Peace       Alva Myrdal
  1982   Physics     Kenneth G. Wilson
+
  1983   Chemistry   Henry Taube
  1983   Economics   Gerard Debreu
  1983   Literature  William Golding
@@ -569,6 +648,7 @@ The winners are:
  1983   Peace       Lech Walesa
  1983   Physics     Subramanyan Chandrasekhar
  1983   Physics     William A. Fowler
+
  1984   Chemistry   Bruce Merrifield
  1984   Economics   Richard Stone
  1984   Literature  Jaroslav Seifert
@@ -578,6 +658,7 @@ The winners are:
  1984   Peace       Desmond Tutu
  1984   Physics     Carlo Rubbia
  1984   Physics     Simon van der Meer
+
  1985   Chemistry   Herbert A. Hauptman
  1985   Chemistry   Jerome Karle
  1985   Economics   Franco Modigliani
@@ -586,6 +667,7 @@ The winners are:
  1985   Medicine    Michael S. Brown
  1985   Peace       International Physicians for the Prevention of Nuclear War
  1985   Physics     Klaus von Klitzing
+
  1986   Chemistry   Dudley R. Herschbach
  1986   Chemistry   John C. Polanyi
  1986   Chemistry   Yuan T. Lee
@@ -597,6 +679,7 @@ The winners are:
  1986   Physics     Ernst Ruska
  1986   Physics     Gerd Binnig
  1986   Physics     Heinrich Rohrer
+
  1987   Chemistry   Charles J. Pedersen
  1987   Chemistry   Donald J. Cram
  1987   Chemistry   Jean-Marie Lehn
@@ -606,6 +689,7 @@ The winners are:
  1987   Peace       Oscar Arias Sánchez
  1987   Physics     J. Georg Bednorz
  1987   Physics     K. Alex Müller
+
  1988   Chemistry   Hartmut Michel
  1988   Chemistry   Johann Deisenhofer
  1988   Chemistry   Robert Huber
@@ -618,6 +702,7 @@ The winners are:
  1988   Physics     Jack Steinberger
  1988   Physics     Leon M. Lederman
  1988   Physics     Melvin Schwartz
+
  1989   Chemistry   Sidney Altman
  1989   Chemistry   Thomas R. Cech
  1989   Economics   Trygve Haavelmo
@@ -628,6 +713,7 @@ The winners are:
  1989   Physics     Hans G. Dehmelt
  1989   Physics     Norman F. Ramsey
  1989   Physics     Wolfgang Paul
+
  1990   Chemistry   Elias James Corey
  1990   Economics   Harry M. Markowitz
  1990   Economics   Merton H. Miller
@@ -639,6 +725,7 @@ The winners are:
  1990   Physics     Henry W. Kendall
  1990   Physics     Jerome I. Friedman
  1990   Physics     Richard E. Taylor
+
  1991   Chemistry   Richard R. Ernst
  1991   Economics   Ronald H. Coase
  1991   Literature  Nadine Gordimer
@@ -646,6 +733,7 @@ The winners are:
  1991   Medicine    Erwin Neher
  1991   Peace       Aung San Suu Kyi
  1991   Physics     Pierre-Gilles de Gennes
+
  1992   Chemistry   Rudolph A. Marcus
  1992   Economics   Gary S. Becker
  1992   Literature  Derek Walcott
@@ -653,6 +741,7 @@ The winners are:
  1992   Medicine    Edwin G. Krebs
  1992   Peace       Rigoberta Menchú Tum
  1992   Physics     Georges Charpak
+
  1993   Chemistry   Kary B. Mullis
  1993   Chemistry   Michael Smith
  1993   Economics   Douglass C. North
@@ -664,6 +753,7 @@ The winners are:
  1993   Peace       Nelson Mandela
  1993   Physics     Joseph H. Taylor Jr.
  1993   Physics     Russell A. Hulse
+
  1994   Chemistry   George A. Olah
  1994   Economics   John C. Harsanyi
  1994   Economics   John F. Nash Jr.
@@ -676,6 +766,7 @@ The winners are:
  1994   Peace       Yitzhak Rabin
  1994   Physics     Bertram N. Brockhouse
  1994   Physics     Clifford G. Shull
+
  1995   Chemistry   F. Sherwood Rowland
  1995   Chemistry   Mario J. Molina
  1995   Chemistry   Paul J. Crutzen
@@ -688,6 +779,7 @@ The winners are:
  1995   Peace       Pugwash Conferences on Science and World Affairs
  1995   Physics     Frederick Reines
  1995   Physics     Martin L. Perl
+
  1996   Chemistry   Richard E. Smalley
  1996   Chemistry   Robert F. Curl Jr.
  1996   Chemistry   Sir Harold Kroto
@@ -701,6 +793,7 @@ The winners are:
  1996   Physics     David M. Lee
  1996   Physics     Douglas D. Osheroff
  1996   Physics     Robert C. Richardson
+
  1997   Chemistry   Jens C. Skou
  1997   Chemistry   John E. Walker
  1997   Chemistry   Paul D. Boyer
@@ -713,6 +806,7 @@ The winners are:
  1997   Physics     Claude Cohen-Tannoudji
  1997   Physics     Steven Chu
  1997   Physics     William D. Phillips
+
  1998   Chemistry   John Pople
  1998   Chemistry   Walter Kohn
  1998   Economics   Amartya Sen
@@ -725,6 +819,7 @@ The winners are:
  1998   Physics     Daniel C. Tsui
  1998   Physics     Horst L. Störmer
  1998   Physics     Robert B. Laughlin
+
  1999   Chemistry   Ahmed Zewail
  1999   Economics   Robert A. Mundell
  1999   Literature  Günter Grass
@@ -732,6 +827,7 @@ The winners are:
  1999   Peace       Médecins Sans Frontières
  1999   Physics     Gerardus 't Hooft
  1999   Physics     Martinus J.G. Veltman
+
  2000   Chemistry   Alan G. MacDiarmid
  2000   Chemistry   Alan Heeger
  2000   Chemistry   Hideki Shirakawa
@@ -745,6 +841,7 @@ The winners are:
  2000   Physics     Herbert Kroemer
  2000   Physics     Jack S. Kilby
  2000   Physics     Zhores I. Alferov
+
  2001   Chemistry   K. Barry Sharpless
  2001   Chemistry   Ryoji Noyori
  2001   Chemistry   William S. Knowles
@@ -760,6 +857,7 @@ The winners are:
  2001   Physics     Carl E. Wieman
  2001   Physics     Eric A. Cornell
  2001   Physics     Wolfgang Ketterle
+
  2002   Chemistry   John B. Fenn
  2002   Chemistry   Koichi Tanaka
  2002   Chemistry   Kurt Wüthrich
@@ -773,6 +871,7 @@ The winners are:
  2002   Physics     Masatoshi Koshiba
  2002   Physics     Raymond Davis Jr.
  2002   Physics     Riccardo Giacconi
+
  2003   Chemistry   Peter Agre
  2003   Chemistry   Roderick MacKinnon
  2003   Economics   Clive W.J. Granger
@@ -784,6 +883,7 @@ The winners are:
  2003   Physics     Alexei A. Abrikosov
  2003   Physics     Anthony J. Leggett
  2003   Physics     Vitaly L. Ginzburg
+
  2004   Chemistry   Aaron Ciechanover
  2004   Chemistry   Avram Hershko
  2004   Chemistry   Irwin Rose
@@ -796,6 +896,7 @@ The winners are:
  2004   Physics     David J. Gross
  2004   Physics     Frank Wilczek
  2004   Physics     H. David Politzer
+
  2005   Chemistry   Richard R. Schrock
  2005   Chemistry   Robert H. Grubbs
  2005   Chemistry   Yves Chauvin
