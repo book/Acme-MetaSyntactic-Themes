@@ -921,6 +921,19 @@ The winners are:
  2006   Physics     George F. Smoot
  2006   Physics     John C. Mather
 
+ 2007   Chemistry   Gerhard Ertl
+ 2007   Economics   Eric S. Maskin
+ 2007   Economics   Leonid Hurwicz
+ 2007   Economics   Roger B. Myerson
+ 2007   Literature  Doris Lessing
+ 2007   Medecine    Mario R. Capecchi
+ 2007   Medecine    Oliver Smithies
+ 2007   Medecine    Sir Martin J. Evans
+ 2007   Peace       Albert Arnold Gore Jr.
+ 2007   Peace       Intergovernmental Panel on Climate Change
+ 2007   Physics     Albert Fert
+ 2007   Physics     Peter Grünberg
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
