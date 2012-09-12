@@ -1015,6 +1015,23 @@ The official website for the Nobel Prize is L<http://nobelprize.org/>.
 
 Abigail
 
+=head1 CHANGES
+
+=over 4
+
+2012-09-12
+
+Updated with Nobel prizes since 2006,
+added all combinations of year and categories as categories (sic).
+
+=item *
+
+2006-09-20
+
+Submitted by Abigail
+
+=back
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
