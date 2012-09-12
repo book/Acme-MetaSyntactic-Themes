@@ -6,6 +6,8 @@ our @ISA = qw( Acme::MetaSyntactic::MultiList );
 
 __PACKAGE__ -> init ();
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::nobel_prize - Nobel prize winners
