@@ -947,6 +947,20 @@ The winners are:
  2008   Physics     Toshihide Maskawa
  2008   Physics     Yoichiro Nambu
 
+ 2009   Chemistry   Ada E. Yonath
+ 2009   Chemistry   Thomas A. Steitz
+ 2009   Chemistry   Venkatraman Ramakrishnan
+ 2009   Economics   Elinor Ostrom
+ 2009   Economics   Oliver E. Williamson
+ 2009   Literature  Herta Müller
+ 2009   Medecine    Carol W. Greider
+ 2009   Medecine    Elizabeth H. Blackburn
+ 2009   Medecine    Jack W. Szostak
+ 2009   Peace       Barack H. Obama
+ 2009   Physics     Charles Kuen Kao
+ 2009   Physics     George E. Smith
+ 2009   Physics     Willard S. Boyle
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
