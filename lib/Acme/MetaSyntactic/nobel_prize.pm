@@ -911,6 +911,16 @@ The winners are:
  2005   Physics     Roy J. Glauber
  2005   Physics     Theodor W. Hänsch
 
+ 2006   Chemistry   Roger D. Kornberg
+ 2006   Economics   Edmund S. Phelps
+ 2006   Literature  Orhan Pamuk
+ 2006   Medecine    Andrew Z. Fire
+ 2006   Medecine    Craig C. Mello
+ 2006   Peace       Grameen Bank
+ 2006   Peace       Muhammad Yunus
+ 2006   Physics     George F. Smoot
+ 2006   Physics     John C. Mather
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
