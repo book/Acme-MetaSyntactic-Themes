@@ -934,6 +934,19 @@ The winners are:
  2007   Physics     Albert Fert
  2007   Physics     Peter Grünberg
 
+ 2008   Chemistry   Martin Chalfie
+ 2008   Chemistry   Osamu Shimomura
+ 2008   Chemistry   Roger Y. Tsien
+ 2008   Economics   Paul Krugman
+ 2008   Literature  Jean-Marie Gustave Le Clézio
+ 2008   Medecine    Françoise Barré-Sinoussi
+ 2008   Medecine    Harald zur Hausen
+ 2008   Medecine    Luc Montagnier
+ 2008   Peace       Martti Ahtisaari
+ 2008   Physics     Makoto Kobayashi
+ 2008   Physics     Toshihide Maskawa
+ 2008   Physics     Yoichiro Nambu
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
