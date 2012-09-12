@@ -22,8 +22,6 @@ The winners are:
 
 {
     my $data;
-    my %categories;
-
     foreach my $line (split /\n/ => <<'=cut') {
 
 =pod
@@ -816,20 +814,14 @@ The winners are:
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
         my ($year, $category, $name) = ($1, lc $2, $3);
-
-        push @{$categories {$category}} => $name;
+        $name = Acme::MetaSyntactic::RemoteList::tr_nonword( Acme::MetaSyntactic::RemoteList::tr_accent( $name ) );
+        $name =~ s/__+/_/g;
+        $name =~ s/^_//g;
+        $name =~ s/_$//g;
+        $data->{names}{$category}{$year} .= "$name ";
+        $data->{names}{$year}{$category} .= "$name ";
     }
-
-    while (my ($category, $names) = each %categories) {
-        my %seen;
-        $$data {names} {$category} = join " " =>
-            grep {!$seen {$_} ++}
-            map  {$_ = Acme::MetaSyntactic::RemoteList::tr_accent  ($_);
-                  $_ = Acme::MetaSyntactic::RemoteList::tr_nonword ($_);
-                  s/__+/_/g; s/_$//; s/^_//g; $_} @$names;
-    }
-
-    $$data {default} = ':all';
+    $data->{default} = ':all';
 
     __PACKAGE__->init( $data );
 }
