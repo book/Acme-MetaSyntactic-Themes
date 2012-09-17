@@ -37,4 +37,23 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 __DATA__
 # names
-slotted Phillips PoziDriv Robertson SupaDriv TORX Allen
+slot flat
+Phillips PH
+Pozidriv SupaDriv PZ
+Square
+Robertson
+Hex
+Hex_socket Allen
+Security_hex_socket pin_in_hex_socket
+Torx T TX
+Security_Torx TR
+Tri_Wing
+Torq_set
+Spanner_head Snake_eye
+Triple_square XZN
+Polydrive
+One_way
+Spline_drive
+Double_hex
+Bristol
+Pentalobular
