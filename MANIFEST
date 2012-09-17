@@ -89,6 +89,7 @@ lib/Acme/MetaSyntactic/reindeer.pm
 lib/Acme/MetaSyntactic/robin.pm
 lib/Acme/MetaSyntactic/roman.pm
 lib/Acme/MetaSyntactic/scooby_doo.pm
+lib/Acme/MetaSyntactic/screw_drives.pm
 lib/Acme/MetaSyntactic/services.pm
 lib/Acme/MetaSyntactic/shadok.pm
 lib/Acme/MetaSyntactic/simpsons.pm
