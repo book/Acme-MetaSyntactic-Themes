@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::screw_drives;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -22,6 +23,13 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-09-17 - v1.000
+
+Expanded the list thanks to Wikipedia,
+and published in Acme-MetaSyntactic-Themes version 1.019.
 
 =item *
 
