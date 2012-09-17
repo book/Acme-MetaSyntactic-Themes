@@ -1,4 +1,4 @@
-package Acme::MetaSyntactic::screw;
+package Acme::MetaSyntactic::screw_drives;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
@@ -7,11 +7,11 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::screw - The screw theme
+Acme::MetaSyntactic::screw - The screw drives theme
 
 =head1 DESCRIPTION
 
-This theme lists different screw types.
+This theme lists different screw drive types.
 
 =head1 CONTRIBUTOR
 
