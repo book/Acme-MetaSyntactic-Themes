@@ -101,6 +101,9 @@ Samangan Sar_e_Pol Takhar Wardak Zabul
 # names ag
 Barbuda Redonda Saint_George Saint_John Saint_Mary Saint_Paul Saint_Peter
 Saint_Philip
+# names at
+Burgenland Karnten Niederosterreich Oberosterreich Salzburg Steiermark
+Tirol Vorarlberg Wien
 # names au
 Ashmore_and_Cartier_Islands Australian_Antarctic_Territory
 Australian_Capital_Territory Christmas_Island Cocos_Islands
