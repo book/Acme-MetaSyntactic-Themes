@@ -5,52 +5,6 @@ our @ISA     = qw( Acme::MetaSyntactic::MultiList);
 our $VERSION = '1.000';
 __PACKAGE__->init();
 
-my $regex = {
-    ad => qr{<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>},
-    ae => qr{<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>\s*<td>.*\s*<td>},
-    af => qr{<tr>\n<td><a href="/wiki/[^"]+" title="[^"]+"[^>]*>([^<]+)</a></td>},
-    ag => qr{<td(?: align="right")?>(?:\d+|&\#160;)</td>\n<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>},
-    al => qr{<td><a href="/wiki/[^>]*_County" title="[^"]+">([^<]+)</a></td>},
-    am => qr{<td><a href="/wiki/[^>]*(?:Yerevan|_Province)" title="[^"]+">([^<]+)</a></td>},
-    ao => qr{<td><a href="/wiki/[^>,]*_Province" title="[^"]+">([^<]+)</a></td>},
-    ar => qr{<td><span class="flagicon">.*\s+<td align="left"><a href="/wiki/[^>]*" title="[^"]+"[^>]*>([^<]+?)(?: Province)?</a>.*</td>},
-    at => qr{<tr>\s*<td.*?<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>}s,
-    au => qr{<tr.*?<td.*?<td style="text-align: left;"><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>}s,
-    de => qr{<td>.*<a href="/wiki/[^>]*" title="[^"]+">([^<]+)</a></td>},
-    dk => qr{<td><a href="/wiki/Region_[^"]+" title="[^"]+">Region ([^<]+)</a></td>},
-    fr => qr{<td><a href="//fr.wikipedia.org/[^"]*" [^>]*title="fr:([^"]+)">\1</a></td>},
-    it => qr{<td><a href="/wiki/File:[^>]+ class="image" title="Stemma">.*</a> <a href="/wiki/[^"]*" title="[^"]+">([^<]+)</a>.*</td>},
-    nl => qr{<td><a href="/wiki/Bestand:[^"]+" class="image">.*</a></td>\n<td><a href="/wiki/[^"]*" title="[^"]+">([^<]+)</a>.*</td>},
-};
-
-our %Remote = (
-    source => {
-        ad => 'http://ca.wikipedia.org/wiki/Parr%C3%B2quies_d%27Andorra',
-        ae => 'http://en.wikipedia.org/wiki/Emirates_of_the_United_Arab_Emirates',
-        af => 'http://en.wikipedia.org/wiki/Provinces_of_Afghanistan',
-        ag => 'http://en.wikipedia.org/wiki/Parishes_and_dependencies_of_Antigua_and_Barbuda',
-        al => 'http://en.wikipedia.org/wiki/Counties_of_Albania',
-        am => 'http://en.wikipedia.org/wiki/Administrative_divisions_of_Armenia',
-        ao => 'http://en.wikipedia.org/wiki/Provinces_of_Angola',
-        ar => 'http://en.wikipedia.org/wiki/Provinces_of_Argentina',
-        at => 'http://de.wikipedia.org/wiki/Bundesland_(Österreich)',
-        au => 'http://en.wikipedia.org/wiki/States_and_territories_of_Australia',
-        de => 'http://de.wikipedia.org/wiki/ISO_3166-2:DE',
-        dk => 'http://da.wikipedia.org/wiki/Danmarks_regioner',
-        fr => 'http://en.wikipedia.org/wiki/Regions_of_France',
-        it => 'http://it.wikipedia.org/wiki/Regioni_d%27Italia',
-        nl => 'http://nl.wikipedia.org/wiki/Provincies_van_Nederland',
-    },
-    extract => sub {
-        return
-            map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
-            map { Acme::MetaSyntactic::RemoteList::tr_utf8_basic($_) }
-            map { s/[-\s']+/_/g; $_ }
-            map { s/\(.*?\)//g; $_ }
-            $_[0] =~ m{$regex->{$_[1]}}gm;
-    },
-);
-
 1;
 
 =head1 NAME
