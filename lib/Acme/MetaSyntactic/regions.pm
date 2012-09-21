@@ -15,6 +15,7 @@ my $regex = {
     ao => qr{<td><a href="/wiki/[^>,]*_Province" title="[^"]+">([^<]+)</a></td>},
     ar => qr{<td><span class="flagicon">.*\s+<td align="left"><a href="/wiki/[^>]*" title="[^"]+"[^>]*>([^<]+?)(?: Province)?</a>.*</td>},
     at => qr{<tr>\s*<td.*?<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>}s,
+    au => qr{<tr.*?<td.*?<td style="text-align: left;"><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>}s,
     de => qr{<td>.*<a href="/wiki/[^>]*" title="[^"]+">([^<]+)</a></td>},
     dk => qr{<td><a href="/wiki/Region_[^"]+" title="[^"]+">Region ([^<]+)</a></td>},
     fr => qr{<td><a href="//fr.wikipedia.org/[^"]*" [^>]*title="fr:([^"]+)">\1</a></td>},
@@ -33,6 +34,7 @@ our %Remote = (
         ao => 'http://en.wikipedia.org/wiki/Provinces_of_Angola',
         ar => 'http://en.wikipedia.org/wiki/Provinces_of_Argentina',
         at => 'http://de.wikipedia.org/wiki/Bundesland_(Österreich)',
+        au => 'http://en.wikipedia.org/wiki/States_and_territories_of_Australia',
         de => 'http://de.wikipedia.org/wiki/ISO_3166-2:DE',
         dk => 'http://da.wikipedia.org/wiki/Danmarks_regioner',
         fr => 'http://en.wikipedia.org/wiki/Regions_of_France',
@@ -43,7 +45,8 @@ our %Remote = (
         return
             map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_utf8_basic($_) }
-            map { s/[-\s']/_/g; $_ }
+            map { s/[-\s']+/_/g; $_ }
+            map { s/\(.*?\)//g; $_ }
             $_[0] =~ m{$regex->{$_[1]}}gm;
     },
 );
@@ -98,6 +101,12 @@ Samangan Sar_e_Pol Takhar Wardak Zabul
 # names ag
 Barbuda Redonda Saint_George Saint_John Saint_Mary Saint_Paul Saint_Peter
 Saint_Philip
+# names au
+Ashmore_and_Cartier_Islands Australian_Antarctic_Territory
+Australian_Capital_Territory Christmas_Island Cocos_Islands
+Coral_Sea_Islands Heard_Island_and_McDonald_Islands Jervis_Bay_Territory
+New_South_Wales Norfolk_Island Northern_Territory Queensland
+South_Australia Tasmania Victoria Western_Australia
 # names de
 Baden_Wurttemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen
 Mecklenburg_Vorpommern Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz
