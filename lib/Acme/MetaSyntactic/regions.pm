@@ -7,7 +7,7 @@ __PACKAGE__->init();
 
 my $regex = {
     ad => qr{<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>},
-    ae => qr{<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>},
+    ae => qr{<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>\s*<td>.*\s*<td>},
     af => qr{<tr>\n<td><a href="/wiki/[^"]+" title="[^"]+"[^>]*>([^<]+)</a></td>},
     ag => qr{<td(?: align="right")?>(?:\d+|&\#160;)</td>\n<td><a href="/wiki/[^"]+" title="[^"]+">([^<]+)</a></td>},
     al => qr{<td><a href="/wiki/[^>]*_County" title="[^"]+">([^<]+)</a></td>},
@@ -93,6 +93,8 @@ __DATA__
 nl
 # names ad
 Canillo Encamp Escaldes_Engordany la_Massana Ordino Sant_Julia_de_Loria
+# names ae
+Abu_Dhabi Ajman Dubai Fujairah Ras_al_Khaimah Sharjah Umm_al_Quwain
 # names af
 Badakhshan Badghis Baghlan Balkh Bamyan Daykundi Farah Faryab Ghazni Ghor
 Helmand Herat Jowzjan Kabul Kandahar Kapisa Khost Kunar Kunduz Laghman
