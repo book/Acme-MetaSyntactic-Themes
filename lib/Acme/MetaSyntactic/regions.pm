@@ -25,16 +25,34 @@ standard (I<Codes for the representation of names of countries
 and their subdivisions -- Part 2: Country subdivision code>). See
 L<http://en.wikipedia.org/wiki/ISO_3166-2>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Abigail
+Abigail, Philippe Bruhat (BooK).
 
-Abigail submitted a I<netherlands> theme, with the names of the Dutch
-provinces on October 20, 2005. This theme actually extends the idea to
-administrative regions of any country.
+=head1 CHANGES
+
+=over 4
+
+=item *
 
 Introduced in Acme-MetaSyntactic-Themes version FIXME,
 published on May FIXME.
+
+=item *
+
+2012-05-10
+
+Extended the theme idea to administrative regions of any country,
+and started collecting all region names.
+
+=item *
+
+2005-10-20
+
+Abigail submitted a I<netherlands> theme, with the names of the Dutch
+provinces on October 20, 2005.
+
+=back
 
 =head1 SEE ALSO
 
