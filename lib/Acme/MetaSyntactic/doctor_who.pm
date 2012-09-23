@@ -76,22 +76,22 @@ Devesham Solon Condo Ohica Maren Karn Krynoid Scorby Amelia_Ducat
 Mandragora Helix Hieronymous San_Martino Kastria Eldrad Rokon Gold_Usher
 Runcible Matrix APCNet Rod Sash Key Eye_of_Harmony Neeva Andor Gentek
 Jabel Xoanaon Calib Sevateem D84 SV7 Sandminer Uvanov Toos Dask
-Taran_Capel Zilda Poul Robots Weng-Chiang Jago Litefoot Greel Rutan
-Fang_Rock Skinsale Marius Nucleus Bi-Al Fendahl Thea Fendelman
+Taran_Capel Zilda Poul Robots Weng_Chiang Jago Litefoot Greel Rutan
+Fang_Rock Skinsale Marius Nucleus Bi_Al Fendahl Thea Fendelman
 Fendahleen RockSalt Usurians Collector Pluto Hade Oracle Minyan
-Race_Bank Vardans Kelner Stor Rodan Key_to_Time Ribos Jethryk Sholakh Vynda-K
+Race_Bank Vardans Kelner Stor Rodan Key_to_Time Ribos Jethryk Sholakh Vynda_K
 Unstoffe Garron Shrievenzale Binro Zanak Guardians Fibuli Balaton Pralix
 Kimus Mula Mentiad Calufrax Polyphase_Avitron Xanxia Time_Dam Megara
 Nine_Travellers Vivien_Fay Cailleach Ogri Hyperspace Androids Tara
 Reynart Grendel Zadek Archimandrite Lamia Strella Kroll Swampies Thawn
-Ranquin Fenner Rohm-Dutt Dugeen Mensch Delta_Magna Atrios Zeos Astra
+Ranquin Fenner Rohm_Dutt Dugeen Mensch Delta_Magna Atrios Zeos Astra
 Shadow Time_Loop Mentalis Tyssan Sharrel Agella Movellan Duggan Kerensky
 Louvre Scarloni Scaroth Jagaroth Adrasta Torvin Ainu Tollund Organon
 Chloris Erato Tythonian Eden Tryst Stott Fisk Empress Hecate Vraxoin
 Mandrels Nimon Soldeed Skonnos Sezom Crinoth Shada Chronotis Salyavin
 Skagra Time_Tot Argolis Foamasi Mena Morix Pangol West_Lodge Meglos
 Zastor Tigella Savants Deons Dodecahedron Brotadac Lexa Prion
-Zolfa-Thura E-Space Alzarius Mistfall Terradon Outlers Riverfruit Varsh
+Zolfa_Thura E_Space Alzarius Mistfall Terradon Outlers Riverfruit Varsh
 Aukon Camilla Zargo Ivo Zoldaz vampires Rorvik Packard Aldo Biroc Sagan
 Gundan Tharil Void Traken Melkur Tremas Kassia Keeper Seron Katura Luvic
 Fosters Logopolis Monitor Pharos CVE Castrovalva zero_room Shardovan
@@ -104,7 +104,7 @@ Ichtar Scibus Tarpok Sauvix seabase4 myrka Little_Hodcombe Malus
 Frontios Plantagenet tractators Lytton Timanov Logar Sarn Trion
 Androzani queen_bat Stotz Salateen spectrox Timmin Chellak Morgus
 Sharaz_Jek Edgeworth Hugo_Lang Jocanda Mestor gastropod Telos
-Cyber_Controller cryons Varos zeiton-7 Jondar Sil Galatron_Mining_Co
+Cyber_Controller cryons Varos zeiton_7 Jondar Sil Galatron_Mining_Co
 punishment_dome Arak Etta Areta Killingworth Lord_Ravensworth
 Miasimia_Gloria luddites Chessene Dastari Shockeye androgum
 rassilon_imprimature Tekker Mykros Herbert Gazak bandril Borad karfelons
@@ -120,6 +120,6 @@ Hand_of_Omega Trevor_Sigma Kandyman Terra_Alpha stigorax Fifi Earl_Sigma
 De_Flores Peinforte Courtney_Pine validium Windsor Nemesis Mags Kingpin
 Deadbeat Ringmaster Flowerchild Morgana Chief_Clown Whizzkid Psychic_Circus
 Segonax Bellboy Ragnarok Morgaine Bambera Mordred Ancelyn Doris Destroyer
-Vortigern Arthur Josiah Light Pritchard Fenn-Cooper Nimrod Gabriel_Chase
+Vortigern Arthur Josiah Light Pritchard Fenn_Cooper Nimrod Gabriel_Chase
 Control Fenric Petrossian haemovore Vershinin Maidens_Point Sorin chess faith
 Midge Shreela Karra kitling Perrivale catflap cheetah
