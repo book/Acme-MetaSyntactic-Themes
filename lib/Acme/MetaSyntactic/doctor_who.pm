@@ -1,4 +1,4 @@
-package Acme::MetaSyntactic::amber;
+package Acme::MetaSyntactic::doctor_who;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
@@ -7,7 +7,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::amber - The Amber theme
+Acme::MetaSyntactic::doctor_who - The Doctor Who theme
 
 =head1 DESCRIPTION
 
