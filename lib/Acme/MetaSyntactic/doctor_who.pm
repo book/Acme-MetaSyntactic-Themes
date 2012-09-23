@@ -15,15 +15,29 @@ This theme uses names of various people, places and things from the original
 run (1963-1989) of the BBC science fiction series Doctor Who. (The series was
 revived in 2005, but that's a module for another day.)
 
+For references, see:
+L<http://nitro9.earth.uni.edu/doctor/homepage.html>,
+L<http://www.drwhoguide.com/>.
+
 =head1 CONTRIBUTOR
 
 David H. Adler (aka dha).
 
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2006-08-30
+
+Submitted by David Adler (under the name I<doctorwho_oldskool>).
+
+=back
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
-L<http://nitro9.earth.uni.edu/doctor/homepage.html>
-L<http://www.drwhoguide.com/>
 
 =cut
 
