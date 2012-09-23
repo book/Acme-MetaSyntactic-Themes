@@ -157,6 +157,7 @@ as well as updates to the themes already in the distribution.
     2012-09-03    1.017   evangelion
     2012-09-10    1.018   bottles
     2012-09-17    1.019   screw_drives
+    2012-09-24    1.020   doctor_who
 
 New themes don't need to be sent to me for inclusion in this
 distribution. They can (and probably should) be distributed in their
