@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::doctor_who;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -16,7 +17,7 @@ run (1963-1989) of the BBC science fiction series Doctor Who. (The series was
 revived in 2005, but that's a module for another day.)
 
 For references, see:
-L<http://nitro9.earth.uni.edu/doctor/homepage.html>,
+L<http://nitro9.earth.uni.edu/doctor/homepage.html> (dead link),
 L<http://www.drwhoguide.com/>.
 
 =head1 CONTRIBUTOR
@@ -26,6 +27,12 @@ David H. Adler (aka dha).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-09-24 - v1.000
+
+Published in Acme-MetaSyntactic-Themes version 1.020.
 
 =item *
 
