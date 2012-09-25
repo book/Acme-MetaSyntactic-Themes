@@ -84,6 +84,12 @@ Tavush Vayots_Dzor
 # names ao
 Bengo Benguela Bie Cabinda Cuando_Cubango Cuanza_Norte Cuanza_Sul Cunene
 Huambo Huila Luanda Lunda_Norte Lunda_Sul Malanje Moxico Namibe Uige Zaire
+# names ar
+Buenos_Aires_City Buenos_Aires_Province Catamarca Chaco Chubut
+Cordoba Corrientes Entre_Rios Formosa Jujuy La_Pampa La_Rioja Mendoza
+Misiones Neuquen Rio_Negro Salta San_Juan San_Luis Santa_Cruz Santa_Fe
+Santiago_del_Estero Tierra_del_Fuego_Antartida_e_Islas_del_Atlantico_Sur
+Tucuman
 # names at
 Burgenland Karnten Niederosterreich Oberosterreich Salzburg Steiermark
 Tirol Vorarlberg Wien
