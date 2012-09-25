@@ -1,3 +1,27 @@
+# -*- encoding: utf-8; indent-tabs-mode: nil -*-
+#
+#     Acme::MetaSyntactic::movies -- A selection of various movie titles
+#
+#     Copyright (C) 2012 Jean Forget
+# 
+#     This program is free software; you can redistribute it and/or modify
+#     it under the same terms as Perl: either the Artistic License,
+#     or the GNU General Public License as published by
+#     the Free Software Foundation; either version 1, or (at your option)
+#     any later version.
+# 
+#     This program is distributed in the hope that it will be useful,
+#     but WITHOUT ANY WARRANTY; without even the implied warranty of
+#     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#     GNU General Public License for more details.
+# 
+#     You should have received a copy of the GNU General Public License and
+#     the Artistic License along with this program; if not, write to the Free
+#     Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA
+#     02111-1307, USA for the GNU General Public License.
+#
+#     For the Artistic License, you may refer to http://dev.perl.org/licenses/artistic.html
+#
 package Acme::MetaSyntactic::movies;
 use strict;
 use Acme::MetaSyntactic::List;
@@ -15,11 +39,14 @@ This list gives the names of some movies
 where you only need to count up to one or,
 in some cases, up to zero. More precisely:
 
-If you count the number of gunshots in M*A*S*H*
+If you count the number of gunshots in I<M*A*S*H>
 (a Korean-war film), you obtain a count of one.
 
+The same thing with I<The Man Who Never Was> (a WWII movie)
+gives a result of zero.
+
 If you count the number of female characters
-in Dr Strangelove, you obtain a count of one.
+in I<Dr Strangelove>, you obtain a count of one.
 
 If you count the number of surviving characters at the end of The Trench, you
 obtain a count of one.
@@ -27,9 +54,6 @@ obtain a count of one.
 If you count the number of times you see John Belushi's
 eyes in the Blues Brothers, you obtain a count of one. If you prefer Dan Acroyd's
 or Cab Calloway's eyes, you obtain a count of zero.
-
-If you count the number of times you see the bad guy's face
-in Duel, you obtain a count of zero.
 
 If you count the number of times the word "Mafia" is pronounced
 in the Godfather, you obtain a count of zero.
@@ -42,9 +66,6 @@ credits, you obtain a count of zero.
 
 If you count the number of words said during 
 Mel Brooks' Silent Movie, you obtain a count of one.
-
-If you count the number of human beings in Microcosmos,
-you obtain a count of zero.
 
 If you count the number of sexy scenes in Robin Hood
 (the Errol Flynn and Olivia de Havilland version), you obtain a count of one.
@@ -59,13 +80,16 @@ obtain a count of zero.
 If you count the number of sequences in Rope,
 you obtain a count of one.
 
+If you watch I<Le Fils de Caroline Chérie> to have a look
+at Caroline, you will see her only once.
+
 In most war movies, for example ????,
 the delay between the instant you see an explosion and the
 instant you hear it is zero seconds.
 
 To these movies, we can add several other movies based
 on Tennessee William's plays, which follow the
-classical French theater's I<r�gle des trois unit�s>:
+classical French theater's I<règle des trois unités>:
 one day, one place, one plot.
 
 And of course, we can add any Buster Keaton film,
@@ -81,6 +105,21 @@ number of times Harpo speaks.
 
 The gunshot occurs during the football match, to mark the 
 end of the first period of the game.
+
+=item The Man Who Never Was
+
+This movie is rather a spy movie that takes place during
+World War II. It presents the deception operation prior to
+the landing in Sicily, which consisted in releasing the
+corpse of a so-called "Major Martin", with forged secret 
+documents, so this corpse would land in neutral Spain.
+The British hoped that the German agents in Spain would
+have access to the forged documents, believe them genuine
+and report their findings to Berlin. The movie describes
+the preparation of the operation and the mission of a
+German agent in England to check the background of "Major
+Martin". So, this film contains no gunshot, only one
+axis character and one corpse.
 
 =item Dr Strangelove
 
@@ -103,13 +142,6 @@ eve of the Somme attack.
 The scene where we can see Jake's eyes is the scene in the sewer tunnel where
 Jake is at last face-to-face with his former wife-to-be, played by
 Carrie Fisher.
-
-=item Duel
-
-If I remember correctly, you see the truck driver's left arm at the gas station. 
-And then you see his boots when he attempts to brake at the end of the movie.
-Because you see him in these two occasions, I had to jump through
-mental hoops to include this movie in the module.
 
 =item Monty Python's Holy Grail
 
@@ -149,6 +181,20 @@ to pretend not noticing that and to wonder how Hitchcock
 did this feat. The contributor does not agree. This movie
 is one of the few Hitchcock movies he dislikes.
 
+=item Le Fils de Caroline Chérie
+
+Actually, Caroline appears only something like 0.05 times,
+rounded up to one. The entire movie is about her son,
+living in Spain during the Napoleonic War and
+looking for his mother. His quest is fulfilled at
+the very end of the movie and he sees at last
+her mother exiting from a stagecoach. But you
+barely see her foot and ankle and the film
+ends on this picture. By the way, nothing
+ensures that this foot and this ankle are
+Martine Carol's (the actress playing Caroline
+in both other Caroline Chérie movies).
+
 =back
 
 =head1 CONTRIBUTOR
@@ -166,18 +212,18 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 __DATA__
 # names
 MASH
+The_Man_Who_Never_Was
 Dr_Strangelove
 The_Trench
 The_Blues_Brothers
-Duel
 The_Godfather
 Monty_Python_Holy_Grail
 Silent_Movie
-Microcosmos
 Robin_Hood
 The_Bridges_at_Toko_Ri
 Casablanca
 Rope
+Le_Fils_de_Caroline_Cherie
 A_Streetcar_Named_Desire
 The_Night_of_the_Iguana
 Cat_on_a_hot_tin_Roof
