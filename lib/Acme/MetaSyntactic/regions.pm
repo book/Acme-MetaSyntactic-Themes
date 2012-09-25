@@ -108,6 +108,9 @@ Lerik Masally Mingachevir Naftalan Neftchala Oghuz Qabala Qakh Qazakh
 Quba Qubadli Qusar Saatly Sabirabad Salyan Samukh Shabran Shaki Shamakhi
 Shamkir Shirvan Shusha Siazan Sumqayit Tartar Tovuz Ujar Yardymli Yevlakh
 Zangilan Zaqatala Zardab
+# names bb
+Christ_Church St_Andrew St_George St_James St_John St_Joseph St_Lucy
+St_Michael St_Peter St_Philip St_Thomas
 # names de
 Baden_Wurttemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen
 Mecklenburg_Vorpommern Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz
