@@ -73,8 +73,8 @@ Ghor Helmand Herat Jowzjan Kabul Kandahar Kapisa Khost Kunar Kunduz
 Laghman Logar Maidan_Wardak Nangarhar Nimruz Nuristan Paktia Paktika
 Panjshir Parwan Samangan Sar_e_Pol Takhar Urozgan Zabul
 # names ag
-Barbuda Redonda Saint_George Saint_John Saint_Mary Saint_Paul Saint_Peter
-Saint_Philip
+Saint_George Saint_John Saint_Mary Saint_Paul Saint_Peter Saint_Philip
+Barbuda Redonda
 # names at
 Burgenland Karnten Niederosterreich Oberosterreich Salzburg Steiermark
 Tirol Vorarlberg Wien
