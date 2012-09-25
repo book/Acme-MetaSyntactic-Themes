@@ -142,6 +142,8 @@ Oueme Plateau Zou
 Belait Brunei_Muara Temburong Tutong
 # names bo
 Beni Chuquisaca Cochabamba La_Paz Oruro Pando Potosi Santa_Cruz Tarija
+# names bq
+Bonaire Sint_Eustatius Saba
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
