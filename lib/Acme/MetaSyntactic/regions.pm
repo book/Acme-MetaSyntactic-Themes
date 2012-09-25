@@ -132,6 +132,9 @@ Sachsen_Anhalt Schleswig_Holstein Thuringen
 # names bh
 Capital_Governorate Central_Governorate Muharraq_Governorate
 Northern_Governorate Southern_Governorate
+# names bi
+Bubanza Bujumbura_Mairie Bujumbura_Rural Bururi Cankuzo Cibitoke Gitega
+Karuzi Kayanza Kirundo Makamba Muramvya Muyinga Mwaro Ngozi Rutana Ruyigi
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
