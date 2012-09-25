@@ -135,6 +135,9 @@ Northern_Governorate Southern_Governorate
 # names bi
 Bubanza Bujumbura_Mairie Bujumbura_Rural Bururi Cankuzo Cibitoke Gitega
 Karuzi Kayanza Kirundo Makamba Muramvya Muyinga Mwaro Ngozi Rutana Ruyigi
+# names bj
+Alibori Atakora Atlantique Borgou Collines Kouffo Donga Littoral Mono
+Oueme Plateau Zou
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
