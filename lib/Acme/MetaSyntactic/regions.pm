@@ -81,6 +81,9 @@ Tirana Vlore
 # names am
 Yerevan Shirak Armavir Lori Ararat Kotayk Gegharkunik Syunik Aragatsotn
 Tavush Vayots_Dzor
+# names ao
+Bengo Benguela Bie Cabinda Cuando_Cubango Cuanza_Norte Cuanza_Sul Cunene
+Huambo Huila Luanda Lunda_Norte Lunda_Sul Malanje Moxico Namibe Uige Zaire
 # names at
 Burgenland Karnten Niederosterreich Oberosterreich Salzburg Steiermark
 Tirol Vorarlberg Wien
