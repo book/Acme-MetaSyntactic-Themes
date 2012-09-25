@@ -144,6 +144,12 @@ Belait Brunei_Muara Temburong Tutong
 Beni Chuquisaca Cochabamba La_Paz Oruro Pando Potosi Santa_Cruz Tarija
 # names bq
 Bonaire Sint_Eustatius Saba
+# names br
+Acre Alagoas Amapa Amazonas Bahia Ceara Distrito_Federal Espírito_Santo
+Goias Maranhao Mato_Grosso Mato_Grosso_do_Sul Minas_Gerais Para
+Paraiba Parana Pernambuco Piauí Rio_de_Janeiro Rio_Grande_do_Norte
+Rio_Grande_do_Sul Rondonia Roraima Santa_Catarina Sao_Paulo Sergipe
+Tocantins
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
