@@ -121,10 +121,14 @@ Bruxelles_Capitale
 # names bf
 Boucle_du_Mouhoun Cascades Centre Centre_Est Centre_Nord Centre_Ouest
 Centre_Sud Est Hauts_Bassins Nord Plateau_Central Sahel Sud_Ouest
-# names de
-Baden_Wurttemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen
-Mecklenburg_Vorpommern Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz
-Saarland Sachsen Sachsen_Anhalt Schleswig_Holstein Thuringen
+# names bg
+Blagoevgrad Burgas Dobrich Gabrovo Haskovo Kardzhali Kyustendil
+Lovech Montana Pazardzhik Pernik Pleven Plovdiv Razgrad Ruse Shumen
+Silistra Sliven Smolyan Sofia_Capital Sofia Stara_Zagora Targovishte
+Varna Veliko_Tarnovo Vidin Vratsa Yambol # names de Baden_Wurttemberg
+Bayern Berlin Brandenburg Bremen Hamburg Hessen Mecklenburg_Vorpommern
+Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz Saarland Sachsen
+Sachsen_Anhalt Schleswig_Holstein Thuringen
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
