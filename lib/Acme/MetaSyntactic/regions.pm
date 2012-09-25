@@ -78,6 +78,9 @@ Barbuda Redonda
 # names al
 Berat Diber Durres Elbasan Fier Gjirokaster Korce Kukes Lezhe Shkoder
 Tirana Vlore
+# names am
+Yerevan Shirak Armavir Lori Ararat Kotayk Gegharkunik Syunik Aragatsotn
+Tavush Vayots_Dzor
 # names at
 Burgenland Karnten Niederosterreich Oberosterreich Salzburg Steiermark
 Tirol Vorarlberg Wien
