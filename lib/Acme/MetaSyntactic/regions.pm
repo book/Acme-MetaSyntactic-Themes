@@ -75,6 +75,9 @@ Panjshir Parwan Samangan Sar_e_Pol Takhar Urozgan Zabul
 # names ag
 Saint_George Saint_John Saint_Mary Saint_Paul Saint_Peter Saint_Philip
 Barbuda Redonda
+# names al
+Berat Diber Durres Elbasan Fier Gjirokaster Korce Kukes Lezhe Shkoder
+Tirana Vlore
 # names at
 Burgenland Karnten Niederosterreich Oberosterreich Salzburg Steiermark
 Tirol Vorarlberg Wien
