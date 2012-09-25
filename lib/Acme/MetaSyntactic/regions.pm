@@ -118,6 +118,9 @@ Rajshahi Rangpur Sylhet
 Antwerpen Vlaams_Brabant West_Vlaanderen Oost_Vlaanderen Limburg
 Brabant_wallon Hainaut Liege Luxembourg Namur
 Bruxelles_Capitale
+# names bf
+Boucle_du_Mouhoun Cascades Centre Centre_Est Centre_Nord Centre_Ouest
+Centre_Sud Est Hauts_Bassins Nord Plateau_Central Sahel Sud_Ouest
 # names de
 Baden_Wurttemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen
 Mecklenburg_Vorpommern Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz
