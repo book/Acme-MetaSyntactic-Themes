@@ -114,6 +114,10 @@ St_Michael St_Peter St_Philip St_Thomas
 # names bd
 Barisal Chittagong Chittagong_Hill_Tracts Comilla Dhaka Mymensingh Khulna
 Rajshahi Rangpur Sylhet
+# names be
+Antwerpen Vlaams_Brabant West_Vlaanderen Oost_Vlaanderen Limburg
+Brabant_wallon Hainaut Liege Luxembourg Namur
+Bruxelles_Capitale
 # names de
 Baden_Wurttemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen
 Mecklenburg_Vorpommern Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz
