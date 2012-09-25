@@ -129,6 +129,9 @@ Varna Veliko_Tarnovo Vidin Vratsa Yambol # names de Baden_Wurttemberg
 Bayern Berlin Brandenburg Bremen Hamburg Hessen Mecklenburg_Vorpommern
 Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz Saarland Sachsen
 Sachsen_Anhalt Schleswig_Holstein Thuringen
+# names bh
+Capital_Governorate Central_Governorate Muharraq_Governorate
+Northern_Governorate Southern_Governorate
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
