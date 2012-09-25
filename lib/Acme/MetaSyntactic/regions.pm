@@ -138,6 +138,8 @@ Karuzi Kayanza Kirundo Makamba Muramvya Muyinga Mwaro Ngozi Rutana Ruyigi
 # names bj
 Alibori Atakora Atlantique Borgou Collines Kouffo Donga Littoral Mono
 Oueme Plateau Zou
+# names bn
+Belait Brunei_Muara Temburong Tutong
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
