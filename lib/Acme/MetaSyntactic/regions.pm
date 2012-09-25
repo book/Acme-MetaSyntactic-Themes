@@ -99,6 +99,15 @@ Australian_Capital_Territory Christmas_Island Cocos_Islands
 Coral_Sea_Islands Heard_Island_and_McDonald_Islands Jervis_Bay_Territory
 New_South_Wales Norfolk_Island Northern_Territory Queensland
 South_Australia Tasmania Victoria Western_Australia
+# names az
+Absheron Agdam Agdash Aghjabadi Agstafa Agsu Astara Baku Balakan Barda
+Beylagan Bilasuvar Dashkasan Fizuli Gadabay Ganja Gobustan Goranboy
+Goychay Goygol Hajigabul Imishli Ismailli Jabrayil Jalilabad Kalbajar
+Khachmaz Khankendi Khizi Khojali Khojavend Kurdamir Lachin Lankaran
+Lerik Masally Mingachevir Naftalan Neftchala Oghuz Qabala Qakh Qazakh
+Quba Qubadli Qusar Saatly Sabirabad Salyan Samukh Shabran Shaki Shamakhi
+Shamkir Shirvan Shusha Siazan Sumqayit Tartar Tovuz Ujar Yardymli Yevlakh
+Zangilan Zaqatala Zardab
 # names de
 Baden_Wurttemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen
 Mecklenburg_Vorpommern Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz
