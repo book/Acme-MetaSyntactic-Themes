@@ -68,10 +68,10 @@ Canillo Encamp Ordino La_Massana Andorra_la_Vella Sant_Julia_de_Loria Escaldes_E
 # names ae
 Abu_Dhabi Ajman Dubai Fujairah Ras_al_Khaimah Sharjah Umm_al_Quwain
 # names af
-Badakhshan Badghis Baghlan Balkh Bamyan Daykundi Farah Faryab Ghazni Ghor
-Helmand Herat Jowzjan Kabul Kandahar Kapisa Khost Kunar Kunduz Laghman
-Logar Nangarhar Nimruz Nuristan Oruzgan Paktia Paktika Panjshir Parwan
-Samangan Sar_e_Pol Takhar Wardak Zabul
+Badakhshan Badghis Baghlan Balkh Bamyan Daykundi Farah Faryab Ghazni
+Ghor Helmand Herat Jowzjan Kabul Kandahar Kapisa Khost Kunar Kunduz
+Laghman Logar Maidan_Wardak Nangarhar Nimruz Nuristan Paktia Paktika
+Panjshir Parwan Samangan Sar_e_Pol Takhar Urozgan Zabul
 # names ag
 Barbuda Redonda Saint_George Saint_John Saint_Mary Saint_Paul Saint_Peter
 Saint_Philip
