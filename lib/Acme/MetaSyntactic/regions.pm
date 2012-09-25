@@ -64,7 +64,7 @@ __DATA__
 # default
 nl
 # names ad
-Canillo Encamp Escaldes_Engordany la_Massana Ordino Sant_Julia_de_Loria
+Canillo Encamp Ordino La_Massana Andorra_la_Vella Sant_Julia_de_Loria Escaldes_Engordany
 # names ae
 Abu_Dhabi Ajman Dubai Fujairah Ras_al_Khaimah Sharjah Umm_al_Quwain
 # names af
