@@ -140,6 +140,8 @@ Alibori Atakora Atlantique Borgou Collines Kouffo Donga Littoral Mono
 Oueme Plateau Zou
 # names bn
 Belait Brunei_Muara Temburong Tutong
+# names bo
+Beni Chuquisaca Cochabamba La_Paz Oruro Pando Potosi Santa_Cruz Tarija
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
