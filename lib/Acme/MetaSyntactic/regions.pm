@@ -158,6 +158,10 @@ Harbour_Island Hope_Town Inagua Long_Island Mangrove_Cay Mayaguana
 Moores_Island North_Abaco North_Andros North_Eleuthera Ragged_Island
 Rum_Cay San_Salvador South_Abaco South_Andros South_Eleuthera
 Spanish_Wells West_Grand_Bahama
+# names bt
+Bumthang Chukha Dagana Gasa Haa Lhuntse Mongar Paro Pemagatshel Punakha
+Samdrup Samtse Sarpang Thimphu Trashigang Trashiyangtse Trongsa Tsirang
+Wangdue Zhemgang
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
