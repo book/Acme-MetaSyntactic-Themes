@@ -150,6 +150,14 @@ Goias Maranhao Mato_Grosso Mato_Grosso_do_Sul Minas_Gerais Para
 Paraiba Parana Pernambuco Piauí Rio_de_Janeiro Rio_Grande_do_Norte
 Rio_Grande_do_Sul Rondonia Roraima Santa_Catarina Sao_Paulo Sergipe
 Tocantins
+# names bs
+Acklins Berry_Islands Bimini Black_Point Cat_Island
+Central_Abaco Central_Andros Central_Eleuthera City_of_Freeport
+Crooked_Island_and_Long_Cay East_Grand_Bahama Exuma Grand_Cay
+Harbour_Island Hope_Town Inagua Long_Island Mangrove_Cay Mayaguana
+Moores_Island North_Abaco North_Andros North_Eleuthera Ragged_Island
+Rum_Cay San_Salvador South_Abaco South_Andros South_Eleuthera
+Spanish_Wells West_Grand_Bahama
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
