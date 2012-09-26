@@ -166,6 +166,8 @@ Wangdue Zhemgang
 Central Ghanzi Kgalagadi Kgatleng Kweneng North_East North_West South_East Southern
 # names by
 Brestskaya Homyel_skaya Hrodzenskaya Mahilyowskaya Minskaya Vitsyebskaya Horad_Minsk
+# names bz
+Belize Cayo Corozal Orange_Walk Stann_Creek Toledo
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
