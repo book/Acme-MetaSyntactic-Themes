@@ -162,6 +162,8 @@ Spanish_Wells West_Grand_Bahama
 Bumthang Chukha Dagana Gasa Haa Lhuntse Mongar Paro Pemagatshel Punakha
 Samdrup Samtse Sarpang Thimphu Trashigang Trashiyangtse Trongsa Tsirang
 Wangdue Zhemgang
+# names bw
+Central Ghanzi Kgalagadi Kgatleng Kweneng North_East North_West South_East Southern
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
