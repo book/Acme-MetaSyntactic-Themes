@@ -164,6 +164,8 @@ Samdrup Samtse Sarpang Thimphu Trashigang Trashiyangtse Trongsa Tsirang
 Wangdue Zhemgang
 # names bw
 Central Ghanzi Kgalagadi Kgatleng Kweneng North_East North_West South_East Southern
+# names by
+Brestskaya Homyel_skaya Hrodzenskaya Mahilyowskaya Minskaya Vitsyebskaya Horad_Minsk
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
