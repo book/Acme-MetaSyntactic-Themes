@@ -42,6 +42,19 @@ See L<http://www.fawltysite.net/>.
 
 Abigail
 
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2005-11-04
+
+Submitted by Abigail as two separate themes:
+I<fawlty_towers> and I<fawlty_towers_episodes>.
+
+=back
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
