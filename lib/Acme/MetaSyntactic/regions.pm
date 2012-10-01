@@ -203,6 +203,12 @@ Beijing Chongqing Shanghai Tianjin Anhui Fujian Gansu Guangdong Guizhou
 Hainan Hebei Heilongjiang Henan Hubei Hunan Jiangsu Jiangxi Jilin Liaoning
 Qinghai Shaanxi Shandong Shanxi Sichuan Taiwan Yunnan Zhejiang Guangxi
 Nei_Mongol Ningxia Xinjiang Xizang Xianggang Aomen
+# names co
+Distrito_Capital_de_Bogota Amazonas Antioquia Arauca Atlantico Bolivar
+Boyaca Caldas Caqueta Casanare Cauca Cesar Cordoba Cundinamarca Choco
+Guainia Guaviare Huila La_Guajira Magdalena Meta Narino Norte_de_Santander
+Putumayo Quindío Risaralda San_Andres_Providencia_y_Santa_Catalina
+Santander Sucre Tolima Valle_del_Cauca Vaupes Vichada
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
