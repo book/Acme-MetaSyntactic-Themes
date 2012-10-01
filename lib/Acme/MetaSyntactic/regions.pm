@@ -211,6 +211,10 @@ Putumayo Quindío Risaralda San_Andres_Providencia_y_Santa_Catalina
 Santander Sucre Tolima Valle_del_Cauca Vaupes Vichada
 # names cr
 Alajuela Cartago Guanacaste Heredia Limon Puntarenas San_Jose
+# names cu
+Camaguey Ciego_de_Avila Cienfuegos Ciudad_de_La_Habana Granma Guantanamo
+Holguin La_Habana Las_Tunas Matanzas Pinar_del_Rio Sancti_Spiritus
+Santiago_de_Cuba Villa_Clara Isla_de_la_Juventud
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
