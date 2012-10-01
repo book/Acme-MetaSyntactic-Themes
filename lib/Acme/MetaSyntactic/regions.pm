@@ -187,6 +187,10 @@ Aargau Appenzell_Ausserrhoden Appenzell_Innerrhoden Basel_Landschaft
 Basel_Stadt Bern Fribourg Geneve Glarus Graubunden Jura Luzern Neuchatel
 Nidwalden Obwalden Sankt_Gallen Schaffhausen Schwyz Solothurn Thurgau
 Ticino Uri Valais Vaud Zug Zurich
+# names ci
+Dix_Huit_Montagnes Agnebi Bafing Bas_Sassandra Denguele Fromager
+Haut_Sassandra Lacs Lagunes Marahoue Moyen_Cavally Moyen_Comoe Nzi_Comoe
+Savanes Sud_Bandama Sud_Comoe Vallee_du_Bandama Worodougou Zanzan
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
