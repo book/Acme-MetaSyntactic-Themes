@@ -179,6 +179,9 @@ Maniema Nord_Kivu Orientale Sud_Kivu
 Bangui Bamingui_Bangoran Basse_Kotto Haute_Kotto Haut_Mbomou
 Haute_Sangha_Mambere_Kadei Kemo_Gribingui Lobaye Mbomou Nana_Mambere
 Ombella_Mpoko Ouaka Ouham Ouham_Pende Vakaga Gribingui Sangha
+# names cg
+Brazzaville Bouenza Cuvette Cuvette_Ouest Kouilou Lekoumou Likouala
+Niari Plateaux Pool Sangha
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
