@@ -182,6 +182,11 @@ Ombella_Mpoko Ouaka Ouham Ouham_Pende Vakaga Gribingui Sangha
 # names cg
 Brazzaville Bouenza Cuvette Cuvette_Ouest Kouilou Lekoumou Likouala
 Niari Plateaux Pool Sangha
+# names ch
+Aargau Appenzell_Ausserrhoden Appenzell_Innerrhoden Basel_Landschaft
+Basel_Stadt Bern Fribourg Geneve Glarus Graubunden Jura Luzern Neuchatel
+Nidwalden Obwalden Sankt_Gallen Schaffhausen Schwyz Solothurn Thurgau
+Ticino Uri Valais Vaud Zug Zurich
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
