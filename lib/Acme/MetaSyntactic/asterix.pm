@@ -67,8 +67,8 @@ Tremendelirius
 Drinklikafix
 # names us
 Asterix
-Obelix 
-Dogmatix 
+Obelix
+Dogmatix
 Magigimmix
 Arthritix Macroeconomix
 Belladonna
@@ -92,20 +92,20 @@ Tragicomix
 Tremendelirius
 Drinklikafix
 # names fr
-Astérix
-Obélix
-Idéfix
+Asterix
+Obelix
+Idefix
 Panoramix
 Abraracourcix
 Bonemine
 Assurancetourix
-Cétautomatix
-Ordralfabétix
-Iélosubmarine
+Cetautomatix
+Ordralfabetix
+Ielosubmarine
 Agecanonix
 
-Jules_César
-Cléopâtre
+Jules_Cesar
+Cleopatre
 Brutus
 Pneumatix
 Keskonrix
@@ -113,19 +113,19 @@ Barbe_Rouge
 
 Baba
 Falbala
-Epidemaïs    
+Epidemais
 
 
 Zaza
-Aplusbégalix
-Amérix
-Caïus_Bonus
+Aplusbegalix
+Amerix
+Caius_Bonus
 # names nl
 Asterix
 Obelix
 Idefix
 Panoramix
-Abraracourcix Heroïx
+Abraracourcix Heroix
 
 Assurancetourix Kakofonix
 # names de
@@ -136,14 +136,14 @@ Automatix
 Claudius_Bockschus
 Costa_Y_Bravo
 Brutus
-Julius_Cäsar
+Julius_Casar
 Tullius_Destruktivus
 Eleonoradus
 Falbala
 Gelatine
 Grautvornix
 Gutemine
-Homöopatix
+Homoopatix
 Acidix_Hydrochloridix
 Idefix
 Jellosubmarine
@@ -158,7 +158,7 @@ Moralelastix
 Nixalsverdrus Hotelterminus
 Numerobis
 Obelix
-Orthopädix
+Orthopadix
 Osolemirnix
 Ozeanix
 Praline
@@ -177,25 +177,25 @@ Vaseline
 Verleihnix
 Agrippus_Virus
 Vreneli
-Völligbaf
+Volligbaf
 Zechine
 # names es
-Astérix
-Obélix
-Panorámix
-Asurancetúrix
-Abraracúrcix
+Asterix
+Obelix
+Panoramix
+Asuranceturix
+Abraracurcix
 Karabella
-Ordenalfabétix
-Esautomátix
-Edadepiédrix
+Ordenalfabetix
+Esautomatix
+Edadepiedrix
 Idefix Ideafix
-Julio_César
+Julio_Cesar
 Cleopatra
 # names gl
-Astérix
-Obélix
-Panorámix
+Asterix
+Obelix
+Panoramix
 Abraracurcix Abrazopartidix
 Karabella
 Asuracenturix Seguroatodoriesguix
@@ -221,7 +221,7 @@ Asterix
 Obelix
 Chatotorix
 Abracurcix
-Idéiafix
+Ideiafix
 Panoramix
 # names sv
 Asterix
