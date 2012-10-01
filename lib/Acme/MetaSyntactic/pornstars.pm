@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.006';
+our $VERSION = '1.007';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-01 - v1.007
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.021.
 
 =item *
 
@@ -193,7 +199,6 @@ Amber_Rayne
 Ami_Ayukawa
 Amy_Ried
 Anastasia_Blue
-Andie_Valentino
 Andrea_True
 Angela_Devi
 Angela_Summers
@@ -510,7 +515,6 @@ Kandi_Barbour
 Kaoru_Kuroki
 Kapri_Styles
 Karen_Lancaume
-Kat
 Katalin_Vad
 Kate_Asabuki
 Katie_Gold
