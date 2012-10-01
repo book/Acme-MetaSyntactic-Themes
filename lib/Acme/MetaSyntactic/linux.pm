@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.005';
+our $VERSION = '1.006';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-01 - v1.006
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.021.
 
 =item *
 
@@ -200,7 +206,6 @@ DoudouLinux
 Draco
 DragonFly
 Dragora
-Dreamlinux
 Dream_Studio
 dyne_bolic
 EasyPeasy
@@ -210,7 +215,6 @@ Elastix
 elementary
 Endian
 Epidemic
-ESUN
 Evinux
 ExTiX
 Fedora
@@ -254,9 +258,7 @@ KahelOS
 KANOTIX
 Karoshi
 Kiwi
-Knoppel
 KNOPPIX
-KnoSciences
 Kongoni
 Kororaa
 Kubuntu
@@ -268,7 +270,6 @@ Libert
 LinHES
 Linpus
 LinuxConsole
-Linux_EduCD
 linuX_gamers
 LinuxTLE
 Linvo
@@ -311,7 +312,6 @@ NuTyX
 Ojuba
 OLPC
 Omoikane
-O_Net
 OpenBSD
 Openfiler
 OpenIndiana
@@ -338,7 +338,6 @@ PelicanHPC
 Pentoo
 Peppermint
 pfSense
-Phayoune
 Phinx
 Pinguy
 Plamo
@@ -427,6 +426,7 @@ UHU_Linux
 Ulteo
 Ultimate
 Unity
+Univention
 Untangle
 UPR
 Userful
