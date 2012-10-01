@@ -15,7 +15,7 @@ Characters from the famous French cartoon, created by Goscinny and Uderzo.
 
 =head2 Languages
 
-Supported languages: en us fr nl de es gl hu la pt sv
+Supported languages: en en_us fr nl de es gl hu la pt sv
 
 =head1 CONTRIBUTOR
 
@@ -65,7 +65,7 @@ Ekonomikrisis
 Tragicomix
 Tremendelirius
 Drinklikafix
-# names us
+# names en_us
 Asterix
 Obelix
 Dogmatix
