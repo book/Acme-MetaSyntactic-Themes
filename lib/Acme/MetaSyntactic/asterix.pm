@@ -15,17 +15,20 @@ Characters from the famous French cartoon, created by Goscinny and Uderzo.
 
 =head2 Languages
 
-Supported languages: en en_us fr nl de es gl hu la pt sv
+Supported languages:
+I<en>, I<en_us>, I<fr>, I<nl>, I<de>, I<es>, I<gl>, I<hu>, I<la>, I<pt>, I<sv>.
+
+Reference sites:
+L<http://en.wikipedia.org/wiki/Asterix>,
+L<http://asterix.openscroll.org/characters.html>.
 
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
 
 =head1 SEE ALSO
 
-L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::Locale>,
-L<http://en.wikipedia.org/wiki/Asterix>
-L<http://openscroll.org/asterix/characters.html>
+L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::Locale>.
 
 =cut
 
