@@ -198,6 +198,11 @@ Libertador_General_Bernardo_O_Higgins Los_Lagos Los_Ríos Magallanes
 Maule Region_Metropolitana_de_Santiago Tarapaca Valparaiso
 # names cm
 Adamaoua Centre East Far_North Littoral North North_West South South_West West
+# names cn
+Beijing Chongqing Shanghai Tianjin Anhui Fujian Gansu Guangdong Guizhou
+Hainan Hebei Heilongjiang Henan Hubei Hunan Jiangsu Jiangxi Jilin Liaoning
+Qinghai Shaanxi Shandong Shanxi Sichuan Taiwan Yunnan Zhejiang Guangxi
+Nei_Mongol Ningxia Xinjiang Xizang Xianggang Aomen
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
