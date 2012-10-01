@@ -175,6 +175,10 @@ Northwest_Territories Nunavut Yukon
 # names cd
 Kinshasa Bandundu Bas_Congo Equateur Kasai_Occidental Kasai_Oriental Katanga
 Maniema Nord_Kivu Orientale Sud_Kivu
+# names cf
+Bangui Bamingui_Bangoran Basse_Kotto Haute_Kotto Haut_Mbomou
+Haute_Sangha_Mambere_Kadei Kemo_Gribingui Lobaye Mbomou Nana_Mambere
+Ombella_Mpoko Ouaka Ouham Ouham_Pende Vakaga Gribingui Sangha
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
