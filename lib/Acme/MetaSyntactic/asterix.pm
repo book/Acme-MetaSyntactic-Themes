@@ -60,7 +60,7 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::Locale>.
 
 __DATA__
 # default
-en
+fr
 # names en
 Asterix
 Obelix
