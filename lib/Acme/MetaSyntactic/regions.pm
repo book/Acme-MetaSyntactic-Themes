@@ -191,6 +191,11 @@ Ticino Uri Valais Vaud Zug Zurich
 Dix_Huit_Montagnes Agnebi Bafing Bas_Sassandra Denguele Fromager
 Haut_Sassandra Lacs Lagunes Marahoue Moyen_Cavally Moyen_Comoe Nzi_Comoe
 Savanes Sud_Bandama Sud_Comoe Vallee_du_Bandama Worodougou Zanzan
+# names cl
+Aisen_del_General_Carlos_Ibanez_del_Campo Antofagasta
+Araucania Arica_y_Parinacota Atacama Bio_Bio Coquimbo
+Libertador_General_Bernardo_O_Higgins Los_Lagos Los_Ríos Magallanes
+Maule Region_Metropolitana_de_Santiago Tarapaca Valparaiso
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
