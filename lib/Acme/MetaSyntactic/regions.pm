@@ -223,6 +223,10 @@ Sao_Lourenco_dos_Orgaos Sao_Miguel Sao_Salvador_do_Mundo Sao_Vicente
 Tarrafal Tarrafal_de_Sao_Nicolau
 # names cy
 Ammochostos Keryneia Larnaka Lefkosia Lemesos Pafos
+# names cz
+Jihocesky Jihomoravsky Karlovarsky Kralovehradecky Liberecky
+Moravskoslezsky Olomoucky Pardubicky Plzensky Praha Stredocesky Ustecky
+Vysocina Zlinsky
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
