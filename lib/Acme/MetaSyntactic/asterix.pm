@@ -26,6 +26,18 @@ L<http://asterix.openscroll.org/characters.html>.
 
 Abigail
 
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2005-10-25
+
+Submitted by Abigail, with the names translated in 11 languages.
+
+=back
+
 =head1 SEE ALSO
 
 L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::Locale>.
