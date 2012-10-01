@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::asterix;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -29,6 +30,12 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-01 - v1.000
+
+Published in Acme-MetaSyntactic-Themes version 1.021.
 
 =item *
 
