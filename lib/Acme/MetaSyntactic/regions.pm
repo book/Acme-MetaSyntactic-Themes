@@ -196,6 +196,8 @@ Aisen_del_General_Carlos_Ibanez_del_Campo Antofagasta
 Araucania Arica_y_Parinacota Atacama Bio_Bio Coquimbo
 Libertador_General_Bernardo_O_Higgins Los_Lagos Los_Ríos Magallanes
 Maule Region_Metropolitana_de_Santiago Tarapaca Valparaiso
+# names cm
+Adamaoua Centre East Far_North Littoral North North_West South South_West West
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
