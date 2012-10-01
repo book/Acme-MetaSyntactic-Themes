@@ -209,6 +209,8 @@ Boyaca Caldas Caqueta Casanare Cauca Cesar Cordoba Cundinamarca Choco
 Guainia Guaviare Huila La_Guajira Magdalena Meta Narino Norte_de_Santander
 Putumayo Quindío Risaralda San_Andres_Providencia_y_Santa_Catalina
 Santander Sucre Tolima Valle_del_Cauca Vaupes Vichada
+# names cr
+Alajuela Cartago Guanacaste Heredia Limon Puntarenas San_Jose
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
