@@ -168,6 +168,10 @@ Central Ghanzi Kgalagadi Kgatleng Kweneng North_East North_West South_East South
 Brestskaya Homyel_skaya Hrodzenskaya Mahilyowskaya Minskaya Vitsyebskaya Horad_Minsk
 # names bz
 Belize Cayo Corozal Orange_Walk Stann_Creek Toledo
+# names ca
+Alberta British_Columbia Manitoba New_Brunswick Newfoundland_and_Labrador
+Nova_Scotia Ontario Prince_Edward_Island Quebec Saskatchewan
+Northwest_Territories Nunavut Yukon
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
