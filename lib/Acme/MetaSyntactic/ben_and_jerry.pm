@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::ben_and_jerry;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 
 my $regex = {
@@ -46,6 +46,12 @@ Abigail, Philippe Bruhat (BooK).
 
 =item *
 
+2012-10-01 - v1.002
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.021.
+
+=item *
+
 2012-08-20 - v1.001
 
 Added a remote list for "retired" flavors and turned the existing list
@@ -77,6 +83,7 @@ __DATA__
 # default
 current
 # names current
+AmeriCone_Dream
 Banana_Peanut_Butter
 Banana_Split
 Berry_Berry_Extraordinary
@@ -85,6 +92,7 @@ Bonnaroo_s_Coffee_Caramel_Buzz
 Boston_Cream_Pie
 Butter_Pecan
 Cake_Batter
+Cannoli
 Cheesecake_Brownie
 Cherry_Garcia
 Chocolate
@@ -117,6 +125,7 @@ Mint_Chocolate_Cookie
 Mud_Pie
 New_York_Super_Fudge_Chunk
 Oatmeal_Cookie_Chunk
+Peach_Cobbler
 Peanut_Brittle
 Peanut_Butter_Cup
 Phish_Food
@@ -125,7 +134,6 @@ Raspberry_Fudge_Chunk
 Red_Velvet_Cake
 Rocky_Road_ish
 S_mores
-Stephen_Colbert_s_AmeriCone_Dream
 Strawberry
 Strawberry_Cheesecake
 Strawberry_Shortcake
@@ -136,7 +144,6 @@ Vanilla_Caramel_Fudge
 Vanilla_Fudge_Chip
 Vanilla_HEATH_Bar_Crunch
 What_a_Cluster
-Willie_Nelson_s_Country_Peach_Cobbler
 # names retired
 Tenth_Anniversary_Waltz_Nutcracker_Suite
 Aloha_Macadamia
