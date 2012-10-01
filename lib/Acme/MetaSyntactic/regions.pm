@@ -172,6 +172,9 @@ Belize Cayo Corozal Orange_Walk Stann_Creek Toledo
 Alberta British_Columbia Manitoba New_Brunswick Newfoundland_and_Labrador
 Nova_Scotia Ontario Prince_Edward_Island Quebec Saskatchewan
 Northwest_Territories Nunavut Yukon
+# names cd
+Kinshasa Bandundu Bas_Congo Equateur Kasai_Occidental Kasai_Oriental Katanga
+Maniema Nord_Kivu Orientale Sud_Kivu
 # names dk
 Hovedstaden Midtjylland Nordjylland Sjaelland Syddanmark
 # names fr
