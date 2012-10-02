@@ -996,3 +996,9 @@ Masqat Musandam Zufar
 Bocas_del_Toro Chiriqui Cocle Colon Darien Embera Herrera Kuna_Yala
 Los_Santos Ngobe_Bugle Panama Veraguas
 
+# names pe
+Amazonas Ancash Apurimac Arequipa Ayacucho Cajamarca Cusco El_Callao
+Huancavelica Huanuco Ica Junin La_Libertad Lambayeque Lima Loreto
+Madre_de_Dios Moquegua Municipalidad_Metropolitana_de_Lima Pasco Piura
+Puno San_Martin Tacna Tumbes Ucayali
+
