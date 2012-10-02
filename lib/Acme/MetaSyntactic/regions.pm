@@ -416,3 +416,6 @@ Pohjois_Pohjanmaa Pohjois_Savo Satakunta Uusimaa Varsinais_Suomi
 # names fj
 Central Eastern Northern Rotuma Western
 
+# names fm
+Chuuk Kosrae Pohnpei Yap
+
