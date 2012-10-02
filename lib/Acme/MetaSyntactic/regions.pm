@@ -1270,3 +1270,6 @@ Saraburi Satun Si_Sa_Ket Sing_Buri Songkhla Sukhothai Suphan_Buri
 Surat_Thani Surin Tak Trang Trat Ubon_Ratchathani Udon_Thani
 Uthai_Thani Uttaradit Yala Yasothon
 
+# names tj
+Gorno_Badakhshan_Kuhistoni_Badakhshon Khatlon Sughd
+
