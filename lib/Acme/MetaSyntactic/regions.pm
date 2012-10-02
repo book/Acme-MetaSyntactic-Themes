@@ -754,3 +754,8 @@ Lofa Margibi Maryland Montserrado Nimba River_Gee Rivercess Sinoe
 Berea Butha_Buthe Leribe Mafeteng Maseru Mohale_s_Hoek Mokhotlong
 Qacha_s_Nek Quthing Thaba_Tseka
 
+# names lt
+Alytaus_Apskritis Kauno_Apskritis Klaipedos_Apskritis
+Marijampoles_Apskritis Panevezio_Apskritis Siauliu_Apskritis
+Taurages_Apskritis Telsiu_Apskritis Utenos_Apskritis Vilniaus_Apskritis
+
