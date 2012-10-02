@@ -40,6 +40,16 @@ published on May FIXME.
 
 =item *
 
+2012-10-02
+
+After several attempts to fill the list of regions by hand
+over the previous five months, finally use L<WWW::Mechanize>
+to scrape all C<ISO_3166-2:I<cc>> pages listed on
+L<http://en.wikipedia.org/wiki/ISO_3166-2> and L<Text::Unidecode> to
+turn the names into valid Perl identifiers.
+
+=item *
+
 2012-05-10
 
 Extended the theme idea to administrative regions of any country,
