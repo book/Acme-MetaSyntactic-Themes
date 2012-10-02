@@ -586,3 +586,7 @@ Sisacko_moslavacka_zupanija Splitsko_dalmatinska_zupanija
 Varazdinska_zupanija Viroviticko_podravska_zupanija
 Vukovarsko_srijemska_zupanija Zadarska_zupanija Zagrebacka_zupanija
 
+# names ht
+Artibonite Centre Grande_Anse Nippes Nord Nord_Est Nord_Ouest Ouest
+Sud Sud_Est
+
