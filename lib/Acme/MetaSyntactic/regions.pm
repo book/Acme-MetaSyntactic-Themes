@@ -446,3 +446,7 @@ Terres_australes_francaises Territoire_de_Belfort Val_d_Oise
 Val_de_Marne Var Vaucluse Vendee Vienne Vosges Wallis_and_Futuna
 Wallis_et_Futuna Yonne Yvelines
 
+# names ga
+Estuaire Haut_Ogooue Moyen_Ogooue Ngounie Nyanga Ogooue_Ivindo
+Ogooue_Lolo Ogooue_Maritime Woleu_Ntem
+
