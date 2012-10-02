@@ -642,3 +642,23 @@ Tehran Yazd Zanjan
 Austurland Hofudborgarsvaedi_utan_Reykjavikur Nordurland_eystra
 Nordurland_vestra Reykjavik Sudurland Sudurnes Vestfirdir Vesturland
 
+# names it
+Abruzzo Agrigento Alessandria Ancona Aosta_Aoste Arezzo Ascoli_Piceno
+Asti Avellino Bari Barletta_Andria_Trani Basilicata Belluno Benevento
+Bergamo Biella Bologna Bolzano_Bozen Brescia Brindisi Cagliari Calabria
+Caltanissetta Campania Campobasso Carbonia_Iglesias Caserta Catania
+Catanzaro Chieti Como Cosenza Cremona Crotone Cuneo Emilia_Romagna Enna
+Fermo Ferrara Firenze Foggia Forli_Cesena Friuli_Venezia_Giulia
+Frosinone Genova Gorizia Grosseto Imperia Isernia L_Aquila La_Spezia
+Latina Lazio Lecce Lecco Liguria Livorno Lodi Lombardia Lucca Macerata
+Mantova Marche Massa_Carrara Matera Medio_Campidano Messina Milano
+Modena Molise Monza_e_Brianza Napoli Novara Nuoro Ogliastra Olbia_Tempio
+Oristano Padova Palermo Parma Pavia Perugia Pesaro_e_Urbino Pescara
+Piacenza Piemonte Pisa Pistoia Pordenone Potenza Prato Puglia Ragusa
+Ravenna Reggio_Calabria Reggio_Emilia Rieti Rimini Roma Rovigo Salerno
+Sardegna Sassari Savona Sicilia Siena Siracusa Sondrio Taranto Teramo
+Terni Torino Toscana Trapani Trentino_Alto_Adige_Trentino_Sudtirol
+Trento Treviso Trieste Udine Umbria Valle_d_Aosta_Vallee_d_Aoste Varese
+Veneto Venezia Verbano_Cusio_Ossola Vercelli Verona Vibo_Valentia
+Vicenza Viterbo
+
