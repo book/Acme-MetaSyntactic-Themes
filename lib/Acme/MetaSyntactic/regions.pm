@@ -909,3 +909,9 @@ Santa_Lucija_Saint_Lucia_s Santa_Venera Siggiewi Sliema Swieqi Ta_Xbiex
 Tarxien Valletta Xaghra Xewkija Xghajra Zabbar
 Zebbug_Ghawdex_Zebbug_Gozo Zebbug_Malta Zejtun Zurrieq
 
+# names mu
+Agalega_Islands Beau_Bassin_Rose_Hill Black_River
+Cargados_Carajos_Shoals Curepipe Flacq Grand_Port Moka Pamplemousses
+Plaines_Wilhems Port_Louis Port_Louis Quatre_Bornes Riviere_du_Rempart
+Rodrigues_Island Savanne Vacoas_Phoenix
+
