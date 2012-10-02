@@ -1032,3 +1032,14 @@ Zamboanga_del_Norte Zamboanga_del_Sur
 Azad_Kashmir Balochistan Federally_Administered_Tribal_Areas
 Gilgit_Baltistan Islamabad Khyber_Pakhtunkhwa Punjab Sindh
 
+# names pl
+Biala_Podlaska Bialystok Bielsko_Biala Bydgoszcz Chelm Ciechanow
+Czestochowa Dolnoslaskie Elblag Gdansk Gorzow Jelenia_Gora Kalisz
+Katowice Kielce Konin Koszalin Krakow Krosno Kujawsko_pomorskie Legnica
+Leszno Lodz Lodzkie Lomza Lubelskie Lublin Lubuskie Malopolskie
+Mazowieckie Nowy_Sacz Olsztyn Opole Opolskie Ostroleka Pila Piotrkow
+Plock Podkarpackie Podlaskie Pomorskie Poznan Przemysl Radom Rzeszow
+Siedlce Sieradz Skierniewice Slaskie Slupsk Suwalki Swietokrzyskie
+Szczecin Tarnobrzeg Tarnow Torun Walbrzych Warminsko_mazurskie Warszawa
+Wielkopolskie Wloclawek Wroclaw Zachodniopomorskie Zamosc Zielona_Gora
+
