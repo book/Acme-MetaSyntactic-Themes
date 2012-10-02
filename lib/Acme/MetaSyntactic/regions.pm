@@ -450,3 +450,47 @@ Wallis_et_Futuna Yonne Yvelines
 Estuaire Haut_Ogooue Moyen_Ogooue Ngounie Nyanga Ogooue_Ivindo
 Ogooue_Lolo Ogooue_Maritime Woleu_Ntem
 
+# names gb
+Aberdeen_City Aberdeenshire Angus Antrim Ards Argyll_and_Bute Armagh
+Ballymena Ballymoney Banbridge Barking_and_Dagenham Barnet Barnsley
+Bath_and_North_East_Somerset Bedford Belfast Bexley Birmingham
+Blackburn_with_Darwen Blackpool Blaenau_Gwent Bolton Bournemouth
+Bracknell_Forest Bradford Brent Bridgend Brighton_and_Hove
+Bristol_City_of Bromley Buckinghamshire Bury Caerphilly Calderdale
+Cambridgeshire Camden Cardiff Carmarthenshire Carrickfergus Castlereagh
+Central_Bedfordshire Ceredigion Cheshire_East Cheshire_West_and_Chester
+Clackmannanshire Coleraine Conwy Cookstown Cornwall Coventry Craigavon
+Croydon Cumbria Darlington Denbighshire Derby Derbyshire Derry Devon
+Doncaster Dorset Down Dudley Dumfries_and_Galloway Dundee_City
+Dungannon_and_South_Tyrone Durham_County Ealing East_Ayrshire
+East_Dunbartonshire East_Lothian East_Renfrewshire
+East_Riding_of_Yorkshire East_Sussex Edinburgh_City_of Eilean_Siar
+Enfield Essex Falkirk Fermanagh Fife Flintshire Gateshead Glasgow_City
+Gloucestershire Greenwich Gwynedd Hackney Halton Hammersmith_and_Fulham
+Hampshire Haringey Harrow Hartlepool Havering Herefordshire
+Hertfordshire Highland Hillingdon Hounslow Inverclyde Isle_of_Anglesey
+Isle_of_Wight Islington Kensington_and_Chelsea Kent Kingston_upon_Hull
+Kingston_upon_Thames Kirklees Knowsley Lambeth Lancashire Larne Leeds
+Leicester Leicestershire Lewisham Limavady Lincolnshire Lisburn
+Liverpool London_City_of Luton Magherafelt Manchester Medway
+Merthyr_Tydfil Merton Middlesbrough Midlothian Milton_Keynes
+Monmouthshire Moray Moyle Neath_Port_Talbot Newcastle_upon_Tyne Newham
+Newport Newry_and_Mourne_District Newtownabbey Norfolk North_Ayrshire
+North_Down North_East_Lincolnshire North_Lanarkshire North_Lincolnshire
+North_Somerset North_Tyneside North_Yorkshire Northamptonshire
+Northumberland Nottingham Nottinghamshire Oldham Omagh Orkney_Islands
+Oxfordshire Pembrokeshire Perth_and_Kinross Peterborough Plymouth Poole
+Portsmouth Powys Reading Redbridge Redcar_and_Cleveland Renfrewshire
+Rhondda_Cynon_Taff Richmond_upon_Thames Rochdale Rotherham Rutland
+Salford Sandwell Scottish_Borders_The Sefton Sheffield Shetland_Islands
+Shropshire Slough Solihull Somerset South_Ayrshire South_Gloucestershire
+South_Lanarkshire South_Tyneside Southampton Southend_on_Sea Southwark
+St_Helens Staffordshire Stirling Stockport Stockton_on_Tees
+Stoke_on_Trent Strabane Suffolk Sunderland Surrey Sutton Swansea Swindon
+Tameside Telford_and_Wrekin Thurrock Torbay Torfaen Tower_Hamlets
+Trafford Vale_of_Glamorgan_The Wakefield Walsall Waltham_Forest
+Wandsworth Warrington Warwickshire West_Berkshire West_Dunbartonshire
+West_Lothian West_Sussex Westminster Wigan Wiltshire
+Windsor_and_Maidenhead Wirral Wokingham Wolverhampton Worcestershire
+Wrexham York
+
