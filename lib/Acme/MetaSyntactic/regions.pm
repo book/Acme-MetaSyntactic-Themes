@@ -526,3 +526,7 @@ Tsqalmbo Vanis_Raioni Zestap_onis_Raioni Zugdidi Zugdidis_Raioni
 Ashanti Brong_Ahafo Central Eastern Greater_Accra Northern Upper_East
 Upper_West Volta Western
 
+# names gl
+Kommune_Kujalleq Kommuneqarfik_Sermersooq Qaasuitsup_Kommunia
+Qeqqata_Kommunia
+
