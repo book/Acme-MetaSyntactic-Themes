@@ -1067,3 +1067,10 @@ Neembucu Presidente_Hayes
 Ad_Dawhah Al_Khawr_wa_adh_Dhakhirah Al_Wakrah Ar_Rayyan Ash_Shamal
 Az_Za_ayin Umm_shalal
 
+# names ro
+Alba Arad Arges Bacau Bihor Bistrita_Nasaud Botosani Braila Brasov
+Bucuresti Buzau Calarasi Caras_Severin Cluj Constanta Covasna Dambovita
+Dolj Galati Giurgiu Gorj Harghita Hunedoara Ialomita Iasi Ilfov
+Maramures Mehedinti Mures Neamt Olt Prahova Salaj Satu_Mare Sibiu
+Suceava Teleorman Timis Tulcea Valcea Vaslui Vrancea
+
