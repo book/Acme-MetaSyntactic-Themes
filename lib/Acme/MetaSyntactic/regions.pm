@@ -300,3 +300,10 @@ Camaguey Ciego_de_Avila Cienfuegos Ciudad_de_La_Habana Granma Guantanamo
 Holguin Isla_de_la_Juventud La_Habana Las_Tunas Matanzas Pinar_del_Rio
 Sancti_Spiritus Santiago_de_Cuba Villa_Clara
 
+# names cv
+Boa_Vista Brava Ilhas_de_Barlavento Ilhas_de_Sotavento Maio Mosteiros
+Paul Porto_Novo Praia Ribeira_Brava Ribeira_Grande
+Ribeira_Grande_de_Santiago Sal Santa_Catarina Santa_Catarina_do_Fogo
+Santa_Cruz Sao_Domingos Sao_Filipe Sao_Lourenco_dos_Orgaos Sao_Miguel
+Sao_Salvador_do_Mundo Sao_Vicente Tarrafal Tarrafal_de_Sao_Nicolau
+
