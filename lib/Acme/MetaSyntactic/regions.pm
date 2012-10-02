@@ -494,3 +494,7 @@ West_Lothian West_Sussex Westminster Wigan Wiltshire
 Windsor_and_Maidenhead Wirral Wokingham Wolverhampton Worcestershire
 Wrexham York
 
+# names gd
+Saint_Andrew Saint_David Saint_George Saint_John Saint_Mark
+Saint_Patrick Southern_Grenadine_Islands
+
