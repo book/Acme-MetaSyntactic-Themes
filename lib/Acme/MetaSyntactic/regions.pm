@@ -227,3 +227,8 @@ Trongsa Tsirang Wangdue_Phodrang Zhemgang
 Central Ghanzi Kgalagadi Kgatleng Kweneng North_East North_West
 South_East Southern
 
+# names by
+Brestskaya_voblasts Homyel_skaya_voblasts Horad_Minsk
+Hrodzenskaya_voblasts Mahilyowskaya_voblasts Minskaya_voblasts
+Vitsyebskaya_voblasts
+
