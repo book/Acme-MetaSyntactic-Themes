@@ -590,3 +590,12 @@ Vukovarsko_srijemska_zupanija Zadarska_zupanija Zagrebacka_zupanija
 Artibonite Centre Grande_Anse Nippes Nord Nord_Est Nord_Ouest Ouest
 Sud Sud_Est
 
+# names hu
+Bacs_Kiskun Baranya Bekes Bekescsaba Borsod_Abauj_Zemplen Budapest
+Csongrad Debrecen Dunaujvaros Eger Erd Fejer Gyor Gyor_Moson_Sopron
+Hajdu_Bihar Heves Hodmezovasarhely Jasz_Nagykun_Szolnok Kaposvar
+Kecskemet Komarom_Esztergom Miskolc Nagykanizsa Nograd Nyiregyhaza Pecs
+Pest Salgotarjan Somogy Sopron Szabolcs_Szatmar_Bereg Szeged
+Szekesfehervar Szekszard Szolnok Szombathely Tatabanya Tolna Vas
+Veszprem Veszprem Zala Zalaegerszeg
+
