@@ -295,3 +295,8 @@ Alajuela Cartago Guanacaste Heredia Limon Puntarenas San_Jose
 # names cs
 Crna_Gora Kosovo_Metohija Srbija Vojvodina
 
+# names cu
+Camaguey Ciego_de_Avila Cienfuegos Ciudad_de_La_Habana Granma Guantanamo
+Holguin Isla_de_la_Juventud La_Habana Las_Tunas Matanzas Pinar_del_Rio
+Sancti_Spiritus Santiago_de_Cuba Villa_Clara
+
