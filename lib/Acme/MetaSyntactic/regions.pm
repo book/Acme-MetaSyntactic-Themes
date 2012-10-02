@@ -1388,3 +1388,6 @@ Phu_Yen Quang_Binh Quang_Nam Quang_Ngai Quang_Ninh Quang_Tri Soc_Trang
 Son_La Tay_Ninh Thai_Binh Thai_Nguyen Thanh_Hoa Thua_Thien_Hue
 Tien_Giang Tra_Vinh Tuyen_Quang Vinh_Long Vinh_Phuc Yen_Bai
 
+# names vu
+Malampa Penama Sanma Shefa Tafea Torba
+
