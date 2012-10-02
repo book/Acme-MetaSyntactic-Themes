@@ -129,3 +129,8 @@ Hercegovacko_neretvanski_kanton Kanton_Sarajevo Kanton_br_10
 Posavski_kanton Republika_Srpska Srednjobosanski_kanton Tuzlanski_kanton
 Unsko_sanski_kanton Zapadnohercegovacki_kanton Zenicko_dobojski_kanton
 
+# names bb
+Christ_Church Saint_Andrew Saint_George Saint_James Saint_John
+Saint_Joseph Saint_Lucy Saint_Michael Saint_Peter Saint_Philip
+Saint_Thomas
+
