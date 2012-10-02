@@ -625,3 +625,8 @@ Kerala Lakshadweep Madhya_Pradesh Maharashtra Manipur Meghalaya Mizoram
 Nagaland Orissa Pondicherry Punjab Rajasthan Sikkim Tamil_Nadu Tripura
 Uttar_Pradesh Uttarakhand West_Bengal
 
+# names iq
+Al_Anbar Al_Bashrah Al_Muthanna Al_Qadisiyah An_Najaf Arbil
+As_Sulaymaniyah At_Ta_mim Babil Baghdad Dahuk Dhi_Qar Diyala Karbala
+Maysan Ninawa Wasit shalah_ad_Din
+
