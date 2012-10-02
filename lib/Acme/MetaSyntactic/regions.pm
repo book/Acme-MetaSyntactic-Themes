@@ -344,3 +344,7 @@ Arhus Bornholm Frederiksberg Frederiksborg Fyn Hovedstaden Kobenhavn
 Kobenhavn Midtjylland Nordjylland Nordjylland Ribe Ringkobing Roskilde
 Sjaelland Sonderjylland Storstrom Syddanmark Vejle Vestsjaelland Viborg
 
+# names dm
+Saint_Andrew Saint_David Saint_George Saint_John Saint_Joseph Saint_Luke
+Saint_Mark Saint_Patrick Saint_Paul Saint_Peter
+
