@@ -270,3 +270,7 @@ Arica_y_Parinacota Atacama Bio_Bio Coquimbo
 Libertador_General_Bernardo_O_Higgins Los_Lagos Los_Rios Magallanes
 Maule Region_Metropolitana_de_Santiago Tarapaca Valparaiso
 
+# names cm
+Adamaoua Centre East Far_North Littoral North North_West South
+South_West West
+
