@@ -1410,3 +1410,7 @@ Western_Cape
 Central Copperbelt Eastern Luapula Lusaka North_Western Northern
 Southern Western
 
+# names zw
+Bulawayo Harare Manicaland Mashonaland_Central Mashonaland_East
+Mashonaland_West Masvingo Matabeleland_North Matabeleland_South Midlands
+
