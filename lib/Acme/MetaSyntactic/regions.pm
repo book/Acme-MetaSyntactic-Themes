@@ -93,3 +93,8 @@ Vlore Vlore
 Aragacotn Ararat Armavir Erevan Gegark_unik Kotayk Lory Sirak Syunik
 Tavus Vayoc_Jor
 
+# names ao
+Bengo Benguela Bie Cabinda Cuando_Cubango Cuanza_Norte Cuanza_Sul
+Cunene Huambo Huila Luanda Lunda_Norte Lunda_Sul Malange Moxico Namibe
+Uige Zaire
+
