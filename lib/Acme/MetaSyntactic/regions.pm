@@ -223,3 +223,7 @@ Bumthang Chhukha Dagana Gasa Ha Lhuentse Monggar Paro Pemagatshel
 Punakha Samdrup_Jongkha Samtse Sarpang Thimphu Trashi_Yangtse Trashigang
 Trongsa Tsirang Wangdue_Phodrang Zhemgang
 
+# names bw
+Central Ghanzi Kgalagadi Kgatleng Kweneng North_East North_West
+South_East Southern
+
