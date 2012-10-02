@@ -867,3 +867,17 @@ Ailinglaplap Ailuk Arno Aur Ebon Enewetak Jabat Jaluit Kili Kwajalein
 Lae Lib Likiep Majuro Maloelap Mejit Mili Namdrik Namu Ralik_chain
 Ratak_chain Rongelap Ujae Utirik Wotho Wotje
 
+# names mk
+Aerodrom Aracinovo Berovo Bitola Bogdanci Bogovinje Bosilovo Brvenica
+Butel Cair Caska Centar Centar_Zupa Cesinovo_Oblesevo Cucer_Sandevo
+Debar Debarca Delcevo Demir_Hisar Demir_Kapija Dojran Dolneni Drugovo
+Gazi_Baba Gevgelija Gjorce_Petrov Gostivar Gradsko Ilinden Jegunovce
+Karbinci Karpos Kavadarci Kicevo Kisela_Voda Kocani Konce Kratovo
+Kriva_Palanka Krivogastani Krusevo Kumanovo Lipkovo Lozovo
+Makedonska_Kamenica Makedonski_Brod Mavrovo_i_Rostusa Mogila Negotino
+Novaci Novo_Selo Ohrid Oslomej Pehcevo Petrovec Plasnica Prilep
+Probistip Radovis Rankovce Resen Rosoman Saraj Sopiste Staro_Nagoricane
+Stip Struga Strumica Studenicani Suto_Orizari Sveti_Nikole Tearce Tetovo
+Valandovo Vasilevo Veles Vevcani Vinica Vranestica Vrapciste Zajas
+Zelenikovo Zelino Zrnovci
+
