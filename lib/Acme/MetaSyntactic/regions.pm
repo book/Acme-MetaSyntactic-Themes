@@ -240,3 +240,7 @@ Alberta British_Columbia Manitoba New_Brunswick
 Newfoundland_and_Labrador Northwest_Territories Nova_Scotia Nunavut
 Ontario Prince_Edward_Island Quebec Saskatchewan Yukon_Territory
 
+# names cd
+Bandundu Bas_Congo Equateur Kasai_Occidental Kasai_Oriental Katanga
+Kinshasa Maniema Nord_Kivu Orientale Sud_Kivu
+
