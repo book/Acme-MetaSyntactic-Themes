@@ -712,3 +712,6 @@ Daejeon_Gwang_yeogsi Gang_weondo Gwangju_Gwang_yeogsi Gyeonggido
 Gyeongsangbugdo Gyeongsangnamdo Incheon_Gwang_yeogsi Jejudo Jeonrabugdo
 Jeonranamdo Seoul_Teugbyeolsi Ulsan_Gwang_yeogsi
 
+# names kw
+Al_Ahmadi Al_Farwaniyah Al_Jahra Al_Kuwayt Hawalli Mubarak_al_Kabir
+
