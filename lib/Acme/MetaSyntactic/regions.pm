@@ -1048,3 +1048,9 @@ Bethlehem Deir_El_Balah Gaza Hebron Jenin Jericho_Al_Aghwar
 Jerusalem Khan_Yunis Nablus North_Gaza Qalqilya Rafah Ramallah
 Salfit Tubas Tulkarm
 
+# names pt
+Aveiro Beja Braga Braganca Castelo_Branco Coimbra Evora Faro Guarda
+Leiria Lisboa Portalegre Porto Regiao_Autonoma_da_Madeira
+Regiao_Autonoma_dos_Acores Santarem Setubal Viana_do_Castelo
+Vila_Real Viseu
+
