@@ -721,3 +721,8 @@ Batys_Qazaqstan_oblysy Mangghystau_oblysy Ongtustik_Qazaqstan_oblysy
 Pavlodar_oblysy Qaraghandy_oblysy Qostanay_oblysy Qyzylorda_oblysy
 Shyghys_Qazaqstan_oblysy Soltustik_Qazaqstan_oblysy Zhambyl_oblysy
 
+# names la
+Attapu Bokeo Bolikhamxai Champasak Houaphan Khammouan Louang_Namtha
+Louangphabang Oudomxai Phongsali Salavan Savannakhet Vientiane Vientiane
+Xaignabouli Xaisomboun Xekong Xiangkhoang
+
