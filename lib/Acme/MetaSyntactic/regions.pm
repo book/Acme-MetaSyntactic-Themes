@@ -1155,3 +1155,7 @@ Vastmanlands_lan Vastra_Gotalands_lan
 # names sg
 Central_Singapore North_East North_West South_East South_West
 
+# names sh
+Ascension Ascension Saint_Helena Saint_Helena Tristan_da_Cunha
+Tristan_da_Cunha
+
