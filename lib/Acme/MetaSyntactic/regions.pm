@@ -406,3 +406,10 @@ Adis_Abeba Afar Amara Binshangul_Gumuz Dire_Dawa Gambela_Hizboch
 Hareri_Hizb Oromiya Sumale Tigray
 YeDebub_Biheroch_Bihereseboch_na_Hizboch
 
+# names fi
+Ahvenanmaan_laani Ahvenanmaan_maakunta Etela_Karjala Etela_Pohjanmaa
+Etela_Savo Etela_Suomen_laani Ita_Suomen_laani Kainuu Kanta_Hame
+Keski_Pohjanmaa Keski_Suomi Kymenlaakso Lansi_Suomen_laani Lapin_laani
+Lappi Oulun_laani Paijat_Hame Pirkanmaa Pohjanmaa Pohjois_Karjala
+Pohjois_Pohjanmaa Pohjois_Savo Satakunta Uusimaa Varsinais_Suomi
+
