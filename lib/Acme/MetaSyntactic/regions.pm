@@ -862,3 +862,8 @@ Podgorica Rozaje Savnik Tivat Ulcinj Zabljak
 # names mg
 Antananarivo Antsiranana Fianarantsoa Mahajanga Toamasina Toliara
 
+# names mh
+Ailinglaplap Ailuk Arno Aur Ebon Enewetak Jabat Jaluit Kili Kwajalein
+Lae Lib Likiep Majuro Maloelap Mejit Mili Namdrik Namu Ralik_chain
+Ratak_chain Rongelap Ujae Utirik Wotho Wotje
+
