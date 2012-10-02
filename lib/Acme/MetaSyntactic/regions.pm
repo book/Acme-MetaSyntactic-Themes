@@ -973,3 +973,8 @@ More_og_Romsdal Nord_Trondelag Nordland Oppland Oslo Ostfold
 Rogaland Sogn_og_Fjordane Sor_Trondelag Svalbard Telemark Troms
 Vest_Agder Vestfold
 
+# names np
+Bagmati Bheri Dhawalagiri Gandaki Janakpur Karnali Kosi Lumbini
+Madhya_Pashchimanchal Madhyamanchal Mahakali Mechi Narayani
+Pashchimanchal Purwanchal Rapti Sagarmatha Seti Sudur_Pashchimanchal
+
