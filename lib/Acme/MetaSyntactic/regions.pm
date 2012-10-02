@@ -1395,3 +1395,8 @@ Malampa Penama Sanma Shefa Tafea Torba
 A_ana Aiga_i_le_Tai Atua Fa_asaleleaga Gaga_emauga Gagaifomauga Palauli
 Satupa_itea Tuamasaga Va_a_o_Fonoti Vaisigano
 
+# names ye
+Abyan Ad_Dali Adan Al_Bayda Al_Hudaydah Al_Jawf Al_Mahrah Al_Mahwit
+Amran Dhamar Hadramawt Hajjah Ibb Lahij Ma_rib Raymah Shabwah Ta_izz
+sha_dah shan_a shan_a
+
