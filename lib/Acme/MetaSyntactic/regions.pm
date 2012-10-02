@@ -307,3 +307,6 @@ Ribeira_Grande_de_Santiago Sal Santa_Catarina Santa_Catarina_do_Fogo
 Santa_Cruz Sao_Domingos Sao_Filipe Sao_Lourenco_dos_Orgaos Sao_Miguel
 Sao_Salvador_do_Mundo Sao_Vicente Tarrafal Tarrafal_de_Sao_Nicolau
 
+# names cy
+Ammochostos Keryneia Larnaka Lefkosia Lemesos Pafos
+
