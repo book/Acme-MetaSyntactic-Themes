@@ -1074,3 +1074,13 @@ Dolj Galati Giurgiu Gorj Harghita Hunedoara Ialomita Iasi Ilfov
 Maramures Mehedinti Mures Neamt Olt Prahova Salaj Satu_Mare Sibiu
 Suceava Teleorman Timis Tulcea Valcea Vaslui Vrancea
 
+# names rs
+Beograd Borski_okrug Branicevski_okrug Jablanicki_okrug Juznobacki_okrug
+Juznobanatski_okrug Kolubarski_okrug Kosovo_Metohija Kosovski_okrug
+Kosovsko_Mitrovacki_okrug Kosovsko_Pomoravski_okrug Macvanski_okrug
+Moravicki_okrug Nisavski_okrug Pcinjski_okrug Pecki_okrug Pirotski_okrug
+Podunavski_okrug Pomoravski_okrug Prizrenski_okrug Rasinski_okrug
+Raski_okrug Severnobacki_okrug Severnobanatski_okrug
+Srednjebanatski_okrug Sremski_okrug Sumadijski_okrug Toplicki_okrug
+Vojvodina Zajecarski_okrug Zapadnobacki_okrug Zlatiborski_okrug
+
