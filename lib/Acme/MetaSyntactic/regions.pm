@@ -948,3 +948,6 @@ Tete Zambezia
 Caprivi Erongo Hardap Karas Khomas Kunene Ohangwena Okavango Omaheke
 Omusati Oshana Oshikoto Otjozondjupa
 
+# names ne
+Agadez Diffa Dosso Maradi Niamey Tahoua Tillaberi Zinder
+
