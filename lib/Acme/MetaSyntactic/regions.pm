@@ -1028,3 +1028,7 @@ Sultan_Kudarat Sulu Surigao_del_Norte Surigao_del_Sur Tarlac Tawi_Tawi
 Western_Visayas Zambales Zamboanga_Peninsula Zamboanga_Sibugay
 Zamboanga_del_Norte Zamboanga_del_Sur
 
+# names pk
+Azad_Kashmir Balochistan Federally_Administered_Tribal_Areas
+Gilgit_Baltistan Islamabad Khyber_Pakhtunkhwa Punjab Sindh
+
