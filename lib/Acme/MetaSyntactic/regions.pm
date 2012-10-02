@@ -1002,3 +1002,9 @@ Huancavelica Huanuco Ica Junin La_Libertad Lambayeque Lima Loreto
 Madre_de_Dios Moquegua Municipalidad_Metropolitana_de_Lima Pasco Piura
 Puno San_Martin Tacna Tumbes Ucayali
 
+# names pg
+Bougainville Central Chimbu East_New_Britain East_Sepik
+Eastern_Highlands Enga Gulf Madang Manus Milne_Bay Morobe
+National_Capital_District New_Ireland Northern Sandaun
+Southern_Highlands West_New_Britain Western Western_Highlands
+
