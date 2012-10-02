@@ -249,3 +249,6 @@ Bamingui_Bangoran Bangui Basse_Kotto Gribingui Haut_Mbomou Haute_Kotto
 Haute_Sangha_Mambere_Kadei Kemo_Gribingui Lobaye Mbomou Nana_Mambere
 Ombella_Mpoko Ouaka Ouham Ouham_Pende Sangha Vakaga
 
+# names cg
+Bouenza Brazzaville Cuvette_Ouest Plateaux Pool Sangha
+
