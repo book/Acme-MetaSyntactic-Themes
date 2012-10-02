@@ -684,3 +684,8 @@ Central Coast Eastern Nairobi North_Eastern Nyanza Rift_Valley Western
 # names kg
 Batken Bishkek Chu Jalal_Abad Naryn Osh Talas Ysyk_Kol
 
+# names kh
+Kracheh Krong_Kaeb Krong_Pailin Krong_Preah_Sihanouk Mondol_Kiri
+Otdar_Mean_Chey Phnom_Penh Pousaat Preah_Vihear Prey_Veaeng Rotanak_Kiri
+Siem_Reab Stueng_Traeng Svaay_Rieng Taakaev
+
