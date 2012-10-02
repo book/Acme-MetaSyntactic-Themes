@@ -555,3 +555,9 @@ Lesvos Magnisia Messinia Notio_Aigaio Pella Peloponnisos Pieria Preveza
 Rethymno Rodopi Samos Serres Sterea_Ellada Thesprotia Thessalia
 Thessaloniki Trikala Voiotia Voreio_Aigaio Xanthi Zakynthos
 
+# names gt
+Alta_Verapaz Baja_Verapaz Chimaltenango Chiquimula El_Progreso Escuintla
+Guatemala Huehuetenango Izabal Jalapa Jutiapa Peten Quetzaltenango
+Quiche Retalhuleu Sacatepequez San_Marcos Santa_Rosa Solola
+Suchitepequez Totonicapan Zacapa
+
