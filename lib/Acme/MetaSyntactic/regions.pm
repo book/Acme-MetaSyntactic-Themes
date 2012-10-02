@@ -1134,3 +1134,14 @@ Glacis Grand_Anse_Mahe Grand_Anse_Praslin La_Digue Les_Mamelles
 Mont_Buxton Mont_Fleuri Plaisance Pointe_Larue Port_Glaud Roche_Caiman
 Saint_Louis Takamaka
 
+# names sd
+Aali_an_Nil Al_Bahr_al_Ahmar Al_Bahr_al_Ahmar Al_Buhayrat Al_Jazirah
+Al_Jazirah Al_Khartum Al_Khartum Al_Qadarif Al_Qadarif Al_Wahdah
+An_Nil An_Nil An_Nil_al_Abyad An_Nil_al_Abyad An_Nil_al_Azraq
+An_Nil_al_Azraq Ash_Shamaliyah Ash_Shamaliyah Bahr_al_Jabal
+Gharb_Bahr_al_Ghazal Gharb_Darfur Gharb_Darfur Gharb_al_Istiwa_iyah
+Janub_Darfur Janub_Darfur Janub_Kurdufan Janub_Kurdufan Junqali
+Kassala Kassala Shamal_Bahr_al_Ghazal Shamal_Darfur Shamal_Darfur
+Shamal_Kurdufan Shamal_Kurdufan Sharq_Darfur Sharq_al_Istiwa_iyah
+Sinnar Sinnar Warab Zalingei
+
