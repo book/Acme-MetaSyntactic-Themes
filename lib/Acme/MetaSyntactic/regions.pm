@@ -419,3 +419,30 @@ Central Eastern Northern Rotuma Western
 # names fm
 Chuuk Kosrae Pohnpei Yap
 
+# names fr
+Ain Aisne Allier Alpes_Maritimes Alpes_de_Haute_Provence Alsace
+Aquitaine Ardeche Ardennes Ariege Aube Aude Auvergne Aveyron Bas_Rhin
+Basse_Normandie Bouches_du_Rhone Bourgogne Bretagne Calvados Cantal
+Centre Champagne_Ardenne Charente Charente_Maritime Cher Clipperton
+Correze Corse Cote_d_Or Cotes_d_Armor Creuse Deux_Sevres Dordogne Doubs
+Drome Essonne Eure Eure_et_Loir Finistere Franche_Comte French_Guiana
+French_Polynesia French_Southern_Territories Gard Gers Gironde
+Guadeloupe Guadeloupe Guyane Haut_Rhin Haute_Garonne Haute_Loire
+Haute_Marne Haute_Normandie Haute_Saone Haute_Savoie Haute_Vienne
+Hautes_Alpes Hautes_Pyrenees Hauts_de_Seine Herault Ile_de_France
+Ille_et_Vilaine Indre Indre_et_Loire Isere Jura La_Reunion Landes
+Languedoc_Roussillon Limousin Loir_et_Cher Loire Loire_Atlantique Loiret
+Lorraine Lot Lot_et_Garonne Lozere Maine_et_Loire Manche Marne
+Martinique Martinique Mayenne Mayotte Mayotte Meurthe_et_Moselle Meuse
+Midi_Pyrenees Morbihan Moselle New_Caledonia Nievre Nord
+Nord_Pas_de_Calais Nouvelle_Caledonie Oise Orne Paris Pas_de_Calais
+Pays_de_la_Loire Picardie Poitou_Charentes Polynesie_francaise
+Provence_Alpes_Cote_d_Azur Puy_de_Dome Pyrenees_Atlantiques
+Pyrenees_Orientales Reunion Rhone Rhone_Alpes Saint_Barthelemy
+Saint_Barthelemy Saint_Martin Saint_Martin Saint_Pierre_and_Miquelon
+Saint_Pierre_et_Miquelon Saone_et_Loire Sarthe Savoie Seine_Maritime
+Seine_Saint_Denis Seine_et_Marne Somme Tarn Tarn_et_Garonne
+Terres_australes_francaises Territoire_de_Belfort Val_d_Oise
+Val_de_Marne Var Vaucluse Vendee Vienne Vosges Wallis_and_Futuna
+Wallis_et_Futuna Yonne Yvelines
+
