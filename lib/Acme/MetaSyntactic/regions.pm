@@ -540,3 +540,7 @@ Kindia Kindia Kissidougou Koubia Koundara Kouroussa Labe Labe Lelouma
 Lola Macenta Mali Mamou Mamou Mandiana Nzerekore Nzerekore Pita Siguiri
 Telimele Tougue Yomou
 
+# names gq
+Annobon Bioko_Norte Bioko_Sur Centro_Sur Kie_Ntem Litoral
+Region_Continental Region_Insular Wele_Nzas
+
