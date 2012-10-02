@@ -599,3 +599,12 @@ Pest Salgotarjan Somogy Sopron Szabolcs_Szatmar_Bereg Szeged
 Szekesfehervar Szekszard Szolnok Szombathely Tatabanya Tolna Vas
 Veszprem Veszprem Zala Zalaegerszeg
 
+# names id
+Aceh Bali Bangka_Belitung Banten Bengkulu Gorontalo Jakarta_Raya Jambi
+Jawa Jawa_Barat Jawa_Tengah Jawa_Timur Kalimantan Kalimantan_Barat
+Kalimantan_Selatan Kalimantan_Tengah Kalimantan_Timur Kepulauan_Riau
+Lampung Maluku Maluku Maluku_Utara Nusa_Tenggara Nusa_Tenggara_Barat
+Nusa_Tenggara_Timur Papua Papua Papua_Barat Riau Sulawesi Sulawesi_Barat
+Sulawesi_Selatan Sulawesi_Tengah Sulawesi_Tenggara Sulawesi_Utara
+Sumatera Sumatera_Barat Sumatera_Selatan Sumatera_Utara Yogyakarta
+
