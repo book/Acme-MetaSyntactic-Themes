@@ -252,3 +252,10 @@ Ombella_Mpoko Ouaka Ouham Ouham_Pende Sangha Vakaga
 # names cg
 Bouenza Brazzaville Cuvette_Ouest Plateaux Pool Sangha
 
+# names ch
+Aargau Appenzell_Ausserrhoden Appenzell_Innerrhoden Basel_Landschaft
+Basel_Stadt Bern_Berne Fribourg_Freiburg Geneve Glarus
+Graubunden_Grigioni Jura Luzern Neuchatel Nidwalden Obwalden
+Sankt_Gallen Schaffhausen Schwyz Solothurn Thurgau Ticino Uri
+Valais_Wallis Vaud Zug Zurich
+
