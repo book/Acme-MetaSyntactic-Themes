@@ -289,3 +289,6 @@ Meta Narino Norte_de_Santander Putumayo Quindio Risaralda
 San_Andres_Providencia_y_Santa_Catalina Santander Sucre Tolima
 Valle_del_Cauca Vaupes Vichada
 
+# names cr
+Alajuela Cartago Guanacaste Heredia Limon Puntarenas San_Jose
+
