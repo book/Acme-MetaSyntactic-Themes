@@ -1240,3 +1240,6 @@ Morazan San_Miguel San_Salvador San_Vicente Santa_Ana Sonsonate Usulutan
 Al_Hasakah Al_Ladhiqiyah Al_Qunaytirah Ar_Raqqah As_Suwayda Dara
 Dayr_az_Zawr Dimashq Halab Hamah Himsh Idlib Rif_Dimashq Tartus
 
+# names sz
+Hhohho Lubombo Manzini Shiselweni
+
