@@ -759,3 +759,6 @@ Alytaus_Apskritis Kauno_Apskritis Klaipedos_Apskritis
 Marijampoles_Apskritis Panevezio_Apskritis Siauliu_Apskritis
 Taurages_Apskritis Telsiu_Apskritis Utenos_Apskritis Vilniaus_Apskritis
 
+# names lu
+Diekirch Grevenmacher Luxembourg_Luxemburg
+
