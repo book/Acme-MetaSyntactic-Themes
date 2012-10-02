@@ -1319,3 +1319,13 @@ Kaskazini_Unguja Kigoma Kilimanjaro Kusini_Pemba Kusini_Unguja Lindi
 Manyara Mara Mbeya Mjini_Magharibi Morogoro Mtwara Mwanza Pwani Rukwa
 Ruvuma Shinyanga Singida Tabora Tanga
 
+# names ua
+Avtonomna_Respublika_Krym Cherkas_ka_Oblast Chernihivs_ka_Oblast
+Chernivets_ka_Oblast Dnipropetrovs_ka_Oblast Donets_ka_Oblast
+Ivano_Frankivs_ka_Oblast Kharkivs_ka_Oblast Khersons_ka_Oblast
+Khmel_nyts_ka_Oblast Kirovohrads_ka_Oblast Kyiv Kyivs_ka_Oblast
+L_vivs_ka_Oblast Luhans_ka_Oblast Mykolaivs_ka_Oblast Odes_ka_Oblast
+Poltavs_ka_Oblast Rivnens_ka_Oblast Sevastopol Sums_ka_Oblast
+Ternopil_s_ka_Oblast Vinnyts_ka_Oblast Volyns_ka_Oblast
+Zakarpats_ka_Oblast Zaporiz_ka_Oblast Zhytomyrs_ka_Oblast
+
