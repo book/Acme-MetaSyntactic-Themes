@@ -331,3 +331,8 @@ Uherske_Hradiste Ustecky_kraj Usti_nad_Labem Usti_nad_Orlici Vsetin
 Vychodocesky_kraj Vyskov Vysocina Zapadocesky_kraj Zdar_nad_Sazavou
 Zlin Zlinsky_kraj Znojmo
 
+# names de
+Baden_Wurttemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen
+Mecklenburg_Vorpommern Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz
+Saarland Sachsen Sachsen_Anhalt Schleswig_Holstein Thuringen
+
