@@ -813,3 +813,21 @@ Tajura_wa_an_Nawahi_al_Arba Tarabulus Tarabulus Tarabulus
 Tarhunah_Masallatah Wadi_al_Hayat Wadi_al_Hayat Wadi_ash_Shati
 Yafran_Jadu shabratah_shurman
 
+# names ma
+Agadir_Ida_Outanane Al_Haouz Al_Hoceima Aousserd Assa_Zag Azilal
+Ben_Slimane Beni_Mellal Berkane Boujdour Boulemane Casablanca Centre
+Centre_Nord Centre_Sud Chaouia_Ouardigha Chefchaouen Chichaoua
+Chtouka_Ait_Baha Doukhala_Abda El_Hajeb El_Jadida Errachidia Es_Smara
+Essaouira Est Fahs_Beni_Makada Fes_Boulemane Figuig
+Gharb_Chrarda_Beni_Hssen Grand_Casablanca Guelmim Guelmim_Es_Smara
+Ifrane Inezgane_Ait_Melloul Jrada Kelaat_es_Sraghna Kenitra Khemisset
+Khenifra Khouribga L_Oriental Laayoune
+Laayoune_Boujdour_Sakia_el_Hamra Larache Marrakech_Medina
+Marrakech_Menara Marrakech_Tensift_Al_Haouz Mediouna Meknes
+Meknes_Tafilalet Mohammadia Moulay_Yacoub Nador Nord_Ouest Nouaceur
+Ouarzazate Oued_ed_Dahab Oued_ed_Dahab_Lagouira Oujda_Angad Rabat
+Rabat_Sale_Zemmour_Zaer Safi Sale Sefrou Settat Sidi_Kacem
+Sidi_Youssef_Ben_Ali Skhirate_Temara Souss_Massa_Draa Sud Tadla_Azilal
+Tan_Tan Tanger_Assilah Tanger_Tetouan Taounate Taourirt Taroudant Tata
+Taza Taza_Al_Hoceima_Taounate Tensift Tetouan Tiznit Zagora
+
