@@ -638,3 +638,7 @@ Khorasan_e_Shemali Khuzestan Kohgiluyeh_va_Buyer_Ahmad Kordestan
 Lorestan Markazi Mazandaran Qazvin Qom Semnan Sistan_va_Baluchestan
 Tehran Yazd Zanjan
 
+# names is
+Austurland Hofudborgarsvaedi_utan_Reykjavikur Nordurland_eystra
+Nordurland_vestra Reykjavik Sudurland Sudurnes Vestfirdir Vesturland
+
