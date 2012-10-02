@@ -533,3 +533,10 @@ Qeqqata_Kommunia
 # names gm
 Banjul Lower_River MacCarthy_Island North_Bank Upper_River Western
 
+# names gn
+Beyla Boffa Boke Boke Conakry Coyah Dabola Dalaba Dinguiraye Dubreka
+Faranah Faranah Forecariah Fria Gaoual Guekedou Kankan Kankan Kerouane
+Kindia Kindia Kissidougou Koubia Koundara Kouroussa Labe Labe Lelouma
+Lola Macenta Mali Mamou Mamou Mandiana Nzerekore Nzerekore Pita Siguiri
+Telimele Tougue Yomou
+
