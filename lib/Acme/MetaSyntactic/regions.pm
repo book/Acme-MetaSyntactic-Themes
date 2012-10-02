@@ -1152,3 +1152,6 @@ Orebro_lan Ostergotlands_lan Skane_lan Sodermanlands_lan Stockholms_lan
 Uppsala_lan Varmlands_lan Vasterbottens_lan Vasternorrlands_lan
 Vastmanlands_lan Vastra_Gotalands_lan
 
+# names sg
+Central_Singapore North_East North_West South_East South_West
+
