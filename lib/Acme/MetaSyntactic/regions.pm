@@ -1197,3 +1197,6 @@ Velika_Polana Velike_Lasce Verzej Videm Vipava Vitanje Vodice Vojnik
 Vransko Vrhnika Vuzenica Zagorje_ob_Savi Zalec Zasavska Zavrc Zelezniki
 Zetale Ziri Zirovnica Zrece Zuzemberk
 
+# names sj
+Svalbard Jan_Mayen
+
