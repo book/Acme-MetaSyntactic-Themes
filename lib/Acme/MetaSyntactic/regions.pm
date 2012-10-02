@@ -940,3 +940,7 @@ Pulau_Pinang Sabah Sarawak Selangor Terengganu
 Wilayah_Persekutuan_Kuala_Lumpur Wilayah_Persekutuan_Labuan
 Wilayah_Persekutuan_Putrajaya
 
+# names mz
+Cabo_Delgado Gaza Inhambane Manica Maputo Maputo Nampula Niassa Sofala
+Tete Zambezia
+
