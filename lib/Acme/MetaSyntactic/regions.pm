@@ -151,3 +151,9 @@ Rajshahi Rajshahi Rajshahi_anchal Rangamati Rangpur Rangpur
 Rangpur_anchal Satkhira Shariatpur Sherpur Sirajganj Sunamganj Sylhet
 Sylhet Sylhet_anchal Tangail Tangail_anchal Thakurgaon
 
+# names be
+Antwerpen Brabant_wallon
+Bruxelles_Capitale_Region_de_Brussels_Hoofdstedelijk_Gewest Hainaut
+Liege Limburg Luxembourg Namur Oost_Vlaanderen Vlaams_Brabant
+Vlaamse_Gewest West_Vlaanderen wallonne_Region
+
