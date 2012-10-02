@@ -339,3 +339,8 @@ Saarland Sachsen Sachsen_Anhalt Schleswig_Holstein Thuringen
 # names dj
 Ali_Sabieh Arta Dikhil Djibouti Obock Tadjourah
 
+# names dk
+Arhus Bornholm Frederiksberg Frederiksborg Fyn Hovedstaden Kobenhavn
+Kobenhavn Midtjylland Nordjylland Nordjylland Ribe Ringkobing Roskilde
+Sjaelland Sonderjylland Storstrom Syddanmark Vejle Vestsjaelland Viborg
+
