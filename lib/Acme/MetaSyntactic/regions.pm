@@ -695,3 +695,10 @@ Gilbert_Islands Line_Islands Phoenix_Islands
 # names km
 Andjazidja Andjouan Mouhili
 
+# names kn
+Christ_Church_Nichola_Town Nevis Saint_Anne_Sandy_Point
+Saint_George_Basseterre Saint_George_Gingerland Saint_James_Windward
+Saint_John_Capisterre Saint_John_Figtree Saint_Kitts Saint_Mary_Cayon
+Saint_Paul_Capisterre Saint_Paul_Charlestown Saint_Peter_Basseterre
+Saint_Thomas_Lowland Saint_Thomas_Middle_Island Trinity_Palmetto_Point
+
