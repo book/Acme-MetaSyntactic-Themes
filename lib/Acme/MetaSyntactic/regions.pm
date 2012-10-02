@@ -1368,3 +1368,6 @@ Andijon Buxoro Farg_ona Jizzax Namangan Navoiy Qashqadaryo
 Qoraqalpog_iston_Respublikasi Samarqand Sirdaryo Surxondaryo Toshkent
 Toshkent Xorazm
 
+# names vc
+Charlotte Grenadines Saint_Andrew Saint_David Saint_George Saint_Patrick
+
