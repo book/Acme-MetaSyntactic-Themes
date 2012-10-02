@@ -630,3 +630,11 @@ Al_Anbar Al_Bashrah Al_Muthanna Al_Qadisiyah An_Najaf Arbil
 As_Sulaymaniyah At_Ta_mim Babil Baghdad Dahuk Dhi_Qar Diyala Karbala
 Maysan Ninawa Wasit shalah_ad_Din
 
+# names ir
+Ardabil Azarbayjan_e_Gharbi Azarbayjan_e_Sharqi Bushehr
+Chahar_Mahall_va_Bakhtiari Eshfahan Fars Gilan Golestan Hamadan
+Hormozgan Ilam Kerman Kermanshah Khorasan_e_Janubi Khorasan_e_Razavi
+Khorasan_e_Shemali Khuzestan Kohgiluyeh_va_Buyer_Ahmad Kordestan
+Lorestan Markazi Mazandaran Qazvin Qom Semnan Sistan_va_Baluchestan
+Tehran Yazd Zanjan
+
