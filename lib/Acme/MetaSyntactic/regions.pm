@@ -184,3 +184,7 @@ Bubanza Bujumbura_Mairie Bujumbura_Rural Bururi Cankuzo Cibitoke
 Gitega Karuzi Kayanza Kirundo Makamba Muramvya Muyinga Mwaro Ngozi
 Rutana Ruyigi
 
+# names bj
+Alibori Atakora Atlantique Borgou Collines Donga Kouffo Littoral Mono
+Oueme Plateau Zou
+
