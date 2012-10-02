@@ -1008,3 +1008,23 @@ Eastern_Highlands Enga Gulf Madang Manus Milne_Bay Morobe
 National_Capital_District New_Ireland Northern Sandaun
 Southern_Highlands West_New_Britain Western Western_Highlands
 
+# names ph
+Abra Agusan_del_Norte Agusan_del_Sur Aklan Albay Antique Apayao Aurora
+Autonomous_Region_in_Muslim_Mindanao Basilan Bataan Batanes Batangas
+Benguet Bicol Biliran Bohol Bukidnon Bulacan CALABARZON Cagayan
+Cagayan_Valley Camarines_Norte Camarines_Sur Camiguin Capiz Caraga
+Catanduanes Cavite Cebu Central_Luzon Central_Visayas Compostela_Valley
+Cordillera_Administrative_Region Cotabato Davao Davao_Oriental
+Davao_del_Norte Davao_del_Sur Dinagat_Islands Eastern_Samar
+Eastern_Visayas Guimaras Ifugao Ilocos Ilocos_Norte Ilocos_Sur Iloilo
+Isabela Kalinga La_Union Laguna Lanao_del_Norte Lanao_del_Sur Leyte
+MIMAROPA Maguindanao Marinduque Masbate Mindoro_Occidental
+Mindoro_Oriental Misamis_Occidental Misamis_Oriental Mountain_Province
+National_Capital_Region Negros_Occidental Negros_Oriental
+Northern_Mindanao Northern_Samar Nueva_Ecija Nueva_Vizcaya Palawan
+Pampanga Pangasinan Quezon Quirino Rizal Romblon Samar Sarangani
+Siquijor Soccsksargen Sorsogon South_Cotabato Southern_Leyte
+Sultan_Kudarat Sulu Surigao_del_Norte Surigao_del_Sur Tarlac Tawi_Tawi
+Western_Visayas Zambales Zamboanga_Peninsula Zamboanga_Sibugay
+Zamboanga_del_Norte Zamboanga_del_Sur
+
