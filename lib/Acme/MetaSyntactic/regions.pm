@@ -259,3 +259,8 @@ Graubunden_Grigioni Jura Luzern Neuchatel Nidwalden Obwalden
 Sankt_Gallen Schaffhausen Schwyz Solothurn Thurgau Ticino Uri
 Valais_Wallis Vaud Zug Zurich
 
+# names ci
+Agnebi Bafing Bas_Sassandra Denguele Dix_Huit_Montagnes Fromager
+Haut_Sassandra Lacs Lagunes Marahoue Moyen_Cavally Moyen_Comoe Nzi_Comoe
+Savanes Sud_Bandama Sud_Comoe Vallee_du_Bandama Worodougou Zanzan
+
