@@ -134,3 +134,20 @@ Christ_Church Saint_Andrew Saint_George Saint_James Saint_John
 Saint_Joseph Saint_Lucy Saint_Michael Saint_Peter Saint_Philip
 Saint_Thomas
 
+# names bd
+Bagerhat Bandarban Bandarban_anchal Barguna Barisal Barisal
+Barisal_anchal Bhola Bogra Bogra_anchal Brahmanbaria Chandpur Chittagong
+Chittagong Chittagong_Hill_Tracts Chittagong_anchal Chuadanga Comilla
+Comilla_anchal Cox_s_Bazar Dhaka Dhaka Dhaka_anchal Dinajpur
+Dinajpur_anchal Faridpur Faridpur_anchal Feni Gaibandha Gazipur
+Gopalganj Habiganj Jaipurhat Jamalpur Jamalpur_anchal Jessore
+Jessore_anchal Jhalakati Jhenaidah Khagrachari Khulna Khulna
+Khulna_anchal Khustia_anchal Kishoreganj Kurigram Kushtia Lakshmipur
+Lalmonirhat Madaripur Magura Manikganj Meherpur Moulvibazar Munshiganj
+Mymensingh Mymensingh_anchal Naogaon Narail Narayanganj Narsingdi Natore
+Nawabganj Netrakona Nilphamari Noakhali Noakhali_anchal Pabna
+Pabna_anchal Panchagarh Patuakhali Patuakhali_anchal Pirojpur Rajbari
+Rajshahi Rajshahi Rajshahi_anchal Rangamati Rangpur Rangpur
+Rangpur_anchal Satkhira Shariatpur Sherpur Sirajganj Sunamganj Sylhet
+Sylhet Sylhet_anchal Tangail Tangail_anchal Thakurgaon
+
