@@ -274,3 +274,10 @@ Maule Region_Metropolitana_de_Santiago Tarapaca Valparaiso
 Adamaoua Centre East Far_North Littoral North North_West South
 South_West West
 
+# names cn
+Anhui Aomen_Macao Beijing Chongqing Fujian Gansu Guangdong Guangxi
+Guizhou Hainan Hebei Heilongjiang Henan Hong_Kong Hubei Hunan Jiangsu
+Jiangxi Jilin Liaoning Macao Nei_Mongol Ningxia Qinghai Shaanxi Shandong
+Shanghai Shanxi Sichuan Taiwan Taiwan Tianjin Xianggang_Hong_Kong
+Xinjiang Xizang Yunnan Zhejiang
+
