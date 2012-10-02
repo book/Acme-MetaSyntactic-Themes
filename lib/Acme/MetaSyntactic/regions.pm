@@ -561,3 +561,7 @@ Guatemala Huehuetenango Izabal Jalapa Jutiapa Peten Quetzaltenango
 Quiche Retalhuleu Sacatepequez San_Marcos Santa_Rosa Solola
 Suchitepequez Totonicapan Zacapa
 
+# names gw
+Bafata Biombo Bissau Bolama Cacheu Gabu Leste Norte Oio Quinara
+Sul Tombali
+
