@@ -1406,3 +1406,7 @@ Kapa_Vupeladyambu Kapa_Vuxa KwaZulu_Natal Kwazulu_Natal Limpopo Limpopo
 Mpumalanga Mpumalanga N_walungu_Vupeladyambu North_West Northern_Cape
 Western_Cape
 
+# names zm
+Central Copperbelt Eastern Luapula Lusaka North_Western Northern
+Southern Western
+
