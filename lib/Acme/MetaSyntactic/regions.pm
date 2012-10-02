@@ -544,3 +544,14 @@ Telimele Tougue Yomou
 Annobon Bioko_Norte Bioko_Sur Centro_Sur Kie_Ntem Litoral
 Region_Continental Region_Insular Wele_Nzas
 
+# names gr
+Achaia Agio_Oros Aitolia_kai_Akarnania Anatoliki_Makedonia_kai_Thraki
+Argolida Arkadia Arta Attiki Attiki Chalkidiki Chania Chios Dodekanisos
+Drama Dytiki_Ellada Dytiki_Makedonia Evros Evrytania Evvoia Florina
+Fokida Fthiotida Grevena Ileia Imathia Ioannina Ionia_Nisia Ipeiros
+Irakleio Karditsa Kastoria Kavala Kefallonia Kentriki_Makedonia Kerkyra
+Kilkis Korinthia Kozani Kriti Kyklades Lakonia Larisa Lasithi Lefkada
+Lesvos Magnisia Messinia Notio_Aigaio Pella Peloponnisos Pieria Preveza
+Rethymno Rodopi Samos Serres Sterea_Ellada Thesprotia Thessalia
+Thessaloniki Trikala Voiotia Voreio_Aigaio Xanthi Zakynthos
+
