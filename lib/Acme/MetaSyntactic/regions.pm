@@ -671,3 +671,10 @@ Trelawny Westmoreland
 Ajlun Al_Aqabah Al_Balqa Al_Karak Al_Mafraq Amman At_Tafilah Az_Zarqa
 Irbid Jarash Maan Madaba
 
+# names jp
+Aiti Akita Aomori Ehime Gihu Gunma Hirosima Hokkaido Hukui Hukuoka
+Hukusima Hyogo Ibaraki Isikawa Iwate Kagawa Kagosima Kanagawa Koti
+Kumamoto Kyoto Mie Miyagi Miyazaki Nagano Nagasaki Nara Niigata Oita
+Okayama Okinawa Osaka Saga Saitama Siga Simane Sizuoka Tiba Tokusima
+Tokyo Totigi Tottori Toyama Wakayama Yamagata Yamaguti Yamanasi
+
