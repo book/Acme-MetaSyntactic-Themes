@@ -292,3 +292,6 @@ Valle_del_Cauca Vaupes Vichada
 # names cr
 Alajuela Cartago Guanacaste Heredia Limon Puntarenas San_Jose
 
+# names cs
+Crna_Gora Kosovo_Metohija Srbija Vojvodina
+
