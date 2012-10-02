@@ -77,3 +77,7 @@ Ghor Helmand Herat Jowzjan Kabul Kandahar Kapisa Khost Kunar Kunduz
 Laghman Logar Nangarhar Nimroz Nuristan Paktika Paktiya Panjshayr Parwan
 Samangan Sar_e_Pul Takhar Uruzgan Wardak Zabul
 
+# names ag
+Barbuda Redonda Saint_George Saint_John Saint_Mary Saint_Paul
+Saint_Peter Saint_Philip
+
