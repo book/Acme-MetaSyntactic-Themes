@@ -179,3 +179,8 @@ Al_Mintaqah_al_Wusta Al_Mintaqah_ash_Shamaliyah Al_Muharraq Al_Muharraq
 Al_Wusta Ar_Rifa Ash_Shamaliyah Jidd_Hafsh Madinat_Hamad Madinat_Isa
 Mintaqat_Juzur_Hawar Sitrah
 
+# names bi
+Bubanza Bujumbura_Mairie Bujumbura_Rural Bururi Cankuzo Cibitoke
+Gitega Karuzi Kayanza Kirundo Makamba Muramvya Muyinga Mwaro Ngozi
+Rutana Ruyigi
+
