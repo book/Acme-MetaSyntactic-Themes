@@ -1280,3 +1280,8 @@ Manatuto Manufahi Oecussi Viqueque
 # names tm
 Ahal Ashgabat Balkan Dashoguz Lebap Mary
 
+# names tn
+Ariana Beja Ben_Arous Bizerte Gabes Gafsa Jendouba Kairouan Kasserine
+Kebili La_Manouba Le_Kef Mahdia Medenine Monastir Nabeul Sfax
+Sidi_Bouzid Siliana Sousse Tataouine Tozeur Tunis Zaghouan
+
