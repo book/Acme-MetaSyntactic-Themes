@@ -1243,3 +1243,12 @@ Dayr_az_Zawr Dimashq Halab Hamah Himsh Idlib Rif_Dimashq Tartus
 # names sz
 Hhohho Lubombo Manzini Shiselweni
 
+# names td
+Al_Bathah Al_Buhayrah Bahr_al_Ghazal Batha Biltine
+Borkou_Ennedi_Tibesti Burku Chari_Baguirmi Guera Hajjar_Lamis Innidi
+Kanem Kanim Lac Logone_Occidental Logone_Oriental Luqun_al_Gharbi
+Luqun_ash_Sharqi Madinat_Injamina Mandul Mayo_Kebbi
+Mayu_Kibbi_al_Gharbi Mayu_Kibbi_ash_Sharqi Moyen_Chari Ouaddai Qira
+Salamat Salamat Shari_Baqirmi Shari_al_Awsat Sila Tandjile Tanjili
+Tibasti Wadday Wadi_Fira
+
