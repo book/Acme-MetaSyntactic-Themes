@@ -198,3 +198,10 @@ Santa_Cruz Tarija
 # names bq
 Bonaire Saba Sint_Eustatius
 
+# names br
+Acre Alagoas Amapa Amazonas Bahia Ceara Distrito_Federal
+Espirito_Santo Goias Maranhao Mato_Grosso Mato_Grosso_do_Sul
+Minas_Gerais Para Paraiba Parana Pernambuco Piaui Rio_Grande_do_Norte
+Rio_Grande_do_Sul Rio_de_Janeiro Rondonia Roraima Santa_Catarina
+Sao_Paulo Sergipe Tocantins
+
