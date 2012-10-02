@@ -715,3 +715,9 @@ Jeonranamdo Seoul_Teugbyeolsi Ulsan_Gwang_yeogsi
 # names kw
 Al_Ahmadi Al_Farwaniyah Al_Jahra Al_Kuwayt Hawalli Mubarak_al_Kabir
 
+# names kz
+Almaty Almaty_oblysy Aqmola_oblysy Aqtobe_oblysy Astana Atyrau_oblysy
+Batys_Qazaqstan_oblysy Mangghystau_oblysy Ongtustik_Qazaqstan_oblysy
+Pavlodar_oblysy Qaraghandy_oblysy Qostanay_oblysy Qyzylorda_oblysy
+Shyghys_Qazaqstan_oblysy Soltustik_Qazaqstan_oblysy Zhambyl_oblysy
+
