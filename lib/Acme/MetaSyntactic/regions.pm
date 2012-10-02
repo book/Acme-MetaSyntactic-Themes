@@ -1215,3 +1215,8 @@ Montegiardino San_Marino Serravalle
 Dakar Diourbel Fatick Kaffrine Kaolack Kedougou Kolda Louga Matam
 Saint_Louis Sedhiou Tambacounda Thies Ziguinchor
 
+# names so
+Awdal Bakool Banaadir Bari Bay Galguduud Gedo Hiiraan Jubbada_Dhexe
+Jubbada_Hoose Mudug Nugaal Sanaag Shabeellaha_Dhexe Shabeellaha_Hoose
+Sool Togdheer Woqooyi_Galbeed
+
