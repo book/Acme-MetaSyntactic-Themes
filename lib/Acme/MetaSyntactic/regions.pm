@@ -123,3 +123,9 @@ Siyazan Sumqayit Tartar Tovuz Ucar Xacmaz Xankandi Xizi Xocali Xocavand
 Yardimli Yevlax Yevlax Zangilan Zaqatala Zardab shabran shahbuz shaki
 shaki shamaxi shamkir sharur shirvan shusha
 
+# names ba
+Bosansko_podrinjski_kanton Brcko_distrikt Federacija_Bosna_i_Hercegovina
+Hercegovacko_neretvanski_kanton Kanton_Sarajevo Kanton_br_10
+Posavski_kanton Republika_Srpska Srednjobosanski_kanton Tuzlanski_kanton
+Unsko_sanski_kanton Zapadnohercegovacki_kanton Zenicko_dobojski_kanton
+
