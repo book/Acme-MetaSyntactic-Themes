@@ -678,3 +678,6 @@ Kumamoto Kyoto Mie Miyagi Miyazaki Nagano Nagasaki Nara Niigata Oita
 Okayama Okinawa Osaka Saga Saitama Siga Simane Sizuoka Tiba Tokusima
 Tokyo Totigi Tottori Toyama Wakayama Yamagata Yamaguti Yamanasi
 
+# names ke
+Central Coast Eastern Nairobi North_Eastern Nyanza Rift_Valley Western
+
