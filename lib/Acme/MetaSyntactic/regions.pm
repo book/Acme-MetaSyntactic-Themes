@@ -667,3 +667,7 @@ Clarendon Hanover Kingston Manchester Portland Saint_Andrew Saint_Ann
 Saint_Catherine Saint_Elizabeth Saint_James Saint_Mary Saint_Thomas
 Trelawny Westmoreland
 
+# names jo
+Ajlun Al_Aqabah Al_Balqa Al_Karak Al_Mafraq Amman At_Tafilah Az_Zarqa
+Irbid Jarash Maan Madaba
+
