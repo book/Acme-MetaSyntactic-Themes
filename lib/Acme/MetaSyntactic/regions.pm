@@ -191,3 +191,7 @@ Oueme Plateau Zou
 # names bn
 Belait Brunei_Muara Temburong Tutong
 
+# names bo
+Chuquisaca Cochabamba El_Beni La_Paz Oruro Pando Potosi
+Santa_Cruz Tarija
+
