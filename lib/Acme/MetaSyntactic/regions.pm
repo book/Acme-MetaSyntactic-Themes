@@ -608,3 +608,9 @@ Nusa_Tenggara_Timur Papua Papua Papua_Barat Riau Sulawesi Sulawesi_Barat
 Sulawesi_Selatan Sulawesi_Tengah Sulawesi_Tenggara Sulawesi_Utara
 Sumatera Sumatera_Barat Sumatera_Selatan Sumatera_Utara Yogyakarta
 
+# names ie
+Carlow Cavan Clare Connaught Cork Donegal Dublin Galway Kerry Kildare
+Kilkenny Laois Leinster Leitrim Limerick Longford Louth Mayo Meath
+Monaghan Munster Offaly Roscommon Sligo Tipperary Ulster Waterford
+Westmeath Wexford Wicklow
+
