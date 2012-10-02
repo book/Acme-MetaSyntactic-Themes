@@ -157,3 +157,12 @@ Bruxelles_Capitale_Region_de_Brussels_Hoofdstedelijk_Gewest Hainaut
 Liege Limburg Luxembourg Namur Oost_Vlaanderen Vlaams_Brabant
 Vlaamse_Gewest West_Vlaanderen wallonne_Region
 
+# names bf
+Bale Bam Banwa Bazega Boucle_du_Mouhoun Bougouriba Boulgou Boulkiemde
+Cascades Centre Centre_Est Centre_Nord Centre_Ouest Centre_Sud Comoe Est
+Ganzourgou Gnagna Gourma Hauts_Bassins Houet Ioba Kadiogo Kenedougou
+Komondjari Kompienga Kossi Koulpelogo Kouritenga Kourweogo Leraba Loroum
+Mouhoun Nahouri Namentenga Nayala Nord Noumbiel Oubritenga Oudalan
+Passore Plateau_Central Poni Sahel Sanguie Sanmatenga Seno Sissili Soum
+Sourou Sud_Ouest Tapoa Tui Yagha Yatenga Ziro Zondoma Zoundweogo
+
