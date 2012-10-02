@@ -1391,3 +1391,7 @@ Tien_Giang Tra_Vinh Tuyen_Quang Vinh_Long Vinh_Phuc Yen_Bai
 # names vu
 Malampa Penama Sanma Shefa Tafea Torba
 
+# names ws
+A_ana Aiga_i_le_Tai Atua Fa_asaleleaga Gaga_emauga Gagaifomauga Palauli
+Satupa_itea Tuamasaga Va_a_o_Fonoti Vaisigano
+
