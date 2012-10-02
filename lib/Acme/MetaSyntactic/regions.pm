@@ -244,3 +244,8 @@ Ontario Prince_Edward_Island Quebec Saskatchewan Yukon_Territory
 Bandundu Bas_Congo Equateur Kasai_Occidental Kasai_Oriental Katanga
 Kinshasa Maniema Nord_Kivu Orientale Sud_Kivu
 
+# names cf
+Bamingui_Bangoran Bangui Basse_Kotto Gribingui Haut_Mbomou Haute_Kotto
+Haute_Sangha_Mambere_Kadei Kemo_Gribingui Lobaye Mbomou Nana_Mambere
+Ombella_Mpoko Ouaka Ouham Ouham_Pende Sangha Vakaga
+
