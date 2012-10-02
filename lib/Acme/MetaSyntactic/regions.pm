@@ -884,3 +884,7 @@ Zelenikovo Zelino Zrnovci
 # names ml
 Bamako Gao Kayes Kidal Koulikoro Mopti Segou Sikasso Tombouctou
 
+# names mm
+Ayeyarwady Bago Chin Kachin Kayah Kayin Magway Mandalay Mon Rakhine
+Sagaing Shan Tanintharyi Yangon
+
