@@ -897,3 +897,15 @@ Orhon Ovorhangay Selenge Suhbaatar Tov Uvs
 Adrar Assaba Brakna Dakhlet_Nouadhibou Gorgol Guidimaka Hodh_ech_Chargui
 Hodh_el_Gharbi Inchiri Nouakchott Tagant Tiris_Zemmour Trarza
 
+# names mt
+Attard Balzan Birgu Birkirkara Birzebbuga Bormla Dingli Fgura Floriana
+Fontana Ghajnsielem Gharb Gharghur Ghasri Ghaxaq Gudja Gzira Hamrun
+Iklin Isla Kalkara Kercem Kirkop Lija Luqa Marsa Marsaskala Marsaxlokk
+Mdina Mellieha Mgarr Mosta Mqabba Msida Mtarfa Munxar Nadur Naxxar Paola
+Pembroke Pieta Qala Qormi Qrendi Rabat_Ghawdex_Rabat_Gozo Rabat_Malta
+Safi San_Giljan_Saint_Julian_s San_Gwann_Saint_John
+San_Lawrenz_Saint_Lawrence San_Pawl_il_Bahar_Saint_Paul_s_Bay Sannat
+Santa_Lucija_Saint_Lucia_s Santa_Venera Siggiewi Sliema Swieqi Ta_Xbiex
+Tarxien Valletta Xaghra Xewkija Xghajra Zabbar
+Zebbug_Ghawdex_Zebbug_Gozo Zebbug_Malta Zejtun Zurrieq
+
