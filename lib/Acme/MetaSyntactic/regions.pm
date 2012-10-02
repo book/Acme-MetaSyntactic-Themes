@@ -692,3 +692,6 @@ Siem_Reab Stueng_Traeng Svaay_Rieng Taakaev
 # names ki
 Gilbert_Islands Line_Islands Phoenix_Islands
 
+# names km
+Andjazidja Andjouan Mouhili
+
