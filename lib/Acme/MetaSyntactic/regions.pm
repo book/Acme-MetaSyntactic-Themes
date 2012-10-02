@@ -1123,3 +1123,7 @@ Ville_de_Kigali
 Al_Bahah Al_Hudud_ash_Shamaliyah Al_Jawf Al_Madinah Al_Qashim Ar_Riyad
 Ash_Sharqiyah Asir Ha_il Jizan Makkah Najran Tabuk
 
+# names sb
+Capital_Territory Central Choiseul Guadalcanal Isabel Makira Malaita
+Rennell_and_Bellona Temotu Western
+
