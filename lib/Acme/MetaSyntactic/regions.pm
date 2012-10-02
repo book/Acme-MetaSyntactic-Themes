@@ -1059,3 +1059,7 @@ Aimeliik Airai Angaur Hatobohei Kayangel Koror Melekeok Ngaraard
 Ngarchelong Ngardmau Ngatpang Ngchesar Ngeremlengui Ngiwal
 Peleliu Sonsorol
 
+# names py
+Alto_Paraguay Alto_Parana Amambay Asuncion Boqueron Canindeyu Central
+Neembucu Presidente_Hayes
+
