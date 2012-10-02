@@ -570,3 +570,8 @@ Barima_Waini Cuyuni_Mazaruni Demerara_Mahaica East_Berbice_Corentyne
 Essequibo_Islands_West_Demerara Mahaica_Berbice Pomeroon_Supenaam
 Potaro_Siparuni Upper_Demerara_Berbice Upper_Takutu_Upper_Essequibo
 
+# names hn
+Atlantida Choluteca Colon Comayagua Copan Cortes El_Paraiso
+Francisco_Morazan Gracias_a_Dios Intibuca Islas_de_la_Bahia La_Paz
+Lempira Ocotepeque Olancho Santa_Barbara Valle Yoro
+
