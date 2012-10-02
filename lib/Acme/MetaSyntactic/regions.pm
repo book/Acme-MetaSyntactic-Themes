@@ -413,3 +413,6 @@ Keski_Pohjanmaa Keski_Suomi Kymenlaakso Lansi_Suomen_laani Lapin_laani
 Lappi Oulun_laani Paijat_Hame Pirkanmaa Pohjanmaa Pohjois_Karjala
 Pohjois_Pohjanmaa Pohjois_Savo Satakunta Uusimaa Varsinais_Suomi
 
+# names fj
+Central Eastern Northern Rotuma Western
+
