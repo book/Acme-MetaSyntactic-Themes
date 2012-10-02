@@ -888,3 +888,8 @@ Bamako Gao Kayes Kidal Koulikoro Mopti Segou Sikasso Tombouctou
 Ayeyarwady Bago Chin Kachin Kayah Kayin Magway Mandalay Mon Rakhine
 Sagaing Shan Tanintharyi Yangon
 
+# names mn
+Arhangay Bayan_Olgiy Bayanhongor Bulgan Darhan_uul Dornod Dornogovi
+Dundgovi Dzavhan Govi_Altay Govi_Sumber Hentiy Hovd Hovsgol Omnogovi
+Orhon Ovorhangay Selenge Suhbaatar Tov Uvs
+
