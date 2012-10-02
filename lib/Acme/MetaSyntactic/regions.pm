@@ -1054,3 +1054,8 @@ Leiria Lisboa Portalegre Porto Regiao_Autonoma_da_Madeira
 Regiao_Autonoma_dos_Acores Santarem Setubal Viana_do_Castelo
 Vila_Real Viseu
 
+# names pw
+Aimeliik Airai Angaur Hatobohei Kayangel Koror Melekeok Ngaraard
+Ngarchelong Ngardmau Ngatpang Ngchesar Ngeremlengui Ngiwal
+Peleliu Sonsorol
+
