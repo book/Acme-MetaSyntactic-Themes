@@ -944,3 +944,7 @@ Wilayah_Persekutuan_Putrajaya
 Cabo_Delgado Gaza Inhambane Manica Maputo Maputo Nampula Niassa Sofala
 Tete Zambezia
 
+# names na
+Caprivi Erongo Hardap Karas Khomas Kunene Ohangwena Okavango Omaheke
+Omusati Oshana Oshikoto Otjozondjupa
+
