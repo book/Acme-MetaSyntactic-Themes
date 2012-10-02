@@ -382,3 +382,8 @@ Al_Qalyubiyah Al_Uqshur Al_Wadi_al_Jadid As_Sadis_min_Uktubar As_Suways
 Ash_Sharqiyah Aswan Asyut Bani_Suwayf Bur_Said Dumyat Hulwan Janub_Sina
 Kafr_ash_Shaykh Matruh Qina Shamal_Sina Suhaj
 
+# names er
+Akele_Guzai Al_Awsat Al_Janubi Ansaba Asmara Barka Denkalia Gash_Setit
+Hamasien Janubi_al_Bahri_al_Ahmar Qash_Barkah Sahel Semhar Senhit Seraye
+Shimali_al_Bahri_al_Ahmar
+
