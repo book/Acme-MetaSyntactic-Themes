@@ -893,3 +893,7 @@ Arhangay Bayan_Olgiy Bayanhongor Bulgan Darhan_uul Dornod Dornogovi
 Dundgovi Dzavhan Govi_Altay Govi_Sumber Hentiy Hovd Hovsgol Omnogovi
 Orhon Ovorhangay Selenge Suhbaatar Tov Uvs
 
+# names mr
+Adrar Assaba Brakna Dakhlet_Nouadhibou Gorgol Guidimaka Hodh_ech_Chargui
+Hodh_el_Gharbi Inchiri Nouakchott Tagant Tiris_Zemmour Trarza
+
