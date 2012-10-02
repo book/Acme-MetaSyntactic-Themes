@@ -1308,3 +1308,8 @@ Western_Tobago
 # names tv
 Funafuti Nanumanga Nanumea Niutao Nui Nukufetau Nukulaelae Vaitupu
 
+# names tw
+Changhua Chiayi Chiayi Hsinchu Hsinchu Hualien Ilan Kaohsiung Kaohsiung
+Keelung Miaoli Nantou Penghu Pingtung Taichung Taichung Tainan Tainan
+Taipei Taipei Taitung Taoyuan Yunlin
+
