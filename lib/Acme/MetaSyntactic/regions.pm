@@ -1200,3 +1200,7 @@ Zetale Ziri Zirovnica Zrece Zuzemberk
 # names sj
 Svalbard Jan_Mayen
 
+# names sk
+Banskobystricky_kraj Bratislavsky_kraj Kosicky_kraj Nitriansky_kraj
+Presovsky_kraj Trenciansky_kraj Trnavsky_kraj Zilinsky_kraj
+
