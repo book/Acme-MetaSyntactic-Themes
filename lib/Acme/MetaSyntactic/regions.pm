@@ -836,3 +836,21 @@ Fontvieille Jardin_Exotique La_Colle La_Condamine La_Gare La_Source
 Larvotto Malbousquet Monaco_Ville Moneghetti Monte_Carlo Moulins
 Port_Hercule Saint_Roman Sainte_Devote Spelugues Vallon_de_la_Rousse
 
+# names md
+Anenii_Noi Anenii_Noi Balti Balti Balti Basarabeasca Basarabeasca
+Briceni Brinceni Cahul Cahul Cahul Cahul Cainari Calarashi Calarashi
+Camenca Cantemir Cantemir Causheni Causheni Chishinau Chishinau
+Chishinau Chishinau Ciadir_Lunga Cimishlia Cimishlia Comrat Criuleni
+Criuleni Dondusheni Dondusheni Drochia Drochia Dubasari Dubasari
+Dubasari Edinet Edinet Edinet Faleshti Faleshti Floreshti Floreshti
+Gagauzia_Unitate_Teritoriala_Autonoma
+Gagauzia_Unitatea_teritoriala_autonoma Glodeni Glodeni Grigoriopol
+Hinceshti Hinceshti Ialoveni Ialoveni Lapushna Leova Leova Nisporeni
+Nisporeni Ocnita Ocnita Orhei Orhei Orhei Orhei Rezina Rezina Ribnita
+Ribnita Rishcani Rishcani Singerei Singerei Slobozia Soroca Soroca
+Soroca Soroca Stinga_Nistrului_unitatea_teritoriala_din
+Stinga_Nistrului_unitatea_teritoriala_din Strasheni Strasheni Taraclia
+Taraclia Taraclia Teleneshti Teleneshti Tighina Tighina Tighina Tiraspol
+Ungheni Ungheni Ungheni Ungheni Vulcaneshti sholdaneshti sholdaneshti
+shtefan_Voda shtefan_Voda
+
