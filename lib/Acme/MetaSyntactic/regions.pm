@@ -927,3 +927,10 @@ Karonga Kasungu Likoma Lilongwe Machinga Mangochi Mchinji Mulanje Mwanza
 Mzimba Neno Nkhata_Bay Nkhotakota Northern_Region Nsanje Ntcheu Ntchisi
 Phalombe Rumphi Salima Southern_Region Thyolo Zomba
 
+# names mx
+Aguascalientes Baja_California Baja_California_Sur Campeche Chiapas
+Chihuahua Coahuila Colima Distrito_Federal Durango Guanajuato Guerrero
+Hidalgo Jalisco Mexico Michoacan Morelos Nayarit Nuevo_Leon Oaxaca
+Puebla Queretaro Quintana_Roo San_Luis_Potosi Sinaloa Sonora Tabasco
+Tamaulipas Tlaxcala Veracruz Yucatan Zacatecas
+
