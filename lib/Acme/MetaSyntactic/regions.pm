@@ -702,3 +702,7 @@ Saint_John_Capisterre Saint_John_Figtree Saint_Kitts Saint_Mary_Cayon
 Saint_Paul_Capisterre Saint_Paul_Charlestown Saint_Peter_Basseterre
 Saint_Thomas_Lowland Saint_Thomas_Middle_Island Trinity_Palmetto_Point
 
+# names kp
+Chagang_do Hamgyong_bukto Hamgyong_namdo Hwanghae_bukto Hwanghae_namdo
+Kangwon_do Nason P_yongan_bukto P_yongan_namdo P_yongyang Yanggang_do
+
