@@ -726,3 +726,7 @@ Attapu Bokeo Bolikhamxai Champasak Houaphan Khammouan Louang_Namtha
 Louangphabang Oudomxai Phongsali Salavan Savannakhet Vientiane Vientiane
 Xaignabouli Xaisomboun Xekong Xiangkhoang
 
+# names lb
+Aakkar Baalbek_Hermel Beqaa Beyrouth Liban_Nord Liban_Sud
+Mont_Liban Nabatiye
+
