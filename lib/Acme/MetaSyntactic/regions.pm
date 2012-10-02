@@ -881,3 +881,6 @@ Stip Struga Strumica Studenicani Suto_Orizari Sveti_Nikole Tearce Tetovo
 Valandovo Vasilevo Veles Vevcani Vinica Vranestica Vrapciste Zajas
 Zelenikovo Zelino Zrnovci
 
+# names ml
+Bamako Gao Kayes Kidal Koulikoro Mopti Segou Sikasso Tombouctou
+
