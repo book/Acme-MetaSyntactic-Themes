@@ -235,3 +235,8 @@ Vitsyebskaya_voblasts
 # names bz
 Belize Cayo Corozal Orange_Walk Stann_Creek Toledo
 
+# names ca
+Alberta British_Columbia Manitoba New_Brunswick
+Newfoundland_and_Labrador Northwest_Territories Nova_Scotia Nunavut
+Ontario Prince_Edward_Island Quebec Saskatchewan Yukon_Territory
+
