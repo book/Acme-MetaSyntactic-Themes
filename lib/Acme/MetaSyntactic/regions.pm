@@ -1363,3 +1363,8 @@ Artigas Canelones Cerro_Largo Colonia Durazno Flores Florida Lavalleja
 Maldonado Montevideo Paysandu Rio_Negro Rivera Rocha Salto San_Jose
 Soriano Tacuarembo Treinta_y_Tres
 
+# names uz
+Andijon Buxoro Farg_ona Jizzax Namangan Navoiy Qashqadaryo
+Qoraqalpog_iston_Respublikasi Samarqand Sirdaryo Surxondaryo Toshkent
+Toshkent Xorazm
+
