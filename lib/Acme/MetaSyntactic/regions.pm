@@ -112,3 +112,14 @@ Tirol Vorarlberg Wien
 Australian_Capital_Territory New_South_Wales Northern_Territory
 Queensland South_Australia Tasmania Victoria Western_Australia
 
+# names az
+Absheron Agcabadi Agdam Agdash Agstafa Agsu Astara Babak Baki Balakan
+Barda Beylaqan Bilasuvar Cabrayil Calilabab Culfa Dashkasan Fuzuli
+Gadabay Ganca Goranboy Goycay Goygol Haciqabul Imishli Ismayilli
+Kalbacar Kangarli Kurdamir Lacin Lankaran Lankaran Lerik Masalli
+Mingacevir Naftalan Naxcivan Naxcivan Neftcala Oguz Ordubad Qabala Qax
+Qazax Qobustan Quba Qubadli Qusar Saatli Sabirabad Sadarak Salyan Samux
+Siyazan Sumqayit Tartar Tovuz Ucar Xacmaz Xankandi Xizi Xocali Xocavand
+Yardimli Yevlax Yevlax Zangilan Zaqatala Zardab shabran shahbuz shaki
+shaki shamaxi shamkir sharur shirvan shusha
+
