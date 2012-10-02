@@ -401,3 +401,8 @@ Salamanca Santa_Cruz_de_Tenerife Segovia Sevilla Soria Tarragona Teruel
 Toledo Valencia_Valencia Valenciana_Comunidad_Valenciana_Comunitat
 Valladolid Vizcaya_Bizkaia Zamora Zaragoza
 
+# names et
+Adis_Abeba Afar Amara Binshangul_Gumuz Dire_Dawa Gambela_Hizboch
+Hareri_Hizb Oromiya Sumale Tigray
+YeDebub_Biheroch_Bihereseboch_na_Hizboch
+
