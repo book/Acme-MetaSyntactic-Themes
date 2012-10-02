@@ -706,3 +706,9 @@ Saint_Thomas_Lowland Saint_Thomas_Middle_Island Trinity_Palmetto_Point
 Chagang_do Hamgyong_bukto Hamgyong_namdo Hwanghae_bukto Hwanghae_namdo
 Kangwon_do Nason P_yongan_bukto P_yongan_namdo P_yongyang Yanggang_do
 
+# names kr
+Busan_Gwang_yeogsi Chungcheongbugdo Chungcheongnamdo Daegu_Gwang_yeogsi
+Daejeon_Gwang_yeogsi Gang_weondo Gwangju_Gwang_yeogsi Gyeonggido
+Gyeongsangbugdo Gyeongsangnamdo Incheon_Gwang_yeogsi Jejudo Jeonrabugdo
+Jeonranamdo Seoul_Teugbyeolsi Ulsan_Gwang_yeogsi
+
