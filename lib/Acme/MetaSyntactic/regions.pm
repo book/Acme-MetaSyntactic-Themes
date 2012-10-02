@@ -370,3 +370,8 @@ Galapagos Guayas Imbabura Loja Los_Rios Manabi Morona_Santiago Napo
 Orellana Pastaza Pichincha Santa_Elena Santo_Domingo_de_los_Tsachilas
 Sucumbios Tungurahua Zamora_Chinchipe
 
+# names ee
+Harjumaa Hiiumaa Ida_Virumaa Jarvamaa Jogevamaa Laane_Virumaa
+Laanemaa Parnumaa Polvamaa Raplamaa Saaremaa Tartumaa Valgamaa
+Viljandimaa Vorumaa
+
