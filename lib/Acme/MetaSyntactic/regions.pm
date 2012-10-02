@@ -1114,3 +1114,8 @@ Volgogradskaya_oblast Vologodskaya_oblast Voronezhskaya_oblast
 Yamalo_Nenetskiy_avtonomnyy_okrug Yaroslavskaya_oblast
 Yevreyskaya_avtonomnaya_oblast Zabaykal_skiy_kray
 
+# names rw
+Butare Byumba Cyangugu Est Gikongoro Gisenyi Gitarama Kibungo Kibuye
+Kigali_Rural Kigali_Ville Mutara Nord Ouest Ruhengeri Sud
+Ville_de_Kigali
+
