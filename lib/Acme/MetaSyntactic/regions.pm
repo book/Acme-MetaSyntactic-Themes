@@ -967,3 +967,9 @@ Aruba Bonaire Curacao Drenthe Flevoland Fryslan Gelderland Groningen
 Limburg Noord_Brabant Noord_Holland Overijssel Saba Sint_Eustatius
 Sint_Maarten Utrecht Zeeland Zuid_Holland
 
+# names no
+Akershus Aust_Agder Buskerud Finnmark Hedmark Hordaland Jan_Mayen
+More_og_Romsdal Nord_Trondelag Nordland Oppland Oslo Ostfold
+Rogaland Sogn_og_Fjordane Sor_Trondelag Svalbard Telemark Troms
+Vest_Agder Vestfold
+
