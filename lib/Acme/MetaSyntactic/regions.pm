@@ -1377,3 +1377,14 @@ Delta_Amacuro Dependencias_Federales Distrito_Federal Falcon Guarico
 Lara Merida Miranda Monagas Nueva_Esparta Portuguesa Sucre Tachira
 Trujillo Vargas Yaracuy Zulia
 
+# names vn
+An_Giang Ba_Ria_Vung_Tau Bac_Giang Bac_Kan Bac_Lieu Bac_Ninh Ben_Tre
+Binh_Dinh Binh_Duong Binh_Phuoc Binh_Thuan Ca_Mau Can_Tho Cao_Bang
+Da_Nang Dac_Lac Dak_Nong Dien_Bien Dong_Nai Dong_Thap Gia_Lai Ha_Giang
+Ha_Nam Ha_Noi Ha_Tay Ha_Tinh Hai_Duong Hai_Phong Hau_Giang Ho_Chi_Minh
+Hoa_Binh Hung_Yen Khanh_Hoa Kien_Giang Kon_Tum Lai_Chau Lam_Dong
+Lang_Son Lao_Cai Long_An Nam_Dinh Nghe_An Ninh_Binh Ninh_Thuan Phu_Tho
+Phu_Yen Quang_Binh Quang_Nam Quang_Ngai Quang_Ninh Quang_Tri Soc_Trang
+Son_La Tay_Ninh Thai_Binh Thai_Nguyen Thanh_Hoa Thua_Thien_Hue
+Tien_Giang Tra_Vinh Tuyen_Quang Vinh_Long Vinh_Phuc Yen_Bai
+
