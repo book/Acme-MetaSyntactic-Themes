@@ -1255,3 +1255,18 @@ Tibasti Wadday Wadi_Fira
 # names tg
 Centre Kara Maritime Plateaux Savannes
 
+# names th
+Amnat_Charoen Ang_Thong Buri_Ram Chachoengsao Chai_Nat Chaiyaphum
+Chanthaburi Chiang_Mai Chiang_Rai Chon_Buri Chumphon Kalasin
+Kamphaeng_Phet Kanchanaburi Khon_Kaen Krabi Krung_Thep_Maha_Nakhon
+Lampang Lamphun Loei Lop_Buri Mae_Hong_Son Maha_Sarakham Mukdahan
+Nakhon_Nayok Nakhon_Pathom Nakhon_Phanom Nakhon_Ratchasima Nakhon_Sawan
+Nakhon_Si_Thammarat Nan Narathiwat Nong_Bua_Lam_Phu Nong_Khai
+Nonthaburi Pathum_Thani Pattani Pattaya Phangnga Phatthalung Phayao
+Phetchabun Phetchaburi Phichit Phitsanulok Phra_Nakhon_Si_Ayutthaya
+Phrae Phuket Prachin_Buri Prachuap_Khiri_Khan Ranong Ratchaburi Rayong
+Roi_Et Sa_Kaeo Sakon_Nakhon Samut_Prakan Samut_Sakhon Samut_Songkhram
+Saraburi Satun Si_Sa_Ket Sing_Buri Songkhla Sukhothai Suphan_Buri
+Surat_Thani Surin Tak Trang Trat Ubon_Ratchathani Udon_Thani
+Uthai_Thani Uttaradit Yala Yasothon
+
