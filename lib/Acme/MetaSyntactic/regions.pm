@@ -962,3 +962,8 @@ Atlantico_Norte Atlantico_Sur Boaco Carazo Chinandega Chontales Esteli
 Granada Jinotega Leon Madriz Managua Masaya Matagalpa Nueva_Segovia
 Rio_San_Juan Rivas
 
+# names nl
+Aruba Bonaire Curacao Drenthe Flevoland Fryslan Gelderland Groningen
+Limburg Noord_Brabant Noord_Holland Overijssel Saba Sint_Eustatius
+Sint_Maarten Utrecht Zeeland Zuid_Holland
+
