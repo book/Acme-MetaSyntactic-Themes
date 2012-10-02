@@ -364,3 +364,9 @@ Laghouat Mascara Medea Mila Mostaganem Msila Naama Oran Ouargla
 Oum_el_Bouaghi Relizane Saida Setif Sidi_Bel_Abbes Skikda Souk_Ahras
 Tamanghasset Tebessa Tiaret Tindouf Tipaza Tissemsilt Tizi_Ouzou Tlemcen
 
+# names ec
+Azuay Bolivar Canar Carchi Chimborazo Cotopaxi El_Oro Esmeraldas
+Galapagos Guayas Imbabura Loja Los_Rios Manabi Morona_Santiago Napo
+Orellana Pastaza Pichincha Santa_Elena Santo_Domingo_de_los_Tsachilas
+Sucumbios Tungurahua Zamora_Chinchipe
+
