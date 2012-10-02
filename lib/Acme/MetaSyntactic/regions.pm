@@ -738,3 +738,11 @@ Praslin Soufriere Vieux_Fort
 Balzers Eschen Gamprin Mauren Planken Ruggell Schaan Schellenberg
 Triesen Triesenberg Vaduz
 
+# names lk
+Ampara Anuradhapura Badulla Basnahira_palata Dakunu_palata Galla Gampaha
+Hambantota Kaegalla Kalutara Kilinochchi Kolamba Kurunaegala
+Madakalapuva Madhyama_palata Mahanuvara Mannarama Matale Matara
+Monaragala Mulativ Naegenahira_palata Nuvara_Eliya Polonnaruva Puttalama
+Ratnapura Sabaragamuva_palata Trikunamalaya Uturu_palata
+Uturumaeda_palata Uva_palata Vavuniyava Vayamba_palata Yapanaya
+
