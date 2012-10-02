@@ -978,3 +978,7 @@ Bagmati Bheri Dhawalagiri Gandaki Janakpur Karnali Kosi Lumbini
 Madhya_Pashchimanchal Madhyamanchal Mahakali Mechi Narayani
 Pashchimanchal Purwanchal Rapti Sagarmatha Seti Sudur_Pashchimanchal
 
+# names nr
+Aiwo Anabar Anetan Anibare Baiti Boe Buada Denigomodu Ewa Ijuw Meneng
+Nibok Uaboe Yaren
+
