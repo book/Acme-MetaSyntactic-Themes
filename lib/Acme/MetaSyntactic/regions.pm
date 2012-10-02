@@ -730,3 +730,7 @@ Xaignabouli Xaisomboun Xekong Xiangkhoang
 Aakkar Baalbek_Hermel Beqaa Beyrouth Liban_Nord Liban_Sud
 Mont_Liban Nabatiye
 
+# names lc
+Anse_la_Raye Castries Choiseul Dauphin Dennery Gros_Islet Laborie Micoud
+Praslin Soufriere Vieux_Fort
+
