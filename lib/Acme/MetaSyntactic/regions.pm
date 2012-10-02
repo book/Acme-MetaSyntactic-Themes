@@ -1127,3 +1127,10 @@ Ash_Sharqiyah Asir Ha_il Jizan Makkah Najran Tabuk
 Capital_Territory Central Choiseul Guadalcanal Isabel Makira Malaita
 Rennell_and_Bellona Temotu Western
 
+# names sc
+Anse_Boileau Anse_Etoile Anse_Royale Anse_aux_Pins Au_Cap Baie_Lazare
+Baie_Sainte_Anne Beau_Vallon Bel_Air Bel_Ombre Cascade English_River
+Glacis Grand_Anse_Mahe Grand_Anse_Praslin La_Digue Les_Mamelles
+Mont_Buxton Mont_Fleuri Plaisance Pointe_Larue Port_Glaud Roche_Caiman
+Saint_Louis Takamaka
+
