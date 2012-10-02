@@ -232,3 +232,6 @@ Brestskaya_voblasts Homyel_skaya_voblasts Horad_Minsk
 Hrodzenskaya_voblasts Mahilyowskaya_voblasts Minskaya_voblasts
 Vitsyebskaya_voblasts
 
+# names bz
+Belize Cayo Corozal Orange_Walk Stann_Creek Toledo
+
