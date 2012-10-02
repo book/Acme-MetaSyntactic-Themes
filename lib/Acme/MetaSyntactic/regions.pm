@@ -166,3 +166,10 @@ Mouhoun Nahouri Namentenga Nayala Nord Noumbiel Oubritenga Oudalan
 Passore Plateau_Central Poni Sahel Sanguie Sanmatenga Seno Sissili Soum
 Sourou Sud_Ouest Tapoa Tui Yagha Yatenga Ziro Zondoma Zoundweogo
 
+# names bg
+Blagoevgrad Burgas Burgas Dobrich Gabrovo Haskovo Haskovo Kardzhali
+Kyustendil Lovec Lovech Montana Montana Pazardzhik Pernik Pleven Plovdiv
+Plovdiv Razgrad Ruse Ruse Shumen Silistra Sliven Smolyan Sofia
+Sofia_Grad Sofija Sofija_Grad Stara_Zagora Targovishte Varna Varna
+Veliko_Tarnovo Vidin Vratsa Yambol
+
