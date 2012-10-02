@@ -336,3 +336,6 @@ Baden_Wurttemberg Bayern Berlin Brandenburg Bremen Hamburg Hessen
 Mecklenburg_Vorpommern Niedersachsen Nordrhein_Westfalen Rheinland_Pfalz
 Saarland Sachsen Sachsen_Anhalt Schleswig_Holstein Thuringen
 
+# names dj
+Ali_Sabieh Arta Dikhil Djibouti Obock Tadjourah
+
