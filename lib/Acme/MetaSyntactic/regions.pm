@@ -1288,3 +1288,14 @@ Sidi_Bouzid Siliana Sousse Tataouine Tozeur Tunis Zaghouan
 # names to
 Eua Ha_apai Niuas Tongatapu Vava_u
 
+# names tr
+Adana Adiyaman Afyonkarahisar Agri Aksaray Amasya Ankara Antalya Ardahan
+Artvin Aydin Balikesir Bartin Batman Bayburt Bilecik Bingol Bitlis Bolu
+Burdur Bursa Canakkale Cankiri Corum Denizli Diyarbakir Duzce Edirne
+Elazig Erzincan Erzurum Eskishehir Gaziantep Giresun Gumushhane Hakkari
+Hatay Igdir Isparta Istanbul Izmir Kahramanmarash Karabuk Karaman Kars
+Kastamonu Kayseri Kilis Kirikkale Kirklareli Kirshehir Kocaeli Konya
+Kutahya Malatya Manisa Mardin Mersin Mugla Mush Nevshehir Nigde Ordu
+Osmaniye Rize Sakarya Samsun Siirt Sinop Sivas Tekirdag Tokat Trabzon
+Tunceli Ushak Van Yalova Yozgat Zonguldak shanliurfa shirnak
+
