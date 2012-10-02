@@ -854,3 +854,8 @@ Taraclia Taraclia Teleneshti Teleneshti Tighina Tighina Tighina Tiraspol
 Ungheni Ungheni Ungheni Ungheni Vulcaneshti sholdaneshti sholdaneshti
 shtefan_Voda shtefan_Voda
 
+# names me
+Andrijevica Bar Berane Bijelo_Polje Budva Cetinje Danilovgrad
+Herceg_Novi Kolasin Kotor Mojkovac Niksic Plav Pljevlja Pluzine
+Podgorica Rozaje Savnik Tivat Ulcinj Zabljak
+
