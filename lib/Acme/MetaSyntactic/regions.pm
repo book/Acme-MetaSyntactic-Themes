@@ -1277,3 +1277,6 @@ Gorno_Badakhshan_Kuhistoni_Badakhshon Khatlon Sughd
 Aileu Ainaro Baucau Bobonaro Cova_Lima Dili Ermera Lautem Liquica
 Manatuto Manufahi Oecussi Viqueque
 
+# names tm
+Ahal Ashgabat Balkan Dashoguz Lebap Mary
+
