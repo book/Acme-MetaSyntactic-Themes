@@ -565,3 +565,8 @@ Suchitepequez Totonicapan Zacapa
 Bafata Biombo Bissau Bolama Cacheu Gabu Leste Norte Oio Quinara
 Sul Tombali
 
+# names gy
+Barima_Waini Cuyuni_Mazaruni Demerara_Mahaica East_Berbice_Corentyne
+Essequibo_Islands_West_Demerara Mahaica_Berbice Pomeroon_Supenaam
+Potaro_Siparuni Upper_Demerara_Berbice Upper_Takutu_Upper_Essequibo
+
