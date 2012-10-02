@@ -1341,3 +1341,7 @@ Nakapiripirit Nakaseke Nakasongola Namutumba Nebbi Northern Ntungamo
 Oyam Pader Pallisa Rakai Rukungiri Sembabule Sironko Soroti Tororo
 Wakiso Western Yumbe
 
+# names um
+Baker_Island Howland_Island Jarvis_Island Johnston_Atoll Kingman_Reef
+Midway_Islands Navassa_Island Palmyra_Atoll Wake_Island
+
