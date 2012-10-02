@@ -617,3 +617,11 @@ Westmeath Wexford Wicklow
 # names il
 HaDarom HaMerkaz HaZafon Hefa Tel_Aviv Yerushalayim
 
+# names in
+Andaman_and_Nicobar_Islands Andhra_Pradesh Arunachal_Pradesh Assam Bihar
+Chandigarh Chhattisgarh Dadra_and_Nagar_Haveli Daman_and_Diu Delhi Goa
+Gujarat Haryana Himachal_Pradesh Jammu_and_Kashmir Jharkhand Karnataka
+Kerala Lakshadweep Madhya_Pradesh Maharashtra Manipur Meghalaya Mizoram
+Nagaland Orissa Pondicherry Punjab Rajasthan Sikkim Tamil_Nadu Tripura
+Uttar_Pradesh Uttarakhand West_Bengal
+
