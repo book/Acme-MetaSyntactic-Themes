@@ -1043,3 +1043,8 @@ Siedlce Sieradz Skierniewice Slaskie Slupsk Suwalki Swietokrzyskie
 Szczecin Tarnobrzeg Tarnow Torun Walbrzych Warminsko_mazurskie Warszawa
 Wielkopolskie Wloclawek Wroclaw Zachodniopomorskie Zamosc Zielona_Gora
 
+# names ps
+Bethlehem Deir_El_Balah Gaza Hebron Jenin Jericho_Al_Aghwar
+Jerusalem Khan_Yunis Nablus North_Gaza Qalqilya Rafah Ramallah
+Salfit Tubas Tulkarm
+
