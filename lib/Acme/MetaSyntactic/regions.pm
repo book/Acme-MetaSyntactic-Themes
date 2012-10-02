@@ -614,3 +614,6 @@ Kilkenny Laois Leinster Leitrim Limerick Longford Louth Mayo Meath
 Monaghan Munster Offaly Roscommon Sligo Tipperary Ulster Waterford
 Westmeath Wexford Wicklow
 
+# names il
+HaDarom HaMerkaz HaZafon Hefa Tel_Aviv Yerushalayim
+
