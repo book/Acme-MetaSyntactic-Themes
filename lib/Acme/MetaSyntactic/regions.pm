@@ -63,3 +63,7 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 __DATA__
 # default
 nl
+# names ad
+Andorra_la_Vella Canillo Encamp Escaldes_Engordany La_Massana Ordino
+Sant_Julia_de_Loria
+
