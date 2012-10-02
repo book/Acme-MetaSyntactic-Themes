@@ -1285,3 +1285,6 @@ Ariana Beja Ben_Arous Bizerte Gabes Gafsa Jendouba Kairouan Kasserine
 Kebili La_Manouba Le_Kef Mahdia Medenine Monastir Nabeul Sfax
 Sidi_Bouzid Siliana Sousse Tataouine Tozeur Tunis Zaghouan
 
+# names to
+Eua Ha_apai Niuas Tongatapu Vava_u
+
