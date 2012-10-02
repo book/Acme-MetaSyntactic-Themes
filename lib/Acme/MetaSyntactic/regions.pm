@@ -831,3 +831,8 @@ Sidi_Youssef_Ben_Ali Skhirate_Temara Souss_Massa_Draa Sud Tadla_Azilal
 Tan_Tan Tanger_Assilah Tanger_Tetouan Taounate Taourirt Taroudant Tata
 Taza Taza_Al_Hoceima_Taounate Tensift Tetouan Tiznit Zagora
 
+# names mc
+Fontvieille Jardin_Exotique La_Colle La_Condamine La_Gare La_Source
+Larvotto Malbousquet Monaco_Ville Moneghetti Monte_Carlo Moulins
+Port_Hercule Saint_Roman Sainte_Devote Spelugues Vallon_de_la_Rousse
+
