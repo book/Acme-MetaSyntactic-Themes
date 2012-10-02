@@ -67,3 +67,7 @@ nl
 Andorra_la_Vella Canillo Encamp Escaldes_Engordany La_Massana Ordino
 Sant_Julia_de_Loria
 
+# names ae
+Abu_Zaby Ajman Al_Fujayrah Ash_Shariqah Dubayy Ra_s_al_Khaymah
+Umm_al_Qaywayn
+
