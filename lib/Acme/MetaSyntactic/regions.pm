@@ -81,3 +81,11 @@ Samangan Sar_e_Pul Takhar Uruzgan Wardak Zabul
 Barbuda Redonda Saint_George Saint_John Saint_Mary Saint_Paul
 Saint_Peter Saint_Philip
 
+# names al
+Berat Berat Bulqize Delvine Devoll Diber Diber Durres Durres Elbasan
+Elbasan Fier Fier Gjirokaster Gjirokaster Gramsh Has Kavaje Kolonje
+Korce Korce Kruje Kucove Kukes Kukes Kurbin Lezhe Lezhe Librazhd
+Lushnje Malesi_e_Madhe Mallakaster Mat Mirdite Peqin Permet Pogradec
+Puke Sarande Shkoder Shkoder Skrapar Tepelene Tirane Tirane Tropoje
+Vlore Vlore
+
