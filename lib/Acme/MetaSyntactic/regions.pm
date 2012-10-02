@@ -108,3 +108,7 @@ Santiago_del_Estero Tierra_del_Fuego Tucuman
 Burgenland Karnten Niederosterreich Oberosterreich Salzburg Steiermark
 Tirol Vorarlberg Wien
 
+# names au
+Australian_Capital_Territory New_South_Wales Northern_Territory
+Queensland South_Australia Tasmania Victoria Western_Australia
+
