@@ -43,7 +43,7 @@ published on May FIXME.
 2012-10-02
 
 After several attempts to fill the list of regions by hand
-over the previous five months, finally use L<WWW::Mechanize>
+over the previous five months, finally used L<WWW::Mechanize>
 to scrape all C<ISO_3166-2:I<cc>> pages listed on
 L<http://en.wikipedia.org/wiki/ISO_3166-2> and L<Text::Unidecode> to
 turn the names into valid Perl identifiers.
@@ -55,12 +55,14 @@ turn the names into valid Perl identifiers.
 Extended the theme idea to administrative regions of any country,
 and started collecting all region names.
 
+The default country remains C<nl>.
+
 =item *
 
 2005-10-20
 
 Abigail submitted a I<netherlands> theme, with the names of the Dutch
-provinces on October 20, 2005.
+provinces.
 
 =back
 
