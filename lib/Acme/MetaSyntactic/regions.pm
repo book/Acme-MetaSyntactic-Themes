@@ -387,3 +387,17 @@ Akele_Guzai Al_Awsat Al_Janubi Ansaba Asmara Barka Denkalia Gash_Setit
 Hamasien Janubi_al_Bahri_al_Ahmar Qash_Barkah Sahel Semhar Senhit Seraye
 Shimali_al_Bahri_al_Ahmar
 
+# names es
+A_Coruna Alava_Araba Albacete Alicante_Alacant Almeria Andalucia Aragon
+Asturias Asturias_Principado_de Avila Badajoz Balears Barcelona Burgos
+Caceres Cadiz Canarias Cantabria Cantabria Castellon_Castello
+Castilla_La_Mancha Castilla_y_Leon Catalunya Ceuta Ciudad_Real Cordoba
+Cuenca Extremadura Galicia Girona Granada Guadalajara Guipuzcoa_Gipuzkoa
+Huelva Huesca Illes_Balears Jaen La_Rioja La_Rioja Las_Palmas Leon
+Lleida Lugo Madrid Madrid_Comunidad_de Malaga Melilla Murcia
+Murcia_Region_de Navarra_Comunidad_Foral_de_Nafarroako_Foru_Komunitatea
+Navarra_Nafarroa Ourense Pais_Vasco_Euskal_Herria Palencia Pontevedra
+Salamanca Santa_Cruz_de_Tenerife Segovia Sevilla Soria Tarragona Teruel
+Toledo Valencia_Valencia Valenciana_Comunidad_Valenciana_Comunitat
+Valladolid Vizcaya_Bizkaia Zamora Zaragoza
+
