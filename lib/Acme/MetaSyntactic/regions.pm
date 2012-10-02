@@ -356,3 +356,11 @@ Pedernales Peravia Puerto_Plata Salcedo Samana San_Cristobal
 San_Jose_de_Ocoa San_Juan San_Pedro_de_Macoris Sanchez_Ramirez Santiago
 Santiago_Rodriguez Santo_Domingo Valverde
 
+# names dz
+Adrar Ain_Defla Ain_Temouchent Alger Annaba Batna Bechar Bejaia Biskra
+Blida Bordj_Bou_Arreridj Bouira Boumerdes Chlef Constantine Djelfa
+El_Bayadh El_Oued El_Tarf Ghardaia Guelma Illizi Jijel Khenchela
+Laghouat Mascara Medea Mila Mostaganem Msila Naama Oran Ouargla
+Oum_el_Bouaghi Relizane Saida Setif Sidi_Bel_Abbes Skikda Souk_Ahras
+Tamanghasset Tebessa Tiaret Tindouf Tipaza Tissemsilt Tizi_Ouzou Tlemcen
+
