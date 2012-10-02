@@ -1204,3 +1204,6 @@ Svalbard Jan_Mayen
 Banskobystricky_kraj Bratislavsky_kraj Kosicky_kraj Nitriansky_kraj
 Presovsky_kraj Trenciansky_kraj Trnavsky_kraj Zilinsky_kraj
 
+# names sl
+Eastern Northern Southern Western_Area
+
