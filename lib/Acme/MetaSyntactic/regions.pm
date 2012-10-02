@@ -681,3 +681,6 @@ Tokyo Totigi Tottori Toyama Wakayama Yamagata Yamaguti Yamanasi
 # names ke
 Central Coast Eastern Nairobi North_Eastern Nyanza Rift_Valley Western
 
+# names kg
+Batken Bishkek Chu Jalal_Abad Naryn Osh Talas Ysyk_Kol
+
