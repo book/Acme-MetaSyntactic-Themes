@@ -1358,3 +1358,8 @@ United_States_Minor_Outlying_Islands
 United_States_Minor_Outlying_Islands Utah Vermont Virgin_Islands_US
 Virgin_Islands_US Virginia Washington West_Virginia Wisconsin Wyoming
 
+# names uy
+Artigas Canelones Cerro_Largo Colonia Durazno Flores Florida Lavalleja
+Maldonado Montevideo Paysandu Rio_Negro Rivera Rocha Salto San_Jose
+Soriano Tacuarembo Treinta_y_Tres
+
