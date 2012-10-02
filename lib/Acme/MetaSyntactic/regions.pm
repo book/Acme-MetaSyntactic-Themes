@@ -1207,3 +1207,7 @@ Presovsky_kraj Trenciansky_kraj Trnavsky_kraj Zilinsky_kraj
 # names sl
 Eastern Northern Southern Western_Area
 
+# names sm
+Acquaviva Borgo_Maggiore Chiesanuova Domagnano Faetano Fiorentino
+Montegiardino San_Marino Serravalle
+
