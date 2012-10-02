@@ -915,3 +915,9 @@ Cargados_Carajos_Shoals Curepipe Flacq Grand_Port Moka Pamplemousses
 Plaines_Wilhems Port_Louis Port_Louis Quatre_Bornes Riviere_du_Rempart
 Rodrigues_Island Savanne Vacoas_Phoenix
 
+# names mv
+Alifu_Alifu Alifu_Dhaalu Baa Central Dhaalu Faafu Gaafu_Alifu
+Gaafu_Dhaalu Gnaviyani Haa_Alifu Haa_Dhaalu Kaafu Laamu Lhaviyani Male
+Meemu Noonu North North_Central Raa Seenu Shaviyani South South_Central
+Thaa Upper_North Upper_South Vaavu
+
