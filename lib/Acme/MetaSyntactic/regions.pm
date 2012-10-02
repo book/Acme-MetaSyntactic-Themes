@@ -1252,3 +1252,6 @@ Mayu_Kibbi_al_Gharbi Mayu_Kibbi_ash_Sharqi Moyen_Chari Ouaddai Qira
 Salamat Salamat Shari_Baqirmi Shari_al_Awsat Sila Tandjile Tanjili
 Tibasti Wadday Wadi_Fira
 
+# names tg
+Centre Kara Maritime Plateaux Savannes
+
