@@ -1299,3 +1299,9 @@ Kutahya Malatya Manisa Mardin Mersin Mugla Mush Nevshehir Nigde Ordu
 Osmaniye Rize Sakarya Samsun Siirt Sinop Sivas Tekirdag Tokat Trabzon
 Tunceli Ushak Van Yalova Yozgat Zonguldak shanliurfa shirnak
 
+# names tt
+Arima Chaguanas Couva_Tabaquite_Talparo Diego_Martin Eastern_Tobago
+Penal_Debe Point_Fortin Port_of_Spain Princes_Town Rio_Claro_Mayaro
+San_Fernando San_Juan_Laventille Sangre_Grande Siparia Tunapuna_Piarco
+Western_Tobago
+
