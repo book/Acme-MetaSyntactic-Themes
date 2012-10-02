@@ -982,3 +982,9 @@ Pashchimanchal Purwanchal Rapti Sagarmatha Seti Sudur_Pashchimanchal
 Aiwo Anabar Anetan Anibare Baiti Boe Buada Denigomodu Ewa Ijuw Meneng
 Nibok Uaboe Yaren
 
+# names nz
+Auckland Bay_of_Plenty Canterbury Chatham_Islands_Territory
+Gisborne_District Hawke_s_Bay Manawatu_Wanganui Marlborough_District
+Nelson_City North_Island Northland Otago South_Island Southland Taranaki
+Tasman_District Waikato Wellington West_Coast
+
