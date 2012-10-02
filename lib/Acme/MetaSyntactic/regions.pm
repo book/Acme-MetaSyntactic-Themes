@@ -921,3 +921,9 @@ Gaafu_Dhaalu Gnaviyani Haa_Alifu Haa_Dhaalu Kaafu Laamu Lhaviyani Male
 Meemu Noonu North North_Central Raa Seenu Shaviyani South South_Central
 Thaa Upper_North Upper_South Vaavu
 
+# names mw
+Balaka Blantyre Central_Region Chikwawa Chiradzulu Chitipa Dedza Dowa
+Karonga Kasungu Likoma Lilongwe Machinga Mangochi Mchinji Mulanje Mwanza
+Mzimba Neno Nkhata_Bay Nkhotakota Northern_Region Nsanje Ntcheu Ntchisi
+Phalombe Rumphi Salima Southern_Region Thyolo Zomba
+
