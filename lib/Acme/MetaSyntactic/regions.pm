@@ -859,3 +859,6 @@ Andrijevica Bar Berane Bijelo_Polje Budva Cetinje Danilovgrad
 Herceg_Novi Kolasin Kotor Mojkovac Niksic Plav Pljevlja Pluzine
 Podgorica Rozaje Savnik Tivat Ulcinj Zabljak
 
+# names mg
+Antananarivo Antsiranana Fianarantsoa Mahajanga Toamasina Toliara
+
