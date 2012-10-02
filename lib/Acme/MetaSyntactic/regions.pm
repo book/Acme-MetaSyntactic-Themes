@@ -799,3 +799,17 @@ Varaklanu_novads Varkavas_novads Vecpiebalgas_novads Vecumnieku_novads
 Ventspils Ventspils_Aprinkis Ventspils_novads Viesites_novads
 Vilakas_novads Vilanu_novads Zilupes_novads
 
+# names ly
+Ajdabiya Al_Butnan Al_Butnan Al_Butnan Al_Hizam_al_Akhdar
+Al_Jabal_al_Akhdar Al_Jabal_al_Akhdar Al_Jabal_al_Akhdar
+Al_Jabal_al_Gharbi Al_Jabal_al_Gharbi Al_Jifarah Al_Jifarah Al_Jufrah
+Al_Jufrah Al_Jufrah Al_Kufrah Al_Kufrah Al_Marj Al_Marj Al_Marqab
+Al_Marqab Al_Qatrun Al_Qubbah Al_Wahah Al_Wahah Al_Wahat Al_Wusta
+An_Nuqat_al_Khams An_Nuqat_al_Khams Ash_Shati Az_Zawiyah Az_Zawiyah
+Az_Zawiyah Banghazi Banghazi Banghazi Bani_Walid Darnah Darnah Fazzan
+Ghadamis Gharyan Ghat Ghat Jaghbub Mishratah Mishratah Mishratah Mizdah
+Murzuq Murzuq Naggaza Nalut Nalut Sabha Sabha Sawfajjin Surt Surt
+Tajura_wa_an_Nawahi_al_Arba Tarabulus Tarabulus Tarabulus
+Tarhunah_Masallatah Wadi_al_Hayat Wadi_al_Hayat Wadi_ash_Shati
+Yafran_Jadu shabratah_shurman
+
