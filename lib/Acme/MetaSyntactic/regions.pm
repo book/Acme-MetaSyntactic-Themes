@@ -71,3 +71,9 @@ Sant_Julia_de_Loria
 Abu_Zaby Ajman Al_Fujayrah Ash_Shariqah Dubayy Ra_s_al_Khaymah
 Umm_al_Qaywayn
 
+# names af
+Badakhshan Badghis Baghlan Balkh Bamyan Daykundi Farah Faryab Ghazni
+Ghor Helmand Herat Jowzjan Kabul Kandahar Kapisa Khost Kunar Kunduz
+Laghman Logar Nangarhar Nimroz Nuristan Paktika Paktiya Panjshayr Parwan
+Samangan Sar_e_Pul Takhar Uruzgan Wardak Zabul
+
