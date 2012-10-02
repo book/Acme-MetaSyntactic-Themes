@@ -11,11 +11,23 @@ Acme::MetaSyntactic::bible - Bible books.
 
 =head1 DESCRIPTION
 
-List of bible books.
+List of bible books (King James version).
 
 =head1 CONTRIBUTOR
 
-Original contributor: Abigail
+Abigail
+
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2005-10-24
+
+Submitted by Abigail.
+
+=back
 
 =head1 SEE ALSO
 
