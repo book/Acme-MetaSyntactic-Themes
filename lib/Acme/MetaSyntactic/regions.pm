@@ -1224,3 +1224,8 @@ Sool Togdheer Woqooyi_Galbeed
 Brokopondo Commewijne Coronie Marowijne Nickerie Para Paramaribo
 Saramacca Sipaliwini Wanica
 
+# names ss
+Central_Equatoria Eastern_Equatoria Jonglei Lakes
+Northern_Bahr_el_Ghazal Unity Upper_Nile Warrap Western_Bahr_el_Ghazal
+Western_Equatoria
+
