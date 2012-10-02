@@ -934,3 +934,9 @@ Hidalgo Jalisco Mexico Michoacan Morelos Nayarit Nuevo_Leon Oaxaca
 Puebla Queretaro Quintana_Roo San_Luis_Potosi Sinaloa Sonora Tabasco
 Tamaulipas Tlaxcala Veracruz Yucatan Zacatecas
 
+# names my
+Johor Kedah Kelantan Melaka Negeri_Sembilan Pahang Perak Perlis
+Pulau_Pinang Sabah Sarawak Selangor Terengganu
+Wilayah_Persekutuan_Kuala_Lumpur Wilayah_Persekutuan_Labuan
+Wilayah_Persekutuan_Putrajaya
+
