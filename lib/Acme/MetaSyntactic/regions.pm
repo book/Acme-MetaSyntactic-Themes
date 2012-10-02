@@ -988,3 +988,7 @@ Gisborne_District Hawke_s_Bay Manawatu_Wanganui Marlborough_District
 Nelson_City North_Island Northland Otago South_Island Southland Taranaki
 Tasman_District Waikato Wellington West_Coast
 
+# names om
+Ad_Dakhiliyah Al_Batinah Al_Buraymi Al_Wusta Ash_Sharqiyah Az_Zahirah
+Masqat Musandam Zufar
+
