@@ -1400,3 +1400,9 @@ Abyan Ad_Dali Adan Al_Bayda Al_Hudaydah Al_Jawf Al_Mahrah Al_Mahwit
 Amran Dhamar Hadramawt Hajjah Ibb Lahij Ma_rib Raymah Shabwah Ta_izz
 sha_dah shan_a shan_a
 
+# names za
+Eastern_Cape Free_State Free_State Gauteng Gauteng Kapa_N_walungu
+Kapa_Vupeladyambu Kapa_Vuxa KwaZulu_Natal Kwazulu_Natal Limpopo Limpopo
+Mpumalanga Mpumalanga N_walungu_Vupeladyambu North_West Northern_Cape
+Western_Cape
+
