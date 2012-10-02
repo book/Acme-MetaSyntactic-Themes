@@ -662,3 +662,8 @@ Trento Treviso Trieste Udine Umbria Valle_d_Aosta_Vallee_d_Aoste Varese
 Veneto Venezia Verbano_Cusio_Ossola Vercelli Verona Vibo_Valentia
 Vicenza Viterbo
 
+# names jm
+Clarendon Hanover Kingston Manchester Portland Saint_Andrew Saint_Ann
+Saint_Catherine Saint_Elizabeth Saint_James Saint_Mary Saint_Thomas
+Trelawny Westmoreland
+
