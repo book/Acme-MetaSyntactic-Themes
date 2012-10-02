@@ -746,3 +746,7 @@ Monaragala Mulativ Naegenahira_palata Nuvara_Eliya Polonnaruva Puttalama
 Ratnapura Sabaragamuva_palata Trikunamalaya Uturu_palata
 Uturumaeda_palata Uva_palata Vavuniyava Vayamba_palata Yapanaya
 
+# names lr
+Bomi Bong Gbarpolu Grand_Bassa Grand_Cape_Mount Grand_Gedeh Grand_Kru
+Lofa Margibi Maryland Montserrado Nimba River_Gee Rivercess Sinoe
+
