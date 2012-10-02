@@ -1329,3 +1329,15 @@ Poltavs_ka_Oblast Rivnens_ka_Oblast Sevastopol Sums_ka_Oblast
 Ternopil_s_ka_Oblast Vinnyts_ka_Oblast Volyns_ka_Oblast
 Zakarpats_ka_Oblast Zaporiz_ka_Oblast Zhytomyrs_ka_Oblast
 
+# names ug
+Abim Adjumani Amolatar Amuria Amuru Apac Arua Budaka Bududa Bugiri
+Bukedea Bukwa Buliisa Bundibugyo Bushenyi Busia Butaleja Central Dokolo
+Eastern Gulu Hoima Ibanda Iganga Isingiro Jinja Kaabong Kabale Kabarole
+Kaberamaido Kalangala Kaliro Kampala Kamuli Kamwenge Kanungu Kapchorwa
+Kasese Katakwi Kayunga Kibaale Kiboga Kiruhura Kisoro Kitgum Koboko
+Kotido Kumi Kyenjojo Lira Luwero Lyantonde Manafwa Maracha Masaka
+Masindi Mayuge Mbale Mbarara Mityana Moroto Moyo Mpigi Mubende Mukono
+Nakapiripirit Nakaseke Nakasongola Namutumba Nebbi Northern Ntungamo
+Oyam Pader Pallisa Rakai Rukungiri Sembabule Sironko Soroti Tororo
+Wakiso Western Yumbe
+
