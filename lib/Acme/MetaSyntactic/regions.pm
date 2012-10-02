@@ -1211,3 +1211,7 @@ Eastern Northern Southern Western_Area
 Acquaviva Borgo_Maggiore Chiesanuova Domagnano Faetano Fiorentino
 Montegiardino San_Marino Serravalle
 
+# names sn
+Dakar Diourbel Fatick Kaffrine Kaolack Kedougou Kolda Louga Matam
+Saint_Louis Sedhiou Tambacounda Thies Ziguinchor
+
