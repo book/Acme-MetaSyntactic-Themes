@@ -98,3 +98,9 @@ Bengo Benguela Bie Cabinda Cuando_Cubango Cuanza_Norte Cuanza_Sul
 Cunene Huambo Huila Luanda Lunda_Norte Lunda_Sul Malange Moxico Namibe
 Uige Zaire
 
+# names ar
+Buenos_Aires Catamarca Chaco Chubut Ciudad_Autonoma_de_Buenos_Aires
+Cordoba Corrientes Entre_Rios Formosa Jujuy La_Pampa La_Rioja Mendoza
+Misiones Neuquen Rio_Negro Salta San_Juan San_Luis Santa_Cruz Santa_Fe
+Santiago_del_Estero Tierra_del_Fuego Tucuman
+
