@@ -951,3 +951,9 @@ Omusati Oshana Oshikoto Otjozondjupa
 # names ne
 Agadez Diffa Dosso Maradi Niamey Tahoua Tillaberi Zinder
 
+# names ng
+Abia Abuja_Federal_Capital_Territory Adamawa Akwa_Ibom Anambra Bauchi
+Bayelsa Benue Borno Cross_River Delta Ebonyi Edo Ekiti Enugu Gombe Imo
+Jigawa Kaduna Kano Katsina Kebbi Kogi Kwara Lagos Nassarawa Niger Ogun
+Ondo Osun Oyo Plateau Rivers Sokoto Taraba Yobe Zamfara
+
