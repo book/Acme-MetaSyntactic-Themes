@@ -1236,3 +1236,7 @@ Principe Sao_Tome
 Ahuachapan Cabanas Chalatenango Cuscatlan La_Libertad La_Paz La_Union
 Morazan San_Miguel San_Salvador San_Vicente Santa_Ana Sonsonate Usulutan
 
+# names sy
+Al_Hasakah Al_Ladhiqiyah Al_Qunaytirah Ar_Raqqah As_Suwayda Dara
+Dayr_az_Zawr Dimashq Halab Hamah Himsh Idlib Rif_Dimashq Tartus
+
