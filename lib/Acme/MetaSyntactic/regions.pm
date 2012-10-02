@@ -1273,3 +1273,7 @@ Uthai_Thani Uttaradit Yala Yasothon
 # names tj
 Gorno_Badakhshan_Kuhistoni_Badakhshon Khatlon Sughd
 
+# names tl
+Aileu Ainaro Baucau Bobonaro Cova_Lima Dili Ermera Lautem Liquica
+Manatuto Manufahi Oecussi Viqueque
+
