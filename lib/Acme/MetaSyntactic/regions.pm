@@ -734,3 +734,7 @@ Mont_Liban Nabatiye
 Anse_la_Raye Castries Choiseul Dauphin Dennery Gros_Islet Laborie Micoud
 Praslin Soufriere Vieux_Fort
 
+# names li
+Balzers Eschen Gamprin Mauren Planken Ruggell Schaan Schellenberg
+Triesen Triesenberg Vaduz
+
