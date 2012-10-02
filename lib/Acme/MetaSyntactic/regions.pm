@@ -310,3 +310,24 @@ Sao_Salvador_do_Mundo Sao_Vicente Tarrafal Tarrafal_de_Sao_Nicolau
 # names cy
 Ammochostos Keryneia Larnaka Lefkosia Lemesos Pafos
 
+# names cz
+Benesov Beroun Blansko Breclav Brno_mesto Brno_venkov Bruntal
+Ceska_Lipa Ceske_Budejovice Cesky_Krumlov Cheb Chomutov Chrudim Decin
+Domazlice Frydek_Mistek Havlickuv_Brod Hodonin Hradec_Kralove
+Jablonec_nad_Nisou Jesenik Jicin Jihlava Jihocesky_kraj Jihocesky_kraj
+Jihomoravsky_kraj Jihomoravsky_kraj Jindrichuv_Hradec Karlovarsky_kraj
+Karlovy_Vary Karvina Kladno Klatovy Kolin Kralovehradecky_kraj Kromeriz
+Kutna_Hora Liberec Liberecky_kraj Litomerice Louny Melnik
+Mlada_Boleslav Moravskoslezsky_kraj Most Nachod Novy_Jicin Nymburk
+Olomouc Olomoucky_kraj Opava Ostrava_mesto Pardubice Pardubicky_kraj
+Pelhrimov Pisek Plzen_jih Plzen_mesto Plzen_sever Plzensky_kraj
+Prachatice Praha Praha_1 Praha_10 Praha_11 Praha_12 Praha_13 Praha_14
+Praha_15 Praha_2 Praha_3 Praha_4 Praha_5 Praha_6 Praha_7 Praha_8
+Praha_9 Praha_hlavni_mesto Praha_vychod Praha_zapad Prerov Pribram
+Prostejov Rakovnik Rokycany Rychnov_nad_Kneznou Semily Severocesky_kraj
+Severomoravsky_kraj Sokolov Strakonice Stredocesky_kraj
+Stredocesky_kraj Sumperk Svitavy Tabor Tachov Teplice Trebic Trutnov
+Uherske_Hradiste Ustecky_kraj Usti_nad_Labem Usti_nad_Orlici Vsetin
+Vychodocesky_kraj Vyskov Vysocina Zapadocesky_kraj Zdar_nad_Sazavou
+Zlin Zlinsky_kraj Znojmo
+
