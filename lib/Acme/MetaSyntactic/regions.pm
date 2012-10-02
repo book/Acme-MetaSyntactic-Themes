@@ -1145,3 +1145,10 @@ Kassala Kassala Shamal_Bahr_al_Ghazal Shamal_Darfur Shamal_Darfur
 Shamal_Kurdufan Shamal_Kurdufan Sharq_Darfur Sharq_al_Istiwa_iyah
 Sinnar Sinnar Warab Zalingei
 
+# names se
+Blekinge_lan Dalarnas_lan Gavleborgs_lan Gotlands_lan Hallands_lan
+Jamtlands_lan Jonkopings_lan Kalmar_lan Kronobergs_lan Norrbottens_lan
+Orebro_lan Ostergotlands_lan Skane_lan Sodermanlands_lan Stockholms_lan
+Uppsala_lan Varmlands_lan Vasterbottens_lan Vasternorrlands_lan
+Vastmanlands_lan Vastra_Gotalands_lan
+
