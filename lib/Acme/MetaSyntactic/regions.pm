@@ -375,3 +375,10 @@ Harjumaa Hiiumaa Ida_Virumaa Jarvamaa Jogevamaa Laane_Virumaa
 Laanemaa Parnumaa Polvamaa Raplamaa Saaremaa Tartumaa Valgamaa
 Viljandimaa Vorumaa
 
+# names eg
+Ad_Daqahliyah Al_Bahr_al_Ahmar Al_Buhayrah Al_Fayyum Al_Gharbiyah
+Al_Iskandariyah Al_Ismailiyah Al_Jizah Al_Minufiyah Al_Minya Al_Qahirah
+Al_Qalyubiyah Al_Uqshur Al_Wadi_al_Jadid As_Sadis_min_Uktubar As_Suways
+Ash_Sharqiyah Aswan Asyut Bani_Suwayf Bur_Said Dumyat Hulwan Janub_Sina
+Kafr_ash_Shaykh Matruh Qina Shamal_Sina Suhaj
+
