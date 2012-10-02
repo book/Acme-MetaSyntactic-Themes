@@ -1313,3 +1313,9 @@ Changhua Chiayi Chiayi Hsinchu Hsinchu Hualien Ilan Kaohsiung Kaohsiung
 Keelung Miaoli Nantou Penghu Pingtung Taichung Taichung Tainan Tainan
 Taipei Taipei Taitung Taoyuan Yunlin
 
+# names tz
+Arusha Dar_es_Salaam Dodoma Iringa Kagera Kaskazini_Pemba
+Kaskazini_Unguja Kigoma Kilimanjaro Kusini_Pemba Kusini_Unguja Lindi
+Manyara Mara Mbeya Mjini_Magharibi Morogoro Mtwara Mwanza Pwani Rukwa
+Ruvuma Shinyanga Singida Tabora Tanga
+
