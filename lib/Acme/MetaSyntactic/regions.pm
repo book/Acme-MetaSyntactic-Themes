@@ -89,3 +89,7 @@ Lushnje Malesi_e_Madhe Mallakaster Mat Mirdite Peqin Permet Pogradec
 Puke Sarande Shkoder Shkoder Skrapar Tepelene Tirane Tirane Tropoje
 Vlore Vlore
 
+# names am
+Aragacotn Ararat Armavir Erevan Gegark_unik Kotayk Lory Sirak Syunik
+Tavus Vayoc_Jor
+
