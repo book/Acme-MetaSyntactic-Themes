@@ -218,3 +218,8 @@ Ragged_Island Ragged_Island Rock_Sound Rum_Cay San_Salvador
 San_Salvador_and_Rum_Cay Sandy_Point South_Abaco South_Andros
 South_Eleuthera Spanish_Wells West_Grand_Bahama
 
+# names bt
+Bumthang Chhukha Dagana Gasa Ha Lhuentse Monggar Paro Pemagatshel
+Punakha Samdrup_Jongkha Samtse Sarpang Thimphu Trashi_Yangtse Trashigang
+Trongsa Tsirang Wangdue_Phodrang Zhemgang
+
