@@ -1371,3 +1371,9 @@ Toshkent Xorazm
 # names vc
 Charlotte Grenadines Saint_Andrew Saint_David Saint_George Saint_Patrick
 
+# names ve
+Amazonas Anzoategui Apure Aragua Barinas Bolivar Carabobo Cojedes
+Delta_Amacuro Dependencias_Federales Distrito_Federal Falcon Guarico
+Lara Merida Miranda Monagas Nueva_Esparta Portuguesa Sucre Tachira
+Trujillo Vargas Yaracuy Zulia
+
