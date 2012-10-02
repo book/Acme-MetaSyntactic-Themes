@@ -1232,3 +1232,7 @@ Western_Equatoria
 # names st
 Principe Sao_Tome
 
+# names sv
+Ahuachapan Cabanas Chalatenango Cuscatlan La_Libertad La_Paz La_Union
+Morazan San_Miguel San_Salvador San_Vicente Santa_Ana Sonsonate Usulutan
+
