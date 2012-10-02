@@ -1220,3 +1220,7 @@ Awdal Bakool Banaadir Bari Bay Galguduud Gedo Hiiraan Jubbada_Dhexe
 Jubbada_Hoose Mudug Nugaal Sanaag Shabeellaha_Dhexe Shabeellaha_Hoose
 Sool Togdheer Woqooyi_Galbeed
 
+# names sr
+Brokopondo Commewijne Coronie Marowijne Nickerie Para Paramaribo
+Saramacca Sipaliwini Wanica
+
