@@ -992,3 +992,7 @@ Tasman_District Waikato Wellington West_Coast
 Ad_Dakhiliyah Al_Batinah Al_Buraymi Al_Wusta Ash_Sharqiyah Az_Zahirah
 Masqat Musandam Zufar
 
+# names pa
+Bocas_del_Toro Chiriqui Cocle Colon Darien Embera Herrera Kuna_Yala
+Los_Santos Ngobe_Bugle Panama Veraguas
+
