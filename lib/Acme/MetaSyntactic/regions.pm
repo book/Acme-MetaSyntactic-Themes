@@ -1305,3 +1305,6 @@ Penal_Debe Point_Fortin Port_of_Spain Princes_Town Rio_Claro_Mayaro
 San_Fernando San_Juan_Laventille Sangre_Grande Siparia Tunapuna_Piarco
 Western_Tobago
 
+# names tv
+Funafuti Nanumanga Nanumea Niutao Nui Nukufetau Nukulaelae Vaitupu
+
