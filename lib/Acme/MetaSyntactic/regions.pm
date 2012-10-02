@@ -1119,3 +1119,7 @@ Butare Byumba Cyangugu Est Gikongoro Gisenyi Gitarama Kibungo Kibuye
 Kigali_Rural Kigali_Ville Mutara Nord Ouest Ruhengeri Sud
 Ville_de_Kigali
 
+# names sa
+Al_Bahah Al_Hudud_ash_Shamaliyah Al_Jawf Al_Madinah Al_Qashim Ar_Riyad
+Ash_Sharqiyah Asir Ha_il Jizan Makkah Najran Tabuk
+
