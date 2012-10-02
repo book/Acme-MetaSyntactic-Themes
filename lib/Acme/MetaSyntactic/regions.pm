@@ -1159,3 +1159,41 @@ Central_Singapore North_East North_West South_East South_West
 Ascension Ascension Saint_Helena Saint_Helena Tristan_da_Cunha
 Tristan_da_Cunha
 
+# names si
+Ajdovscina Apace Beltinci Benedikt Bistrica_ob_Sotli Bled Bloke Bohinj
+Borovnica Bovec Braslovce Brda Brezice Brezovica Cankova Celje
+Cerklje_na_Gorenjskem Cerknica Cerkno Cerkvenjak Cirkulane Crensovci
+Crna_na_Koroskem Crnomelj Destrnik Divaca Dobje Dobrepolje Dobrna
+Dobrova_Polhov_Gradec Dobrovnik_Dobronak Dol_pri_Ljubljani Dolenjska
+Dolenjske_Toplice Domzale Dornava Dravograd Duplek Gorenja_vas_Poljane
+Gorenjska Goriska Gorisnica Gorje Gornja_Radgona Gornji_Grad
+Gornji_Petrovci Grad Grosuplje Hajdina Hoce_Slivnica Hodos_Hodos Horjul
+Hrastnik Hrpelje_Kozina Idrija Ig Ilirska_Bistrica Ivancna_Gorica
+Izola_Isola Jesenice Jezersko Jursinci Kamnik Kanal Kidricevo Kobarid
+Kobilje Kocevje Komen Komenda Koper_Capodistria Koroska
+Kostanjevica_na_Krki Kostel Kozje Kranj Kranjska_Gora Krizevci Krsko
+Kungota Kuzma Lasko Lenart Lendava_Lendva Litija Ljubljana Ljubno
+Ljutomer Log_Dragomer Logatec Loska_dolina Loski_Potok
+Lovrenc_na_Pohorju Luce Lukovica Majsperk Makole Maribor Markovci
+Medvode Menges Metlika Mezica Miklavz_na_Dravskem_polju
+Miren_Kostanjevica Mirna_Pec Mislinja Mokronog_Trebelno Moravce
+Moravske_Toplice Mozirje Murska_Sobota Muta Naklo Nazarje
+Notranjsko_kraska Nova_Gorica Novo_mesto Obalno_kraska Odranci Oplotnica
+Ormoz Osilnica Osrednjeslovenska Pesnica Piran_Pirano Pivka Podcetrtek
+Podlehnik Podravska Podvelka Poljcane Polzela Pomurska Postojna Prebold
+Preddvor Prevalje Ptuj Puconci Race_Fram Radece Radenci Radlje_ob_Dravi
+Radovljica Ravne_na_Koroskem Razkrizje Recica_ob_Savinji Rence_Vogrsko
+Ribnica Ribnica_na_Pohorju Rogaska_Slatina Rogasovci Rogatec Ruse
+Salovci Savinjska Selnica_ob_Dravi Semic Sempeter_Vrtojba Sencur Sentilj
+Sentjernej Sentjur_pri_Celju Sentrupert Sevnica Sezana Skocjan
+Skofja_Loka Skofljica Slovenj_Gradec Slovenska_Bistrica
+Slovenske_Konjice Smarje_pri_Jelsah Smarjeske_Toplice Smartno_ob_Paki
+Smartno_pri_Litiji Sodrazica Solcava Sostanj Spodnjeposavska
+Sredisce_ob_Dravi Starse Store Straza Sveta_Ana
+Sveta_Trojica_v_Slovenskih_goricah Sveti_Andraz_v_Slovenskih_goricah
+Sveti_Jurij Sveti_Jurij_v_Slovenskih_goricah Sveti_Tomaz Tabor Tisina
+Tolmin Trbovlje Trebnje Trnovska_vas Trzic Trzin Turnisce Velenje
+Velika_Polana Velike_Lasce Verzej Videm Vipava Vitanje Vodice Vojnik
+Vransko Vrhnika Vuzenica Zagorje_ob_Savi Zalec Zasavska Zavrc Zelezniki
+Zetale Ziri Zirovnica Zrece Zuzemberk
+
