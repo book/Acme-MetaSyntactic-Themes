@@ -348,3 +348,11 @@ Sjaelland Sonderjylland Storstrom Syddanmark Vejle Vestsjaelland Viborg
 Saint_Andrew Saint_David Saint_George Saint_John Saint_Joseph Saint_Luke
 Saint_Mark Saint_Patrick Saint_Paul Saint_Peter
 
+# names do
+Azua Bahoruco Barahona Dajabon Distrito_Nacional Duarte El_Seybo
+Espaillat Hato_Mayor Independencia La_Altagracia La_Estrelleta La_Romana
+La_Vega Maria_Trinidad_Sanchez Monsenor_Nouel Monte_Cristi Monte_Plata
+Pedernales Peravia Puerto_Plata Salcedo Samana San_Cristobal
+San_Jose_de_Ocoa San_Juan San_Pedro_de_Macoris Sanchez_Ramirez Santiago
+Santiago_Rodriguez Santo_Domingo Valverde
+
