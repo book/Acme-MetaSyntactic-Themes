@@ -281,3 +281,11 @@ Jiangxi Jilin Liaoning Macao Nei_Mongol Ningxia Qinghai Shaanxi Shandong
 Shanghai Shanxi Sichuan Taiwan Taiwan Tianjin Xianggang_Hong_Kong
 Xinjiang Xizang Yunnan Zhejiang
 
+# names co
+Amazonas Antioquia Arauca Atlantico Bolivar Boyaca Caldas Caqueta
+Casanare Cauca Cesar Choco Cordoba Cundinamarca
+Distrito_Capital_de_Bogota Guainia Guaviare Huila La_Guajira Magdalena
+Meta Narino Norte_de_Santander Putumayo Quindio Risaralda
+San_Andres_Providencia_y_Santa_Catalina Santander Sucre Tolima
+Valle_del_Cauca Vaupes Vichada
+
