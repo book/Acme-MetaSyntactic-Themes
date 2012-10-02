@@ -522,3 +522,7 @@ T_elavis_Raioni T_erjolis_Raioni T_et_ritsqaros_Raioni T_ianet_is_Raioni
 Tqibuli Tqvarch_eli Ts_ageris_Raioni Tsalenjikhis_Raioni Tsalkis_Raioni
 Tsqalmbo Vanis_Raioni Zestap_onis_Raioni Zugdidi Zugdidis_Raioni
 
+# names gh
+Ashanti Brong_Ahafo Central Eastern Greater_Accra Northern Upper_East
+Upper_West Volta Western
+
