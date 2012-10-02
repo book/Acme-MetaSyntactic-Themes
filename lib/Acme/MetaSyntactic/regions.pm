@@ -1063,3 +1063,7 @@ Peleliu Sonsorol
 Alto_Paraguay Alto_Parana Amambay Asuncion Boqueron Canindeyu Central
 Neembucu Presidente_Hayes
 
+# names qa
+Ad_Dawhah Al_Khawr_wa_adh_Dhakhirah Al_Wakrah Ar_Rayyan Ash_Shamal
+Az_Za_ayin Umm_shalal
+
