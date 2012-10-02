@@ -530,3 +530,6 @@ Upper_West Volta Western
 Kommune_Kujalleq Kommuneqarfik_Sermersooq Qaasuitsup_Kommunia
 Qeqqata_Kommunia
 
+# names gm
+Banjul Lower_River MacCarthy_Island North_Bank Upper_River Western
+
