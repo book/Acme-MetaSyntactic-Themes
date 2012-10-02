@@ -750,3 +750,7 @@ Uturumaeda_palata Uva_palata Vavuniyava Vayamba_palata Yapanaya
 Bomi Bong Gbarpolu Grand_Bassa Grand_Cape_Mount Grand_Gedeh Grand_Kru
 Lofa Margibi Maryland Montserrado Nimba River_Gee Rivercess Sinoe
 
+# names ls
+Berea Butha_Buthe Leribe Mafeteng Maseru Mohale_s_Hoek Mokhotlong
+Qacha_s_Nek Quthing Thaba_Tseka
+
