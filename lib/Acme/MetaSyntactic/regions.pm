@@ -173,3 +173,9 @@ Plovdiv Razgrad Ruse Ruse Shumen Silistra Sliven Smolyan Sofia
 Sofia_Grad Sofija Sofija_Grad Stara_Zagora Targovishte Varna Varna
 Veliko_Tarnovo Vidin Vratsa Yambol
 
+# names bh
+Al_Hadd Al_Janubiyah Al_Manamah Al_Manamah Al_Mintaqah_al_Gharbiyah
+Al_Mintaqah_al_Wusta Al_Mintaqah_ash_Shamaliyah Al_Muharraq Al_Muharraq
+Al_Wusta Ar_Rifa Ash_Shamaliyah Jidd_Hafsh Madinat_Hamad Madinat_Isa
+Mintaqat_Juzur_Hawar Sitrah
+
