@@ -205,3 +205,16 @@ Minas_Gerais Para Paraiba Parana Pernambuco Piaui Rio_Grande_do_Norte
 Rio_Grande_do_Sul Rio_de_Janeiro Rondonia Roraima Santa_Catarina
 Sao_Paulo Sergipe Tocantins
 
+# names bs
+Acklins Acklins_and_Crooked_Islands Berry_Islands Bimini Bimini
+Black_Point Cat_Island Cat_Island Central_Abaco Central_Andros
+Central_Eleuthera City_of_Freeport Crooked_Island_and_Long_Cay
+East_Grand_Bahama Exuma Exuma Freeport Fresh_Creek Governor_s_Harbour
+Grand_Cay Green_Turtle_Cay Harbour_Island Harbour_Island High_Rock
+Hope_Town Inagua Inagua Kemps_Bay Long_Island Long_Island Mangrove_Cay
+Marsh_Harbour Mayaguana Mayaguana Moores_Island New_Providence
+Nicholls_Town_and_Berry_Islands North_Abaco North_Andros North_Eleuthera
+Ragged_Island Ragged_Island Rock_Sound Rum_Cay San_Salvador
+San_Salvador_and_Rum_Cay Sandy_Point South_Abaco South_Andros
+South_Eleuthera Spanish_Wells West_Grand_Bahama
+
