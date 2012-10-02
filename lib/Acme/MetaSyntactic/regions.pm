@@ -957,3 +957,8 @@ Bayelsa Benue Borno Cross_River Delta Ebonyi Edo Ekiti Enugu Gombe Imo
 Jigawa Kaduna Kano Katsina Kebbi Kogi Kwara Lagos Nassarawa Niger Ogun
 Ondo Osun Oyo Plateau Rivers Sokoto Taraba Yobe Zamfara
 
+# names ni
+Atlantico_Norte Atlantico_Sur Boaco Carazo Chinandega Chontales Esteli
+Granada Jinotega Leon Madriz Managua Masaya Matagalpa Nueva_Segovia
+Rio_San_Juan Rivas
+
