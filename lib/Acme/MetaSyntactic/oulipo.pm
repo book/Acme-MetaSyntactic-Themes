@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::oulipo;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA     = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 use utf8;
 
 =encoding utf-8
@@ -199,10 +199,18 @@ in 1995).
 
 =item *
 
+2012-10-08 - v1.002
+
+Updated with a new member,
+added the list of Oulipo member names (with activity dates),
+in Acme-MetaSyntactic-Themes version 1.022.
+
+=item *
+
 2012-05-14 - v1.001
 
 Updated with an C<=encoding> pod command
-in version Acme-MetaSyntactic-Themes 1.001.
+in Acme-MetaSyntactic-Themes version 1.001.
 
 =item *
 
