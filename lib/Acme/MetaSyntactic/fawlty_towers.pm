@@ -7,7 +7,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::fawlty_towers - Characters from Fawlty Towers.
+Acme::MetaSyntactic::fawlty_towers - Characters and episodes from Fawlty Towers
 
 =head1 DESCRIPTION
 
@@ -45,6 +45,12 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-09-30
+
+Merged both themes in a single one.
 
 =item *
 
