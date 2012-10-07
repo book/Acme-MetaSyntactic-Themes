@@ -2,12 +2,13 @@ package Acme::MetaSyntactic::bible;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
 =head1 NAME
 
-Acme::MetaSyntactic::bible - Bible books.
+Acme::MetaSyntactic::bible - Bible books
 
 =head1 DESCRIPTION
 
@@ -20,6 +21,12 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-08 - v1.000
+
+Published in Acme-MetaSyntactic-Themes version 1.022.
 
 =item *
 
