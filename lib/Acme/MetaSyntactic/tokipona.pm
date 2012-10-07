@@ -17,8 +17,7 @@ our %Remote = (
 
 =head1 NAME
 
-Acme::MetaSyntactic::tokipona - Words from the Toki Pona language.
-
+Acme::MetaSyntactic::tokipona - Words from the Toki Pona language
 =head1 DESCRIPTION
 
 Toki Pona is a constructed language, with little more than a hundred words.

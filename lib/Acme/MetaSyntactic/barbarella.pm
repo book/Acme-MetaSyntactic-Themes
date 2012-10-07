@@ -8,8 +8,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::barbarella - Characters from the movie.
-
+Acme::MetaSyntactic::barbarella - Characters from the movie
 =head1 DESCRIPTION
 
 According to L<http://www.hollywoodcomics.com/forestbbd.html>, 

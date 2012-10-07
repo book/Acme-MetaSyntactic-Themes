@@ -8,8 +8,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::sins - The seven deadly sins.
-
+Acme::MetaSyntactic::sins - The seven deadly sins
 =head1 DESCRIPTION
 
 The seven deadly sins, in several languages.

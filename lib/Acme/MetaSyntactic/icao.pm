@@ -17,8 +17,7 @@ our %Remote = (
 
 =head1 NAME
 
-Acme::MetaSyntactic::icao - ICAO airport codes.
-
+Acme::MetaSyntactic::icao - ICAO airport codes
 =head1 DESCRIPTION
 
 The four letter ICAO codes for airports.

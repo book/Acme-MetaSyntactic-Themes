@@ -8,8 +8,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::lucky_luke - Characters from I<Lucky Luke>.
-
+Acme::MetaSyntactic::lucky_luke - Characters from I<Lucky Luke>
 =head1 DESCRIPTION
 
 Characters from the comic I<Lucky Luke>, by Morris et. al.

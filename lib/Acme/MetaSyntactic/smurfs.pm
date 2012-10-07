@@ -8,8 +8,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::smurfs - Smurfs.
-
+Acme::MetaSyntactic::smurfs - Smurfs
 =head1 DESCRIPTION
 
 Various of the smurfs (and supporting characters).

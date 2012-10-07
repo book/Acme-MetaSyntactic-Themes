@@ -8,8 +8,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::calvin - Characters from Calvin and Hobbes.
-
+Acme::MetaSyntactic::calvin - Characters from Calvin and Hobbes
 =head1 DESCRIPTION
 
 Characters from the famous comic strip, I<Calvin and Hobbes>,
