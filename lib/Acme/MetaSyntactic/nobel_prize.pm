@@ -987,6 +987,9 @@ The winners are:
  2011   Physics     Brian P. Schmidt
  2011   Physics     Saul Perlmutter
 
+ 2012   Medecine    Shinya Yamanaka
+ 2012   Medecine    Sir John B. Gurdon
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
