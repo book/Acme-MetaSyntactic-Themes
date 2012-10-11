@@ -989,6 +989,7 @@ The winners are:
 
  2012   Chemistry   Brian K. Kobilka
  2012   Chemistry   Robert J. Lefkowitz
+ 2012   Literature  Mo Yan
  2012   Medecine    Shinya Yamanaka
  2012   Medecine    Sir John B. Gurdon
  2012   Physics     David J. Wineland
