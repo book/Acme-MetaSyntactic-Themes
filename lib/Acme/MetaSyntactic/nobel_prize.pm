@@ -992,6 +992,7 @@ The winners are:
  2012   Literature  Mo Yan
  2012   Medecine    Shinya Yamanaka
  2012   Medecine    Sir John B. Gurdon
+ 2012   Peace       European Union
  2012   Physics     David J. Wineland
  2012   Physics     Serge Haroche
 
