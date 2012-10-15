@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::magma;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 1;
 
@@ -44,6 +44,13 @@ Philippe "BooK" Bruhat.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-15 - v1.001
+
+Updated with the songs from the album Félicité Thösz, and
+published in Acme-MetaSyntactic-Themes version 1.023.
 
 =item *
 
@@ -154,3 +161,15 @@ Emehntehtt_Re_III
 Emehntehtt_Re_IV
 Funehrarium_Kanht
 Sehe
+# names felicite_thosz
+Ekmah
+Elss
+Dzoi
+Nums
+Teha
+Waahrz
+Duhl
+Tsai
+Ohst
+Zahrr
+Les_Hommes_Sont_Venus
