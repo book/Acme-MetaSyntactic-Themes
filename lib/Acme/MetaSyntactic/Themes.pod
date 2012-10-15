@@ -168,6 +168,7 @@ own distribution (see for example
 L<Acme::MetaSyntactic::buzzwords>,
 L<Acme::MetaSyntactic::daleks>,
 L<Acme::MetaSyntactic::errno>,
+L<Acme::MetaSyntactic::morning_musume>,
 L<Acme::MetaSyntactic::nethack>,
 L<Acme::MetaSyntactic::soviet>,
 L<Acme::MetaSyntactic::vim>,
