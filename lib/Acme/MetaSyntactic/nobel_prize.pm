@@ -1035,7 +1035,7 @@ Abigail
 
 2012-10-15 - v1.000
 
-Updated with the Nobel prixes for 2012, and
+Updated with the Nobel prizes for 2012, and
 published in Acme-MetaSyntactic-Themes version 1.023.
 
 =item *
