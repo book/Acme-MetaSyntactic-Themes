@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.007';
+our $VERSION = '1.008';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-22 - v1.008
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.024.
 
 =item *
 
@@ -186,7 +192,6 @@ Alexis_Love
 Alexis_Texas
 Alex_Jordan
 Alex_Taylor
-Alicia_Alighatti
 Alicia_Rhodes
 Alicia_Rio
 Alina_Plugaru
@@ -213,6 +218,7 @@ Annabel_Chong
 Annabelle_Lee
 Anna_Malle
 Anna_Ohura
+Anna_Polina
 Annette_Haven
 Annette_Schwarz
 Annie_Cruz
@@ -223,6 +229,7 @@ Arcadia_Lake
 Aria_Giovanni
 Ariana_Jollee
 Aria_Noir
+Ariella_Ferrera
 Ariel_Rebel
 Asa_Akira
 Asami_Jo
@@ -252,6 +259,7 @@ Bambi_Woods
 Barbara_Dare
 Bella
 Belladonna
+Bethany_Benz
 Bibian_Norai
 Bibi_Jones
 Bionca
@@ -262,7 +270,6 @@ Bobbi_Starr
 Bodil_Joensen
 Bolivia_Samsonite
 Bonny_Bon
-Boo_D_Licious
 Brandi_Love
 Brandi_Lyons
 Brandy_Alexandre
@@ -372,7 +379,6 @@ Devon
 Devon_Lee
 Devon_Michaels
 Diana_Doll
-Dillan_Lauren
 Dina_Jewel
 Dolly_Buster
 Dominica_Leoni
@@ -423,6 +429,7 @@ Heather_Gables
 Heather_Hunter
 Heather_Lynn
 Heather_Starlet
+Heather_Vandeven
 Heidi_Mayne
 Helen_Duval
 Hikari_Hino
@@ -481,6 +488,7 @@ Jenny_Hendrix
 Jenteal
 Jesse_Capelli
 Jesse_Jane
+Jessica_Bangkok
 Jessica_Darlin
 Jessica_Drake
 Jessica_Jaymes
@@ -593,6 +601,7 @@ Lucia_Lapiedra
 Luscious_Lopez
 Lux_Kassidy
 Lysa_Thatcher
+Madison_Ivy
 Madison_Parker
 Madison_Stone
 Madison_Young
@@ -622,6 +631,7 @@ Melissa
 Melissa_Lauren
 Melissa_Monet
 Memphis_Monroe
+Mia_Presley
 Mia_Rose
 Michaela_Schaffrath
 Michelle_Maylene
@@ -841,6 +851,7 @@ Yuki_Asuka
 Yuma_Asami
 Yuria_Kato
 Yuri_Komuro
+Yurizan_Beltran
 Zara_Whites
 Zoe_Voss
 # names male
