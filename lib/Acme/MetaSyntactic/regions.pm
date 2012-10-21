@@ -35,8 +35,9 @@ Abigail, Philippe Bruhat (BooK).
 
 =item *
 
-Introduced in Acme-MetaSyntactic-Themes version FIXME,
-published on May FIXME.
+2012-10-22
+
+Introduced in Acme-MetaSyntactic-Themes version 1.024.
 
 =item *
 
