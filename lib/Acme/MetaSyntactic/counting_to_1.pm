@@ -1,6 +1,6 @@
 # -*- encoding: utf-8; indent-tabs-mode: nil -*-
 #
-#     Acme::MetaSyntactic::movies -- A selection of various movie titles
+#     Acme::MetaSyntactic::counting_to_one -- A selection of various movie titles
 #
 #     Copyright (C) 2012 Jean Forget
 # 
@@ -22,16 +22,18 @@
 #
 #     For the Artistic License, you may refer to http://dev.perl.org/licenses/artistic.html
 #
-package Acme::MetaSyntactic::movies;
+package Acme::MetaSyntactic::counting_to_one;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
 __PACKAGE__->init();
 1;
 
+=encoding utf8
+
 =head1 NAME
 
-Acme::MetaSyntactic::movies - The "movies where you count up to one" theme
+Acme::MetaSyntactic::counting_to_one - The "movies where you count up to one" theme
 
 =head1 DESCRIPTION
 
@@ -45,11 +47,14 @@ If you count the number of gunshots in I<M*A*S*H>
 The same thing with I<The Man Who Never Was> (a WWII movie)
 gives a result of zero.
 
+If you count the number of surviving characters at the end
+of I<The Trench>, you obtain a count of one.
+
 If you count the number of female characters
 in I<Dr Strangelove>, you obtain a count of one.
 
-If you count the number of surviving characters at the end of The Trench, you
-obtain a count of one.
+On the other hand, if you count the number of male characters
+in I<Huit Femmes> (I<Eight Women>), you obtain a count of one.
 
 If you count the number of times you see John Belushi's
 eyes in the Blues Brothers, you obtain a count of one. If you prefer Dan Acroyd's
@@ -57,6 +62,10 @@ or Cab Calloway's eyes, you obtain a count of zero.
 
 If you count the number of times the word "Mafia" is pronounced
 in the Godfather, you obtain a count of zero.
+
+If you count the number of alphabetic characters in Truffaut's
+I<Fahrenheit 451>, not taking into account the books
+being burned, you obtain a count of zero.
 
 If you count the number of scenes which include a horse in
 Monty Python's Holy Grail, you obtain a count of one.
@@ -121,12 +130,6 @@ German agent in England to check the background of "Major
 Martin". So, this film contains no gunshot, only one
 axis character and one corpse.
 
-=item Dr Strangelove
-
-The female character is Miss "Foreign Affairs", General Turgidson's
-secretary, who appears also in the centerfold of the Playboy issue
-Major Kong is reading.
-
 =item The Trench
 
 This film describes the Somme Attack on 1st July, 1916, which may have
@@ -137,11 +140,30 @@ colonel and the cinema team). Yet, there is one survivor, the soldier
 who had his jaw smashed by a sniper shot and who was casevac'ed on the
 eve of the Somme attack.
 
+=item Dr Strangelove
+
+The female character is Miss "Foreign Affairs", General Turgidson's
+secretary, who appears also in the centerfold of the Playboy issue
+Major Kong is reading. 
+See L<http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSmurfettePrinciple>
+
 =item The Blues Brothers
 
 The scene where we can see Jake's eyes is the scene in the sewer tunnel where
 Jake is at last face-to-face with his former wife-to-be, played by
 Carrie Fisher.
+
+=item Fahrenheit 451
+
+Ray Bradbury's book is about a future where books are banished,
+lest they'd be tought-provoking. François Truffaut's film is
+about a future where every single alphabetic character is banished,
+not only the thought-provoking ones inside the books, but also 
+the utilitary characters such as "exit", "walk"/"don't walk",
+"in", "out". When a character's personal file is briefly shown,
+we can only see numbers. This goes to such length that the credits
+are not written on the screen, but spoken by a narrator.
+The contributor likes Ray Bradbury's book.
 
 =item Monty Python's Holy Grail
 
@@ -165,7 +187,7 @@ she is still fully clothed.
 =item The Bridges at Toko-Ri
 
 This film includes a scene where Brubaker (William Holden), his wife
-(Grace Kelly) and their two girls take a Japanese bath.  But don't
+(Grace Kelly) and their two girls take a Japanese bath. But don't
 hold your breath, the angles of view and the ripples in the water
 prevent you from seeing more than the Hays Code would permit.
 
@@ -213,10 +235,12 @@ __DATA__
 # names
 MASH
 The_Man_Who_Never_Was
-Dr_Strangelove
 The_Trench
+Dr_Strangelove
+Huit_Femmes
 The_Blues_Brothers
 The_Godfather
+Fahrenheit_451
 Monty_Python_Holy_Grail
 Silent_Movie
 Robin_Hood
