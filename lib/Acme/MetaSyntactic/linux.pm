@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.006';
+our $VERSION = '1.007';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-22 - v1.007
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.024.
 
 =item *
 
@@ -151,7 +157,6 @@ ArcheOS
 AriOS
 ArtistX
 Asianux
-Astaro
 AsteriskNOW
 Asturix
 Aurora
@@ -185,6 +190,7 @@ CDlinux
 CensorNet
 CentOS
 Chakra
+Cinnarch
 ClearOS
 Clonezilla
 Comfusion
@@ -313,6 +319,7 @@ Ojuba
 OLPC
 Omoikane
 OpenBSD
+OpenELEC
 Openfiler
 OpenIndiana
 openmamba
@@ -380,6 +387,7 @@ siduction
 Skolelinux
 Slackel
 Slackware
+Slax
 SliTaz
 SME_Server
 SmoothWall
@@ -387,6 +395,7 @@ SMS
 Snowlinux
 Solaris
 SolusOS
+Sophos
 Sorcerer
 Source_Mage
 StartOS
@@ -432,7 +441,7 @@ UPR
 Userful
 UTUTO
 Vector
-VENENUX
+Venenux
 Vine
 Vinux
 VLOS
