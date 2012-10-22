@@ -3,18 +3,18 @@
 #     Acme::MetaSyntactic::counting_to_one -- A selection of various movie titles
 #
 #     Copyright (C) 2012 Jean Forget
-# 
+#
 #     This program is free software; you can redistribute it and/or modify
 #     it under the same terms as Perl: either the Artistic License,
 #     or the GNU General Public License as published by
 #     the Free Software Foundation; either version 1, or (at your option)
 #     any later version.
-# 
+#
 #     This program is distributed in the hope that it will be useful,
 #     but WITHOUT ANY WARRANTY; without even the implied warranty of
 #     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #     GNU General Public License for more details.
-# 
+#
 #     You should have received a copy of the GNU General Public License and
 #     the Artistic License along with this program; if not, write to the Free
 #     Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA
@@ -57,42 +57,42 @@ On the other hand, if you count the number of male characters
 in I<Huit Femmes> (I<Eight Women>), you obtain a count of one.
 
 If you count the number of times you see John Belushi's
-eyes in the Blues Brothers, you obtain a count of one. If you prefer Dan Acroyd's
+eyes in I<The Blues Brothers>, you obtain a count of one. If you prefer Dan Acroyd's
 or Cab Calloway's eyes, you obtain a count of zero.
 
 If you count the number of times the word "Mafia" is pronounced
-in the Godfather, you obtain a count of zero.
+in I<The Godfather>, you obtain a count of zero.
 
 If you count the number of alphabetic characters in Truffaut's
 I<Fahrenheit 451>, not taking into account the books
 being burned, you obtain a count of zero.
 
 If you count the number of scenes which include a horse in
-Monty Python's Holy Grail, you obtain a count of one.
+I<Monty Python's Holy Grail>, you obtain a count of one.
 
 At the end of the same movie, if you count the number of names appearing in the final
 credits, you obtain a count of zero.
 
-If you count the number of words said during 
-Mel Brooks' Silent Movie, you obtain a count of one.
+If you count the number of words said during
+Mel Brooks' I<Silent Movie>, you obtain a count of one.
 
-If you count the number of sexy scenes in Robin Hood
+If you count the number of sexy scenes in I<Robin Hood>
 (the Errol Flynn and Olivia de Havilland version), you obtain a count of one.
 
-If you count the number of times Grace Kelly appears naked in The
-Bridges at Toko-Ri, you obtain a count of one.
+If you count the number of times Grace Kelly appears naked in
+I<The Bridges at Toko-Ri>, you obtain a count of one.
 
 If you count the number of times Humphrey Bogart says "Play it again
-Sam" in Casablanca, despite what the movie buff lore says, you
+Sam" in I<Casablanca>, despite what the movie buff lore says, you
 obtain a count of zero.
 
-If you count the number of sequences in Rope,
+If you count the number of sequences in I<Rope>,
 you obtain a count of one.
 
 If you watch I<Le Fils de Caroline Chérie> to have a look
 at Caroline, you will see her only once.
 
-In most war movies, for example ????,
+In most war movies,
 the delay between the instant you see an explosion and the
 instant you hear it is zero seconds.
 
@@ -112,7 +112,7 @@ number of times Harpo speaks.
 
 =item M*A*S*H
 
-The gunshot occurs during the football match, to mark the 
+The gunshot occurs during the football match, to mark the
 end of the first period of the game.
 
 =item The Man Who Never Was
@@ -120,7 +120,7 @@ end of the first period of the game.
 This movie is rather a spy movie that takes place during
 World War II. It presents the deception operation prior to
 the landing in Sicily, which consisted in releasing the
-corpse of a so-called "Major Martin", with forged secret 
+corpse of a so-called "Major Martin", with forged secret
 documents, so this corpse would land in neutral Spain.
 The British hoped that the German agents in Spain would
 have access to the forged documents, believe them genuine
@@ -144,7 +144,7 @@ eve of the Somme attack.
 
 The female character is Miss "Foreign Affairs", General Turgidson's
 secretary, who appears also in the centerfold of the Playboy issue
-Major Kong is reading. 
+Major Kong is reading.
 See L<http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSmurfettePrinciple>
 
 =item The Blues Brothers
@@ -158,7 +158,7 @@ Carrie Fisher.
 Ray Bradbury's book is about a future where books are banished,
 lest they'd be tought-provoking. François Truffaut's film is
 about a future where every single alphabetic character is banished,
-not only the thought-provoking ones inside the books, but also 
+not only the thought-provoking ones inside the books, but also
 the utilitary characters such as "exit", "walk"/"don't walk",
 "in", "out". When a character's personal file is briefly shown,
 we can only see numbers. This goes to such length that the credits
@@ -193,7 +193,7 @@ prevent you from seeing more than the Hays Code would permit.
 
 =item Rope
 
-This is a movie with five reels, yet with seemingly 
+This is a movie with five reels, yet with seemingly
 only one camera shot. Actually, from time to time,
 the camera zooms towards a dark object, such as
 James Stewart's suit or the lid of a wooden trunk.
