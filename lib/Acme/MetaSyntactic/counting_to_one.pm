@@ -223,7 +223,17 @@ in both other Caroline Chérie movies).
 
 Jean Forget.
 
-Introduced in version 0.xx, published on xxx, 2006.
+=head1 CHANGES
+
+=over 4
+
+=item *
+
+2006-07-11
+
+Submitted by Jean Forget.
+
+=back
 
 =head1 SEE ALSO
 
