@@ -38,13 +38,13 @@ The winners from 1903 onwards are:
     2008   Carlos Sastre         ESP
     2007   Alberto Contador      ESP
     2006   Óscar Pereiro         ESP
-    2005   Lance Armstrong       USA
-    2004   Lance Armstrong       USA
-    2003   Lance Armstrong       USA
-    2002   Lance Armstrong       USA
-    2001   Lance Armstrong       USA
-    2000   Lance Armstrong       USA
-    1999   Lance Armstrong       USA
+    2005   (vacated)
+    2004   (vacated)
+    2003   (vacated)
+    2002   (vacated)
+    2001   (vacated)
+    2000   (vacated)
+    1999   (vacated)
     1998   Marco Pantani         ITA
     1997   Jan Ullrich           GER
     1996   Bjarne Riis           DEN
@@ -150,6 +150,14 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-23
+
+Removed Lance Armstrong from the list of winners, as he was stripped of
+these titles on October 22, 2012 by the UCI due to being found guilty
+of doping violations by the USADA.
 
 =item *
 
