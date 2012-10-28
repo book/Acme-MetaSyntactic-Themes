@@ -129,13 +129,14 @@ This distribution contains all the above themes, except the themes C<any>
 This distribution also contains several themes proposed during the
 years 2005-2006, but that couldn't be included due to self-imposed
 limits (I wanted to have 99 themes in version 0.99).
-These themes are: C<abba>, C<zodiac>.
+
+For version 1.000, these themes are: C<abba>, C<zodiac>.
 Due to a timely coincidence, another new theme has been added:
 C<french_presidents>. Thus bringing it to a total of 100 themes.
 
     2012-05-07    1.000   abba, french_presidents, zodiac
 
-Future releases will contain more themes proposed in the pre-1.000 era,
+Future releases will only contain themes proposed in the pre-1.000 era,
 as well as updates to the themes already in the distribution.
 
     2012-05-14    1.001   muses
@@ -163,9 +164,9 @@ as well as updates to the themes already in the distribution.
     2012-10-15    1.023   nobel_prize
     2012-10-12    1.024   regions
 
-New themes don't need to be sent to me for inclusion in this
-distribution. They can (and probably should) be distributed in their
-own distribution (see for example
+Do not send me new themes for inclusion in this distribution.
+Your themes should be distributed in their own distribution
+(see for example
 L<Acme::MetaSyntactic::buzzwords>,
 L<Acme::MetaSyntactic::daleks>,
 L<Acme::MetaSyntactic::errno>,
