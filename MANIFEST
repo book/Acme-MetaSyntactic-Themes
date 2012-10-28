@@ -37,6 +37,7 @@ lib/Acme/MetaSyntactic/elements.pm
 lib/Acme/MetaSyntactic/evangelion.pm
 lib/Acme/MetaSyntactic/fabeltjeskrant.pm
 lib/Acme/MetaSyntactic/facecards.pm
+lib/Acme/MetaSyntactic/fawlty_towers.pm
 lib/Acme/MetaSyntactic/flintstones.pm
 lib/Acme/MetaSyntactic/french_presidents.pm
 lib/Acme/MetaSyntactic/garbage.pm
