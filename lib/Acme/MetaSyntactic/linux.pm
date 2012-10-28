@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.007';
+our $VERSION = '1.008';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-29 - v1.008
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.025.
 
 =item *
 
@@ -279,6 +285,7 @@ LinuxConsole
 linuX_gamers
 LinuxTLE
 Linvo
+Lite
 Litrix
 LliureX
 LPS
