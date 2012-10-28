@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::fawlty_towers;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -45,6 +46,12 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-10-29 - v1.000
+
+Published in Acme-MetaSyntactic-Themes version 1.025.
 
 =item *
 
