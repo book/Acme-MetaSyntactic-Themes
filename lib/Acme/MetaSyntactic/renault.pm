@@ -43,7 +43,7 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 =cut
 
 __DATA__
-# names
+# names models
 Renault_40CV
 Renault_KJ
 Renault_MT
