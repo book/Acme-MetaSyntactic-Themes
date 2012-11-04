@@ -92,6 +92,7 @@ lib/Acme/MetaSyntactic/python.pm
 lib/Acme/MetaSyntactic/quantum.pm
 lib/Acme/MetaSyntactic/regions.pm
 lib/Acme/MetaSyntactic/reindeer.pm
+lib/Acme/MetaSyntactic/renault.pm
 lib/Acme/MetaSyntactic/robin.pm
 lib/Acme/MetaSyntactic/roman.pm
 lib/Acme/MetaSyntactic/scooby_doo.pm
