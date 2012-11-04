@@ -2,6 +2,7 @@ package Acme::MetaSyntactic::care_bears;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -24,6 +25,12 @@ Official website: L<http://www.care-bears.com/>.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-11-12 - v1.000
+
+Published in Acme-MetaSyntactic-Themes version 1.027.
 
 =item *
 
