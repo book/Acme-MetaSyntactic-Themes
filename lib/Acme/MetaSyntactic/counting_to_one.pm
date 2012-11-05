@@ -229,9 +229,21 @@ Jean Forget.
 
 =item *
 
+2012-10-21
+
+Jean selected I<counting_to_one> as the theme name.
+
+=item *
+
+2012-09-25
+
+Updated version submitted by Jean Forget.
+
+=item *
+
 2006-07-11
 
-Submitted by Jean Forget.
+Submitted by Jean Forget as the I<movies> theme.
 
 =back
 
