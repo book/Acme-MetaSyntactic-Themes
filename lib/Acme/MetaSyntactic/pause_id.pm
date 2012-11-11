@@ -1,15 +1,19 @@
 package Acme::MetaSyntactic::pause_id;
 use strict;
 use Acme::MetaSyntactic::List;
-our @ISA = qw( Acme::MetaSyntactic::List );
+our @ISA     = qw( Acme::MetaSyntactic::List );
 our $VERSION = '1.009';
-__PACKAGE__->init();
 
-our %Remote = (
-    source  => 'http://www.cpan.org/authors/00whois.xml',
-    extract => sub {
-        return map { y/-/_/; $_ } $_[0] =~ m!<id>([-\w\d]+)</id>!g;
-    }
+use CPAN;
+local *CPAN::Shell::myprint = sub { };
+CPAN::HandleConfig->load;
+
+__PACKAGE__->init(
+    $INC{'CPAN/MyConfig.pm'} || $INC{'CPAN/Config.pm'}
+    ? { names => join ' ',
+        map $_->{ID}, $CPAN::META->all_objects('CPAN::Author')
+        }
+    : ()    # read from __DATA__
 );
 
 1;
