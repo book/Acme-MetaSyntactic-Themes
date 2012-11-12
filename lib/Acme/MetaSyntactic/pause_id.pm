@@ -5,6 +5,7 @@ our @ISA     = qw( Acme::MetaSyntactic::List );
 our $VERSION = '1.010';
 
 use CPAN;
+no warnings 'redefine';
 local *CPAN::Shell::myprint = sub { };
 CPAN::HandleConfig->load;
 
