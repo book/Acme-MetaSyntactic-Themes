@@ -11,7 +11,8 @@ CPAN::HandleConfig->load;
 __PACKAGE__->init(
     $INC{'CPAN/MyConfig.pm'} || $INC{'CPAN/Config.pm'}
     ? { names => join ' ',
-        map $_->{ID}, $CPAN::META->all_objects('CPAN::Author')
+        map { y/-/_/; $_ } map $_->{ID},
+        $CPAN::META->all_objects('CPAN::Author')
         }
     : ()    # read from __DATA__
 );
