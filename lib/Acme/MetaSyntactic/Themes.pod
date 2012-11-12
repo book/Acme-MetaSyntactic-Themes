@@ -165,6 +165,7 @@ as well as updates to the themes already in the distribution.
     2012-10-22    1.024   regions
     2012-10-29    1.025   fawlty_towers
     2012-11-05    1.026   renault
+    2012-11-12    1.027   care_bears
 
 Do not send me new themes for inclusion in this distribution.
 Your themes should be distributed in their own distribution

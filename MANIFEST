@@ -18,6 +18,7 @@ lib/Acme/MetaSyntactic/browser.pm
 lib/Acme/MetaSyntactic/buffy.pm
 lib/Acme/MetaSyntactic/calvin.pm
 lib/Acme/MetaSyntactic/camelidae.pm
+lib/Acme/MetaSyntactic/care_bears.pm
 lib/Acme/MetaSyntactic/chess.pm
 lib/Acme/MetaSyntactic/colors.pm
 lib/Acme/MetaSyntactic/colours.pm
