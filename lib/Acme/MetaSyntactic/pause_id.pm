@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pause_id;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA     = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.009';
+our $VERSION = '1.010';
 
 use CPAN;
 local *CPAN::Shell::myprint = sub { };
@@ -36,6 +36,14 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-11-12 - v1.010
+
+Updated to use CPAN.pm to obtain the list of PAUSE ID. If CPAN.pm is
+not configured it will fallback to the hardcoded list from version 1.009.
+Published in Acme-MetaSyntactic-Themes version 1.027.
 
 =item *
 
