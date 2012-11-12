@@ -6,6 +6,8 @@ our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
+=encoding iso-8859-1
+
 =head1 NAME
 
 Acme::MetaSyntactic::care_bears - The Care Bears theme
@@ -20,7 +22,7 @@ Official website: L<http://www.care-bears.com/>.
 
 =head1 CONTRIBUTORS
 
-Ã‰ric Cassagnard, Philippe Bruhat.
+Éric Cassagnard, Philippe Bruhat.
 
 =head1 CHANGES
 
@@ -45,7 +47,7 @@ L<http://carebears.wikia.com/wiki/List_Of_Care_Bear_Characters>.
 
 2006-07-13
 
-Idea submitted by Ã‰ric Cassagnard.
+Idea submitted by Éric Cassagnard.
 
 =back
 
