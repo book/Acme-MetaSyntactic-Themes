@@ -26,6 +26,7 @@ package Acme::MetaSyntactic::counting_to_one;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
+our $VERSION = '1.000';
 __PACKAGE__->init();
 1;
 
@@ -226,6 +227,14 @@ Jean Forget.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-11-19 - v1.000
+
+Published as the last theme submitted before
+the release of Acme-MetaSyntactic version 0.99,
+in Acme-MetaSyntactic-Themes version 1.028.
 
 =item *
 
