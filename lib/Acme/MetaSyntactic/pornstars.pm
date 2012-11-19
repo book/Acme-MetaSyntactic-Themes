@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.008';
+our $VERSION = '1.009';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-11-19 - v1.009
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.028.
 
 =item *
 
@@ -271,7 +277,6 @@ Bodil_Joensen
 Bolivia_Samsonite
 Bonny_Bon
 Brandi_Love
-Brandi_Lyons
 Brandy_Alexandre
 Brandy_Talore
 Brea_Bennett
@@ -690,7 +695,6 @@ P_J_Sparxx
 Poppy_Morgan
 Porsche_Lynn
 Priscila_Sol
-Priya_Rai
 Puma_Swede
 Rachel_Ashley
 Rachel_Rotten
