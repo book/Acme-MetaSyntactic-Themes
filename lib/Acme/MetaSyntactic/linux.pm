@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.008';
+our $VERSION = '1.009';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-11-19 - v1.009
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.028.
 
 =item *
 
@@ -362,9 +368,7 @@ Poseidon
 pQui
 Privatix
 Proxmox
-PUIAS
 Puppy
-Puredyne
 PureOS
 Qimo
 Qomo
@@ -381,6 +385,7 @@ ROSA
 Runtu
 Sabayon
 Sabily
+SalentOS
 SalineOS
 Salix
 Saluki
@@ -405,6 +410,7 @@ SolusOS
 Sophos
 Sorcerer
 Source_Mage
+Springdale
 StartOS
 Stella
 StressLinux
