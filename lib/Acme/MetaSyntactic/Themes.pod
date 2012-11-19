@@ -166,6 +166,11 @@ as well as updates to the themes already in the distribution.
     2012-10-29    1.025   fawlty_towers
     2012-11-05    1.026   renault
     2012-11-12    1.027   care_bears
+    2012-11-19    1.028   counting_to_one
+
+With that last theme, I have reached the end of my I<backlog>,
+having finally published all themes that were sent to me during
+the great hours of L<Acme::MetaSyntactic>.
 
 Do not send me new themes for inclusion in this distribution.
 Your themes should be distributed in their own distribution
