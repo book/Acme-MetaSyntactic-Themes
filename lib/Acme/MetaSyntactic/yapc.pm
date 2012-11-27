@@ -158,7 +158,7 @@ Introduced in Acme-MetaSyntactic version 0.40.
 
 =item *
 
-Mark Fowler asked me for this list during YAPC::Europe 2005 in Braga, Portgual.
+Mark Fowler asked me for this list during YAPC::Europe 2005 in Braga, Portugal.
 
 =back
 
