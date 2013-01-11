@@ -7,7 +7,7 @@ our $VERSION = '1.010';
 use CPAN;
 no warnings 'redefine';
 local *CPAN::Shell::myprint = sub { };
-CPAN::HandleConfig->load;
+eval { CPAN::HandleConfig->load; };
 
 __PACKAGE__->init(
     $INC{'CPAN/MyConfig.pm'} || $INC{'CPAN/Config.pm'}
