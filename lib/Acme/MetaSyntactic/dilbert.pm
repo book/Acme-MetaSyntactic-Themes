@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::dilbert;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -38,6 +38,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-01-14 - v1.002
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.029.
 
 =item *
 
@@ -221,4 +227,4 @@ jenny jesus keith kim logan lying_larry matt_the_temp morgan mort
 mutobu_the_impaler nancy neo old_johannsen oobanoobah pete raj rodney
 ronald rubbin_robin ruth sarah scott shelly silent_gary sue_boysenberry
 tom_jackson trixie victor vlad wolfgang
-
+jb_hopper
