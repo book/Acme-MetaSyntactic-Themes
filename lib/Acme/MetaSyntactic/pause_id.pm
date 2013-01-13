@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pause_id;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA     = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.010';
+our $VERSION = '1.011';
 
 use CPAN;
 no warnings 'redefine';
@@ -29,7 +29,8 @@ Acme::MetaSyntactic::pause_id - The PAUSE id theme
 This is the list of all PAUSE (Perl Authors Upload SErver) user id
 (slightly transmogrified to be valid Perl identifiers).
 
-This list seems to require frequent updates. C<;-)>
+This list used to require frequent updates, until the data was read from
+L<CPAN> local configuration. C<;-)>
 
 =head1 CONTRIBUTOR
 
@@ -38,6 +39,13 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-01-14 - v1.011
+
+Made more resistant to L<CPAN> errors.
+Published in Acme-MetaSyntactic-Themes version 1.029.
 
 =item *
 
