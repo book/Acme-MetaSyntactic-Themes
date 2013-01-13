@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.009';
+our $VERSION = '1.010';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -43,7 +43,7 @@ These pages have been deleted in late 2006.
 In 2012, Wikipedia offers
 L<http://en.wikipedia.org/wiki/List_of_pornographic_actresses_by_decade>
 as a source for female actresses, but no source for male performers.
-The C<male> category is therefore obsolete.
+The C<male> category is therefore B<obsolete>.
 
 =head1 CONTRIBUTOR
 
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-01-14 - v1.010
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.029.
 
 =item *
 
@@ -209,7 +215,6 @@ Amber_Lynn
 Amber_Rayne
 Ami_Ayukawa
 Amy_Ried
-Anastasia_Blue
 Andrea_True
 Angela_Devi
 Angela_Summers
@@ -274,8 +279,6 @@ Bobbi_Bliss
 Bobbi_Eden
 Bobbi_Starr
 Bodil_Joensen
-Bolivia_Samsonite
-Bonny_Bon
 Brandi_Love
 Brandy_Alexandre
 Brandy_Talore
@@ -301,6 +304,7 @@ Brooke_Haven
 Brooke_Hunter
 Brooke_Skye
 Brooklyn_Lee
+Brynn_Tyler
 Bunko_Kanazawa
 Bunny_Bleu
 Bunny_Luv
@@ -310,7 +314,6 @@ Candy_Apples
 Cara_Fawn
 Cara_Lott
 Careena_Collins
-Caressa_Savage
 Carmella_Bing
 Carmel_Moore
 Carmen_Hart
@@ -319,6 +322,7 @@ Carol_Connors
 Caroline_Pierce
 Casey_Parker
 Cassidey
+Catalina
 Catalina_Cruz
 Cate_Harrington
 Cathy_Barry
@@ -395,6 +399,7 @@ Dru_Berrymore
 Dunia_Montenegro
 Dyanna_Lauren
 Ebony_Ayes
+Echo_Valley
 Ellen_Saint
 Erica_Boyer
 Erica_Campbell
@@ -444,6 +449,7 @@ Hiromi_Matsuura
 Hitomi_Kobayashi
 Hollie_Stevens
 Holly_McCall
+Holly_Michaels
 Holly_Ryder
 Holly_Sampson
 Holly_Wellin
@@ -464,7 +470,6 @@ Jade
 Jaelyn_Fox
 Jaimee_Foxworth
 Jamie_Brooks
-Jamie_Elle
 Jamie_Summers
 Jana_Cova
 Jana_Jordan
@@ -521,7 +526,7 @@ Juliet_Anderson
 Junko_Miyashita
 Jun_Kusanagi
 Justine_Joli
-Justine_Romee
+Jynx_Maze
 Kagney_Linn_Karter
 Kaitlyn_Ashley
 Kandi_Barbour
@@ -584,6 +589,7 @@ Lexxi_Tyler
 Lezley_Zen
 Liliane_Tiger
 Lilli_Carati
+Lily_Carter
 Lily_Labeau
 Linda_Lovelace
 Linda_Wong
@@ -594,6 +600,7 @@ Lisa_De_Leeuw
 Lisa_Lipps
 Lisa_Sparks
 Little_Oral_Annie
+Lizz_Tayler
 Lois_Ayres
 Lolly_Badcock
 Lolo_Ferrari
@@ -716,6 +723,7 @@ Renee_Perez
 Renee_Pornero
 Rhonda_Jo_Petty
 Riko_Tachibana
+Riley_Reid
 Riley_Shy
 Riley_Steele
 Rina_Nakanishi
@@ -735,6 +743,7 @@ Sakura_Sena
 Sally_Yoshino
 Salma_De_Nora
 Samantha_Ryan
+Samantha_Saint
 Samantha_Sterlyng
 Samantha_Strong
 Sammie_Rhodes
@@ -811,6 +820,7 @@ Taylor_Rain
 Taylor_St_Claire
 Teagan_Presley
 Teanna_Kai
+Temptress
 Tera_Patrick
 Tera_Wray
 Tericka_Dye
@@ -830,6 +840,7 @@ Tracey_Adams
 Traci_Lords
 Trinity_Loren
 Trinity_Post
+Trisha_Uptown
 Tyla_Wynn
 Tylene_Buck
 Tyler_Faith
