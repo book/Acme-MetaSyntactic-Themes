@@ -2,13 +2,13 @@ package Acme::MetaSyntactic::currency;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 
 our %Remote = (
     source => {
-        current  => 'http://www.currency-iso.org/dl_iso_table_a1.xml',
-        historic => 'http://www.currency-iso.org/dl_iso_tables_a3.xml',
+        current  => 'http://www.currency-iso.org/dam/isocy/downloads/dl_iso_table_a1.xml',
+        historic => 'http://www.currency-iso.org/dam/isocy/downloads/dl_iso_table_a3.xml',
     },
     extract => sub { $_[0] =~ m{<ALPHABETIC_CODE>(\S+)</ALPHABETIC_CODE>}mig },
 );
@@ -33,6 +33,13 @@ Philippe "BooK" Bruhat.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-01-14 - v1.003
+
+Updated the source URL, and
+updated from the source web site in Acme-MetaSyntactic-Themes version 1.029.
 
 =item *
 
@@ -251,7 +258,7 @@ XUA
 XXX
 YER
 ZAR
-ZMK
+ZMW
 ZWL
 # names historic
 ADP
