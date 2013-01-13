@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.009';
+our $VERSION = '1.010';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-01-14 - v1.010
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.029.
 
 =item *
 
@@ -159,7 +165,6 @@ aLinux
 Alpine
 ALT
 Ankur_Bangla
-AnNyung
 antiX
 APODIO
 aptosid
@@ -168,7 +173,6 @@ ArchBang
 ArcheOS
 AriOS
 ArtistX
-Asianux
 AsteriskNOW
 Asturix
 Aurora
@@ -199,7 +203,6 @@ Canaima
 C_tix
 CCux
 CDlinux
-CensorNet
 CentOS
 Chakra
 Cinnarch
@@ -208,7 +211,6 @@ Clonezilla
 Comfusion
 Commodore
 Connochaet
-Coyote
 CrunchBang
 CRUX
 CTKArch
@@ -231,9 +233,10 @@ Edubuntu
 Ekaaty
 Elastix
 elementary
+Elive
+Emmabunt_s
 Endian
 Epidemic
-Evinux
 ExTiX
 Fedora
 Fermi
@@ -249,7 +252,6 @@ Funtoo
 Fusion
 GeeXboX
 Gentoo
-Gentoox
 GhostBSD
 gNewSense
 GParted
@@ -262,15 +264,12 @@ Hanthana
 Hybryde
 IDMS
 Imagineos
-Inquisitor
-Insigne
 IPCop
 IPFire
 iQunix
 Jibbed
 JoLinux
 Joli_OS
-K12Linux
 kademar
 KahelOS
 KANOTIX
@@ -285,6 +284,7 @@ Leeenux
 Legacy
 LFS
 Libert
+LinEx
 LinHES
 Linpus
 LinuxConsole
@@ -317,10 +317,8 @@ Miracle
 MirOS
 Momonga
 Monomaxos
-Musix
-Myrinix
 Mythbuntu
-Nature_s
+NAS4Free
 NetBSD
 Netrunner
 NetSecL
@@ -410,12 +408,12 @@ SolusOS
 Sophos
 Sorcerer
 Source_Mage
+SparkyLinux
 Springdale
 StartOS
 Stella
 StressLinux
 SuliX
-SuperGamer
 Super_OS
 SuperX
 Suriyan
@@ -442,7 +440,6 @@ UberStudent
 Ubuntu
 Ubuntu_Christian
 Ubuntu_DP
-Ubuntu_Rescue
 Ubuntu_Studio
 UHU_Linux
 Ulteo
@@ -453,12 +450,12 @@ Untangle
 UPR
 Userful
 UTUTO
+VAST
 Vector
 Venenux
 Vine
 Vinux
 VLOS
-VMKnoppix
 VortexBox
 Voyager
 Vyatta
