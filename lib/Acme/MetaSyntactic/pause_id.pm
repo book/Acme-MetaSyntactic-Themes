@@ -2,12 +2,14 @@ package Acme::MetaSyntactic::pause_id;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA     = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.011';
+our $VERSION = '1.012';
 
-use CPAN;
-no warnings 'redefine';
-local *CPAN::Shell::myprint = sub { };
-eval { CPAN::HandleConfig->load; };
+eval {
+    require CPAN;
+    no warnings 'redefine';
+    local *CPAN::Shell::myprint = sub { };
+    CPAN::HandleConfig->load;
+};
 
 __PACKAGE__->init(
     $INC{'CPAN/MyConfig.pm'} || $INC{'CPAN/Config.pm'}
