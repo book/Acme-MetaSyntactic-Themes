@@ -9,6 +9,7 @@ __PACKAGE__->init();
 =head1 NAME
 
 Acme::MetaSyntactic::reindeer - Santa's Reindeer
+
 =head1 DESCRIPTION
 
 The names of Santa's Reindeer. Note spelling variations exists, and

@@ -11,6 +11,7 @@ __PACKAGE__->init();
 =head1 NAME
 
 Acme::MetaSyntactic::norse_mythology - Characters from Norse mythology
+
 =head1 DESCRIPTION
 
 A selection of characters from Norse mythology.

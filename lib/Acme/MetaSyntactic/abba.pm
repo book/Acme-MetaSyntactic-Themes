@@ -9,6 +9,7 @@ __PACKAGE__->init();
 =head1 NAME
 
 Acme::MetaSyntactic::abba - Singers from the 1970s Swedish pop group
+
 =head1 DESCRIPTION
 
 ABBA won the 1974 Eurovision Songfestival for Sweden, which started
