@@ -9,7 +9,7 @@ __PACKAGE__->init('colours');
 =head1 NAME
 
 Acme::MetaSyntactic::colors - The colors theme
-    
+
 =head1 DESCRIPTION
     
 This theme is just an alias of the C<colours> theme, to please the

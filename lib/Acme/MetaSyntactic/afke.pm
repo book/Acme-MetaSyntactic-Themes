@@ -9,6 +9,7 @@ __PACKAGE__->init();
 =head1 NAME
 
 Acme::MetaSyntactic::afke - Afke's Children
+
 =head1 DESCRIPTION
 
 I<Afke's tiental> (I<Afkes ten>) is a classic Dutch childrens book,

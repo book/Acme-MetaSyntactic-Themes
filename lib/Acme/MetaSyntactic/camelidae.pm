@@ -9,6 +9,7 @@ __PACKAGE__->init();
 =head1 NAME
 
 Acme::MetaSyntactic::camelidae - Members of the Camelidae family
+
 =head1 DESCRIPTION
 
 The Perl community's favourite animals.

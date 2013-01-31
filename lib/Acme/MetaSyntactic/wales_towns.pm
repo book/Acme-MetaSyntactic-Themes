@@ -22,6 +22,7 @@ our %Remote = (
 =head1 NAME
 
 Acme::MetaSyntactic::wales_towns - Towns in Wales
+
 =head1 DESCRIPTION
 
 List of towns in Wales. 

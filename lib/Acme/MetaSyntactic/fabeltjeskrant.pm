@@ -9,6 +9,7 @@ __PACKAGE__->init();
 =head1 NAME
 
 Acme::MetaSyntactic::fabeltjeskrant - Characters from the 'Fabeltjeskrant'
+
 =head1 DESCRIPTION
 
 The I<Fabeltjeskrant> was a Dutch puppet animation television series, 

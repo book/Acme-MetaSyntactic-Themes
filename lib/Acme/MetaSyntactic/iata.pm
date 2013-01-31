@@ -18,6 +18,7 @@ our %Remote = (
 =head1 NAME
 
 Acme::MetaSyntactic::iata - IATA airport codes
+
 =head1 DESCRIPTION
 
 The three letter IATA codes for airports.
