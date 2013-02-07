@@ -55,6 +55,7 @@ __DATA__
 comment_sign
 crosshatch
 crunch
+diamond
 fence
 flash
 gate
