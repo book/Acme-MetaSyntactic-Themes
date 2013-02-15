@@ -2,9 +2,11 @@ package Acme::MetaSyntactic::octothorpe;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 1;
+
+=encoding iso-8859-1
 
 =head1 NAME
 
@@ -21,14 +23,21 @@ L<http://www.worldwidewords.org/weirdwords/ww-oct1.htm> for other stories.
 If you know another name for C<#> that is not included in this list,
 please send it to me, with a reference to back up your claim. Thanks.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
 Philippe "BooK" Bruhat, inspired by David Landgren's presentation of
-L<Acme::DonMartin>.
+L<Acme::DonMartin>, Sébastien Aperghis-Tramoni.
 
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-02-18 - v1.001
+
+Sébastien Aperghis-Tramoni submitted a new name (I<diamond>),
+published in Acme-MetaSyntactic-Themes version 1.030.
 
 =item *
 
