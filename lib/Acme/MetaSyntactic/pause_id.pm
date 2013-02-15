@@ -44,6 +44,13 @@ Philippe Bruhat (BooK).
 
 =item *
 
+2013-02-18 - v1.012
+
+Made even more resistant to L<CPAN> errors.
+Published in Acme-MetaSyntactic-Themes version 1.030.
+
+=item *
+
 2013-01-14 - v1.011
 
 Made more resistant to L<CPAN> errors.
