@@ -171,6 +171,8 @@ as well as updates to the themes already in the distribution.
 With that last theme, I have reached the end of my I<backlog>,
 having finally published all themes that were sent to me during
 the great hours of L<Acme::MetaSyntactic>.
+Future versions will only contain updates and bug fixes, but no
+new themes.
 
 Do not send me new themes for inclusion in this distribution.
 Your themes should be distributed in their own distribution
@@ -198,7 +200,7 @@ Philippe Bruhat (BooK), C<< <book@cpan.org> >>.
 
 =head1 COPYRIGHT
 
-Copyright 2005-2012 Philippe Bruhat (BooK), All Rights Reserved.
+Copyright 2005-2013 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
