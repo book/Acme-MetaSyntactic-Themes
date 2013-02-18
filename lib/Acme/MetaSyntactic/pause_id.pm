@@ -4,20 +4,19 @@ use Acme::MetaSyntactic::List;
 our @ISA     = qw( Acme::MetaSyntactic::List );
 our $VERSION = '1.012';
 
-eval {
+my $names = eval {
     require CPAN;
     no warnings 'redefine';
     local *CPAN::Shell::myprint = sub { };
     CPAN::HandleConfig->load;
+    {   names => join ' ',
+        map { y/-/_/; $_ } map $_->{ID},
+        $CPAN::META->all_objects('CPAN::Author')
+    };
 };
 
 __PACKAGE__->init(
-    $INC{'CPAN/MyConfig.pm'} || $INC{'CPAN/Config.pm'}
-    ? { names => join ' ',
-        map { y/-/_/; $_ } map $_->{ID},
-        $CPAN::META->all_objects('CPAN::Author')
-        }
-    : ()    # read from __DATA__
+    $names || ()    # read from __DATA__
 );
 
 1;
