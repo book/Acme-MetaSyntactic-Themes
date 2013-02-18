@@ -7,7 +7,8 @@ our $VERSION = '1.012';
 my $names = eval {
     require CPAN;
     no warnings 'redefine';
-    local *CPAN::Shell::myprint = sub { };
+    local *CPAN::Shell::myprint          = sub { };
+    local *CPAN::Shell::print_ornamented = sub { };
     CPAN::HandleConfig->load;
     {   names => join ' ',
         map { y/-/_/; $_ } map $_->{ID},
@@ -45,7 +46,8 @@ Philippe Bruhat (BooK).
 
 2013-02-18 - v1.012
 
-Made even more resistant to L<CPAN> errors.
+Made even more resistant to L<CPAN> errors. In case of such errors,
+the module will be quiet, and slow to start.
 Published in Acme-MetaSyntactic-Themes version 1.030.
 
 =item *
