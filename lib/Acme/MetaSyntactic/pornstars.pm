@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.010';
+our $VERSION = '1.011';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-02-18 - v1.011
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.030.
 
 =item *
 
@@ -180,8 +186,10 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 
 __DATA__
 # names female
+Abella_Anderson
 Abigail_Clayton
 Adriana_Sage
+Adrianna_Lynn
 Adrianna_Nicole
 Aiden_Ashley
 Ai_Iijima
@@ -214,6 +222,7 @@ Alyssa_Reece
 Amber_Lynn
 Amber_Rayne
 Ami_Ayukawa
+Amile_Waters
 Amy_Ried
 Andrea_True
 Angela_Devi
@@ -371,6 +380,7 @@ Dahlia_Grey
 Daisy_Marie
 Daisy_Rock
 Dana_DeArmond
+Dani_Daniels
 Daniella_Rush
 Dani_Woodward
 Danni_Ashe
@@ -438,7 +448,6 @@ Haruki_Mizuno
 Heather_Gables
 Heather_Hunter
 Heather_Lynn
-Heather_Starlet
 Heather_Vandeven
 Heidi_Mayne
 Helen_Duval
@@ -535,6 +544,7 @@ Kapri_Styles
 Karen_Lancaume
 Katalin_Vad
 Kate_Asabuki
+Kate_Frost
 Katie_Gold
 Katie_Morgan
 Katja_K
@@ -550,6 +560,7 @@ Keiko_Nakazawa
 Kei_Mizutani
 Keisha
 Keisha_Kane
+Kelly_Divine
 Kelly_Stafford
 Kelly_Wells
 Keri_Sable
@@ -656,6 +667,7 @@ Missy
 Missy_Monroe
 Missy_Stone
 Misty_Dawn
+Misty_Stone
 Moana_Pozzi
 Monica_Mattos
 Monica_Sweetheart
@@ -717,6 +729,7 @@ Rebeca_Linares
 Rebecca_Bardoux
 Rebecca_Lord
 Reiko_Ike
+Remy_LaCroix
 Renae_Cruz
 Rene_Bond
 Renee_Perez
@@ -849,7 +862,7 @@ Uschi_Digard
 Vanessa_Blue
 Vanessa_del_Rio
 Vanessa_Lane
-Velicity_Von
+Veronica_Avluv
 Veronica_Hart
 Veronica_Rayne
 Vicca
@@ -857,6 +870,7 @@ Vicki_Chase
 Vicky_Vette
 Victoria_Paris
 Victoria_Sin
+Violet_Storm
 Wanda_Curtis
 Wendy_Whoppers
 Whitney_Stevens
