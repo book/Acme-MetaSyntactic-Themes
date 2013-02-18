@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.010';
+our $VERSION = '1.011';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-02-18 - v1.011
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.030.
 
 =item *
 
@@ -226,7 +232,7 @@ DoudouLinux
 Draco
 DragonFly
 Dragora
-Dream_Studio
+DreamStudio
 dyne_bolic
 EasyPeasy
 Edubuntu
@@ -237,11 +243,13 @@ Elive
 Emmabunt_s
 Endian
 Epidemic
+Exe
 ExTiX
 Fedora
 Fermi
 Finnix
 Foresight
+ForLEx
 FreeBSD
 FreeNAS
 Frenzy
@@ -277,7 +285,7 @@ Karoshi
 Kiwi
 KNOPPIX
 Kongoni
-Kororaa
+Korora
 Kubuntu
 Kwort
 Leeenux
@@ -372,10 +380,12 @@ Qimo
 Qomo
 Qubes
 Quirky
+Rebellin
 Red_Flag
 Red_Hat
 Redo
 redWall
+Rescatux
 Resulinux
 RIPLinuX
 Rocks_Cluster
@@ -409,6 +419,7 @@ Sophos
 Sorcerer
 Source_Mage
 SparkyLinux
+SprezzOS
 Springdale
 StartOS
 Stella
@@ -465,7 +476,6 @@ Wifislax
 xPUD
 Xubuntu
 Yellow_Dog
-Yoper
 Zentyal
 Zenwalk
 Zeroshell
