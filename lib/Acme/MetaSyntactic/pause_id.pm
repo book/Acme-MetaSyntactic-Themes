@@ -10,15 +10,12 @@ my $names = eval {
     local *CPAN::Shell::myprint          = sub { };
     local *CPAN::Shell::print_ornamented = sub { };
     CPAN::HandleConfig->load;
-    {   names => join ' ',
-        map { y/-/_/; $_ } map $_->{ID},
+    join ' ', map { y/-/_/; $_ } map $_->{ID},
         $CPAN::META->all_objects('CPAN::Author')
-    };
 };
 
-__PACKAGE__->init(
-    $names || ()    # read from __DATA__
-);
+# read from __DATA__ if CPAN.pm didn't return anything
+__PACKAGE__->init( $names ? { names => $names } : () );
 
 1;
 
