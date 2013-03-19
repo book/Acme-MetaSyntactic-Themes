@@ -6,9 +6,11 @@ our $VERSION = '1.012';
 
 my $names = eval {
     require CPAN;
+    require CPAN::FirstTime;
     no warnings 'redefine';
     local *CPAN::Shell::myprint          = sub { };
     local *CPAN::Shell::print_ornamented = sub { };
+    local *CPAN::FirstTime::init         = sub { };
     CPAN::HandleConfig->load;
     join ' ', map { y/-/_/; $_ } map $_->{ID},
         $CPAN::META->all_objects('CPAN::Author')
