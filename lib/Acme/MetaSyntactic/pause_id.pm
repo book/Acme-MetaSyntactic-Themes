@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pause_id;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA     = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.012';
+our $VERSION = '1.013';
 
 my $names = eval {
     require CPAN;
@@ -40,6 +40,13 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-03-25 - v1.013
+
+Fixed issues that L<CPAN> was still causing (mostly under Win32).
+Published in Acme-MetaSyntactic-Themes version 1.031.
 
 =item *
 
