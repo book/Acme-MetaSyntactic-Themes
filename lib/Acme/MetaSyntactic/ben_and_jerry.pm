@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::ben_and_jerry;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.004';
+our $VERSION = '1.005';
 __PACKAGE__->init();
 
 my $regex = {
@@ -43,6 +43,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-03-25 - v1.005
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.031.
 
 =item *
 
@@ -113,6 +119,7 @@ Chocolate_Chip_Cookie_Dough
 Chocolate_Fudge_Brownie
 Chocolate_Nougat_Crunch
 Chocolate_Peanut_Buttery_Swirl
+Chocolate_Peppermint_Crunch
 Chocolate_Therapy
 Chubby_Hubby
 Chunky_Monkey
@@ -143,6 +150,7 @@ Peach_Cobbler
 Peanut_Brittle
 Peanut_Butter_Cup
 Phish_Food
+Pineapple_Passionfruit
 Pistachio_Pistachio
 Raspberry_Fudge_Chunk
 Red_Velvet_Cake
@@ -156,6 +164,7 @@ Vanilla
 Vanilla_Caramel_Fudge
 Vanilla_Fudge_Chip
 Vanilla_HEATH_Bar_Crunch
+Vanilla_Honey_Caramel
 What_a_Cluster
 # names retired
 Tenth_Anniversary_Waltz_Nutcracker_Suite
@@ -171,6 +180,7 @@ Banana
 Bananas_on_the_Rum
 Banana_Strawberry
 Banana_Walnut
+Berried_Treasure
 Berry_Wild_Whirl
 Blackberry_Cobbler
 Black_Raspberry
@@ -181,6 +191,7 @@ Blueberry
 Blueberry_Cheesecake
 Bluesberry
 Brownie_Bars
+Brownie_Batter
 Candy_Bar_Crunch
 Cantaloupe
 Capecodder
@@ -260,6 +271,7 @@ Honey_Vanilla
 Hunka_Burnin_Fudge
 Iced_Tea_With_Ginseng
 Ice_Tea_with_Ginseng
+Jamaican_Me_Crazy
 Kaffaretto
 Kahlua_Amaretto
 Karelia_Krunch
