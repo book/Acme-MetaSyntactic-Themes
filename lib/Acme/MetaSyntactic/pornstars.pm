@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.011';
+our $VERSION = '1.012';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-03-25 - v1.012
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.031.
 
 =item *
 
@@ -233,6 +239,7 @@ Angelica_Costello
 Angelina_Valentine
 Angel_Kelly
 Angel_Long
+Anikka_Albrite
 Anja_Juliette_Laval
 Annabel_Chong
 Annabelle_Lee
@@ -253,6 +260,7 @@ Ariella_Ferrera
 Ariel_Rebel
 Asa_Akira
 Asami_Jo
+Ash_Hollywood
 Ashley_Blue
 Ashley_Long
 Ashley_Renee
@@ -320,6 +328,7 @@ Bunny_Luv
 Calli_Cox
 Candida_Royalle
 Candy_Apples
+Capri_Anderson
 Cara_Fawn
 Cara_Lott
 Careena_Collins
@@ -514,6 +523,7 @@ Jessica_Jaymes
 Jessica_May
 Jessica_Sweet
 Jessie_Andrews
+Jessie_Rogers
 Jessie_St_James
 Jewel_De_Nyle
 Jill_Kelly
@@ -574,6 +584,7 @@ Kinzie_Kenner
 Kira_Kener
 Kobe_Tai
 Kokoro_Amano
+Kortney_Kane
 Krista_Lane
 Kristal_Summers
 Kristara_Barrington
@@ -589,7 +600,9 @@ Laura_Angel
 Lauren_Brice
 Lauren_Phoenix
 Laure_Sainclair
+Layla_Rivera
 Lea_De_Mae
+Leilani_Leeane
 Lela_Star
 Leslie_Bovee
 Leslie_Glass
@@ -621,10 +634,10 @@ Lorelei_Lee
 Lorena_Sanchez
 Love_twins
 Lucia_Lapiedra
+Lupe_Fuentes
 Luscious_Lopez
 Lux_Kassidy
 Lysa_Thatcher
-Madison_Ivy
 Madison_Parker
 Madison_Stone
 Madison_Young
@@ -683,6 +696,7 @@ Natasha_Nice
 Nautica_Thorn
 Nici_Sterling
 Nicki_Hunter
+Nicole_Aniston
 Nicole_Ray
 Nicole_Sheridan
 Niki_Belucci
@@ -827,6 +841,7 @@ Tanya_Tate
 Tara_Lynn_Foxx
 Tarra_White
 Taryn_Thomas
+Tasha_Reign
 Tawny_Roberts
 Taylor_Hayes
 Taylor_Rain
