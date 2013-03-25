@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.011';
+our $VERSION = '1.012';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-03-25 - v1.012
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.031.
 
 =item *
 
@@ -166,7 +172,6 @@ Two_X
 Absolute
 Abul_du
 AgiliaLinux
-Alinex
 aLinux
 Alpine
 ALT
@@ -181,11 +186,9 @@ AriOS
 ArtistX
 AsteriskNOW
 Asturix
-Aurora
 AUSTRUMI
 AV_Linux
 BackBox
-BackTrack
 Baltix
 Bardinux
 Bayanihan
@@ -280,10 +283,12 @@ JoLinux
 Joli_OS
 kademar
 KahelOS
+Kali
 KANOTIX
 Karoshi
 Kiwi
 KNOPPIX
+KolibriOS
 Kongoni
 Korora
 Kubuntu
@@ -355,6 +360,7 @@ Oz_Unity
 paldo
 PapugLinux
 Parabola
+Pardus
 Parsix
 Parted_Magic
 PC_BSD
@@ -451,6 +457,7 @@ UberStudent
 Ubuntu
 Ubuntu_Christian
 Ubuntu_DP
+UbuntuKylin
 Ubuntu_Studio
 UHU_Linux
 Ulteo
@@ -473,6 +480,7 @@ Vyatta
 wattOS
 Webconverger
 Wifislax
+WM_Live
 xPUD
 Xubuntu
 Yellow_Dog
