@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.012';
+our $VERSION = '1.013';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-06-03 - v1.013
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.032.
 
 =item *
 
@@ -176,6 +182,7 @@ aLinux
 Alpine
 ALT
 Ankur_Bangla
+Antergos
 antiX
 APODIO
 aptosid
@@ -184,6 +191,7 @@ ArchBang
 ArcheOS
 AriOS
 ArtistX
+Asianux
 AsteriskNOW
 Asturix
 AUSTRUMI
@@ -191,13 +199,11 @@ AV_Linux
 BackBox
 Baltix
 Bardinux
-Bayanihan
 BeakOS
 Berry
 BigLinux
 Bio_Linux
 blackPanther
-BLAG
 BlankOn
 Bodhi
 BOSS
@@ -210,22 +216,18 @@ Caixa_M_gica
 Calculate
 Canaima
 C_tix
-CCux
 CDlinux
 CentOS
 Chakra
-Cinnarch
 ClearOS
 Clonezilla
 Comfusion
-Commodore
 Connochaet
 CrunchBang
 CRUX
 CTKArch
 Damn_Small
 Debian
-DebXPde
 Deepin
 DEFT
 Descent_OS
@@ -257,7 +259,6 @@ FreeBSD
 FreeNAS
 Frenzy
 Frugalware
-Fuduntu
 FuguIta
 Funtoo
 Fusion
@@ -279,7 +280,6 @@ IPCop
 IPFire
 iQunix
 Jibbed
-JoLinux
 Joli_OS
 kademar
 KahelOS
@@ -301,7 +301,6 @@ LinEx
 LinHES
 Linpus
 LinuxConsole
-linuX_gamers
 LinuxTLE
 Linvo
 Lite
@@ -315,14 +314,13 @@ m0n0wall
 Macpup
 Madbox
 Mageia
-Magic
 Mandriva
-Mangaka
 Manjaro
 Matriux
 MAX
 MEPIS
 MidnightBSD
+MIKO_GNYO
 MiniNo
 MINIX
 Mint
@@ -335,7 +333,6 @@ NAS4Free
 NetBSD
 Netrunner
 NetSecL
-Nexenta
 NexentaStor
 NST
 NuTyX
@@ -344,7 +341,6 @@ OLPC
 Omoikane
 OpenBSD
 OpenELEC
-Openfiler
 OpenIndiana
 openmamba
 OpenMediaVault
@@ -375,14 +371,13 @@ Pinguy
 Plamo
 PLD
 Plop
+Point
+PoliArch
 Porteus
 Poseidon
-pQui
-Privatix
 Proxmox
 Puppy
 PureOS
-Qimo
 Qomo
 Qubes
 Quirky
@@ -390,7 +385,7 @@ Rebellin
 Red_Flag
 Red_Hat
 Redo
-redWall
+REMnux
 Rescatux
 Resulinux
 RIPLinuX
@@ -398,18 +393,15 @@ Rocks_Cluster
 ROSA
 Runtu
 Sabayon
-Sabily
 SalentOS
 SalineOS
 Salix
-Saluki
-SAMity
-Satux
 SchilliX
 Scientific
 Securepoint
 Semplice
 siduction
+Simplicity
 Skolelinux
 Slackel
 Slackware
@@ -421,6 +413,7 @@ SMS
 Snowlinux
 Solaris
 SolusOS
+SolydXK
 Sophos
 Sorcerer
 Source_Mage
@@ -433,23 +426,18 @@ StressLinux
 SuliX
 Super_OS
 SuperX
-Suriyan
 SUSE
+Swecha
 Swift
-Syllable
 SystemRescue
 T2
 Tails
 Tango_Studio
-TFM
 Thinstation
 Tiny_Core
-TinyMe
 Toorox
 Toutou
-Trinity
 Trisquel
-trixbox
 Tuquito
 Turbolinux
 TurnKey
@@ -457,10 +445,9 @@ UberStudent
 Ubuntu
 Ubuntu_Christian
 Ubuntu_DP
+Ubuntu_GNOME
 UbuntuKylin
 Ubuntu_Studio
-UHU_Linux
-Ulteo
 Ultimate
 Unity
 Univention
@@ -473,7 +460,6 @@ Vector
 Venenux
 Vine
 Vinux
-VLOS
 VortexBox
 Voyager
 Vyatta
@@ -481,7 +467,6 @@ wattOS
 Webconverger
 Wifislax
 WM_Live
-xPUD
 Xubuntu
 Yellow_Dog
 Zentyal
