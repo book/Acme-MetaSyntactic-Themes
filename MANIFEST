@@ -136,5 +136,5 @@ META.json
 META.yml
 README
 t/metasyntactic.t
-t/pod-coverage.t
-t/pod.t
+xt/pod-coverage.t
+xt/pod.t
