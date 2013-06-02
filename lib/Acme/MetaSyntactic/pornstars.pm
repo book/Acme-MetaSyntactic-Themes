@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.012';
+our $VERSION = '1.013';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-06-03 - v1.013
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.032.
 
 =item *
 
@@ -224,13 +230,13 @@ Alina_Plugaru
 Alisha_Klass
 Allysin_Chaynes
 Alyssa_Love
-Alyssa_Reece
 Amber_Lynn
 Amber_Rayne
 Ami_Ayukawa
 Amile_Waters
 Amy_Ried
 Andrea_True
+Angel
 Angela_Devi
 Angela_Summers
 Angel_Dark
@@ -256,7 +262,6 @@ Arcadia_Lake
 Aria_Giovanni
 Ariana_Jollee
 Aria_Noir
-Ariella_Ferrera
 Ariel_Rebel
 Asa_Akira
 Asami_Jo
@@ -266,7 +271,6 @@ Ashley_Long
 Ashley_Renee
 Ashlyn_Gere
 Ashlynn_Brooke
-Ashton_Moore
 Asia_Carrera
 Asuka_Sakamaki
 Aubrey_Addams
@@ -275,7 +279,6 @@ Audrey_Hollander
 August
 Aurora_Snow
 Austyn_Moore
-Autumn_Haze
 Ava_Devine
 Ava_Rose
 Ava_Vincent
@@ -296,6 +299,7 @@ Bobbi_Bliss
 Bobbi_Eden
 Bobbi_Starr
 Bodil_Joensen
+Bonnie_Rotten
 Brandi_Love
 Brandy_Alexandre
 Brandy_Talore
@@ -310,7 +314,6 @@ Bridgette_Kerkove
 Bridgette_Monet
 Brigitta_Bulgari
 Brigitte_Lahaie
-Britney_Stevens
 Brittany_Andrews
 Britt_Morgan
 Brittney_Skye
@@ -348,7 +351,6 @@ Celeste
 Celia_Blanco
 Chanel_Preston
 Charley_Chase
-Charlie
 Charlie_Laine
 Charlotte_Stokely
 Charmaine_Sinclair
@@ -357,11 +359,8 @@ Chasey_Lain
 Chayse_Evans
 Chelsea_Blue
 Chelsea_Charms
-Chelsie_Rae
-Cherry_Mirage
 Chihiro_Hasegawa
 Chloe
-Chloe_Dior
 Chloe_Jones
 Christie_Lee
 Christi_Lake
@@ -370,7 +369,6 @@ Christy_Canyon
 Cindy_Crawford
 Cindy_Hope
 C_J_Laing
-Claire_Dames
 Clara_G
 Clara_Morgane
 Claudia_Rossi
@@ -422,6 +420,7 @@ Echo_Valley
 Ellen_Saint
 Erica_Boyer
 Erica_Campbell
+Erica_Fontes
 Erika_Bella
 Eri_Kikuchi
 Erin_Brown
@@ -550,7 +549,6 @@ Kagney_Linn_Karter
 Kaitlyn_Ashley
 Kandi_Barbour
 Kaoru_Kuroki
-Kapri_Styles
 Karen_Lancaume
 Katalin_Vad
 Kate_Asabuki
@@ -589,7 +587,6 @@ Krista_Lane
 Kristal_Summers
 Kristara_Barrington
 Kristina_Rose
-Krystal_Steal
 Kyoko_Aizome
 Kyoko_Ayana
 Kyoko_Nakajima
@@ -632,7 +629,6 @@ London_Keyes
 Loni_Sanders
 Lorelei_Lee
 Lorena_Sanchez
-Love_twins
 Lucia_Lapiedra
 Lupe_Fuentes
 Luscious_Lopez
@@ -683,6 +679,7 @@ Misty_Dawn
 Misty_Stone
 Moana_Pozzi
 Monica_Mattos
+Monica_Mayhem
 Monica_Sweetheart
 Monique_Alexander
 Nadia_Styles
@@ -721,7 +718,6 @@ Ona_Zee
 Pandora_Peaks
 Paulina_James
 Pauline_Chan
-Peaches
 Penny_Flame
 Phoenix_Marie
 P_J_Sparxx
@@ -802,7 +798,6 @@ Shoko_Goto
 Shyla_Foxxx
 Shyla_Stylez
 Shy_Love
-Sierra_Sinn
 Silvia_Saint
 Sindee_Coxx
 Sindee_Jennings
@@ -869,7 +864,6 @@ Traci_Lords
 Trinity_Loren
 Trinity_Post
 Trisha_Uptown
-Tyla_Wynn
 Tylene_Buck
 Tyler_Faith
 Tyra_Banxxx
@@ -884,7 +878,6 @@ Vicca
 Vicki_Chase
 Vicky_Vette
 Victoria_Paris
-Victoria_Sin
 Violet_Storm
 Wanda_Curtis
 Wendy_Whoppers
