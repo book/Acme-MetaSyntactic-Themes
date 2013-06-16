@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.013';
+our $VERSION = '1.014';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -43,7 +43,7 @@ These pages have been deleted in late 2006.
 In 2012, Wikipedia offers
 L<http://en.wikipedia.org/wiki/List_of_pornographic_actresses_by_decade>
 as a source for female actresses, but no source for male performers.
-The C<male> category is therefore B<obsolete>.
+The data for the C<male> category is therefore B<obsolete>.
 
 =head1 CONTRIBUTOR
 
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-06-17 - v1.014
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.033.
 
 =item *
 
@@ -128,8 +134,8 @@ Updated from the source web site in Acme-MetaSyntactic-Themes version 1.003.
 =item *
 
 2012-05-14 - v1.001
- 
-Updated with an C<=encoding> pod command 
+
+Updated with an C<=encoding> pod command
 in Acme-MetaSyntactic-Themes version 1.001.
 
 =item *
@@ -204,6 +210,7 @@ Adriana_Sage
 Adrianna_Lynn
 Adrianna_Nicole
 Aiden_Ashley
+Aiden_Starr
 Ai_Iijima
 Aika_Miura
 Ai_Kurosawa
@@ -213,7 +220,6 @@ Akiho_Yoshizawa
 Akira_Watase
 Aki_Tomosaki
 Alana_Evans
-Alaura_Eden
 Alektra_Blue
 Aletta_Ocean
 Alexandra_Quinn
@@ -245,6 +251,7 @@ Angelica_Costello
 Angelina_Valentine
 Angel_Kelly
 Angel_Long
+Angie_Savage
 Anikka_Albrite
 Anja_Juliette_Laval
 Annabel_Chong
@@ -258,6 +265,7 @@ Annie_Cruz
 Annie_Sprinkle
 Ann_Marie_Rios
 April_Flowers
+April_O_Neil
 Arcadia_Lake
 Aria_Giovanni
 Ariana_Jollee
@@ -387,6 +395,7 @@ Dahlia_Grey
 Daisy_Marie
 Daisy_Rock
 Dana_DeArmond
+Dana_Vespoli
 Dani_Daniels
 Daniella_Rush
 Dani_Woodward
@@ -404,6 +413,7 @@ Devinn_Lane
 Devon
 Devon_Lee
 Devon_Michaels
+Diamond_Foxxx
 Diana_Doll
 Dina_Jewel
 Dolly_Buster
@@ -415,6 +425,7 @@ Dorothy_LeMay
 Dru_Berrymore
 Dunia_Montenegro
 Dyanna_Lauren
+Dylan_Ryder
 Ebony_Ayes
 Echo_Valley
 Ellen_Saint
@@ -436,6 +447,7 @@ Felix_Vicious
 Flick_Shagwell
 Flower_Tucci
 Francesca_Le
+Franceska_Jaimes
 Gabriella_Fox
 Gail_Force
 Gauge
@@ -448,7 +460,6 @@ Gina_Lynn
 Gina_Ryder
 Ginger_Lynn
 Gloria_Leonard
-Gwen_Summers
 Haley_Paige
 Hannah_Harper
 Hanna_Hilton
@@ -524,6 +535,7 @@ Jessica_Sweet
 Jessie_Andrews
 Jessie_Rogers
 Jessie_St_James
+Jessie_Volt
 Jewel_De_Nyle
 Jill_Kelly
 Joanna_Angel
@@ -599,6 +611,7 @@ Lauren_Phoenix
 Laure_Sainclair
 Layla_Rivera
 Lea_De_Mae
+Lea_Lexis
 Leilani_Leeane
 Lela_Star
 Leslie_Bovee
@@ -724,6 +737,7 @@ P_J_Sparxx
 Poppy_Morgan
 Porsche_Lynn
 Priscila_Sol
+Priya_Anjali_Rai
 Puma_Swede
 Rachel_Ashley
 Rachel_Rotten
