@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::wales_towns;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -25,7 +25,7 @@ Acme::MetaSyntactic::wales_towns - Towns in Wales
 
 =head1 DESCRIPTION
 
-List of towns in Wales. 
+List of towns in Wales.
 
 It would be nice to extend this to a list of all towns and villages
 in Wales, if only to be able to include
@@ -40,6 +40,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-06-17 - v1.001
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.033.
 
 =item *
 
@@ -161,6 +167,7 @@ Llantwit_Major
 Llanwrtyd_Wells
 Llanybydder
 Loughor
+Llanishen
 Machynlleth
 Maesteg
 Menai_Bridge
