@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::debian;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 1;
 
@@ -19,11 +19,18 @@ Source: L<http://www.debian.org/doc/manuals/debian-faq/ch-ftparchives.en.html#s-
 
 =head1 CONTRIBUTOR
 
-Philippe "BooK" Bruhat.
+Philippe Bruhat (Book).
 
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-06-17 - v1.001
+
+Added C<jessie> to the list of Debian codenames.
+Published in Acme-MetaSyntactic-Themes version 1.033.
 
 =item *
 
@@ -52,4 +59,5 @@ buzz rex bo
 hamm slink potato
 woody sarge etch
 lenny squeeze wheezy
+jessie
 sid
