@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.014';
+our $VERSION = '1.015';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-07-22 - v1.015
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.034.
 
 =item *
 
@@ -204,6 +210,7 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 
 __DATA__
 # names female
+Aaliyah_Love
 Abella_Anderson
 Abigail_Clayton
 Adriana_Sage
@@ -250,7 +257,6 @@ Angelica_Bella
 Angelica_Costello
 Angelina_Valentine
 Angel_Kelly
-Angel_Long
 Angie_Savage
 Anikka_Albrite
 Anja_Juliette_Laval
@@ -372,7 +378,6 @@ Chloe
 Chloe_Jones
 Christie_Lee
 Christi_Lake
-Christina_Angel
 Christy_Canyon
 Cindy_Crawford
 Cindy_Hope
@@ -419,7 +424,6 @@ Dina_Jewel
 Dolly_Buster
 Dominica_Leoni
 Domonique_Simone
-Donna_Marie
 Dora_Venter
 Dorothy_LeMay
 Dru_Berrymore
@@ -844,6 +848,7 @@ Taija_Rae
 Tamaki_Katori
 Tami_Monroe
 Tania_Russof
+Tanner_Mayes
 Tanya_Hansen
 Tanya_Hyde
 Tanya_Tate
