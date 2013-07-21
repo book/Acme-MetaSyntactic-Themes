@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.014';
+our $VERSION = '1.015';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-07-22 - v1.015
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.034.
 
 =item *
 
@@ -205,7 +211,6 @@ AV_Linux
 BackBox
 Baltix
 Bardinux
-BeakOS
 Berry
 BigLinux
 Bio_Linux
@@ -281,7 +286,6 @@ Haiku
 Hanthana
 Hybryde
 IDMS
-Imagineos
 IPCop
 IPFire
 iQunix
@@ -305,6 +309,7 @@ Libert
 LinEx
 LinHES
 Linpus
+LinuxBBQ
 LinuxConsole
 LinuxTLE
 Linvo
@@ -315,6 +320,7 @@ LPS
 Lubuntu
 Lunar
 LuninuX
+LXLE
 m0n0wall
 Macpup
 Madbox
@@ -332,7 +338,6 @@ Mint
 Miracle
 MirOS
 Momonga
-Monomaxos
 Mythbuntu
 NAS4Free
 NetBSD
@@ -348,6 +353,7 @@ OpenBSD
 OpenELEC
 OpenIndiana
 openmamba
+OpenMandriva
 OpenMediaVault
 openSUSE
 Openwall
@@ -371,6 +377,8 @@ Pentoo
 Peppermint
 pfSense
 Phinx
+PiBang
+Pidora
 Pinguy
 Plamo
 PLD
@@ -385,6 +393,8 @@ PureOS
 Qomo
 Qubes
 Quirky
+Raspbian
+Raspbmc
 Rebellin
 Red_Flag
 Red_Hat
@@ -393,6 +403,7 @@ REMnux
 Rescatux
 Resulinux
 RIPLinuX
+RISC
 Rocks_Cluster
 ROSA
 Runtu
@@ -412,7 +423,7 @@ Slackware
 Slax
 SliTaz
 SME_Server
-SmoothWall
+Smoothwall
 SMS
 Snowlinux
 Solaris
