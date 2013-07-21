@@ -190,8 +190,8 @@ To make your own Acme::MetaSyntactic theme distribution, you can
 take example from this distribution. Have a look at the F<t/>
 directory in particular.
 
-L<Bundle::MetaSyntactic> is a bundle meant to collect all available
-L<Acme::MetaSyntactic> themes. Please contact the bundle maintainer if
+L<Task::MetaSyntactic> is a L<Task> designed to install all available
+L<Acme::MetaSyntactic> themes. Please contact the task maintainer if
 you want it to include your theme.
 
 =head1 AUTHOR
