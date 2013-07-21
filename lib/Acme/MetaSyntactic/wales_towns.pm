@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::wales_towns;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -40,6 +40,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-07-22 - v1.002
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.034.
 
 =item *
 
@@ -104,6 +110,7 @@ Brynmawr
 Buckley
 Builth_Wells
 Burry_Port
+Caerleon
 Caernarfon
 Caerphilly
 Caerwys
