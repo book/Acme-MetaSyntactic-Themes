@@ -1369,6 +1369,8 @@ Ohio Oklahoma Oregon Pennsylvania Puerto_Rico
 Rhode_Island South_Carolina South_Dakota Tennessee Texas
 United_States_Minor_Outlying_Islands Utah Vermont Virgin_Islands_US
 Virginia Washington West_Virginia Wisconsin Wyoming
+Baker_Island Howland_Island Jarvis_Island Johnston_Atoll Kingman_Reef
+Midway_Atoll Navassa_Island Palmyra_Atoll Wake_Island
 
 # names uy
 Artigas Canelones Cerro_Largo Colonia Durazno Flores Florida Lavalleja
