@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::regions;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA     = qw( Acme::MetaSyntactic::MultiList);
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 
 1;
@@ -35,7 +35,14 @@ Abigail, Philippe Bruhat (BooK).
 
 =item *
 
-2012-10-22
+2013-07-29 - v1.001
+
+Abigail cleaned up the US list and added US uninhabited territories,
+in Acme-MetaSyntactic-Themes version 1.035.
+
+=item *
+
+2013-10-22 - v1.000
 
 Introduced in Acme-MetaSyntactic-Themes version 1.024.
 
