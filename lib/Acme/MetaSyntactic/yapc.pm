@@ -57,7 +57,7 @@ and has been held jointly thereafter.
 =item YAPC::Brazil
 
 Porto Alegre (2005-2006), São Paulo (2007, 2008), Rio de Janeiro (2009),
-Fortaleza (2010), Rio de Janeiro (2011), São Paulo (2012).
+Fortaleza (2010), Rio de Janeiro (2011), São Paulo (2012), Curitiba (2013).
 
 =item YAPC::Taipei
 
@@ -187,6 +187,7 @@ Melbourne
 Taipei
 # names brazil
 Porto_Alegre Sao_Paulo Rio_de_Janeiro Fortaleza Rio_de_Janeiro Sao_Paulo
+Curitiba
 # names asia
 Tokyo
 # names america south
