@@ -28,7 +28,7 @@ The various YAPC are:
 Pittsburgh (1999, 2000), Montreal (2001), Saint-Louis (2002),
 Boca Raton (2003), Buffalo (2004), Toronto (2005), Chicago (2006),
 Houston (2007), Chicago (2008), Pittsburgh (2009), Columbus (2010),
-Asheville (2011), Madison (2012), Austin (2013).
+Asheville (2011), Madison (2012), Austin (2013), Orlando (2014).
 
 =item YAPC::Europe
 
@@ -173,7 +173,7 @@ __DATA__
 :all
 # names america north
 Pittsburgh Montreal Saint_Louis Boca_Raton Buffalo Toronto Chicago Houston
-Chicago Pittsburgh Columbus Asheville Madison Austin
+Chicago Pittsburgh Columbus Asheville Madison Austin Orlando
 # names europe
 London Amsterdam Munich Paris Belfast Braga Birmingham Vienna Copenhagen
 Lisbon Pisa Riga Frankfurt
