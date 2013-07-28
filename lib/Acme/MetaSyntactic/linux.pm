@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.015';
+our $VERSION = '1.016';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-07-29 - v1.016
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.035.
 
 =item *
 
@@ -301,6 +307,7 @@ KNOPPIX
 KolibriOS
 Korora
 Kubuntu
+Kwheezy
 Kwort
 Leeenux
 Legacy
