@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::tour_de_france;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.004';
+our $VERSION = '1.005';
 
 =encoding iso-8859-1
 
@@ -151,6 +151,13 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-07-29 - v1.005
+
+Spelling fixes sent by Abigail,
+published in Acme-MetaSyntactic-Themes version 1.035.
 
 =item *
 
