@@ -46,6 +46,7 @@ our %Remote = (
     Summer Games
     ============
 
+    2020   Tokyo
     2016   Rio de Janeiro
     2012   London
     2008   Beijing
