@@ -13,25 +13,11 @@ Acme::MetaSyntactic::olympics - Olympic cities theme
 This theme lists the cities who have hosted, or will host, Olympic Games.
 Cities for both the Summer and Winter games are listed.
 
-The list comes from L<http://www.olympic.org/>.
+The list was originally fetched from L<http://www.olympic.org/>.
 
 The following cities have held, or will hold, the Olympic games.
 
 =cut
-
-our %Remote = (
-    source  =>  'http://www.olympic.org/uk/games/index_uk.asp',
-    extract =>  sub {
-        local $_ = shift;
-        s/(Garmisch-)<br>\s+/$1/;
-        my @names   =  m{<a \s+ class="(?:summer|winter)" \s+ [^>]+>
-                                                 (\w[\w\s\-'.]+\w)\s+\d+</a>}gx;
-        push @names => m{<img[^>]+>&nbsp;<a[^>]+>(\w[\w\s\-'.]+\w)\s+\d+</a>}g;
-
-        my %seen;
-        map {s/\W+/_/g; $_} grep {!$seen {$_} ++} @names;
-    }
-);
 
 {
     my %seen;
