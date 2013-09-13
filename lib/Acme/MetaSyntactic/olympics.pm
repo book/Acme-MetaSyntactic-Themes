@@ -58,7 +58,7 @@ The following cities have held, or will hold, the Olympic games.
     1920   Antwerp
     1912   Stockholm
     1908   London
-    1904   St. Louis
+    1904   Saint-Louis
     1900   Paris
     1896   Athens
 
@@ -84,10 +84,10 @@ The following cities have held, or will hold, the Olympic games.
     1960   Squaw Valley
     1956   Cortina d'Ampezzo
     1952   Oslo
-    1948   St. Moritz
+    1948   Saint-Moritz
     1936   Garmisch-Partenkirchen
     1932   Lake Placid
-    1928   St. Moritz
+    1928   Saint-Moritz
     1924   Chamonix
 
 =cut
