@@ -1,7 +1,7 @@
 package Acme::MetaSyntactic::olympics;
 use strict;
-use Acme::MetaSyntactic::List;
-our @ISA = qw( Acme::MetaSyntactic::List );
+use Acme::MetaSyntactic::MultiList;
+our @ISA = qw( Acme::MetaSyntactic::MultiList );
 our $VERSION = '1.001';
 
 =head1 NAME
@@ -15,17 +15,15 @@ Cities for both the Summer and Winter games are listed.
 
 The list was originally fetched from L<http://www.olympic.org/>.
 
-The following cities have held, or will hold, the Olympic games.
+The following cities have held, or will hold, the Olympic games:
 
 =cut
 
 {
-    my %seen;
-    my $data = join " " =>
-               grep {!$seen {$_} ++}
-               map  {s/\W+/_/g; $_}
-               map  {/^\s+\d+\s+(.+)$/ ? $1 : ()}
-               split /\n/ => <<'=cut';
+    my $data;
+    my $season;
+
+    for my $line ( split /\n/ => <<'=cut' ) {
 
 =pod
 
@@ -92,8 +90,16 @@ The following cities have held, or will hold, the Olympic games.
 
 =cut
 
-__PACKAGE__->init( { names => $data } );
+        $season = lc $1 and next if $line =~ /(\w+) Games/;
+        next if $line !~ /^\s+(\d+)\s+(.*)/;
+        my ( $year, $city ) = ( $1, $2 );
+        $city =~ s/\W+/_/g;
+        $data->{names}{$year}{$season} = $city;
+        $data->{names}{$season}{$year} = $city;
+    }
+    $data->{default} = ':all';
 
+    __PACKAGE__->init($data);
 }
 
 1;
