@@ -3,7 +3,7 @@ package Acme::MetaSyntactic::Themes;
 use strict;
 use warnings;
 
-our $VERSION = '1.035';
+our $VERSION = '1.036';
 
 1;
 
