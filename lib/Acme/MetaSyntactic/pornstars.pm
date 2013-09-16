@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.015';
+our $VERSION = '1.016';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -52,6 +52,12 @@ Sébastien Aperghis-Tramoni.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-09-16 - v1.016
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.036.
 
 =item *
 
@@ -526,6 +532,7 @@ Jenna_Presley
 Jennifer_Luv
 Jennifer_Stewart
 Jennifer_Welles
+Jennifer_White
 Jenny_Hendrix
 Jenteal
 Jesse_Capelli
@@ -648,7 +655,6 @@ Lorelei_Lee
 Lorena_Sanchez
 Lucia_Lapiedra
 Lupe_Fuentes
-Luscious_Lopez
 Lux_Kassidy
 Lysa_Thatcher
 Madison_Parker
@@ -749,7 +755,6 @@ Rachel_Roxxx
 Rachel_Ryan
 Racquel_Darrian
 Raffaela_Anderson
-Randi_Wright
 Raven_Alexis
 Raven_Riley
 Raylene
@@ -761,11 +766,9 @@ Remy_LaCroix
 Renae_Cruz
 Rene_Bond
 Renee_Perez
-Renee_Pornero
 Rhonda_Jo_Petty
 Riko_Tachibana
 Riley_Reid
-Riley_Shy
 Riley_Steele
 Rina_Nakanishi
 Rin_Aoki
