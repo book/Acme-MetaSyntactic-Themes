@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::olympics;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 
 =head1 NAME
 
@@ -113,6 +113,14 @@ Abigail, Philippe Bruhat.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-09-16 - v1.002
+
+Turned into a multilist, with all combinations of year and seasons
+as categories and the location for the 2020 summer olympics
+in Acme-MetaSyntactic-Themes version 1.036.
 
 =item *
 
