@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.016';
+our $VERSION = '1.017';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-09-16 - v1.017
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.036.
 
 =item *
 
@@ -239,10 +245,8 @@ Chakra
 ClearOS
 Clonezilla
 Comfusion
-Connochaet
 CrunchBang
 CRUX
-CTKArch
 Damn_Small
 Debian
 Deepin
@@ -319,7 +323,6 @@ Linpus
 LinuxBBQ
 LinuxConsole
 LinuxTLE
-Linvo
 Lite
 Litrix
 LliureX
@@ -372,7 +375,6 @@ Otakux
 Overclockix
 Oz_Unity
 paldo
-PapugLinux
 Parabola
 Pardus
 Parsix
@@ -393,7 +395,6 @@ Plop
 Point
 PoliArch
 Porteus
-Poseidon
 Proxmox
 Puppy
 PureOS
@@ -402,6 +403,7 @@ Qubes
 Quirky
 Raspbian
 Raspbmc
+RaspyFi
 Rebellin
 Red_Flag
 Red_Hat
@@ -429,6 +431,7 @@ Slackel
 Slackware
 Slax
 SliTaz
+SmartOS
 SME_Server
 Smoothwall
 SMS
