@@ -999,6 +999,10 @@ The winners are:
  2012   Physics     David J. Wineland
  2012   Physics     Serge Haroche
 
+ 2013   Medecine    James E. Rothman
+ 2013   Medecine    Randy W. Schekman
+ 2013   Medecine    Thomas C. Südhof
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
