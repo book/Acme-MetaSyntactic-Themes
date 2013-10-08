@@ -1002,6 +1002,8 @@ The winners are:
  2013   Medecine    James E. Rothman
  2013   Medecine    Randy W. Schekman
  2013   Medecine    Thomas C. Südhof
+ 2013   Physics     François Englert
+ 2013   Physics     Peter Higgs
 
 =cut
 
