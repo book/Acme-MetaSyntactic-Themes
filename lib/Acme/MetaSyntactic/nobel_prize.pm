@@ -1002,6 +1002,7 @@ The winners are:
  2013   Chemistry   Arieh Warshel
  2013   Chemistry   Martin Karplus
  2013   Chemistry   Michael Levitt
+ 2013   Literature  Alice Munro
  2013   Medecine    James E. Rothman
  2013   Medecine    Randy W. Schekman
  2013   Medecine    Thomas C. Südhof
