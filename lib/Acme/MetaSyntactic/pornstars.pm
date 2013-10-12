@@ -47,6 +47,10 @@ The data for the C<male> category is therefore B<obsolete>.
 
 =head1 CONTRIBUTORS
 
+On September 15, 2013, while I was digging for the responsible parties,
+Maddingue summarized this theme as "I<a stupid idea, part of a bigger
+stupid idea, that was born of the collective pervert minds of ...>"
+
 Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 
 =head1 CHANGES
@@ -257,10 +261,6 @@ names" of famous Perl hackers.
 C<rgs> offered the first Wikipedia link. A few days later, C<grinder>
 tried to use the non-existent theme, and C<rgs> complained about its
 absence.
-
-Maddingue's summary, on September 15, 2013:
-"I<this is a stupid idea, part of a bigger stupid idea, that was born
-from the collective pervert minds of ...>"
 
 =back
 
