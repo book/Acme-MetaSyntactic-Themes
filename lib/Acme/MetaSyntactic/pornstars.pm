@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.016';
+our $VERSION = '1.017';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -14,7 +14,7 @@ our %Remote = (
             map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_utf8_basic($_) }
             grep { ! /^List_|_Groups$/ }
-            map { s/[-\s']/_/g; s/[."]//g; $_ }
+            map { s/[-\s'\x{2019}]/_/g; s/[."]//g; $_ }
             $_[0]
             =~ m{^<li>(?:<[^>]*>)?(.*?)(?:(?: ?[-,(<]| aka | see ).*)?</li>}mig
     },
@@ -45,13 +45,23 @@ L<http://en.wikipedia.org/wiki/List_of_pornographic_actresses_by_decade>
 as a source for female actresses, but no source for male performers.
 The data for the C<male> category is therefore B<obsolete>.
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
 
-Sébastien Aperghis-Tramoni.
+On September 15, 2013, while I was digging for the responsible parties,
+Maddingue summarized this theme as "I<a stupid idea, part of a bigger
+stupid idea, that was born of the collective pervert minds of ...>"
+
+Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-10-14 - v1.017
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.037.
 
 =item *
 
@@ -206,6 +216,58 @@ Updated from the source web site in Acme-MetaSyntactic version 0.70.
 
 Introduced in Acme-MetaSyntactic version 0.69.
 
+=item *
+
+2006-03-10
+
+The irc logs from 2005 (see below) prove that I have a bad memory (and
+this is why logs are a good thing, if you care about the useless minutae)
+when I claim that Maddingue was the one who offered the first Wikipedia
+link for scraping porn star names. I also claimed that publishing in
+version 0.69 was his idea. At this point, I do not trust my former self.
+
+=item *
+
+2005-08-24
+
+The C<pornstars> theme is ready to be published. More than eight months
+in advance, it's already clear that the first distribution holding it
+will be version 0.69, even though the information was never made public.
+
+Some time before, it had been agreed that Sébastien would take
+responsibility for the module. I haven't been able to find records for
+that yet.
+
+=item *
+
+2005-05-17
+
+When an italian Perl monger annouced he had to write a pornographic web
+site, and another asked which variable he would use, C<osfameron>
+immediately thought about L<Acme::MetaSyntactic>, and investigated the
+C<meta> bot:
+
+    15:06 <@osfameron> meta porno
+    15:06 <+meta> osfameron: No such theme: porno
+    15:07 <@guillomovitch> meta pr0n
+    15:07 <+meta> guillomovitch: No such theme: prn
+    15:07 <@rgs> osfameron: patches welcome
+    15:07 <+purl> Of course, you really mean FOAD, HAND, HTH
+    15:07 <@osfameron> heh
+    15:08 <@osfameron> un des italiens a dit qu'il doit creer un site porn
+    15:08 <@osfameron> un autre lui a demande' ce qui utilisera comme noms de variables
+    15:08 <@osfameron> j'ai pense' a AMS..
+
+Later in the day, a discussion about people's porn star names
+(name of your first childhood pet, along with the name of the first
+street where you grew up) quickly derailed into the idea of making
+I<Acme::MetaSyntactic::pornstarname>, which would list the "porn star
+names" of famous Perl hackers.
+
+C<rgs> offered the first Wikipedia link. A few days later, C<grinder>
+tried to use the non-existent theme, and C<rgs> complained about its
+absence.
+
 =back
 
 =head1 SEE ALSO
@@ -220,6 +282,7 @@ Aaliyah_Love
 Abella_Anderson
 Abigail_Clayton
 Adriana_Sage
+Adrianna_Luna
 Adrianna_Lynn
 Adrianna_Nicole
 Aiden_Ashley
@@ -280,6 +343,7 @@ April_Flowers
 April_O_Neil
 Arcadia_Lake
 Aria_Giovanni
+Ariana
 Ariana_Jollee
 Aria_Noir
 Ariel_Rebel
@@ -630,6 +694,7 @@ Leslie_Glass
 Letha_Weapons
 Lexi_Belle
 Lexie_Marie
+Lexi_Swallow
 Lexxi_Tyler
 Lezley_Zen
 Liliane_Tiger
@@ -657,6 +722,7 @@ Lucia_Lapiedra
 Lupe_Fuentes
 Lux_Kassidy
 Lysa_Thatcher
+Maddy_O_Reilly
 Madison_Parker
 Madison_Stone
 Madison_Young
@@ -739,9 +805,11 @@ Olivia_O_Lovely
 Olivia_Saint
 Ona_Zee
 Pandora_Peaks
+Patricia_Rhomberg
 Paulina_James
 Pauline_Chan
 Penny_Flame
+Penny_Pax
 Phoenix_Marie
 P_J_Sparxx
 Poppy_Morgan
