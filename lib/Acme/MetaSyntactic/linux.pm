@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.017';
+our $VERSION = '1.018';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-10-14 - v1.018
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.037.
 
 =item *
 
@@ -259,7 +265,6 @@ Draco
 DragonFly
 Dragora
 DreamStudio
-dyne_bolic
 EasyPeasy
 Edubuntu
 Ekaaty
@@ -295,7 +300,6 @@ Hacao
 Haiku
 Hanthana
 Hybryde
-IDMS
 IPCop
 IPFire
 iQunix
@@ -322,7 +326,6 @@ LinHES
 Linpus
 LinuxBBQ
 LinuxConsole
-LinuxTLE
 Lite
 Litrix
 LliureX
@@ -447,7 +450,6 @@ SprezzOS
 Springdale
 StartOS
 Stella
-StressLinux
 SuliX
 Super_OS
 SuperX
