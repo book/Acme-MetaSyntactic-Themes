@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 
 =encoding iso-8859-1
 
@@ -1002,6 +1002,9 @@ The winners are:
  2013   Chemistry   Arieh Warshel
  2013   Chemistry   Martin Karplus
  2013   Chemistry   Michael Levitt
+ 2013   Economics   Eugene F. Fama
+ 2013   Economics   Lars Peter Hansen
+ 2013   Economics   Robert J. Shiller
  2013   Literature  Alice Munro
  2013   Medecine    James E. Rothman
  2013   Medecine    Randy W. Schekman
@@ -1041,6 +1044,13 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-10-13 - v1.001
+
+Updated with the Nobel prizes for 2013, and
+published in Acme-MetaSyntactic-Themes version 1.037.
 
 =item *
 
