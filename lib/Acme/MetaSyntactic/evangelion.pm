@@ -1,11 +1,10 @@
 package Acme::MetaSyntactic::evangelion;
 use strict;
-use Acme::MetaSyntactic::List;
+use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 1;
-
 
 =encoding utf-8
 
@@ -21,7 +20,7 @@ terms used in the series. It also contains names from the I<Rebuild
 of Evangelion> tetralogy and from 新世紀エヴァンゲリオン 碇シンジ育成計画
 (I<Shin Seiki Evangelion: Ikari Shinji Ikusei Keikaku>).
 
-L<http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion> is a good 
+L<http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion> is a good
 start to read about about I<Evangelion>.
 
 =head2 Categories
@@ -94,11 +93,18 @@ additionnal names from I<Rebuild of Evangelion>
 
 =head1 CONTRIBUTOR
 
-Sébastien Aperghis-Traamoni.
+Sébastien Aperghis-Tramoni.
 
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-10-14 - v1.001
+
+Fixed a typo in Sébastien's last name and now load the proper parent module,
+in Acme-MetaSyntactic-Themes version 1.037.
 
 =item *
 
