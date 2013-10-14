@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.016';
+our $VERSION = '1.017';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -14,7 +14,7 @@ our %Remote = (
             map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_utf8_basic($_) }
             grep { ! /^List_|_Groups$/ }
-            map { s/[-\s']/_/g; s/[."]//g; $_ }
+            map { s/[-\s'\x{2019}]/_/g; s/[."]//g; $_ }
             $_[0]
             =~ m{^<li>(?:<[^>]*>)?(.*?)(?:(?: ?[-,(<]| aka | see ).*)?</li>}mig
     },
@@ -56,6 +56,12 @@ Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-10-14 - v1.017
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.037.
 
 =item *
 
@@ -276,6 +282,7 @@ Aaliyah_Love
 Abella_Anderson
 Abigail_Clayton
 Adriana_Sage
+Adrianna_Luna
 Adrianna_Lynn
 Adrianna_Nicole
 Aiden_Ashley
@@ -336,6 +343,7 @@ April_Flowers
 April_O_Neil
 Arcadia_Lake
 Aria_Giovanni
+Ariana
 Ariana_Jollee
 Aria_Noir
 Ariel_Rebel
@@ -686,6 +694,7 @@ Leslie_Glass
 Letha_Weapons
 Lexi_Belle
 Lexie_Marie
+Lexi_Swallow
 Lexxi_Tyler
 Lezley_Zen
 Liliane_Tiger
@@ -713,6 +722,7 @@ Lucia_Lapiedra
 Lupe_Fuentes
 Lux_Kassidy
 Lysa_Thatcher
+Maddy_O_Reilly
 Madison_Parker
 Madison_Stone
 Madison_Young
@@ -795,9 +805,11 @@ Olivia_O_Lovely
 Olivia_Saint
 Ona_Zee
 Pandora_Peaks
+Patricia_Rhomberg
 Paulina_James
 Pauline_Chan
 Penny_Flame
+Penny_Pax
 Phoenix_Marie
 P_J_Sparxx
 Poppy_Morgan
