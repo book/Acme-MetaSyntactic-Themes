@@ -6,7 +6,7 @@ package Acme::MetaSyntactic::donmartin;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -29,7 +29,10 @@ our %Remote = (
             s/^_+|_+$//g;
 
             # send the final result
-            $_;
+            # but split one item that's way too long
+            /TIKAK_KAK_BINGCHIKA_CHUNK_THWIZZIK_ZAK/
+                ? ( substr( $_, 0, 164 ), substr( $_, 165 ) )
+                : $_
             } $_[0]
             =~ m!<tr[^<]+<td[^<]+<font[^<]+size=4>\s*(.*?)\s*</font>!igs;
     },
@@ -55,6 +58,14 @@ Vahe Sarkissian.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-10-14 - v1.003
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.037.
+
+One very long item (367 characters) is split in two smaller ones.
 
 =item *
 
@@ -1039,6 +1050,7 @@ THWAP
 THWAT
 THWiP
 THWIT
+THWIZZIT
 THWOCK
 THWOK
 THWOP
@@ -1051,7 +1063,8 @@ TIKA_TIKA
 TIKATIK_CHIRP
 TIK_TIK
 TIK_TIKA
-TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_TIK_TIKA_BING_CHIKA_CHUNK_THWIZZIK_ZAK_BING
+TIKKA_TIK_TIKKA_TIKKAK_TIKKAK_TIKKIK_TIKKIK_TIKA_TIKIK_TIKKA_TIKAKADA_KAKADA_TAK_TIKIK_TIK_TIKATIKA_TIK_TAKADA_TIKAK_TIK_TIKA_TIKAK_KAK_BINGCHIKA_CHUNK_THWIZZIK_ZAK
+TIK_TIKATAK_TIKKIK_TIKKIK_TIK_TIKA_TIKKIK_TIKKAK_TIKKAK_TIK_TIKIK_TIKITY_TIK_TIK_TIKKAK_TIKKAK_TAK_KAKA_TAKAKA_TIKKIK_KIK_TAKKAK_KAK_BINGCHIKA_CHUNK_THWIZZIK_ZAK_TIK_TIKKA_TIKKAK_TIK_TIK_TIKAKATA_KAKATA
 TING
 Ting_aling_aling
 Ting_aling
