@@ -17,6 +17,10 @@ This theme has the nobel prize winners, divided into categories. The
 first Nobel prizes were awarded in 1901. Nobel prizes have been awarded
 for Chemistry, Literature, Medicine, Peace, Physics, and Economics.
 
+Strictly speaking, the Economics prize is not actually a "Nobel Prize",
+but the "I<Sveriges Riksbank Prize in Economic Sciences in Memory of
+Alfred Nobel>". It was first awarded in 1969.
+
 The winners are:
 
 =cut
