@@ -84,7 +84,7 @@ Brille     Lystig      Gnavpot     Dumpe       Sovnig      Prosit      Flovmand
 # names de
 Chef       Happy       Brummbar    Seppl       Schlafmutz  Hatschi     Pimpel
 # names en
-Doc        Happy       Grumpy      Dopey       Sleepy      Sneezy      Bashfull
+Doc        Happy       Grumpy      Dopey       Sleepy      Sneezy      Bashful
 # names es
 Sabio      Feliz       Grunon      Tontin      Dormilon    Alergico    Romantico
 # names fi
