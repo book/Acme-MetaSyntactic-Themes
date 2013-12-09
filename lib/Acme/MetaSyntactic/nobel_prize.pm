@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 
 =encoding iso-8859-1
 
@@ -1048,6 +1048,13 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-12-09 - v1.002
+
+Updated to state that the Econimics prize is not strictly a Nobel prize, and
+published in Acme-MetaSyntactic-Themes version 1.038.
 
 =item *
 
