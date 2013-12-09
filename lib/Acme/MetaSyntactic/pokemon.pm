@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pokemon;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -27,7 +27,7 @@ Acme::MetaSyntactic::pokemon - The Pokémon theme
 
 =head1 DESCRIPTION
 
-List of the 649 Pokémon characters that are officially known to exist
+List of the 718 Pokémon characters that are officially known to exist
 in the franchise.
 
 This list is based on the following wikipedia article:
@@ -44,6 +44,13 @@ Abigail, Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-12-09 - v1.003
+
+Updated with the Pokémon introduced with the release of Pokémon X and Y
+in Acme-MetaSyntactic-Themes version 1.038.
 
 =item *
 
@@ -767,3 +774,72 @@ Kyurem
 Keldeo
 Meloetta
 Genesect
+Chespin
+Quilladin
+Chesnaught
+Fennekin
+Braixen
+Delphox
+Froakie
+Frogadier
+Greninja
+Bunnelby
+Diggersby
+Fletchling
+Fletchinder
+Talonflame
+Scatterbug
+Spewpa
+Vivillon
+Litleo
+Pyroar
+Flabebe
+Floette
+Florges
+Skiddo
+Gogoat
+Pancham
+Pangoro
+Furfrou
+Espurr
+Meowstic
+Honedge
+Doublade
+Aegislash
+Spritzee
+Aromatisse
+Swirlix
+Slurpuff
+Inkay
+Malamar
+Binacle
+Barbaracle
+Skrelp
+Dragalge
+Clauncher
+Clawitzer
+Helioptile
+Heliolisk
+Tyrunt
+Tyrantrum
+Amaura
+Aurorus
+Sylveon
+Hawlucha
+Dedenne
+Carbink
+Goomy
+Sliggoo
+Goodra
+Klefki
+Phantump
+Trevenant
+Pumpkaboo
+Gourgeist
+Bergmite
+Avalugg
+Noibat
+Noivern
+Xerneas
+Yveltal
+Zygarde
