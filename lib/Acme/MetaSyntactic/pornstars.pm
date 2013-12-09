@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.017';
+our $VERSION = '1.018';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -56,6 +56,12 @@ Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-12-09 - v1.018
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.038.
 
 =item *
 
@@ -317,6 +323,7 @@ Amber_Rayne
 Ami_Ayukawa
 Amile_Waters
 Amy_Ried
+Ana_Foxxx
 Andrea_True
 Angel
 Angela_Devi
@@ -370,6 +377,8 @@ Avy_Scott
 Ayano_Murasaki
 Aylar_Lie
 Azumi_Kawashima
+Bailey_Blue
+Bailey_Jay
 Bambi_Woods
 Barbara_Dare
 Bella
@@ -449,9 +458,11 @@ Chloe_Jones
 Christie_Lee
 Christi_Lake
 Christy_Canyon
+Christy_Mack
 Cindy_Crawford
 Cindy_Hope
 C_J_Laing
+Claire_Castel
 Clara_G
 Clara_Morgane
 Claudia_Rossi
@@ -503,6 +514,7 @@ Dylan_Ryder
 Ebony_Ayes
 Echo_Valley
 Ellen_Saint
+Elly_Akira
 Erica_Boyer
 Erica_Campbell
 Erica_Fontes
@@ -658,6 +670,7 @@ Keisha_Kane
 Kelly_Divine
 Kelly_Stafford
 Kelly_Wells
+Kennedy_Leigh
 Keri_Sable
 Keri_Windsor
 Kiki_Daire
@@ -752,6 +765,7 @@ Melissa
 Melissa_Lauren
 Melissa_Monet
 Memphis_Monroe
+Mia_Malkova
 Mia_Presley
 Mia_Rose
 Michaela_Schaffrath
@@ -790,6 +804,7 @@ Nikita_Denise
 Nikki_Anderson
 Nikki_Benz
 Nikki_Charm
+Nikki_Delano
 Nikki_Dial
 Nikki_Randall
 Nikki_Tyler
@@ -953,6 +968,7 @@ Tracey_Adams
 Traci_Lords
 Trinity_Loren
 Trinity_Post
+Trinity_St_Clair
 Trisha_Uptown
 Tylene_Buck
 Tyler_Faith
