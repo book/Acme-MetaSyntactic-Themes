@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::ben_and_jerry;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.008';
+our $VERSION = '1.009';
 __PACKAGE__->init();
 
 my $regex = {
@@ -43,6 +43,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-12-09 - v1.009
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.038.
 
 =item *
 
@@ -166,9 +172,11 @@ Phish_Food
 Pina_Colada
 Pineapple_Passionfruit
 Pistachio_Pistachio
+Pumpkin_Cheesecake
 Raspberry_Fudge_Chunk
 Red_Velvet_Cake
 S_mores
+Scotchy_Scotch_Scotch
 Strawberry
 Strawberry_Cheesecake
 Strawberry_Shortcake
