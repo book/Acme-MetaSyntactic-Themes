@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.018';
+our $VERSION = '1.019';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-12-09 - v1.019
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.038.
 
 =item *
 
@@ -247,6 +253,7 @@ Canaima
 C_tix
 CDlinux
 CentOS
+Centrych
 Chakra
 ClearOS
 Clonezilla
@@ -304,7 +311,6 @@ IPCop
 IPFire
 iQunix
 Jibbed
-Joli_OS
 kademar
 KahelOS
 Kali
@@ -320,7 +326,7 @@ Kwort
 Leeenux
 Legacy
 LFS
-Libert
+Liberte
 LinEx
 LinHES
 Linpus
@@ -338,6 +344,7 @@ m0n0wall
 Macpup
 Madbox
 Mageia
+MakuluLinux
 Mandriva
 Manjaro
 Matriux
@@ -351,6 +358,7 @@ Mint
 Miracle
 MirOS
 Momonga
+Musix
 Mythbuntu
 NAS4Free
 NetBSD
@@ -365,6 +373,7 @@ Omoikane
 OpenBSD
 OpenELEC
 OpenIndiana
+OpenLX
 openmamba
 OpenMandriva
 OpenMediaVault
@@ -373,7 +382,6 @@ Openwall
 Open_Xange
 Ophcrack
 Oracle
-OS4
 Otakux
 Overclockix
 Oz_Unity
@@ -388,7 +396,6 @@ Pear
 Pentoo
 Peppermint
 pfSense
-Phinx
 PiBang
 Pidora
 Pinguy
@@ -413,7 +420,6 @@ Red_Hat
 Redo
 REMnux
 Rescatux
-Resulinux
 RIPLinuX
 RISC
 Rocks_Cluster
@@ -421,7 +427,6 @@ ROSA
 Runtu
 Sabayon
 SalentOS
-SalineOS
 Salix
 SchilliX
 Scientific
@@ -440,13 +445,11 @@ Smoothwall
 SMS
 Snowlinux
 Solaris
-SolusOS
 SolydXK
 Sophos
 Sorcerer
 Source_Mage
 SparkyLinux
-SprezzOS
 Springdale
 StartOS
 Stella
