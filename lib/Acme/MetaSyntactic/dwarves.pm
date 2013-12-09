@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::dwarves;
 use strict;
 use Acme::MetaSyntactic::Locale;
 our @ISA = qw( Acme::MetaSyntactic::Locale );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 1;
 
@@ -21,6 +21,13 @@ Antoine Hulin, Abigail, Xavier Caron.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-12-09 - v1.002
+
+Updated to fix a misspelling in Bashful's name (English),
+in Acme-MetaSyntactic-Themes version 1.038.
 
 =item *
 
