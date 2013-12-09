@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::wales_towns;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -40,6 +40,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2013-12-09 - v1.004
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.038.
 
 =item *
 
@@ -114,7 +120,6 @@ Blaina
 Brecon
 Bridgend
 Briton_Ferry
-Brittania
 Brynmawr
 Buckley
 Builth_Wells
