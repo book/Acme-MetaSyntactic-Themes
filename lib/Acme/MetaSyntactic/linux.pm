@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.019';
+our $VERSION = '1.020';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-04-07 - v1.020
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.039.
 
 =item *
 
@@ -217,6 +223,7 @@ AgiliaLinux
 aLinux
 Alpine
 ALT
+Android_x86
 Ankur_Bangla
 Antergos
 antiX
@@ -229,7 +236,6 @@ AriOS
 ArtistX
 Asianux
 AsteriskNOW
-Asturix
 AUSTRUMI
 AV_Linux
 BackBox
@@ -238,7 +244,6 @@ Bardinux
 Berry
 BigLinux
 Bio_Linux
-blackPanther
 BlankOn
 Bodhi
 BOSS
@@ -294,11 +299,11 @@ Frenzy
 Frugalware
 FuguIta
 Funtoo
-Fusion
 GeeXboX
 Gentoo
 GhostBSD
 gNewSense
+GoboLinux
 GParted
 Greenie
 Grml
@@ -333,7 +338,6 @@ Linpus
 LinuxBBQ
 LinuxConsole
 Lite
-Litrix
 LliureX
 LPS
 Lubuntu
@@ -351,7 +355,6 @@ Matriux
 MAX
 MEPIS
 MidnightBSD
-MIKO_GNYO
 MiniNo
 MINIX
 Mint
@@ -360,11 +363,13 @@ MirOS
 Momonga
 Musix
 Mythbuntu
+Nanolinux
 NAS4Free
 NetBSD
 Netrunner
 NetSecL
 NexentaStor
+NixOS
 NST
 NuTyX
 Ojuba
@@ -382,7 +387,6 @@ Openwall
 Open_Xange
 Ophcrack
 Oracle
-Otakux
 Overclockix
 Oz_Unity
 paldo
@@ -392,7 +396,6 @@ Parsix
 Parted_Magic
 PC_BSD
 PCLinuxOS
-Pear
 Pentoo
 Peppermint
 pfSense
@@ -408,20 +411,19 @@ Porteus
 Proxmox
 Puppy
 PureOS
-Qomo
 Qubes
 Quirky
 Raspbian
 Raspbmc
 RaspyFi
+ReactOS
 Rebellin
-Red_Flag
 Red_Hat
 Redo
 REMnux
 Rescatux
-RIPLinuX
 RISC
+Robolinux
 Rocks_Cluster
 ROSA
 Runtu
@@ -452,16 +454,17 @@ Source_Mage
 SparkyLinux
 Springdale
 StartOS
+SteamOS
 Stella
 SuliX
-Super_OS
 SuperX
 SUSE
-Swecha
 Swift
+SymphonyOS
 SystemRescue
 T2
 Tails
+Tanglu
 Tango_Studio
 Thinstation
 Tiny_Core
@@ -476,8 +479,9 @@ Ubuntu
 Ubuntu_Christian
 Ubuntu_DP
 Ubuntu_GNOME
-UbuntuKylin
+Ubuntu_Kylin
 Ubuntu_Studio
+Ulteo
 Ultimate
 Unity
 Univention
@@ -487,7 +491,6 @@ Userful
 UTUTO
 VAST
 Vector
-Venenux
 Vine
 Vinux
 VortexBox
