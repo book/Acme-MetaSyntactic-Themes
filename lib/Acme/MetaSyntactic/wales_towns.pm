@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::wales_towns;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.004';
+our $VERSION = '1.005';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -40,6 +40,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-04-07 - v1.005
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.039.
 
 =item *
 
@@ -132,7 +138,6 @@ Caldicot
 Cardiff
 Cardigan
 Carmarthen
-Cefn_Hengoed
 Chepstow
 Chirk
 Cilgerran
@@ -147,7 +152,6 @@ Crumlin
 Cwmamman
 Cwmbran
 Denbigh
-Deri
 Dolgellau
 Ebbw_Vale
 Ewloe
@@ -160,11 +164,11 @@ Glanaman
 Glynneath
 Goodwick
 Gorseinon
+Gresford
 Hakin
 Harlech
 Haverfordwest
 Hay_on_Wye
-Hengoed
 Holt
 Holyhead
 Holywell
