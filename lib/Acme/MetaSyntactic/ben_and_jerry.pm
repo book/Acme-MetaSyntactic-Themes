@@ -2,18 +2,17 @@ package Acme::MetaSyntactic::ben_and_jerry;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.009';
+our $VERSION = '1.010';
 __PACKAGE__->init();
 
 my $regex = {
-   current => qr{<h3>([^<]+)</h3>},
+   current => qr{"name":"([^"]+)"},
    retired => qr{<option value="([^"]+ )">\1</option>},
 };
 
 our %Remote = (
     source => {
-        current => 'http://www.benjerry.com/flavors/our-flavors',
-        retired => 'https://secure.benjerry.com/contact-us/resurrect-cms.cfm',
+        current => 'http://www.benjerry.com/flavors',
     },
     extract => sub {
         return map { s/^10th/Tenth/; s/_+/_/g; s/_$//; $_ }
@@ -43,6 +42,22 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-04-07 - v1.010
+
+Due to a web site redesign, the source URL for the current list of flavors
+has changed, and the page that listed "retired" flavors has been, well,
+retired. Until the retired list becomes available again, the C<retired>
+list is... frozen.
+
+Actually, items removed from the C<current> list have been added to
+the C<retired> list. Future updates will follow this procedure until an
+official list is available again. Therefore the C<retired> list isn't
+currently official or accurate, just a best effort.
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.039.
 
 =item *
 
@@ -126,71 +141,43 @@ __DATA__
 current
 # names current
 AmeriCone_Dream
-Banana_Peanut_Butter
 Banana_Split
-Berry_Berry_Extraordinary
-Blueberry_Vanilla_Graham
-Bonnaroo_s_Coffee_Caramel_Buzz
 Boston_Cream_Pie
-Butter_Pecan
 Cake_Batter
-Candy_Bar_Pie
 Cheesecake_Brownie
 Cherry_Garcia
-Chocolate
 Chocolate_Chip_Cookie_Dough
 Chocolate_Fudge_Brownie
-Chocolate_Nougat_Crunch
-Chocolate_Peanut_Buttery_Swirl
 Chocolate_Peppermint_Crunch
 Chocolate_Therapy
 Chubby_Hubby
 Chunky_Monkey
 Cinnamon_Buns
-Coconut_Seven_Layer_Bar
-Coffee
 Coffee_Caramel_Buzz
 Coffee_Coffee_BuzzBuzzBuzz
-Coffee_HEATH_Bar_Crunch
+Coffee_Toffee_Bar_Crunch
+Cotton_Candy
 Everything_But_The
-Fudgy_Brownies
 Half_Baked
+Hazed_Confused
 Imagine_Whirled_Peace
 Karamel_Sutra
 Late_Night_Snack
-Lemonade_Sorbet
-Liz_Lemon
-Mango_Mango
 Milk_Cookies
-Mint_Chocolate_Chunk
 Mint_Chocolate_Cookie
 New_York_Super_Fudge_Chunk
 Peach_Cobbler
 Peanut_Brittle
 Peanut_Butter_Cup
+Peanut_Butter_Fudge
 Phish_Food
-Pina_Colada
-Pineapple_Passionfruit
 Pistachio_Pistachio
-Pumpkin_Cheesecake
-Raspberry_Fudge_Chunk
 Red_Velvet_Cake
+Salted_Caramel
+Salted_Caramel_Blondie
 S_mores
-Scotchy_Scotch_Scotch
-Strawberry
-Strawberry_Cheesecake
-Strawberry_Shortcake
-Sweet_Cream_Cookies
-Triple_Caramel_Chunk
-Vanilla
-Vanilla_Caramel_Fudge
-Vanilla_Fudge_Chip
-Vanilla_HEATH_Bar_Crunch
-Vanilla_Honey_Caramel
-What_a_Cluster
-White_Russian
+That_s_My_Jam
 # names retired
-Tenth_Anniversary_Waltz_Nutcracker_Suite
 Aloha_Macadamia
 American_Apple_Pie
 American_Pie
@@ -200,10 +187,12 @@ Apple_y_Ever_After
 Apricot
 Aztec_Harvest_Coffee
 Banana
+Banana_Peanut_Butter
 Bananas_on_the_Rum
 Banana_Strawberry
 Banana_Walnut
 Berried_Treasure
+Berry_Berry_Extraordinary
 Berry_Wild_Whirl
 Blackberry_Cobbler
 Black_Raspberry
@@ -212,10 +201,15 @@ Black_Tan
 Blond_Brownie_Sundae
 Blueberry
 Blueberry_Cheesecake
+Blueberry_Vanilla_Graham
 Bluesberry
+Bonnaroo_s_Coffee_Caramel_Buzz
 Brownie_Bars
 Brownie_Batter
+Butter_Pecan
 Candy_Bar_Crunch
+Candy_Bar_Pie
+Cannoli
 Cantaloupe
 Capecodder
 Cappuccino_Chocolate_Chunk
@@ -224,6 +218,7 @@ Chai_Tea_Latte
 Cherry_Amour
 Cherry_Chocolate
 Cherry_Vanilla
+Chocolate
 Chocolate_Almond
 Chocolate_Almond_Fudge
 Chocolate_Amaretto
@@ -242,8 +237,10 @@ Chocolate_Hazelnut_Swirl
 Chocolate_Heath_Bar_Crunch
 Chocolate_Mint_Cookies
 Chocolate_Mystic_Mint
+Chocolate_Nougat_Crunch
 Chocolate_Orange_Fudge
 Chocolate_Peanut_Butter_Cookie_Dough
+Chocolate_Peanut_Buttery_Swirl
 Chocolate_Raspberry
 Chocolate_Raspberry_Fudge_Swirl
 Chocolate_Raspberry_Swirl
@@ -257,30 +254,39 @@ Coconut_Almond
 Coconut_Almond_Fudge_Chip
 Coconut_Cream_Pie
 Coconut_Milk_Chocolate_Almond
+Coconut_Seven_Layer_Bar
+Coffee
 Coffee_Almond_Fudge
 Coffee_Biscotti
 Coffee_English_Toffee_Crunch
 Coffee_etc
 Coffee_Fudge
 Coffee_Hazelnut_Swirl
+Coffee_HEATH_Bar_Crunch
 Coffee_Toffee_Crunch
+Cookie_Dough
 Cool_Britannia
 Cranberry_Orange
+Creme_Brulee
 Dastardly_Mash
+Dave_Matthews_Band_Magic_Brownies
 Deep_Dark_Chocolate
 Devil_s_Food_Chocolate
 Doonesbury
 Double_Chocolate_Fudge_Swirl
+Dublin_Mudslide
 Dulce_Delicious
 Economic_Crunch
 Egg_Nog
 English_Toffee_Crunch
 Ethan_Almond
 Festivus
+Fossil_Fuel
 French_Vanilla
 Fresh_Georgia_Peach
 Fudge_Behaving_Badly_UK
 Fudge_Central
+Fudgy_Brownies
 Ginger_snap
 Grapefruit_Ice
 Grape_Nut
@@ -294,18 +300,21 @@ Honey_Vanilla
 Hunka_Burnin_Fudge
 Iced_Tea_With_Ginseng
 Ice_Tea_with_Ginseng
+In_A_Crunch
 Jamaican_Me_Crazy
 Kaffaretto
 Kahlua_Amaretto
 Karelia_Krunch
 Kiwi_Midori
 Lemonade
+Lemonade_Sorbet
 Lemon_Blueberry_Cobbler
 Lemon_Cobbler
 Lemon_Daiquiri
 Lemon_Peppermint_Carob_Chip
 Lemon_Swirl
 Lemon_Twist
+Liz_Lemon
 Macadamia_Nut
 Malted_Milk_Ball
 Mandarin
@@ -313,11 +322,14 @@ Mandarin_Chocolate
 Mango
 Mango_Lime
 Mango_Lime_Sorbet
+Mango_Mango
 Maple_Grape_Nut
 Marble_Mint_Chip
 Marguerita_Lime
+Marsha_Marsha_Marshmallow
 Milk_Chocolate_Almond
 Miller_Family_Malt
+Mint_Chocolate_Chunk
 Mint_Chocolate_Fudge_Swirl
 Mint_Fudge_Swirl
 Mint_With_Cookies
@@ -329,6 +341,7 @@ Mocha_Fudge
 Mocha_Latte
 Mocha_Swiss_Chocolate_Almond
 Mocha_Walnut
+Mud_Pie
 Natural_Vanilla
 Neapolitan_Dynamite
 No_Sugar_Added_Vanilla
@@ -349,45 +362,65 @@ Pecan_Pie
 Peppermint_Cow
 Peppermint_Schtick
 Pina_Colada
+Pineapple_Passionfruit
 Pink_Lemonade
 Praline_Pecan
 Primary_Berry_Graham
+Pumpkin_Cheesecake
 Purple_Passionfruit
 Rachel_s_Brownie
 Rainforest_Crunch
 Raspberry
 Raspberry_Cheesecake
+Raspberry_Fudge_Chunk
 Raspberry_Renewal
 Reverse_Chocolate_Chunk
 Rockin_Road
+Rocky_Road_ish
 Rootbeer_Float_My_Boat
 Root_Beer_Float_My_Boat
 Rum_Raisin
 Sambucca_Chocolate_Chunk
 Sambucca_Coffee_Flake
+Scotchy_Scotch_Scotch
 Skor_Bar
 Sorbet_Squeeze_Ups
 Southern_Peach
+Stephen_Colbert_s_AmeriCone_Dream
+Strawberry
+Strawberry_Cheesecake
 Strawberry_Kiwi
 Strawberry_Rhubarb
+Strawberry_Shortcake
 Sugar_Plum
 Sweet_Cream
 Sweet_Cream_Cookie
+Sweet_Cream_Cookies
 Sweet_Cream_with_Oreo
 Sweet_Potato_Pie
 Tennessee_Mud
+Tenth_Anniversary_Waltz_Nutcracker_Suite
 That_s_Life_Apple_Pie
+The_Gobfather
 The_Last_Straw
 Toffee_Cookie_Crunch
 Totally_Nuts
+Triple_Caramel_Chunk
 Tropic_of_Mango
 Turtle_Soup
 Tuskegee_Chunk
+Uncanny_Cashew
+Vanilla
+Vanilla_Almond
 Vanilla_Bean
 Vanilla_Brownie
+Vanilla_Caramel_Fudge
 Vanilla_Chocolate_Chunk
 Vanilla_Chocolate_Mint_Patty
 Vanilla_Fudge
+Vanilla_Fudge_Chip
+Vanilla_HEATH_Bar_Crunch
+Vanilla_Honey_Caramel
 Vanilla_Malted_Milk
 Vanilla_M_M
 Vanilla_Swiss_Almond
@@ -395,5 +428,9 @@ Vanilla_Swiss_Chocolate_Almond
 Vanilla_with_Heath_Toffee_Crunch
 Vanilla_with_Kit_Kat
 Vermonty_Python
+What_a_Cluster
+White_Russian
+Wich_Ice_Cream_Cookie_Sandwich
 Wild_Maine_Blueberry
+Willie_Nelson_s_Country_Peach_Cobbler
 World_s_Best_Chocolate
