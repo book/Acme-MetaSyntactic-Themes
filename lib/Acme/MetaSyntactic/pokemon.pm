@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pokemon;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -27,7 +27,7 @@ Acme::MetaSyntactic::pokemon - The Pokémon theme
 
 =head1 DESCRIPTION
 
-List of the 718 Pokémon characters that are officially known to exist
+List of the 719 Pokémon characters that are officially known to exist
 in the franchise.
 
 This list is based on the following wikipedia article:
@@ -44,6 +44,13 @@ Abigail, Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-04-07 - v1.004
+
+Updated with "The Mythical Pokémon Diancie"
+in Acme-MetaSyntactic-Themes version 1.039.
 
 =item *
 
@@ -843,3 +850,4 @@ Noivern
 Xerneas
 Yveltal
 Zygarde
+Diancie
