@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.020';
+our $VERSION = '1.021';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -11,7 +11,7 @@ our %Remote = (
         return
             map {
                 s/\@/_at_/g; s/\+/_plus_/g;
-                s/^2/Two_/;  s/^64/Sixty_four_/;
+                s/^2/Two_/;  s/^4/Four_/;
                 s/^_|_$//g;  s/_+/_/g;
                 $_
                 }
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-06-16 - v1.021
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.040.
 
 =item *
 
@@ -217,8 +223,8 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 __DATA__
 # names
 Two_X
+Four_MLinux
 Absolute
-Abul_du
 AgiliaLinux
 aLinux
 Alpine
@@ -234,7 +240,6 @@ ArchBang
 ArcheOS
 AriOS
 ArtistX
-Asianux
 AsteriskNOW
 AUSTRUMI
 AV_Linux
@@ -242,8 +247,10 @@ BackBox
 Baltix
 Bardinux
 Berry
+Bicom
 BigLinux
 Bio_Linux
+BLAG
 BlankOn
 Bodhi
 BOSS
@@ -256,7 +263,6 @@ Caixa_M_gica
 Calculate
 Canaima
 C_tix
-CDlinux
 CentOS
 Centrych
 Chakra
@@ -277,7 +283,6 @@ Draco
 DragonFly
 Dragora
 DreamStudio
-EasyPeasy
 Edubuntu
 Ekaaty
 Elastix
@@ -317,9 +322,9 @@ IPFire
 iQunix
 Jibbed
 kademar
-KahelOS
 Kali
 KANOTIX
+KaOS
 Karoshi
 Kiwi
 KNOPPIX
@@ -331,12 +336,13 @@ Kwort
 Leeenux
 Legacy
 LFS
-Liberte
+Libert
 LinEx
 LinHES
 Linpus
 LinuxBBQ
 LinuxConsole
+Linuxfx
 Lite
 LliureX
 LPS
@@ -404,18 +410,16 @@ Pidora
 Pinguy
 Plamo
 PLD
-Plop
 Point
 PoliArch
 Porteus
 Proxmox
 Puppy
-PureOS
+Q4OS
 Qubes
 Quirky
 Raspbian
 Raspbmc
-RaspyFi
 ReactOS
 Rebellin
 Red_Hat
@@ -459,7 +463,6 @@ Stella
 SuliX
 SuperX
 SUSE
-Swift
 SymphonyOS
 SystemRescue
 T2
@@ -483,19 +486,17 @@ Ubuntu_Kylin
 Ubuntu_Studio
 Ulteo
 Ultimate
-Unity
 Univention
 Untangle
 UPR
 Userful
-UTUTO
 VAST
 Vector
 Vine
 Vinux
+Volumio
 VortexBox
 Voyager
-Vyatta
 wattOS
 Webconverger
 Wifislax
