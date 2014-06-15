@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.019';
+our $VERSION = '1.020';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -56,6 +56,12 @@ Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-06-16 - v1.020
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.040.
 
 =item *
 
@@ -290,19 +296,20 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 
 __DATA__
 # names female
-Aaliyah_Love
 Abella_Anderson
 Abigail_Clayton
 Adriana_Sage
 Adrianna_Luna
 Adrianna_Lynn
 Adrianna_Nicole
-Aiden_Ashley
 Ai_Iijima
 Aika_Miura
 Ai_Kurosawa
 Aimee_Sweet
+Aino_Kishi
 Aja
+AJ_Applegate
+Akari_Asahina
 Akiho_Yoshizawa
 Akira_Watase
 Aki_Tomosaki
@@ -326,7 +333,6 @@ Allie_Haze
 Allysin_Chaynes
 Amber_Lynn
 Amber_Rayne
-Ameri_Ichinose
 Amia_Miley
 Ami_Ayukawa
 Amile_Waters
@@ -346,6 +352,7 @@ Angelina_Armani
 Angelina_Valentine
 Angelique_Morgan
 Angel_Kelly
+Angell_Summers
 Angie_Savage
 Anikka_Albrite
 Anissa_Kate
@@ -404,7 +411,6 @@ Bibian_Norai
 BiBi_Jones
 Bionca
 Black_Angelika
-Blue_Angel
 Bobbi_Bliss
 Bobbi_Eden
 Bobbi_Starr
@@ -438,7 +444,6 @@ Brooke_Banner
 Brooke_Haven
 Brooke_Skye
 Brooklyn_Lee
-Brynn_Tyler
 Bunko_Kanazawa
 Bunny_Bleu
 Bunny_Luv
@@ -488,6 +493,7 @@ Christi_Lake
 Christy_Canyon
 Christy_Mack
 Chyna
+Cicciolina
 Cindy_Crawford
 C_J_Laing
 Clara_Morgane
@@ -514,7 +520,6 @@ Daniella_Rush
 Dani_Woodward
 Danni_Ashe
 Darby_Lloyd_Rains
-Darla_Crane
 Dasha
 Debi_Diamond
 Dee
@@ -527,7 +532,6 @@ Devinn_Lane
 Devon
 Devon_Lee
 Diamond_Foxxx
-Diana_Doll
 Dina_Jewel
 Dolly_Buster
 Dolly_Golden
@@ -555,7 +559,6 @@ Eri_Kikuchi
 Erin_Brown
 Estelle_Desanges
 Eva_Angelina
-Eva_Karera
 Eve_Angel
 Fallon
 Faye_Reagan
@@ -569,13 +572,11 @@ Franceska_Jaimes
 Gabriella_Fox
 Gail_Force
 Gauge
-Gen_Padova
 Georgina_Spelvin
 Gianna_Lynn
 Gianna_Michaels
 Gia_Paloma
 Gina_Lynn
-Gina_Ryder
 Gina_Wild
 Ginger_Lynn
 Gloria_Leonard
@@ -586,6 +587,7 @@ Hanna_Hilton
 Haruki_Mizuno
 Heather_Hunter
 Heather_Vandeven
+Helena_Karel
 Helen_Duval
 Hikari_Hino
 Hikaru_Koto
@@ -602,7 +604,6 @@ Hotaru_Akane
 Houston
 Hyapatia_Lee
 Ice_La_Fox
-Ilona_Staller
 Inari_Vachs
 India
 India_Summer
@@ -622,7 +623,6 @@ Jana_Bach
 Jana_Cova
 Jana_Jordan
 Jandi_Lin
-Jane_Darling
 Janet_Jacme
 Janey_Robbins
 Janine
@@ -630,7 +630,6 @@ Jasmine_Byrne
 Jasmin_St_Claire
 Jayden_Jaymes
 Jayme_Langford
-Jayna_Oso
 Jazmine_Cashmere
 Jeanna_Fine
 Jeannie_Pepper
@@ -643,7 +642,6 @@ Jennifer_Luv
 Jennifer_Steele
 Jennifer_Stewart
 Jennifer_Welles
-Jennifer_White
 Jenny_Hendrix
 Jenteal
 Jesse_Capelli
@@ -682,7 +680,6 @@ Juliet_Anderson
 Junko_Miyashita
 Jun_Kusanagi
 Justine_Joli
-Jynx_Maze
 Kagney_Linn_Karter
 Kaitlyn_Ashley
 Kandi_Barbour
@@ -722,7 +719,6 @@ Kendra_Jade_Rossi
 Keri_Sable
 Keri_Windsor
 Kerry_Louise
-Kiara_Diane
 Kimberly_Carson
 Kimberly_Kane
 Kim_Chambers
@@ -744,7 +740,6 @@ Kurumi_Morishita
 Kylie_Ireland
 Kyoko_Aizome
 Kyoko_Ayana
-Kyoko_Nakajima
 Lacey_Duvalle
 Lacie_Heart
 Lacy_Rose
@@ -796,7 +791,6 @@ Lolo_Ferrari
 London_Keyes
 Long_Jeanne_Silver
 Loni_Sanders
-Loona_Luxx
 Lorelei_Lee
 Lou_Charmelle
 Lucia_Lapiedra
@@ -845,7 +839,6 @@ Melissa_Lauren
 Melissa_Monet
 Memphis_Monroe
 Mia_Malkova
-Mia_Presley
 Mia_Rose
 Michelle_Bauer
 Michelle_Maylene
@@ -853,7 +846,6 @@ Michelle_Thorne
 Michelle_Wild
 Midori
 Miho_Maeshima
-Miho_Tachibana
 Mika_Tan
 Miki_Sawaguchi
 Mili_Jay
@@ -986,7 +978,7 @@ Sabrine_Maui
 Sakura_Sakurada
 Sakura_Sena
 Sally_Yoshino
-Salma_de_Nora
+Salma_De_Nora
 Samantha_Bentley
 Samantha_Fox
 Samantha_Ryan
@@ -994,8 +986,8 @@ Samantha_Saint
 Samantha_Sterlyng
 Samantha_Strong
 Sammie_Rhodes
-Sandee_Westgate
 Sandra_Romain
+Saori_Hara
 Sara_Bernat
 Sarah_Blake
 Sarah_Jane_Hamilton
@@ -1005,14 +997,12 @@ SaRenna_Lee
 Sasa_Handa
 Sasha_Grey
 Satine_Phoenix
-Sativa_Rose
 Savannah
 Savanna_Samson
 Saya_Misaki
 Scarlet_Young
 Seka
 Selen
-Selena_Silver
 Selena_Steele
 Sensi_Pearl
 Serena
@@ -1047,13 +1037,12 @@ Sinn_Sage
 Skin_Diamond
 Skye_Blue
 Sky_Lopez
-Sola_Aoi
 Sonia_Baby
 Sophia_Rossi
 Sophia_Santi
 Sophie_Dee
 Sophie_Evans
-Sovereign_Syre
+Sora_Aoi
 Stacey_Donovan
 Stacy_Silver
 Stacy_Valentine
@@ -1156,6 +1145,7 @@ Wendi_Knight
 Wendy_Divine
 Wendy_Whoppers
 Whitney_Stevens
+Whitney_Westgate
 Wiska
 Yasmine_Lafitte
 Yua_Aida
@@ -1164,7 +1154,6 @@ Yuria_Kato
 Yuri_Komuro
 Yurizan_Beltran
 Zara_Whites
-Zoey_Holloway
 # names male
 Adam_Wilde
 Al_Borda
