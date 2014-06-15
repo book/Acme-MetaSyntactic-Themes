@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pokemon;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.004';
+our $VERSION = '1.005';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -11,6 +11,7 @@ our %Remote = (
     extract => sub {
         return    # support for Unicode female/male symbols
             map { tr/-'. /_/s; s/_$//; $_ }
+            map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_utf8_basic($_) }
             map { s/Nidoran/Nidoran /; $_ }
             $_[0] =~ m!^<td><a href="/wiki/[^"]+" title="[^"]+"[^>]*>([^<]+)</a>.*</td>$!gm;
@@ -44,6 +45,13 @@ Abigail, Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-06-16 - v1.005
+
+Fixed the transformation script to properly deal with accented letters,
+in Acme-MetaSyntactic-Themes version 1.040.
 
 =item *
 
