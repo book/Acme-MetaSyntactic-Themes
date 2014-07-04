@@ -10,7 +10,7 @@ our %Remote = (
     extract => sub {
         ( my $type = $_[1]) =~ y/_/-/;
         local $/;
-        my %type = $_[0] =~ m{<td><a href="/domains/root/db/(\w+).html">.\w+</a></td>\s+<td>([^<]+)</td>\s+<!-- <td>(?:[^<\n]*)}g;
+        my %type = $_[0] =~ m{<td><span class="domain tld"><a href="/domains/root/db/(\w+).html">.\w+</a></span></td>\s+<td>([^<]+)</td>\s+<!-- <td>(?:[^<\n]*)}g;
         return grep $type{$_} eq $type, keys %type;
     },
 );
@@ -27,6 +27,9 @@ The list of top-level domainnames.
 
 The source for the list is
 L<http://www.iana.org/domains/root/db/>.
+
+Note that this list contains only the ASCII top-level domains, and not the
+internationalized ones.
 
 =head1 CONTRIBUTORS
 
