@@ -93,6 +93,50 @@ sz tc td tf tg th tj tk tl tm tn to tp tr tt tv tw tz ua ug uk um us uy
 uz va vc ve vg vi vn vu wf ws ye yt za zm zw
 # names generic
 com info net org
+academy accountants active actor agency airforce archi army associates
+attorney audio autos axa
+bar bargains bayern beer berlin best bid bike bio black blackfriday blue
+bmw boutique brussels build builders buzz bzh
+cab camera camp capetown capital cards care career careers cash
+catering center ceo cheap christmas church citic claims cleaning clinic
+clothing club codes coffee college cologne community company computer
+condos construction consulting contractors cooking cool country credit
+creditcard cruises
+dance dating degree democrat dental dentist desi diamonds digital direct
+directory discount dnp domains durban
+education email engineer engineering enterprises equipment estate eus
+events exchange expert exposed
+fail farm feedback finance financial fish fishing fitness flights florist
+foo foundation frogans fund furniture futbol
+gal gallery gift gives glass global globo gmo gop graphics gratis green
+gripe guide guitars guru
+hamburg haus hiphop hiv holdings holiday homes horse host house
+immobilien industries ink institute insure international investments
+jetzt joburg juegos
+kaufen kim kitchen kiwi koeln kred
+land lawyer lease life lighting limited limo link loans london lotto
+luxe luxury
+maison management mango market marketing media meet menu miami mini moda
+moe monash mortgage moscow motorcycles
+nagoya navy neustar nhk ninja nyc
+okinawa onl organic ovh
+paris partners parts photo photography photos physio pics pictures pink
+place plumbing press productions properties pub
+qpon quebec
+recipes red rehab reise reisen ren rentals repair report republican rest
+reviews rich rio rocks rodeo ruhr ryukyu
+saarland schule scot services sexy shiksha shoes singles social software
+sohu solar solutions soy space supplies supply support surf surgery
+suzuki systems
+tattoo tax technology tienda tips tirol today tokyo tools town toys
+trade training
+university uno
+vacations vegas ventures versicherung vet viajes villas vision vlaanderen
+vodka vote voting voto voyage
+wang watch webcam website wed wien wiki works wtc wtf
+xyz
+yachts yokohama
+zone
 # names generic_restricted
 biz name pro
 # names infrastructure
