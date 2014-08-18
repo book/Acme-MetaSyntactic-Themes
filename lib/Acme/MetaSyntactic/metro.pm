@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::metro;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 1;
 
@@ -43,6 +43,10 @@ C<fr/rennes>: Rennes, France, 1 line.
 
 C<fr/lille>: Lille, France, 2 lines.
 
+=item*
+
+C<fr/toulouse>: Toulouse, France, 2 lines.
+
 =item *
 
 C<nl/amsterdam>: Amsterdam, Netherlands, 5 lines.
@@ -51,7 +55,7 @@ C<nl/amsterdam>: Amsterdam, Netherlands, 5 lines.
 
 C<au/vienna>: Vienna, Austria, 5 lines.
 
-=item * 
+=item *
 
 C<pt/porto>: Port, Portugal, 4 lines.
 
@@ -63,7 +67,7 @@ C<us/camden>: Camden, United States, 1 line.
 
 C<us/philadelpha>: Philadelphia, United States, 3 lines.
 
-=item * 
+=item *
 
 C<us/chicago>: Chicago, United States, 8 lines.
 
@@ -105,6 +109,13 @@ public on July 19, 1900.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-08-18 - v1.003
+
+Updated by Eric Guirbal with the two metro lines for Toulouse,
+in Acme-MetaSyntactic-Themes version 1.041.
 
 =item *
 
@@ -728,6 +739,46 @@ Phalempins
 Pont_de_Neuville
 Bourgogne
 CH_Dron
+# names fr toulouse ligne_A
+Basso_Cambo
+Bellefontaine
+Reynerie
+Mirail_Universite
+Bagatelle
+Mermoz
+Fontaine_Lestang
+Arenes
+Patte_d_Oie
+St_Cyprien_Republique
+Esquirol
+Capitole
+Jean_Jaures
+Marengo_SNCF
+Jolimont
+Roseraie
+Argoulet
+Balma_Gramont
+# names fr toulouse ligne_B
+Ramonville
+Universite_Paul_Sabatier
+Faculte_de_Pharmacie
+Rangueil
+Saouzelong
+Saint_Agne_SNCF
+Empalot
+St_Michel_Marcel_Langer
+Palais_de_Justice
+Carmes
+Francois_Verdier
+Jean_Jaures
+Jeanne_d_Arc
+Compans_Caffarelli
+Canal_du_Midi
+Minimes_Claude_Nougaro
+Barriere_de_Paris
+La_Vache
+Trois_Cocus
+Borderouge
 # names nl amsterdam metrolijn_50
 Isolatorweg
 Sloterdijk_NS
