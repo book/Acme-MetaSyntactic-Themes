@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::metro;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 1;
 
@@ -55,7 +55,7 @@ C<nl/amsterdam>: Amsterdam, Netherlands, 5 lines.
 
 C<au/vienna>: Vienna, Austria, 5 lines.
 
-=item * 
+=item *
 
 C<pt/porto>: Port, Portugal, 4 lines.
 
@@ -67,7 +67,7 @@ C<us/camden>: Camden, United States, 1 line.
 
 C<us/philadelpha>: Philadelphia, United States, 3 lines.
 
-=item * 
+=item *
 
 C<us/chicago>: Chicago, United States, 8 lines.
 
@@ -109,6 +109,13 @@ public on July 19, 1900.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-08-18 - v1.003
+
+Updated by Eric Guirbal with the two metro lines for Toulouse,
+in Acme-MetaSyntactic-Themes version 1.041.
 
 =item *
 
