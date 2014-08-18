@@ -2,14 +2,14 @@ package Acme::MetaSyntactic::tokipona;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 
 our %Remote = (
-    source  => 'http://en.tokipona.org/wiki/Category:Toki_Pona_words',
+    source  => 'http://tokipona.net/tp/ClassicWordList.aspx',
     extract => sub {
         map { split /, / }
-        $_[0] =~ m{<li><a href="/wiki/[\w,]+" title="([\w, ]+)">\1</a></li>}mg;
+        $_[0] =~ m{<a name="(\w+)">}mg;
     },
 );
 
@@ -33,6 +33,14 @@ Abigail, Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-08-18 - v1.001
+
+Picked a new link (still from the official web site) from which to
+get the official word list, and updated from the source web site
+in Acme-MetaSyntactic-Themes version 1.041.
 
 =item *
 
@@ -70,9 +78,9 @@ jaki jan jelo jo
 kala kalama kama kasi ken kepeken kili kin kipisi kiwen ko kon kule kulupu kute
 la lape laso lawa len lete li lili linja lipu loje lon luka lukin lupa
 ma mama mani meli mi mije moku moli monsi mu mun musi mute
-namako nanpa nasa nasin nena ni nimi
+namako nanpa nasa nasin nena ni nimi noka
 o oko olin ona open
-pakala pali palisa pan pana pi pilin pimeja pini pipi poka poki pona pu
+pakala pali palisa pan pana pata pi pilin pimeja pini pipi poka poki pona
 sama seli selo seme sewi sijelo sike sin sina sinpin sitelen sona soweli suli suno supa suwi
 tan taso tawa telo tenpo toki tomo tu
 unpa uta utala
