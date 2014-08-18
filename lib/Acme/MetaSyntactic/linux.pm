@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.021';
+our $VERSION = '1.022';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-08-18 - v1.022
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.041.
 
 =item *
 
@@ -222,11 +228,10 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 __DATA__
 # names
-Two_X
+Two_XOS
 Four_MLinux
 Absolute
 AgiliaLinux
-aLinux
 Alpine
 ALT
 Android_x86
@@ -237,7 +242,6 @@ APODIO
 aptosid
 Arch
 ArchBang
-ArcheOS
 AriOS
 ArtistX
 AsteriskNOW
@@ -250,6 +254,8 @@ Berry
 Bicom
 BigLinux
 Bio_Linux
+BlackArch
+blackPanther
 BLAG
 BlankOn
 Bodhi
@@ -266,9 +272,11 @@ C_tix
 CentOS
 Centrych
 Chakra
+Chitwanix
 ClearOS
 Clonezilla
 Comfusion
+CoreOS
 CrunchBang
 CRUX
 Damn_Small
@@ -300,7 +308,6 @@ Foresight
 ForLEx
 FreeBSD
 FreeNAS
-Frenzy
 Frugalware
 FuguIta
 Funtoo
@@ -313,13 +320,12 @@ GParted
 Greenie
 Grml
 Guadalinex
-Hacao
 Haiku
+HandyLinux
 Hanthana
 Hybryde
 IPCop
 IPFire
-iQunix
 Jibbed
 kademar
 Kali
@@ -449,7 +455,6 @@ SmartOS
 SME_Server
 Smoothwall
 SMS
-Snowlinux
 Solaris
 SolydXK
 Sophos
@@ -474,7 +479,6 @@ Tiny_Core
 Toorox
 Toutou
 Trisquel
-Tuquito
 Turbolinux
 TurnKey
 UberStudent
@@ -484,6 +488,7 @@ Ubuntu_DP
 Ubuntu_GNOME
 Ubuntu_Kylin
 Ubuntu_Studio
+UHU_Linux
 Ulteo
 Ultimate
 Univention
