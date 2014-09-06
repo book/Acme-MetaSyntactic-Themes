@@ -198,8 +198,8 @@ Albert-Marie SCHMIDT (1901-1966), founding member.
 
 =head1 CONTRIBUTOR
 
-Philippe "BooK" Bruhat (co-creator of the first Oulipo web site, back
-in 1995).
+Philippe "BooK" Bruhat, co-creator (with Estelle Souche) of
+the first Oulipo web site, back in 1995.
 
 =head1 CHANGES
 
