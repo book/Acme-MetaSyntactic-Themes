@@ -58,6 +58,10 @@ Claude BERGE (1926-2002), founding member.
 
 =item *
 
+Eduardo BERTI (1964-), joined in 2014.
+
+=item *
+
 André BLAVIER (1922-2001), foreign correspondent.
 
 =item *
@@ -139,6 +143,10 @@ Jean LESCURE (1912-2005), founding member.
 =item *
 
 Daniel LEVIN BECKER (1984-), joined in 2009.
+
+=item *
+
+Pablo MARTÍN SÁNCHEZ (1977-), joined in 2014.
 
 =item *
 
