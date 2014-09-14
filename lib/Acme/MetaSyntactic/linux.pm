@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.022';
+our $VERSION = '1.023';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -11,7 +11,7 @@ our %Remote = (
         return
             map {
                 s/\@/_at_/g; s/\+/_plus_/g;
-                s/^2/Two_/;  s/^4/Four_/;
+                s/^0/Zero/; s/^2/Two/; s/^4/Four/;
                 s/^_|_$//g;  s/_+/_/g;
                 $_
                 }
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-09-15 - v1.023
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.042.
 
 =item *
 
@@ -228,8 +234,9 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 
 __DATA__
 # names
-Two_XOS
-Four_MLinux
+ZeroLinux
+TwoXOS
+FourMLinux
 Absolute
 AgiliaLinux
 Alpine
@@ -258,7 +265,6 @@ BlackArch
 blackPanther
 BLAG
 BlankOn
-Bodhi
 BOSS
 Bridge
 BRLix
@@ -300,6 +306,7 @@ Emmabunt_s
 Endian
 Epidemic
 Exe
+Exherbo
 ExTiX
 Fedora
 Fermi
@@ -377,6 +384,7 @@ Musix
 Mythbuntu
 Nanolinux
 NAS4Free
+Neptune
 NetBSD
 Netrunner
 NetSecL
@@ -414,6 +422,7 @@ pfSense
 PiBang
 Pidora
 Pinguy
+Pisi
 Plamo
 PLD
 Point
@@ -457,6 +466,7 @@ Smoothwall
 SMS
 Solaris
 SolydXK
+Sonar
 Sophos
 Sorcerer
 Source_Mage
