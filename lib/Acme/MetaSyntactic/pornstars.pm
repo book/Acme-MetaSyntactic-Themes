@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.021';
+our $VERSION = '1.022';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -56,6 +56,12 @@ Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-09-15 - v1.022
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.042.
 
 =item *
 
@@ -307,54 +313,112 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 
 __DATA__
 # names female
+Adrianna_Luna
 Amber_Lynn
+Amy_Fisher
 Andrea_True
+Anikka_Albrite
 Anna_Malle
 Annie_Sprinkle
+April_Flores
+Asa_Akira
 Ashley_Blue
+Audrey_Bitoni
+Audrey_Hollander
+BiBi_Jones
 Bodil_Joensen
+Bonnie_Rotten
+Bree_Olson
+Bridgette_Kerkove
 Brittany_Andrews
+Brittany_O_Connell
+Brooklyn_Lee
+Calli_Cox
+Candida_Royalle
 Candy_Barr
+Capri_Anderson
+Cara_Lott
+Carol_Connors
 C_J_Laing
-Cyndee_Summers
+Dahlia_Sky
+Dana_Vespoli
+Dani_Daniels
+Debi_Diamond
+Erica_Boyer
+Flower_Tucci
 Francesca_Le
 Georgina_Spelvin
 Ginger_Lynn
 Gloria_Leonard
+Gracie_Glam
+Heather_Hunter
+Holly_Ryder
+Jasmin_St_Claire
+Jenna_Haze
 Jenny_Hendrix
 Jesse_Jane
+Jessie_Rogers
+Julia_Bond
 Juliet_Anderson
 Kandi_Barbour
 Katie_Morgan
 Katsuni
 Kylie_Ireland
+Leilani_Leeane
 Linda_Lovelace
 Linda_Wong
+Lisa_Ann
+Lizz_Tayler
 Lolo_Ferrari
+Lupe_Fuentes
+Maddy_O_Reilly
 Mai_Lin
 Marilyn_Chambers
 Mary_Carey
+Marylin_Star
 Mary_Millington
 Melissa_Hill
+Mia_Malkova
+Midori
+Mika_Tan
+Mimi_Miyagi
 Missy
+Missy_Monroe
+Nicole_Aniston
+Nikki_Benz
+Nikki_Charm
 Nina_Hartley
 Porsche_Lynn
+Prinzzess
+Priya_Rai
 Raylene
 Rebecca_Brooke
 Rebecca_Lord
+Remy_LaCroix
 Rene_Bond
+Rikki_Six
+Riley_Reid
+Riley_Steele
+Robin_Byrd
+Sammie_Rhodes
 Savannah
 Seka
+Serena
+Serenity
 Shane
 Sharon_Mitchell
 Shauna_Grant
+Shyla_Jennings
+Sinn_Sage
 Stormy_Daniels
 Taylor_St_Claire
 Taylor_Wane
+Tericka_Dye
 Tina_Russell
 Trinity_Loren
 Vanessa_Blue
 Vanessa_del_Rio
+Vicky_Vette
 # names male
 Adam_Wilde
 Al_Borda
