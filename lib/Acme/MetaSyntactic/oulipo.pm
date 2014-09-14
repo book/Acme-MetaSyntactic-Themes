@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::oulipo;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA     = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 use utf8;
 
 =encoding utf-8
@@ -204,6 +204,14 @@ the first Oulipo web site, back in 1995.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-09-15 - v1.003
+
+Updated with two new members,
+added the date each member joined the group,
+in Acme-MetaSyntactic-Themes version 1.042.
 
 =item *
 
