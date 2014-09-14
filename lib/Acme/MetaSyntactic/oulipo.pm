@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::oulipo;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA     = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 use utf8;
 
 =encoding utf-8
@@ -34,155 +34,163 @@ __PACKAGE__->init(
 
 =item *
 
-Noël ARNAUD (1960-2003)
+Noël ARNAUD (1919-2003), founding member.
 
 =item *
 
-Michèle AUDIN (2009-)
+Michèle AUDIN (1954-), joined in 2009.
 
 =item *
 
-Valérie BEAUDOUIN (2003-)
+Valérie BEAUDOUIN (1968-), joined in 2003.
 
 =item *
 
-Marcel BÉNABOU (1969-)
+Marcel BÉNABOU (1939-), joined in 1970.
 
 =item *
 
-Jacques BENS (1960-2001)
+Jacques BENS (1931-2001), founding member.
 
 =item *
 
-Claude BERGE (1960-2002)
+Claude BERGE (1926-2002), founding member.
 
 =item *
 
-André BLAVIER (1961-2001)
+Eduardo BERTI (1964-), joined in 2014.
 
 =item *
 
-Paul BRAFFORT (1961-)
+André BLAVIER (1922-2001), foreign correspondent.
 
 =item *
 
-Italo CALVINO (1974-1985)
+Paul BRAFFORT (1923-), joined in 1961.
 
 =item *
 
-François CARADEC (1983-2008)
+Italo CALVINO (1923-1985), joined in 1974.
 
 =item *
 
-Bernard CERQUIGLINI (1995-)
+François CARADEC (1924-2008), joined in 1983.
 
 =item *
 
-Ross CHAMBERS (1961-)
+Bernard CERQUIGLINI (1947-), joined in 1995.
 
 =item *
 
-Stanley CHAPMAN (1961-2009)
+Ross CHAMBERS (1932-), joined in 1961.
 
 =item *
 
-Marcel DUCHAMP (1961-1968)
+Stanley CHAPMAN (1925-2009), joined in 1961.
 
 =item *
 
-Jacques DUCHATEAU (1929-)
+Marcel DUCHAMP (1887-1968), joined in 1962.
 
 =item *
 
-Luc ETIENNE (1970-1984)
+Jacques DUCHATEAU (1929-), founding member.
 
 =item *
 
-Frédéric FORTE (2005-)
+Luc ETIENNE (1908-1984), joined in 1970.
 
 =item *
 
-Paul FOURNEL (1972-)
+Frédéric FORTE (1973-), joined in 2005.
 
 =item *
 
-Anne F. GARRÉTA (2000-)
+Paul FOURNEL (1947-), joined in 1972.
 
 =item *
 
-Michelle GRANGAUD (1995-)
+Anne F. GARRÉTA (1962-), joined in 2000.
 
 =item *
 
-Jacques JOUET (1983-)
+Michelle GRANGAUD (1941-), joined in 1995.
 
 =item *
 
-LATIS (1960-1973)
+Jacques JOUET (1947-), joined in 1983.
 
 =item *
 
-François LE LIONNAIS (1960-1984)
+LATIS (1913-1973), founding member.
 
 =item *
 
-Hervé LE TELLIER (1992-)
+François LE LIONNAIS (1901-1984), founder.
 
 =item *
 
-Etienne LÉCROART (2012-)
+Hervé LE TELLIER (1957-), joined in 1992.
 
 =item *
 
-Jean LESCURE (1960-2005)
+Étienne LÉCROART (1960-), joined in 2012.
 
 =item *
 
-Daniel LEVIN BECKER (2009-)
+Jean LESCURE (1912-2005), founding member.
 
 =item *
 
-Harry MATHEWS (1973-)
+Daniel LEVIN BECKER (1984-), joined in 2009.
 
 =item *
 
-Michèle MÉTAIL (1975-)
+Pablo MARTÍN SÁNCHEZ (1977-), joined in 2014.
 
 =item *
 
-Ian MONK (1998-)
+Harry MATHEWS (1930-), joined in 1973.
 
 =item *
 
-Oskar PASTIOR (1992-2006)
+Michèle MÉTAIL (1950-), joined in 1975.
 
 =item *
 
-Georges PEREC (1967-1982)
+Ian MONK (1960-), joined in 1998.
 
 =item *
 
-Raymond QUENEAU (1960-1976)
+Oskar PASTIOR (1927-2006), joined in 1992.
 
 =item *
 
-Jean QUEVAL (1960-1990)
+Georges PEREC (1936-1982), joined in 1967.
 
 =item *
 
-Pierre ROSENSTIEHL (1992-)
+Raymond QUENEAU (1903-1976), founder.
 
 =item *
 
-Jacques ROUBAUD (1966-)
+Jean QUEVAL (1913-1990), founding member.
 
 =item *
 
-Olivier SALON (2000-)
+Pierre ROSENSTIEHL (1933-), joined in 1992.
 
 =item *
 
-Albert-Marie SCHMIDT (1960-1966)
+Jacques ROUBAUD (1932-), joined in 1966.
+
+=item *
+
+Olivier SALON (1955-), joined in 2000.
+
+=item *
+
+Albert-Marie SCHMIDT (1901-1966), founding member.
 
 =back
 
@@ -190,12 +198,20 @@ Albert-Marie SCHMIDT (1960-1966)
 
 =head1 CONTRIBUTOR
 
-Philippe "BooK" Bruhat (co-creator of the first Oulipo web site, back
-in 1995).
+Philippe "BooK" Bruhat, co-creator (with Estelle Souche) of
+the first Oulipo web site, back in 1995.
 
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-09-15 - v1.003
+
+Updated with two new members,
+added the date each member joined the group,
+in Acme-MetaSyntactic-Themes version 1.042.
 
 =item *
 
