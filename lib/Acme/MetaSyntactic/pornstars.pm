@@ -256,7 +256,7 @@ Introduced in Acme-MetaSyntactic version 0.69.
 2006-03-10
 
 The irc logs from 2005 (see below) prove that I have a bad memory (and
-this is why logs are a good thing, if you care about the useless minutae)
+this is why logs are a good thing, if you care about the useless minutiae)
 when I claim that Maddingue was the one who offered the first Wikipedia
 link for scraping porn star names. I also claimed that publishing in
 version 0.69 was his idea. At this point, I do not trust my former self.
