@@ -1017,6 +1017,10 @@ The winners are:
  2013   Physics     François Englert
  2013   Physics     Peter Higgs
 
+ 2014   Medecine    John O'Keefe
+ 2014   Medecine    May-Britt Moser
+ 2014   Medecine    Edvard I. Moser
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
