@@ -1020,6 +1020,9 @@ The winners are:
  2014   Medecine    John O'Keefe
  2014   Medecine    May-Britt Moser
  2014   Medecine    Edvard I. Moser
+ 2014   Physics     Isamu Akasaki
+ 2014   Physics     Hiroshi Amano
+ 2014   Physics     Shuji Nakamura
 
 =cut
 
