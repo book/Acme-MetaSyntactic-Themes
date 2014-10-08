@@ -1017,6 +1017,9 @@ The winners are:
  2013   Physics     François Englert
  2013   Physics     Peter Higgs
 
+ 2014   Chemistry   Eric Betzig
+ 2014   Chemistry   Stefan W. Hell
+ 2014   Chemistry   William E. Moerner
  2014   Medecine    John O'Keefe
  2014   Medecine    May-Britt Moser
  2014   Medecine    Edvard I. Moser
