@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 
 =encoding iso-8859-1
 
@@ -1062,6 +1062,13 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-10-13 - v1.003
+
+Updated with the Nobel prizes for 2014, and
+published in Acme-MetaSyntactic-Themes version 1.043.
 
 =item *
 
