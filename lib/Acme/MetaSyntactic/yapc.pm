@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::yapc;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 __PACKAGE__->init();
 1;
 
@@ -28,14 +28,15 @@ The various YAPC are:
 Pittsburgh (1999, 2000), Montreal (2001), Saint-Louis (2002),
 Boca Raton (2003), Buffalo (2004), Toronto (2005), Chicago (2006),
 Houston (2007), Chicago (2008), Pittsburgh (2009), Columbus (2010),
-Asheville (2011), Madison (2012), Austin (2013), Orlando (2014).
+Asheville (2011), Madison (2012), Austin (2013), Orlando (2014),
+Salt Lake City (2015).
 
 =item YAPC::Europe
 
 London (2000),  Amsterdam (2001), Munich (2002), Paris (2003),
 Belfast (2004), Braga (2005), Birmingham (2006), Vienna (2007),
 Copenhagen (2008), Lisbon (2009), Pisa (2010), Rīga (2011),
-Frankfurt (2012), Kyiv (2013).
+Frankfurt (2012), Kyiv (2013), Sofia (2014), Granada (2015).
 
 =item YAPC::Israel
 
@@ -67,7 +68,7 @@ YAPC Taipei became YAPC::Asia in 2006.
 
 =item YAPC::Asia
 
-Tokyo (2006-2012).
+Tokyo (2006-2014).
 
 =item YAPC::America::South
 
@@ -96,6 +97,13 @@ Mark Fowler, Philippe Bruhat (BooK), Abigail.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-10-13 - v1.004
+
+Updated with various locations for 2014 and 2015
+in Acme-MetaSyntactic-Themes version 1.043.
 
 =item *
 
@@ -180,10 +188,10 @@ __DATA__
 :all
 # names america north
 Pittsburgh Montreal Saint_Louis Boca_Raton Buffalo Toronto Chicago Houston
-Chicago Pittsburgh Columbus Asheville Madison Austin Orlando
+Chicago Pittsburgh Columbus Asheville Madison Austin Orlando Salt_Lake_City
 # names europe
 London Amsterdam Munich Paris Belfast Braga Birmingham Vienna Copenhagen
-Lisbon Pisa Riga Frankfurt
+Lisbon Pisa Riga Frankfurt Kiev Sofia Granada
 # names israel
 Haifa Herzliya
 # names canada
