@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.023';
+our $VERSION = '1.024';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-10-13 - v1.024
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.043.
 
 =item *
 
@@ -259,12 +265,12 @@ Baltix
 Bardinux
 Berry
 Bicom
-BigLinux
 Bio_Linux
 BlackArch
 blackPanther
 BLAG
 BlankOn
+Bodhi
 BOSS
 Bridge
 BRLix
@@ -285,7 +291,6 @@ Comfusion
 CoreOS
 CrunchBang
 CRUX
-Damn_Small
 Debian
 Deepin
 DEFT
@@ -339,23 +344,23 @@ Kali
 KANOTIX
 KaOS
 Karoshi
-Kiwi
 KNOPPIX
 KolibriOS
 Korora
 Kubuntu
 Kwheezy
 Kwort
+KXStudio
 Leeenux
 Legacy
 LFS
-Libert
 LinEx
 LinHES
 Linpus
 LinuxBBQ
 LinuxConsole
 Linuxfx
+Liquid_Lemur
 Lite
 LliureX
 LPS
@@ -425,6 +430,7 @@ Pinguy
 Pisi
 Plamo
 PLD
+Plop
 Point
 PoliArch
 Porteus
@@ -449,7 +455,6 @@ Runtu
 Sabayon
 SalentOS
 Salix
-SchilliX
 Scientific
 Securepoint
 Semplice
@@ -493,7 +498,6 @@ Turbolinux
 TurnKey
 UberStudent
 Ubuntu
-Ubuntu_Christian
 Ubuntu_DP
 Ubuntu_GNOME
 Ubuntu_Kylin
@@ -504,7 +508,6 @@ Ultimate
 Univention
 Untangle
 UPR
-Userful
 VAST
 Vector
 Vine
@@ -512,12 +515,13 @@ Vinux
 Volumio
 VortexBox
 Voyager
+VyOS
 wattOS
 Webconverger
 Wifislax
 WM_Live
 Xubuntu
-Yellow_Dog
+Zencafe
 Zentyal
 Zenwalk
 Zeroshell
