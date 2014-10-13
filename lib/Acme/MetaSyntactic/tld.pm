@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::tld;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.004';
+our $VERSION = '1.005';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -38,6 +38,12 @@ Scott Lanning, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-10-13 - v1.005
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.043.
 
 =item *
 
@@ -106,37 +112,40 @@ sz tc td tf tg th tj tk tl tm tn to tp tr tt tv tw tz ua ug uk um us uy
 uz va vc ve vg vi vn vu wf ws ye yt za zm zw
 # names generic
 com info net org
-academy accountants active actor agency airforce archi army associates
-attorney auction audio autos axa
+academy accountants active actor agency airforce allfinanz alsace archi
+army associates attorney auction audio autos axa
 bar bargains bayern beer berlin best bid bike bio black blackfriday blue
-bmw bnpparibas boo boutique brussels build builders business buzz bzh
-cab camera camp cancerresearch capetown capital caravan cards care career
-careers cash catering center ceo cern cheap christmas church citic city
-claims cleaning click clinic clothing club codes coffee college cologne
-community company computer condos construction consulting contractors
-cooking cool country credit creditcard cruises cuisinella cymru
+bmw bnpparibas boo boutique brussels budapest build builders business
+buzz bzh
+cab cal camera camp cancerresearch capetown capital caravan cards care
+career careers casa cash catering center ceo cern channel cheap christmas
+chrome church citic city claims cleaning click clinic clothing club codes
+coffee college cologne community company computer condos construction
+consulting contractors cooking cool country credit creditcard cruises
+cuisinella cymru
 dad dance dating day deals degree democrat dental dentist desi diamonds
-diet digital direct directory discount dnp domains durban
+diet digital direct directory discount dnp domains durban dvag
 eat education email engineer engineering enterprises equipment esq estate
 eus events exchange expert exposed
 fail farm feedback finance financial fish fishing fitness flights florist
-foo foundation frl frogans fund furniture futbol
-gal gallery gbiz gent gift gifts gives glass global globo gmail gmo gmx
-gop graphics gratis green gripe guide guitars guru
+fly foo forsale foundation frl frogans fund furniture futbol
+gal gallery gbiz gent gift gifts gives glass gle global globo gmail gmo
+gmx google gop graphics gratis green gripe guide guitars guru
 hamburg haus healthcare help here hiphop hiv holdings holiday homes
 horse host hosting house how
-immo immobilien industries ing ink institute insure international investments
+ibm immo immobilien industries ing ink institute insure international
+investments
 jetzt joburg juegos
 kaufen kim kitchen kiwi koeln krd kred
 lacaixa land lawyer lease lgbt life lighting limited limo link loans
 london lotto ltda luxe luxury
 maison management mango market marketing media meet melbourne meme menu
 miami mini moda moe monash mortgage moscow motorcycles mov
-nagoya navy network neustar new ngo nhk ninja nra nrw nyc
+nagoya navy network neustar new nexus ngo nhk ninja nra nrw nyc
 okinawa ong onl ooo organic otsuka ovh
 paris partners parts pharmacy photo photography photos physio pics
-pictures pink pizza place plumbing praxi press prod productions properties
-property pub
+pictures pink pizza place plumbing pohl praxi press prod productions
+prof properties property pub
 qpon quebec
 realtor recipes red rehab reise reisen ren rentals repair report
 republican rest restaurant reviews rich rio rocks rodeo rsvp ruhr ryukyu
@@ -144,15 +153,15 @@ saarland sarl sca scb schmidt schule scot services sexy shiksha shoes
 singles social software sohu solar solutions soy space spiegel supplies
 supply support surf surgery suzuki systems
 tatar tattoo tax technology tienda tips tirol today tokyo tools top town
-toys trade training
+toys trade training tui
 university uno uol
 vacations vegas ventures versicherung vet viajes villas vision vlaanderen
 vodka vote voting voto voyage
 wales wang watch webcam website wed whoswho wien wiki williamhill wme
-works wtc wtf
+work works world wtc wtf
 xyz
 yachts yandex yokohama youtube
-zone
+zip zone
 # names generic_restricted
 biz name pro
 # names infrastructure
