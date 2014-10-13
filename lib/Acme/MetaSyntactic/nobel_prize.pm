@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 
 =encoding iso-8859-1
 
@@ -1017,6 +1017,20 @@ The winners are:
  2013   Physics     François Englert
  2013   Physics     Peter Higgs
 
+ 2014   Chemistry   Eric Betzig
+ 2014   Chemistry   Stefan W. Hell
+ 2014   Chemistry   William E. Moerner
+ 2014   Economics   Jean Tirole
+ 2014   Literature  Patrick Modiano
+ 2014   Medecine    John O'Keefe
+ 2014   Medecine    May-Britt Moser
+ 2014   Medecine    Edvard I. Moser
+ 2014   Peace       Kailash Satyarthi
+ 2014   Peace       Malala Yousafzai
+ 2014   Physics     Isamu Akasaki
+ 2014   Physics     Hiroshi Amano
+ 2014   Physics     Shuji Nakamura
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
@@ -1048,6 +1062,13 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-10-13 - v1.003
+
+Updated with the Nobel prizes for 2014, and
+published in Acme-MetaSyntactic-Themes version 1.043.
 
 =item *
 
