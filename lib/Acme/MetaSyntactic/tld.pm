@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::tld;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.005';
+our $VERSION = '1.006';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -38,6 +38,12 @@ Scott Lanning, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2014-01-05 - v1.006
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.044.
 
 =item *
 
@@ -112,55 +118,62 @@ sz tc td tf tg th tj tk tl tm tn to tp tr tt tv tw tz ua ug uk um us uy
 uz va vc ve vg vi vn vu wf ws ye yt za zm zw
 # names generic
 com info net org
-academy accountants active actor agency airforce allfinanz alsace archi
-army associates attorney auction audio autos axa
-bar bargains bayern beer berlin best bid bike bio black blackfriday blue
-bmw bnpparibas boo boutique brussels budapest build builders business
-buzz bzh
+abogado academy accountants active actor adult agency airforce allfinanz
+alsace android aquarelle archi army associates attorney auction audio
+autos axa
+band bar bargains bayern beer berlin best bid bike bio black blackfriday
+bloomberg blue bmw bnpparibas boo boutique brussels budapest build
+builders business buzz bzh
 cab cal camera camp cancerresearch capetown capital caravan cards care
-career careers casa cash catering center ceo cern channel cheap christmas
-chrome church citic city claims cleaning click clinic clothing club codes
-coffee college cologne community company computer condos construction
-consulting contractors cooking cool country credit creditcard cruises
-cuisinella cymru
-dad dance dating day deals degree democrat dental dentist desi diamonds
-diet digital direct directory discount dnp domains durban dvag
-eat education email engineer engineering enterprises equipment esq estate
-eus events exchange expert exposed
-fail farm feedback finance financial fish fishing fitness flights florist
-fly foo forsale foundation frl frogans fund furniture futbol
-gal gallery gbiz gent gift gifts gives glass gle global globo gmail gmo
-gmx google gop graphics gratis green gripe guide guitars guru
+career careers cartier casa cash catering center ceo cern channel cheap
+christmas chrome church citic city claims cleaning click clinic clothing
+club coach codes coffee college cologne community company computer
+condos construction consulting contractors cooking cool country credit
+creditcard cricket crs cruises cuisinella cymru
+dad dance dating day deals degree delivery democrat dental dentist desi
+dev diamonds diet digital direct directory discount dnp docs domains
+doosan durban dvag
+eat education email emerck energy engineer engineering enterprises
+equipment esq estate eurovision eus events everbank exchange expert
+exposed
+fail farm fashion feedback finance financial firmdale fish fishing
+fitness flights florist flsmidth fly foo forsale foundation frl frogans
+fund furniture futbol
+gal gallery garden gbiz gent gift gifts gives glass gle global globo
+gmail gmo gmx google gop graphics gratis green gripe guide guitars guru
 hamburg haus healthcare help here hiphop hiv holdings holiday homes
 horse host hosting house how
 ibm immo immobilien industries ing ink institute insure international
-investments
+investments irish iwc
 jetzt joburg juegos
 kaufen kim kitchen kiwi koeln krd kred
-lacaixa land lawyer lease lgbt life lighting limited limo link loans
-london lotto ltda luxe luxury
-maison management mango market marketing media meet melbourne meme menu
-miami mini moda moe monash mortgage moscow motorcycles mov
+lacaixa land latrobe lawyer lds lease legal lgbt lidl life lighting
+limited limo link loans london lotto ltda luxe luxury
+madrid maison management mango market marketing media meet melbourne
+meme memorial menu miami mini moda moe monash money mormon mortgage
+moscow motorcycles mov
 nagoya navy network neustar new nexus ngo nhk ninja nra nrw nyc
-okinawa ong onl ooo organic otsuka ovh
-paris partners parts pharmacy photo photography photos physio pics
-pictures pink pizza place plumbing pohl praxi press prod productions
-prof properties property pub
+okinawa ong onl ooo organic osaka otsuka ovh
+paris partners parts party pharmacy photo photography photos physio
+pics pictures pink pizza place plumbing pohl poker porn praxi press prod
+productions prof properties property pub
 qpon quebec
-realtor recipes red rehab reise reisen ren rentals repair report
-republican rest restaurant reviews rich rio rocks rodeo rsvp ruhr ryukyu
-saarland sarl sca scb schmidt schule scot services sexy shiksha shoes
-singles social software sohu solar solutions soy space spiegel supplies
-supply support surf surgery suzuki systems
-tatar tattoo tax technology tienda tips tirol today tokyo tools top town
-toys trade training tui
+realtor recipes red rehab reise reisen reit ren rentals repair report
+republican rest restaurant reviews rich rio rip rocks rodeo rsvp ruhr
+ryukyu
+saarland samsung sarl sca scb schmidt schule schwarz science scot
+services sew sexy shiksha shoes singles sky social software sohu solar
+solutions soy space spiegel supplies supply support surf surgery suzuki
+sydney systems
+taipei tatar tattoo tax technology tienda tips tires tirol today tokyo
+tools top town toys trade training trust tui
 university uno uol
 vacations vegas ventures versicherung vet viajes villas vision vlaanderen
 vodka vote voting voto voyage
-wales wang watch webcam website wed whoswho wien wiki williamhill wme
-work works world wtc wtf
+wales wang watch webcam website wed wedding whoswho wien wiki williamhill
+wme work works world wtc wtf
 xyz
-yachts yandex yokohama youtube
+yachts yandex yoga yokohama youtube
 zip zone
 # names generic_restricted
 biz name pro
