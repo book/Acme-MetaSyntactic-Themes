@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::wales_towns;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.005';
+our $VERSION = '1.006';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -40,6 +40,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-01-05 - v1.006
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.044.
 
 =item *
 
@@ -256,6 +262,7 @@ Tonypandy
 Tredegar
 Tregaron
 Treharris
+Treorchy
 Tywyn
 Usk
 Welshpool
