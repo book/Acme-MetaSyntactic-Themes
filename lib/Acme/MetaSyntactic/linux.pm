@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.024';
+our $VERSION = '1.025';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-01-05 - v1.025
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.044.
 
 =item *
 
@@ -248,14 +254,11 @@ AgiliaLinux
 Alpine
 ALT
 Android_x86
-Ankur_Bangla
 Antergos
 antiX
-APODIO
 aptosid
 Arch
 ArchBang
-AriOS
 ArtistX
 AsteriskNOW
 AUSTRUMI
@@ -273,7 +276,6 @@ BlankOn
 Bodhi
 BOSS
 Bridge
-BRLix
 Burapha
 CAELinux
 CAINE
@@ -287,7 +289,6 @@ Chakra
 Chitwanix
 ClearOS
 Clonezilla
-Comfusion
 CoreOS
 CrunchBang
 CRUX
@@ -296,7 +297,6 @@ Deepin
 DEFT
 Descent_OS
 Devil
-DigAnTel
 DoudouLinux
 Draco
 DragonFly
@@ -395,6 +395,7 @@ Netrunner
 NetSecL
 NexentaStor
 NixOS
+Nova
 NST
 NuTyX
 Ojuba
@@ -421,10 +422,11 @@ Parsix
 Parted_Magic
 PC_BSD
 PCLinuxOS
+Peach_OSI
+PelicanHPC
 Pentoo
 Peppermint
 pfSense
-PiBang
 Pidora
 Pinguy
 Pisi
@@ -434,6 +436,7 @@ Plop
 Point
 PoliArch
 Porteus
+Porteus_Kiosk
 Proxmox
 Puppy
 Q4OS
@@ -457,6 +460,7 @@ SalentOS
 Salix
 Scientific
 Securepoint
+SELKS
 Semplice
 siduction
 Simplicity
@@ -508,7 +512,6 @@ Ultimate
 Univention
 Untangle
 UPR
-VAST
 Vector
 Vine
 Vinux
@@ -520,6 +523,7 @@ wattOS
 Webconverger
 Wifislax
 WM_Live
+XStreamOS
 Xubuntu
 Zencafe
 Zentyal
