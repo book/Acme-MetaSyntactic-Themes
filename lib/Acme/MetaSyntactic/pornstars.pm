@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.023';
+our $VERSION = '1.024';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -56,6 +56,12 @@ Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-01-05 - v1.024
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.044.
 
 =item *
 
@@ -320,6 +326,7 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 __DATA__
 # names female
 Adrianna_Luna
+Alana_Evans
 Amber_Lynn
 Amy_Fisher
 Andrea_True
@@ -331,7 +338,6 @@ Asa_Akira
 Ashley_Blue
 Ashley_Renee
 Asia_Carrera
-Audrey_Bitoni
 Audrey_Hollander
 Belle_Knox
 BiBi_Jones
@@ -363,16 +369,21 @@ Gloria_Leonard
 Gracie_Glam
 Heather_Hunter
 Holly_Ryder
+Houston
 Jasmin_St_Claire
 Jenna_Haze
+Jenna_Jameson
 Jenny_Hendrix
 Jesse_Jane
 Jessie_Rogers
+Juelz_Ventura
 Julia_Bond
 Juliet_Anderson
 Kandi_Barbour
+Karen_Summer
 Katie_Morgan
 Katsuni
+Kaylani_Lei
 Kylie_Ireland
 Leilani_Leeane
 Linda_Lovelace
@@ -423,6 +434,7 @@ Sinn_Sage
 Stormy_Daniels
 Taylor_St_Claire
 Taylor_Wane
+Tera_Patrick
 Tericka_Dye
 Tina_Russell
 Trinity_Loren
