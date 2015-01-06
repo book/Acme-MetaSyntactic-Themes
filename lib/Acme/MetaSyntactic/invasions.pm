@@ -56,7 +56,8 @@ Invasion of the Naples region, also known as Gangway or Mustang. Planned but nev
 
 =item Baytown
 
-Diversionary invasion of Calabria near Reggio Calabria, executed on 3rd September 1943, in support of Avalanche and Slapstick.
+Diversionary invasion of Calabria near Reggio Calabria, executed on 3rd September 1943,
+in support of Avalanche and Slapstick.
 
 =item Brimstone
 
@@ -68,7 +69,8 @@ Invasion of Calabria near Cetrano, Almantea and Pizzo. Planned but never execute
 
 =item Coronet
 
-Invasion of Honshu, in the Tokyo Plain. Planned for December 1945 or March 1946, but the war ended before.
+Invasion of Honshu, in the Tokyo Plain. Planned for December 1945 or March 1946, but
+the war ended before.
 
 =item Detachment
 
@@ -76,7 +78,8 @@ Invasion of Iwo Jima. Executed on 19th February 1945.
 
 =item Dragoon
 
-Invasion of the South of France, near Toulon. Executed on 15th August 1944. Also known as "Anvil".
+Invasion of the South of France, near Toulon. Executed on 15th August 1944. Also known
+as "Anvil".
 
 =item Eclipse
 
@@ -96,7 +99,8 @@ Invasion of the Naples region, also known as Barracuda or Mustang. Planned but n
 
 =item Giant_I
 
-Paradrop on Caserta, Capua and the Volturno river, in support of Avalanche. Planned but never executed.
+Paradrop on Caserta, Capua and the Volturno river, in support of Avalanche. Planned but
+never executed.
 
 =item Giant_II
 
@@ -108,7 +112,8 @@ Invasion of Calabria near Crotone. Planned but never executed.
 
 =item Gruener_Pfeil
 
-German invasion of Jersey and Guernsey. Executed on 1st July 1940. The islands were occupied until 8th May 1945.
+German invasion of Jersey and Guernsey. Executed on 1st July 1940. The islands were
+occupied until 8th May 1945.
 
 =item Herkules
 
@@ -164,7 +169,8 @@ Invasion of the Naples region, also known as Barracuda or Gangway. Planned but n
 
 =item Oboe
 
-A series of landings by American and Australian troops on Borneo and neighbour islands. Executed between May 1945 and July 1945.
+A series of landings by American and Australian troops on Borneo and neighbour
+islands. Executed between May 1945 and July 1945.
 
 =item Olympic
 
@@ -225,7 +231,7 @@ Invasion of Guadalcanal. Executed on 7th August 1942. Nicknamed as "Shoestring".
 }
 
 # Ending a module with 0 is wrong. Ending it with 1 is correct, but boring.
-# So why not ending it with a few verse from Paul Verlaine?
+# So why not ending it with a few verses from Paul Verlaine?
 q{
 Les sanglots longs
 des violons
