@@ -15,11 +15,21 @@ operations with both a naval invasion component and an airborne
 component during World War II. The list includes some operations which
 were planned but not executed.
 
-Source: among others, the I<Codeword Dictionnary>, 
-Paul Adkins, Motorbooks International
-(ISBN 0-7603-00368-1).
+Sources, among others:
 
-and also I<Strategy & Tactics> #160, May 1993
+=over 4
+
+=item *
+
+the I<Codeword Dictionnary>,
+Paul Adkins, Motorbooks International
+(ISBN 0-7603-00368-1)
+
+=item *
+
+I<Strategy & Tactics> #160, May 1993
+
+=back
 
 =cut
 
