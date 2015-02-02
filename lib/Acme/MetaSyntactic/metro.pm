@@ -112,6 +112,13 @@ public on July 19, 1900.
 
 =item *
 
+2015-02-02 - v1.004
+
+Updates for the Lyon metro,
+published in Acme-MetaSyntactic-Themes version 1.045.
+
+=item *
+
 2014-08-18 - v1.003
 
 Updated by Eric Guirbal with the two metro lines for Toulouse,
