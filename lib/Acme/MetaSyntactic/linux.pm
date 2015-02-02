@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.025';
+our $VERSION = '1.026';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-02-02 - v1.026
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.045.
 
 =item *
 
@@ -270,6 +276,7 @@ Berry
 Bicom
 Bio_Linux
 BlackArch
+Black_Lab
 blackPanther
 BLAG
 BlankOn
@@ -301,7 +308,6 @@ DoudouLinux
 Draco
 DragonFly
 Dragora
-DreamStudio
 Edubuntu
 Ekaaty
 Elastix
@@ -310,6 +316,7 @@ Elive
 Emmabunt_s
 Endian
 Epidemic
+Evolve
 Exe
 Exherbo
 ExTiX
@@ -391,6 +398,7 @@ Nanolinux
 NAS4Free
 Neptune
 NetBSD
+NethServer
 Netrunner
 NetSecL
 NexentaStor
