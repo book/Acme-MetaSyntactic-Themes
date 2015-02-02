@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::tld;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.006';
+our $VERSION = '1.007';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -41,7 +41,13 @@ Scott Lanning, Philippe Bruhat (BooK).
 
 =item *
 
-2014-01-05 - v1.006
+2015-02-02 - v1.007
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.045.
+
+=item *
+
+2015-01-05 - v1.006
 
 Updated from the source web site in Acme-MetaSyntactic-Themes version 1.044.
 
@@ -119,41 +125,42 @@ uz va vc ve vg vi vn vu wf ws ye yt za zm zw
 # names generic
 com info net org
 abogado academy accountants active actor adult agency airforce allfinanz
-alsace android aquarelle archi army associates attorney auction audio
-autos axa
-band bar bargains bayern beer berlin best bid bike bio black blackfriday
-bloomberg blue bmw bnpparibas boo boutique brussels budapest build
-builders business buzz bzh
+alsace amsterdam android aquarelle archi army associates attorney
+auction audio autos axa
+band bank bar barclaycard barclays bargains bayern beer berlin best bid
+bike bio black blackfriday bloomberg blue bmw bnpparibas boo boutique
+brussels budapest build builders business buzz bzh
 cab cal camera camp cancerresearch capetown capital caravan cards care
 career careers cartier casa cash catering center ceo cern channel cheap
 christmas chrome church citic city claims cleaning click clinic clothing
 club coach codes coffee college cologne community company computer
 condos construction consulting contractors cooking cool country credit
 creditcard cricket crs cruises cuisinella cymru
-dad dance dating day deals degree delivery democrat dental dentist desi
-dev diamonds diet digital direct directory discount dnp docs domains
-doosan durban dvag
+dabur dad dance dating day dclk deals degree delivery democrat dental
+dentist desi design dev diamonds diet digital direct directory discount
+dnp docs domains doosan durban dvag
 eat education email emerck energy engineer engineering enterprises
 equipment esq estate eurovision eus events everbank exchange expert
 exposed
-fail farm fashion feedback finance financial firmdale fish fishing
-fitness flights florist flsmidth fly foo forsale foundation frl frogans
-fund furniture futbol
-gal gallery garden gbiz gent gift gifts gives glass gle global globo
-gmail gmo gmx google gop graphics gratis green gripe guide guitars guru
-hamburg haus healthcare help here hiphop hiv holdings holiday homes
-horse host hosting house how
-ibm immo immobilien industries ing ink institute insure international
+fail farm fashion feedback finance financial firmdale fish fishing fit
+fitness flights florist flowers flsmidth fly foo forsale foundation frl
+frogans fund furniture futbol
+gal gallery garden gbiz gent ggee gift gifts gives glass gle global
+globo gmail gmo gmx goog google gop graphics gratis green gripe guide
+guitars guru
+hamburg hangout haus healthcare help here hermes hiphop hiv holdings
+holiday homes horse host hosting house how
+ibm ifm immo immobilien industries ing ink institute insure international
 investments irish iwc
-jetzt joburg juegos
-kaufen kim kitchen kiwi koeln krd kred
-lacaixa land latrobe lawyer lds lease legal lgbt lidl life lighting
-limited limo link loans london lotto ltda luxe luxury
-madrid maison management mango market marketing media meet melbourne
-meme memorial menu miami mini moda moe monash money mormon mortgage
-moscow motorcycles mov
+jcb jetzt joburg juegos
+kaufen kddi kim kitchen kiwi koeln krd kred kyoto
+lacaixa land lat latrobe lawyer lds lease legal lgbt lidl life lighting
+limited limo link loans london lotte lotto ltda luxe luxury
+madrid maison management mango market marketing marriott media meet
+melbourne meme memorial menu miami mini moda moe monash money mormon
+mortgage moscow motorcycles mov
 nagoya navy network neustar new nexus ngo nhk ninja nra nrw nyc
-okinawa ong onl ooo organic osaka otsuka ovh
+okinawa one ong onl ooo organic osaka otsuka ovh
 paris partners parts party pharmacy photo photography photos physio
 pics pictures pink pizza place plumbing pohl poker porn praxi press prod
 productions prof properties property pub
@@ -161,20 +168,20 @@ qpon quebec
 realtor recipes red rehab reise reisen reit ren rentals repair report
 republican rest restaurant reviews rich rio rip rocks rodeo rsvp ruhr
 ryukyu
-saarland samsung sarl sca scb schmidt schule schwarz science scot
-services sew sexy shiksha shoes singles sky social software sohu solar
-solutions soy space spiegel supplies supply support surf surgery suzuki
-sydney systems
-taipei tatar tattoo tax technology tienda tips tires tirol today tokyo
-tools top town toys trade training trust tui
+saarland sale samsung sarl sca scb schmidt schule schwarz science scot
+services sew sexy shiksha shoes shriram singles sky social software sohu
+solar solutions soy space spiegel supplies supply support surf surgery
+suzuki sydney systems
+taipei tatar tattoo tax technology temasek tienda tips tires tirol today
+tokyo tools top town toys trade training trust tui
 university uno uol
-vacations vegas ventures versicherung vet viajes villas vision vlaanderen
-vodka vote voting voto voyage
+vacations vegas ventures versicherung vet viajes video villas vision
+vlaanderen vodka vote voting voto voyage
 wales wang watch webcam website wed wedding whoswho wien wiki williamhill
 wme work works world wtc wtf
 xyz
 yachts yandex yoga yokohama youtube
-zip zone
+zip zone zuerich
 # names generic_restricted
 biz name pro
 # names infrastructure
