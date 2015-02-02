@@ -263,11 +263,13 @@ Jean Forget
 
 =item *
 
-2015-01-06 - v1.001
+2015-02-02 - v1.001
 
-Include names from Strategy & Tactics # 160.
+Include names from I<Strategy & Tactics> #160.
 
 Use the "POD inside here-doc" trick to give some historical tidbits about the various names.
+
+Published in Acme-MetaSyntactic-Themes v1.045.
 
 =item *
 
