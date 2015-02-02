@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::metro;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 __PACKAGE__->init();
 1;
 
@@ -585,7 +585,7 @@ Perrache
 Ampere_Victor_Hugo
 Bellecour
 Cordelier
-Hotel_de_Ville
+Hotel_de_Ville_Louis_Pradel
 Foch
 Massena
 Charpennes
@@ -593,20 +593,21 @@ Republique
 Gratte_Ciel
 Flachet
 Cusset
-Laurent_Bonnevay
+Laurent_Bonnevay_Astroballe
 Vaulx_en_Velin_La_Soie
 # names fr lyon ligne_B
+Gare_d_Oullins
 Stade_de_Gerland
 Debourg
 Place_Jean_Jaures
 Jean_Mace
 Saxe_Gambetta
-Place_Guichard
+Place_Guichard_Bourse_du_Travail
 Part_Dieu
 Brotteaux
-Charpennes
+Charpennes_Charles_Hernu
 # names fr lyon ligne_C
-Hotel_de_Ville
+Hotel_de_Ville_Louis_Pradel
 Croix_Paquet
 Croix_Rousse
 Henon
@@ -621,9 +622,9 @@ Monplaisir_Lumiere
 Sans_Souci
 Garibaldi
 Saxe_Gambetta
-Guillotiere
+Guillotiere_Gabriel_Peri
 Bellecour
-Vieux_Lyon
+Vieux_Lyon_Cathedrale_Saint_Jean
 Gorge_de_Loup
 Valmy
 Gare_de_Vaise
