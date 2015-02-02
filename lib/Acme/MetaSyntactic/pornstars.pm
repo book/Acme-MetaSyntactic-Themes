@@ -10,6 +10,7 @@ our %Remote = (
         female => 'http://en.wikipedia.org/wiki/List_of_pornographic_actresses_by_decade',
     },
     extract => sub {
+        $_[0] =~ s/<table class="navbox".*//s;    # drop the navbox at the end
         return
             map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_utf8_basic($_) }
