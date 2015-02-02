@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::wales_towns;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.006';
+our $VERSION = '1.007';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -40,6 +40,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-02-02 - v1.007
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.045.
 
 =item *
 
@@ -166,7 +172,6 @@ Ffestiniog
 Fishguard
 Flint
 Gelligaer
-Glanaman
 Glynneath
 Goodwick
 Gorseinon
