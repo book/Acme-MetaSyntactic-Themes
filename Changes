@@ -1,5 +1,20 @@
 Revision history for Acme-MetaSyntactic-Themes
 
+{{$NEXT}}
+
+1.045 Mon Feb 2 2015
+    [THEME UPDATES]
+    - invasions
+    - linux
+    - metro
+    - pm_groups
+    - pokemon
+    - pornstars
+    - tld
+    - wales_towns
+    [PACKAGING]
+    - switch to Dist::Zilla for maintaining the distribution
+
 1.044 Mon Jan  5 2015
     [THEME UPDATES]
     - linux
