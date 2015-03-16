@@ -1,7 +1,7 @@
 package Acme::MetaSyntactic::good_omens;
 use strict;
 use Acme::MetaSyntactic::List;
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 our @ISA = qw( Acme::MetaSyntactic::List );
 
 =head1 NAME
