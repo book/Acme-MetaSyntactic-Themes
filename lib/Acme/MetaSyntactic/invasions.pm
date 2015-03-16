@@ -253,8 +253,6 @@ Monotone
 
 __END__
 
-and also I<Strategy & Tactics> #160, May 1993
-
 =head1 CONTRIBUTOR
 
 Jean Forget
