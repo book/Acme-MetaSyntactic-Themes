@@ -2,9 +2,9 @@ package Acme::MetaSyntactic::discworld;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
-1;
+'7a';
 
 =encoding iso-8859-1
 
