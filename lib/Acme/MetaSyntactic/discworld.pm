@@ -2,9 +2,9 @@ package Acme::MetaSyntactic::discworld;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
-1;
+'7a';
 
 =encoding iso-8859-1
 
@@ -18,7 +18,31 @@ This theme contains items from Terry Pratchett's Discworld series.
 
 =head1 CONTRIBUTORS
 
-Martin Vorl‰nder, Jean Forget.
+Martin Vorl√§nder, Jean Forget.
+
+=head1 IN MEMORIAM
+
+This theme is dedicated to
+
+=over 4
+
+=item Josh Kirby (1928-2001)
+
+"I only invented the Discworld. Josh created it."
+
+-- Terry Pratchett
+
+=item Terry Pratchett (1948-2015)
+
+  AT LAST, SIR TERRY, WE MUST WALK TOGETHER.
+
+  Terry took Death‚Äôs arm and followed him through the doors and on to the black desert under the endless night.
+
+  The End
+
+  @terryandrob on Twitter, 12 March 2015
+
+=back
 
 =head1 CHANGES
 
@@ -54,7 +78,7 @@ Introduced in Acme-MetaSyntactic version 0.42.
 
 2005-09-02
 
-Initial list proposed by Martin Vorl‰nder.
+Initial list proposed by Martin Vorl√§nder.
 
 =back
 

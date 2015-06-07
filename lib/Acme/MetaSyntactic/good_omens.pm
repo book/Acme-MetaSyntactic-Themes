@@ -1,7 +1,7 @@
 package Acme::MetaSyntactic::good_omens;
 use strict;
 use Acme::MetaSyntactic::List;
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 our @ISA = qw( Acme::MetaSyntactic::List );
 
 =head1 NAME
@@ -191,6 +191,16 @@ __END__
 =head1 CONTRIBUTOR
 
 Jean Forget.
+
+=head1 IN MEMORIAM
+
+This theme is dedicated to Terry Pratchett (1948-2015)
+
+  One day I'll be dead and THEN you'll all be sorry. 
+  -- (Terry Pratchett, 28 Nov 1992, on alt.fan.pratchett)
+
+=back
+
 
 =head1 CHANGES
 
