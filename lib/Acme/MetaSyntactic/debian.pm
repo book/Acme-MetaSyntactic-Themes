@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::debian;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 __PACKAGE__->init();
 1;
 
@@ -24,6 +24,13 @@ Philippe Bruhat (Book).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-06-08 - v1.002
+
+Added C<stretch> to the list of Debian codenames.
+Published in Acme-MetaSyntactic-Themes version 1.046.
 
 =item *
 
@@ -59,5 +66,5 @@ buzz rex bo
 hamm slink potato
 woody sarge etch
 lenny squeeze wheezy
-jessie
+jessie stretch
 sid
