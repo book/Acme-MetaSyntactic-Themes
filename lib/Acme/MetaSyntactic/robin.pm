@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::robin;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 __PACKAGE__->init();
 1;
 
@@ -28,6 +28,12 @@ Philippe "BooK" Bruhat.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-06-08 - v1.001
+
+Fixed a typo in Acme-MetaSyntactic-Themes version 1.046.
 
 =item *
 
@@ -137,7 +143,7 @@ holy_hood_wink                     holy_hoofbeats
 holy_horseshoes                    holy_hostage
 holy_hot_foot                      holy_hot_spot
 holy_Houdini                       holy_human_collector_s_item
-holy_human_pearlS
+holy_human_pearls
 holy_human_pressure_cookers        holy_human_surfboards
 holy_hunting_horn                  holy_hurricane
 holy_hutzpah                       holy_hydraulics
