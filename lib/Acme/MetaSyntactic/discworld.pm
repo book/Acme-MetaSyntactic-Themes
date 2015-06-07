@@ -6,7 +6,7 @@ our $VERSION = '1.002';
 __PACKAGE__->init();
 '7a';
 
-=encoding iso-8859-1
+=encoding utf-8
 
 =head1 NAME
 
