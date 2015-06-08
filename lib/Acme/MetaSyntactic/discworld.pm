@@ -50,6 +50,13 @@ This theme is dedicated to
 
 =item *
 
+2015-06-08 - v1.002
+
+Updated with L<IN MEMORIAM> after the passing of Sir Terry Pratchett
+on March 12, 2015. Published in Acme-MetaSyntactic-Themes version 1.046.
+
+=item *
+
 2012-05-14 - v1.001
 
 Updated with an C<=encoding> pod command.
