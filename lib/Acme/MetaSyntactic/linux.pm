@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.026';
+our $VERSION = '1.027';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-06-08 - v1.027
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.046.
 
 =item *
 
@@ -256,13 +262,12 @@ ZeroLinux
 TwoXOS
 FourMLinux
 Absolute
-AgiliaLinux
 Alpine
 ALT
 Android_x86
 Antergos
 antiX
-aptosid
+APODIO
 Arch
 ArchBang
 ArtistX
@@ -272,6 +277,8 @@ AV_Linux
 BackBox
 Baltix
 Bardinux
+Baruwa
+Bella
 Berry
 Bicom
 Bio_Linux
@@ -293,38 +300,32 @@ C_tix
 CentOS
 Centrych
 Chakra
+ChaletOS
 Chitwanix
+Chromixium
 ClearOS
 Clonezilla
+Connochaet
 CoreOS
-CrunchBang
 CRUX
 Debian
-Deepin
+deepin
 DEFT
-Descent_OS
 Devil
 DoudouLinux
-Draco
 DragonFly
-Dragora
 Edubuntu
-Ekaaty
 Elastix
 elementary
 Elive
 Emmabunt_s
 Endian
-Epidemic
-Evolve
 Exe
 Exherbo
 ExTiX
 Fedora
 Fermi
 Finnix
-Foresight
-ForLEx
 FreeBSD
 FreeNAS
 Frugalware
@@ -345,7 +346,6 @@ Hanthana
 Hybryde
 IPCop
 IPFire
-Jibbed
 kademar
 Kali
 KANOTIX
@@ -375,12 +375,11 @@ Lubuntu
 Lunar
 LuninuX
 LXLE
-m0n0wall
 Macpup
 Madbox
 Mageia
 MakuluLinux
-Mandriva
+Mangaka
 Manjaro
 Matriux
 MAX
@@ -421,6 +420,7 @@ Openwall
 Open_Xange
 Ophcrack
 Oracle
+OSMC
 Overclockix
 Oz_Unity
 paldo
@@ -451,11 +451,9 @@ Q4OS
 Qubes
 Quirky
 Raspbian
-Raspbmc
 ReactOS
 Rebellin
 Red_Hat
-Redo
 REMnux
 Rescatux
 RISC
@@ -475,13 +473,13 @@ Simplicity
 Skolelinux
 Slackel
 Slackware
-Slax
 SliTaz
 SmartOS
 SME_Server
 Smoothwall
 SMS
 Solaris
+Solus
 SolydXK
 Sonar
 Sophos
@@ -500,10 +498,8 @@ SystemRescue
 T2
 Tails
 Tanglu
-Tango_Studio
 Thinstation
 Tiny_Core
-Toorox
 Toutou
 Trisquel
 Turbolinux
@@ -513,6 +509,7 @@ Ubuntu
 Ubuntu_DP
 Ubuntu_GNOME
 Ubuntu_Kylin
+Ubuntu_MATE
 Ubuntu_Studio
 UHU_Linux
 Ulteo
@@ -523,6 +520,7 @@ UPR
 Vector
 Vine
 Vinux
+Void
 Volumio
 VortexBox
 Voyager
@@ -533,7 +531,6 @@ Wifislax
 WM_Live
 XStreamOS
 Xubuntu
-Zencafe
 Zentyal
 Zenwalk
 Zeroshell
