@@ -208,6 +208,13 @@ This theme is dedicated to Terry Pratchett (1948-2015)
 
 =item *
 
+2016-06-08 - v1.001
+
+Updated with L<IN MEMORIAM> after the passing of Sir Terry Pratchett
+on March 12, 2015. Published in Acme-MetaSyntactic-Themes version 1.046.
+
+=item *
+
 2012-05-07 - v1.000
 
 Received its own version number in Acme-MetaSyntactic-Themes version 1.000.
