@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::services;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.002';
+our $VERSION = '1.003';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -55,6 +55,12 @@ Philippe "BooK" Bruhat.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-06-08 - v1.003
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.046.
 
 =item *
 
@@ -155,7 +161,7 @@ adobeserver_1
 adobeserver_2
 adobeserver_3
 ads
-advocentkvm
+avocentkvm
 aed_512
 aegate
 aeroflight_ads
@@ -1797,6 +1803,7 @@ multiplex
 mumps
 munin
 mupdate
+murmur
 murray
 muse
 musiconline
