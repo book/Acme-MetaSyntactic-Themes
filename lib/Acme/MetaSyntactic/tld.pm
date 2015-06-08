@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::tld;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.007';
+our $VERSION = '1.008';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -38,6 +38,12 @@ Scott Lanning, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-06-08 - v1.008
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.046.
 
 =item *
 
@@ -124,63 +130,71 @@ sz tc td tf tg th tj tk tl tm tn to tp tr tt tv tw tz ua ug uk um us uy
 uz va vc ve vg vi vn vu wf ws ye yt za zm zw
 # names generic
 com info net org
-abogado academy accountants active actor adult agency airforce allfinanz
-alsace amsterdam android aquarelle archi army associates attorney
-auction audio autos axa
-band bank bar barclaycard barclays bargains bayern beer berlin best bid
-bike bio black blackfriday bloomberg blue bmw bnpparibas boo boutique
+abb abbott abogado academy accenture accountant accountants active actor
+ads adult afl agency aig airforce allfinanz alsace amsterdam android
+apartments aquarelle archi army associates attorney auction audio auto
+autos axa
+band bank bar barclaycard barclays bargains bauhaus bayern bbc bbva
+beer berlin best bible bid bike bingo bio black blackfriday bloomberg
+blue bmw bnpparibas boats bond boo boutique bridgestone broker brother
 brussels budapest build builders business buzz bzh
-cab cal camera camp cancerresearch capetown capital caravan cards care
-career careers cartier casa cash catering center ceo cern channel cheap
-christmas chrome church citic city claims cleaning click clinic clothing
-club coach codes coffee college cologne community company computer
-condos construction consulting contractors cooking cool country credit
-creditcard cricket crs cruises cuisinella cymru
-dabur dad dance dating day dclk deals degree delivery democrat dental
-dentist desi design dev diamonds diet digital direct directory discount
-dnp docs domains doosan durban dvag
-eat education email emerck energy engineer engineering enterprises
-equipment esq estate eurovision eus events everbank exchange expert
-exposed
-fail farm fashion feedback finance financial firmdale fish fishing fit
-fitness flights florist flowers flsmidth fly foo forsale foundation frl
-frogans fund furniture futbol
-gal gallery garden gbiz gent ggee gift gifts gives glass gle global
-globo gmail gmo gmx goog google gop graphics gratis green gripe guide
-guitars guru
-hamburg hangout haus healthcare help here hermes hiphop hiv holdings
-holiday homes horse host hosting house how
-ibm ifm immo immobilien industries ing ink institute insure international
-investments irish iwc
-jcb jetzt joburg juegos
-kaufen kddi kim kitchen kiwi koeln krd kred kyoto
-lacaixa land lat latrobe lawyer lds lease legal lgbt lidl life lighting
-limited limo link loans london lotte lotto ltda luxe luxury
-madrid maison management mango market marketing marriott media meet
-melbourne meme memorial menu miami mini moda moe monash money mormon
-mortgage moscow motorcycles mov
-nagoya navy network neustar new nexus ngo nhk ninja nra nrw nyc
-okinawa one ong onl ooo organic osaka otsuka ovh
-paris partners parts party pharmacy photo photography photos physio
-pics pictures pink pizza place plumbing pohl poker porn praxi press prod
-productions prof properties property pub
+cab cafe cal camera camp cancerresearch canon capetown capital caravan
+cards care career careers cars cartier casa cash casino catering cbn
+center ceo cern cfa cfd channel chat cheap chloe christmas chrome church
+cisco citic city claims cleaning click clinic clothing club coach codes
+coffee college cologne community company computer condos construction
+consulting contractors cooking cool corsica country coupons courses
+credit creditcard cricket crs cruises cuisinella cymru cyou
+dabur dad dance date dating datsun day dclk deals degree delivery democrat
+dental dentist desi design dev diamonds diet digital direct directory
+discount dnp docs dog doha domains doosan download durban dvag
+earth eat education email emerck energy engineer engineering enterprises
+epson equipment erni esq estate eurovision eus events everbank exchange
+expert exposed express
+fail faith fan fans farm fashion feedback film finance financial firmdale
+fish fishing fit fitness flights florist flowers flsmidth fly foo football
+forex forsale foundation frl frogans fund furniture futbol fyi
+gal gallery garden gbiz gdn gent ggee gift gifts gives glass gle global
+globo gmail gmo gmx gold goldpoint golf goo goog google gop graphics
+gratis green gripe guge guide guitars guru
+hamburg hangout haus healthcare help here hermes hiphop hitachi hiv
+hockey holdings holiday homedepot homes honda horse host hosting house how
+ibm icbc icu ifm immo immobilien industries infiniti ing ink institute
+insure international investments irish iwc
+java jcb jetzt jewelry jll joburg juegos
+kaufen kddi kim kitchen kiwi koeln komatsu krd kred kyoto
+lacaixa land lat latrobe lawyer lds lease leclerc legal lgbt liaison
+lidl life lighting limited limo link loan loans lol london lotte lotto
+love ltda lupin luxe luxury
+madrid maif maison management mango market marketing markets marriott mba
+media meet melbourne meme memorial men menu miami mini mma moda moe monash
+money montblanc mormon mortgage moscow motorcycles mov movie mtn mtpc
+nadex nagoya navy nec network neustar new news nexus ngo nhk nico ninja
+nissan nra nrw ntt nyc
+okinawa one ong onl online ooo organic osaka otsuka ovh
+page panerai paris partners parts party pharmacy philips photo photography
+photos physio piaget pics pictet pictures pink pizza place plumbing plus
+pohl poker porn praxi press prod productions prof properties property pub
 qpon quebec
-realtor recipes red rehab reise reisen reit ren rentals repair report
-republican rest restaurant reviews rich rio rip rocks rodeo rsvp ruhr
-ryukyu
-saarland sale samsung sarl sca scb schmidt schule schwarz science scot
-services sew sexy shiksha shoes shriram singles sky social software sohu
-solar solutions soy space spiegel supplies supply support surf surgery
-suzuki sydney systems
-taipei tatar tattoo tax technology temasek tienda tips tires tirol today
-tokyo tools top town toys trade training trust tui
+racing realtor recipes red redstone rehab reise reisen reit ren rent
+rentals repair report republican rest restaurant review reviews rich
+rio rip rocks rodeo rsvp ruhr run ryukyu
+saarland sale samsung sandvik sandvikcoromant sap sarl saxo sca scb
+schmidt scholarships school schule schwarz science scot seat sener
+services sew sex sexy shiksha shoes show shriram singles site ski sky
+sncf soccer social software sohu solar solutions sony soy space spiegel
+spreadbetting study style sucks supplies supply support surf surgery
+suzuki swiss sydney systems
+taipei tatar tattoo tax taxi team tech technology temasek tennis thd
+theater tickets tienda tips tires tirol today tokyo tools top toray
+toshiba tours town toys trade trading training trust tui
 university uno uol
 vacations vegas ventures versicherung vet viajes video villas vision
 vlaanderen vodka vote voting voto voyage
-wales wang watch webcam website wed wedding whoswho wien wiki williamhill
-wme work works world wtc wtf
-xyz
-yachts yandex yoga yokohama youtube
+wales walter wang watch webcam website wed wedding weir whoswho wien
+wiki williamhill win wme work works world wtc wtf
+xbox xerox xin xyz
+yachts yandex yodobashi yoga yokohama youtube
 zip zone zuerich
 # names generic_restricted
 biz name pro
