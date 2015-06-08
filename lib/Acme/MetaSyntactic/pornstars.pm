@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.025';
+our $VERSION = '1.026';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -57,6 +57,12 @@ Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-06-08 - v1.026
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.046.
 
 =item *
 
@@ -334,6 +340,7 @@ __DATA__
 # names female
 Adrianna_Luna
 Alana_Evans
+Alex_Taylor
 Amber_Lynn
 Amy_Fisher
 Andrea_True
@@ -346,10 +353,13 @@ Ashley_Blue
 Ashley_Renee
 Asia_Carrera
 Audrey_Hollander
+August_Ames
+Austyn_Moore
 Belle_Knox
 BiBi_Jones
 Bodil_Joensen
 Bonnie_Rotten
+Brandi_Love
 Bree_Olson
 Bridgette_Kerkove
 Brittany_Andrews
@@ -361,10 +371,10 @@ Candy_Barr
 Capri_Anderson
 Cara_Lott
 Carol_Connors
+Casey_Calvert
 Charmane_Star
 C_J_Laing
 Dahlia_Sky
-Dakota_Skye
 Dana_Vespoli
 Dani_Daniels
 Debi_Diamond
@@ -386,7 +396,6 @@ Jenny_Hendrix
 Jesse_Jane
 Jessie_Rogers
 Juelz_Ventura
-Julia_Bond
 Juliet_Anderson
 Justine_Joli
 Kandi_Barbour
@@ -395,6 +404,7 @@ Katie_Morgan
 Katsuni
 Kaylani_Lei
 Kendra_Lust
+Kota_Sky
 Kylie_Ireland
 Leilani_Leeane
 Linda_Lovelace
@@ -416,7 +426,6 @@ Midori
 Mika_Tan
 Mimi_Miyagi
 Missy
-Missy_Monroe
 Nicole_Aniston
 Nikki_Benz
 Nikki_Charm
