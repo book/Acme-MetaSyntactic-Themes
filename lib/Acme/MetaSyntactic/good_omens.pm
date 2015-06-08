@@ -196,10 +196,8 @@ Jean Forget.
 
 This theme is dedicated to Terry Pratchett (1948-2015)
 
-  One day I'll be dead and THEN you'll all be sorry. 
+  One day I'll be dead and THEN you'll all be sorry.
   -- (Terry Pratchett, 28 Nov 1992, on alt.fan.pratchett)
-
-=back
 
 
 =head1 CHANGES
