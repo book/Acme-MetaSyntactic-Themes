@@ -2,13 +2,13 @@ package Acme::MetaSyntactic::currency;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.004';
+our $VERSION = '1.005';
 __PACKAGE__->init();
 
 our %Remote = (
     source => {
-        current  => 'http://www.currency-iso.org/dam/downloads/table_a1.xml',
-        historic => 'http://www.currency-iso.org/dam/downloads/table_a3.xml',
+        current  => 'http://www.currency-iso.org/dam/downloads/lists/list_one.xml',
+        historic => 'http://www.currency-iso.org/dam/downloads/lists/list_three.xml',
     },
     extract => sub { $_[0] =~ m{<ALPHABETIC_CODE>(\S+)</ALPHABETIC_CODE>}mig },
 );
@@ -23,8 +23,7 @@ Acme::MetaSyntactic::currency - The currency theme
 
 The official three-letter currency codes, as defined by ISO 4217.
 
-The list was taken from the ISO web site:
-L<http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html>.
+The list was taken from the ISO web site: L<http://www.iso.org/>.
 
 =head1 CONTRIBUTOR
 
@@ -33,6 +32,13 @@ Philippe "BooK" Bruhat.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-08-10 - v1.005
+
+Updated the source URL, and
+published in Acme-MetaSyntactic-Themes version 1.047.
 
 =item *
 
