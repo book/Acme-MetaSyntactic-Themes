@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::tld;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.008';
+our $VERSION = '1.009';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -38,6 +38,12 @@ Scott Lanning, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-08-10 - v1.009
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.047.
 
 =item *
 
@@ -131,69 +137,79 @@ uz va vc ve vg vi vn vu wf ws ye yt za zm zw
 # names generic
 com info net org
 abb abbott abogado academy accenture accountant accountants active actor
-ads adult afl agency aig airforce allfinanz alsace amsterdam android
-apartments aquarelle archi army associates attorney auction audio auto
-autos axa
-band bank bar barclaycard barclays bargains bauhaus bayern bbc bbva
-beer berlin best bible bid bike bingo bio black blackfriday bloomberg
-blue bmw bnpparibas boats bond boo boutique bridgestone broker brother
-brussels budapest build builders business buzz bzh
+ads adult aeg afl agency aig airforce airtel allfinanz alsace amsterdam
+android apartments app aquarelle archi army associates attorney auction
+audio auto autos axa azure
+band bank bar barcelona barclaycard barclays bargains bauhaus bayern bbc
+bbva bcn beer bentley berlin best bet bharti bible bid bike bing bingo
+bio black blackfriday bloomberg blue bmw bnl bnpparibas boats bond boo
+boots boutique bradesco bridgestone broker brother brussels budapest
+build builders business buzz bzh
 cab cafe cal camera camp cancerresearch canon capetown capital caravan
-cards care career careers cars cartier casa cash casino catering cbn
-center ceo cern cfa cfd channel chat cheap chloe christmas chrome church
-cisco citic city claims cleaning click clinic clothing club coach codes
-coffee college cologne community company computer condos construction
-consulting contractors cooking cool corsica country coupons courses
-credit creditcard cricket crs cruises cuisinella cymru cyou
-dabur dad dance date dating datsun day dclk deals degree delivery democrat
-dental dentist desi design dev diamonds diet digital direct directory
-discount dnp docs dog doha domains doosan download durban dvag
+cards care career careers cars cartier casa cash casino catering cba cbn
+ceb center ceo cern cfa cfd chanel channel chat cheap chloe christmas
+chrome church cisco citic city claims cleaning click clinic clothing
+cloud club coach codes coffee college cologne commbank community company
+computer condos construction consulting contractors cooking cool corsica
+country coupons courses credit creditcard cricket crown crs cruises
+cuisinella cymru cyou
+dabur dad dance date dating datsun day dclk deals degree delivery delta
+democrat dental dentist desi design dev diamonds diet digital direct
+directory discount dnp docs dog doha domains doosan download drive
+durban dvag
 earth eat education email emerck energy engineer engineering enterprises
 epson equipment erni esq estate eurovision eus events everbank exchange
 expert exposed express
-fail faith fan fans farm fashion feedback film finance financial firmdale
-fish fishing fit fitness flights florist flowers flsmidth fly foo football
-forex forsale foundation frl frogans fund furniture futbol fyi
-gal gallery garden gbiz gdn gent ggee gift gifts gives glass gle global
-globo gmail gmo gmx gold goldpoint golf goo goog google gop graphics
-gratis green gripe guge guide guitars guru
+fage fail faith family fan fans farm fashion feedback film finance
+financial firmdale fish fishing fit fitness flights florist flowers
+flsmidth fly foo football forex forsale forum foundation frl frogans
+fund furniture futbol fyi
+gal gallery game garden gbiz gdn gent genting ggee gift gifts gives giving
+glass gle global globo gmail gmo gmx gold goldpoint golf goo goog google
+gop graphics gratis green gripe group guge guide guitars guru
 hamburg hangout haus healthcare help here hermes hiphop hitachi hiv
-hockey holdings holiday homedepot homes honda horse host hosting house how
-ibm icbc icu ifm immo immobilien industries infiniti ing ink institute
-insure international investments irish iwc
-java jcb jetzt jewelry jll joburg juegos
+hockey holdings holiday homedepot homes honda horse host hosting hoteles
+hotmail house how hsbc
+ibm icbc ice icu ifm iinet immo immobilien industries infiniti ing ink
+institute insure international investments ipiranga irish ist istanbul
+itau iwc
+java jcb jetzt jewelry jlc jll joburg jprs juegos
 kaufen kddi kim kitchen kiwi koeln komatsu krd kred kyoto
-lacaixa land lat latrobe lawyer lds lease leclerc legal lgbt liaison
-lidl life lighting limited limo link loan loans lol london lotte lotto
-love ltda lupin luxe luxury
-madrid maif maison management mango market marketing markets marriott mba
-media meet melbourne meme memorial men menu miami mini mma moda moe monash
-money montblanc mormon mortgage moscow motorcycles mov movie mtn mtpc
-nadex nagoya navy nec network neustar new news nexus ngo nhk nico ninja
-nissan nra nrw ntt nyc
-okinawa one ong onl online ooo organic osaka otsuka ovh
-page panerai paris partners parts party pharmacy philips photo photography
-photos physio piaget pics pictet pictures pink pizza place plumbing plus
-pohl poker porn praxi press prod productions prof properties property pub
+lacaixa lancaster land lasalle lat latrobe law lawyer lds lease leclerc
+legal lexus lgbt liaison lidl life lighting limited limo link live lixil
+loan loans lol london lotte lotto love ltda lupin luxe luxury
+madrid maif maison man management mango market marketing markets marriott
+mba media meet melbourne meme memorial men menu miami microsoft mini
+mma moda moe monash money montblanc mormon mortgage moscow motorcycles
+mov movie movistar mtn mtpc
+nadex nagoya navy nec netbank network neustar new news nexus ngo nhk
+nico ninja nissan nokia nra nrw ntt nyc
+office okinawa omega one ong onl online ooo oracle orange organic osaka
+otsuka ovh
+page panerai paris partners parts party pet pharmacy philips photo
+photography photos physio piaget pics pictet pictures pink pizza place
+play plumbing plus pohl poker porn praxi press prod productions prof
+properties property pub
 qpon quebec
-racing realtor recipes red redstone rehab reise reisen reit ren rent
-rentals repair report republican rest restaurant review reviews rich
-rio rip rocks rodeo rsvp ruhr run ryukyu
-saarland sale samsung sandvik sandvikcoromant sap sarl saxo sca scb
-schmidt scholarships school schule schwarz science scot seat sener
-services sew sex sexy shiksha shoes show shriram singles site ski sky
-sncf soccer social software sohu solar solutions sony soy space spiegel
-spreadbetting study style sucks supplies supply support surf surgery
-suzuki swiss sydney systems
-taipei tatar tattoo tax taxi team tech technology temasek tennis thd
-theater tickets tienda tips tires tirol today tokyo tools top toray
-toshiba tours town toys trade trading training trust tui
-university uno uol
-vacations vegas ventures versicherung vet viajes video villas vision
-vlaanderen vodka vote voting voto voyage
+racing realtor realty recipes red redstone rehab reise reisen reit ren
+rent rentals repair report republican rest restaurant review reviews
+rich ricoh rio rip rocks rodeo rsvp ruhr run ryukyu
+saarland sakura sale samsung sandvik sandvikcoromant sanofi sap sarl saxo
+sca scb schmidt scholarships school schule schwarz science scor scot seat
+seek sener services sew sex sexy shiksha shoes show shriram singles site
+ski sky skype sncf soccer social software sohu solar solutions sony soy
+space spiegel spreadbetting srl starhub statoil studio study style sucks
+supplies supply support surf surgery suzuki swatch swiss sydney systems
+taipei tatamotors tatar tattoo tax taxi team tech technology telefonica
+temasek tennis thd theater tickets tienda tips tires tirol today tokyo
+tools top toray toshiba tours town toyota toys trade trading training
+trust tui
+ubs university uno uol
+vacations vegas ventures versicherung vet viajes video villas vin vision
+vista vistaprint vlaanderen vodka vote voting voto voyage
 wales walter wang watch webcam website wed wedding weir whoswho wien
-wiki williamhill win wme work works world wtc wtf
-xbox xerox xin xyz
+wiki williamhill win windows wine wme work works world wtc wtf
+xbox xerox xin xperia xyz
 yachts yandex yodobashi yoga yokohama youtube
 zip zone zuerich
 # names generic_restricted
