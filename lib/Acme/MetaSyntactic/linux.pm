@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.027';
+our $VERSION = '1.028';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-08-10 - v1.028
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.047.
 
 =item *
 
@@ -301,6 +307,7 @@ CentOS
 Centrych
 Chakra
 ChaletOS
+Chapeau
 Chitwanix
 Chromixium
 ClearOS
@@ -343,7 +350,6 @@ Guadalinex
 Haiku
 HandyLinux
 Hanthana
-Hybryde
 IPCop
 IPFire
 kademar
@@ -487,7 +493,6 @@ Sorcerer
 Source_Mage
 SparkyLinux
 Springdale
-StartOS
 SteamOS
 Stella
 SuliX
