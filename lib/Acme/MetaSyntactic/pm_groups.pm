@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pm_groups;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.024';
+our $VERSION = '1.025';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -35,6 +35,12 @@ Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-10-19 - v1.025
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.048.
 
 =item *
 
@@ -299,7 +305,6 @@ Champaign_Urbana_pm
 Chicago_pm
 Cincinnati_pm
 Cleveland_pm
-Columbus_pm
 DFW_pm
 DC_pm
 Denver_pm
@@ -316,7 +321,6 @@ OrangeCounty_pm
 Ottawa_pm
 Philadelphia_pm
 Phoenix_pm
-Pittsburgh_pm
 PDX_pm
 Raleigh_pm
 SanDiego_pm
@@ -424,7 +428,6 @@ Cologne_pm
 Hamburg_pm
 Guatemala_pm
 Helsingborg_pm
-Buffalo_pm
 Vlaanderen_pm
 Saarland_pm
 Shibuya_pm
@@ -499,7 +502,6 @@ Niigata_pm
 Hardware_pm
 WhitePlains_pm
 Duesseldorf_pm
-TriCo_pm
 Augsburg_pm
 CorpusChristi_pm
 Cochin_pm
