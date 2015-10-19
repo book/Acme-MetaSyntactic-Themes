@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.028';
+our $VERSION = '1.029';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -44,6 +44,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-10-19 - v1.029
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.048.
 
 =item *
 
@@ -296,7 +302,6 @@ BlankOn
 Bodhi
 BOSS
 Bridge
-Burapha
 CAELinux
 CAINE
 Caixa_M_gica
@@ -381,7 +386,6 @@ Lubuntu
 Lunar
 LuninuX
 LXLE
-Macpup
 Madbox
 Mageia
 MakuluLinux
@@ -389,7 +393,6 @@ Mangaka
 Manjaro
 Matriux
 MAX
-MEPIS
 MidnightBSD
 MiniNo
 MINIX
@@ -424,7 +427,7 @@ OpenMediaVault
 openSUSE
 Openwall
 Open_Xange
-Ophcrack
+OPNsense
 Oracle
 OSMC
 Overclockix
@@ -432,6 +435,7 @@ Oz_Unity
 paldo
 Parabola
 Pardus
+Parrot_Security_OS
 Parsix
 Parted_Magic
 PC_BSD
@@ -465,6 +469,7 @@ Rescatux
 RISC
 Robolinux
 Rocks_Cluster
+Rockstor
 ROSA
 Runtu
 Sabayon
@@ -489,7 +494,6 @@ Solus
 SolydXK
 Sonar
 Sophos
-Sorcerer
 Source_Mage
 SparkyLinux
 Springdale
@@ -519,12 +523,12 @@ Ubuntu_Studio
 UHU_Linux
 Ulteo
 Ultimate
+Unity
 Univention
 Untangle
 UPR
 Vector
 Vine
-Vinux
 Void
 Volumio
 VortexBox
