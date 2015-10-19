@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::services;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -55,6 +55,12 @@ Philippe "BooK" Bruhat.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-10-19 - v1.004
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.048.
 
 =item *
 
@@ -161,7 +167,6 @@ adobeserver_1
 adobeserver_2
 adobeserver_3
 ads
-avocentkvm
 aed_512
 aegate
 aeroflight_ads
@@ -302,7 +307,6 @@ ariel2
 ariel3
 arns
 asa
-asa_appl_proto
 asam
 asap_sctp
 asap_sctp_tls
@@ -359,6 +363,7 @@ avanti_cdp
 avenue
 avian
 avocent_adsap
+avocentkvm
 avocent_proxy
 avsecuremgmt
 avt_profile_1
@@ -1650,6 +1655,7 @@ matip_type_b
 MaxumSP
 maybe_fw1
 maybe_veritas
+mbap
 mbg_ctrl
 mc_client
 mcer_port
