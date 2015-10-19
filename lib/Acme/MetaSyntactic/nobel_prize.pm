@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.003';
+our $VERSION = '1.004';
 
 =encoding iso-8859-1
 
@@ -1031,6 +1031,18 @@ The winners are:
  2014   Physics     Hiroshi Amano
  2014   Physics     Shuji Nakamura
 
+ 2015   Chemistry   Tomas Lindahl
+ 2015   Chemistry   Paul Modrich
+ 2015   Chemistry   Aziz Sancar
+ 2015   Economics   Angus Deaton
+ 2015   Literature  Svetlana Alexievich
+ 2015   Medecine    William C. Campbell
+ 2015   Medecine    Satoshi Omura
+ 2015   Medecine    Youyou Tu
+ 2015   Peace       National Dialogue Quartet
+ 2015   Physics     Takaaki Kajita
+ 2015   Physics     Arthur B. McDonald
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
@@ -1064,6 +1076,11 @@ Abigail
 =over 4
 
 =item *
+
+2015-10-19 - v1.004
+
+Updated with the Nobel prizes for 2015, and
+published in Acme-MetaSyntactic-Themes version 1.048.
 
 2014-10-13 - v1.003
 
