@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.027';
+our $VERSION = '1.028';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -57,6 +57,12 @@ Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2015-10-19 - v1.028
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.048.
 
 =item *
 
@@ -357,11 +363,9 @@ Annie_Sprinkle
 April_Flores
 Asa_Akira
 Ashley_Blue
-Ashley_Renee
 Asia_Carrera
 Audrey_Hollander
 August_Ames
-Austyn_Moore
 Belle_Knox
 BiBi_Jones
 Bodil_Joensen
@@ -380,8 +384,8 @@ Cara_Lott
 Carol_Connors
 Casey_Calvert
 Charmane_Star
+Chloe_Jones
 C_J_Laing
-Dahlia_Sky
 Dana_Vespoli
 Dani_Daniels
 Debi_Diamond
@@ -394,24 +398,26 @@ Ginger_Lynn
 Gloria_Leonard
 Gracie_Glam
 Heather_Hunter
+Hillary_Scott
 Holly_Ryder
 Houston
 Jasmin_St_Claire
+Jeannie_Pepper
+Jenaveve_Jolie
 Jenna_Haze
 Jenna_Jameson
-Jenny_Hendrix
+Jenna_Presley
 Jesse_Jane
 Jessie_Rogers
-Juelz_Ventura
 Juliet_Anderson
 Justine_Joli
 Kandi_Barbour
 Karen_Summer
 Katie_Morgan
+Katja_Kassin
 Katsuni
 Kaylani_Lei
 Kendra_Lust
-Kota_Sky
 Kylie_Ireland
 Leilani_Leeane
 Linda_Lovelace
@@ -426,6 +432,7 @@ Marilyn_Chambers
 Mary_Carey
 Marylin_Star
 Mary_Millington
+May_Ling_Su
 Melissa_Hill
 Mia_Khalifa
 Mia_Malkova
@@ -449,7 +456,6 @@ Rikki_Six
 Riley_Reid
 Riley_Steele
 Robin_Byrd
-Sammie_Rhodes
 Sasha_Grey
 Savannah
 Seka
