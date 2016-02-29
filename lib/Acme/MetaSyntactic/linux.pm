@@ -16,6 +16,7 @@ our %Remote = (
                 $_
                 }
             map { Acme::MetaSyntactic::RemoteList::tr_nonword($_) }
+            map { Acme::MetaSyntactic::RemoteList::tr_accent($_) }
             map { Acme::MetaSyntactic::RemoteList::tr_utf8_basic($_) }
             $forms[0] =~ m!<option value=".*?">([^<]+?)</option>!g;
     }
