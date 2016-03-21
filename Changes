@@ -2,7 +2,7 @@ Revision history for Acme-MetaSyntactic-Themes
 
 {{$NEXT}}
 
-1.048 Tue Oct 20 2015
+1.048 2015-10-19 BOOK
     [THEME UPDATES]
     - linux
     - nobel_prize
@@ -11,7 +11,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - services
     - wales_towns
 
-1.047 Mon Aug 10 2015
+1.047 2015-08-10 BOOK
     [THEME UPDATES]
     - icao
     - linux
@@ -20,7 +20,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - tld
     - tour_de_france
 
-1.046 Mon Jun 8 2015
+1.046 2015-06-08 BOOK
     [THEME UPDATES]
     - debian
     - discworld
@@ -33,7 +33,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - services
     - tld
 
-1.045 Mon Feb 2 2015
+1.045 2015-02-02 BOOK
     [THEME UPDATES]
     - invasions
     - linux
@@ -46,7 +46,7 @@ Revision history for Acme-MetaSyntactic-Themes
     [PACKAGING]
     - switch to Dist::Zilla for maintaining the distribution
 
-1.044 Mon Jan  5 2015
+1.044 2015-01-05 BOOK
     [THEME UPDATES]
     - linux
     - pm_groups
@@ -54,7 +54,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - tld
     - wales_towns
 
-1.043 Mon Oct 13 2014
+1.043 2014-10-13 BOOK
     [THEME UPDATES]
     - linux
     - nobel_prize
@@ -63,14 +63,14 @@ Revision history for Acme-MetaSyntactic-Themes
     - tld
     - yapc
 
-1.042 Mon Sep 15 2014
+1.042 2014-09-15 BOOK
     [THEME UPDATES]
     - linux
     - oulipo
     - pornstars
     - tld
 
-1.041 Mon Aug 18 2014
+1.041 2014-08-18 BOOK
     [THEME UPDATES]
     - linux
     - metro
@@ -80,14 +80,14 @@ Revision history for Acme-MetaSyntactic-Themes
     - tld
     - tokipona
 
-1.040 Mon Jun 16 2014
+1.040 2014-06-16 BOOK
     [THEME UPDATES]
     - linux
     - pm_groups
     - pokemon
     - pornstars
 
-1.039 Mon Apr  7 2014
+1.039 2014-04-07 BOOK
     [THEME UPDATES]
     - ben_and_jerry
     - dilbert
@@ -97,7 +97,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pornstars
     - wales_towns
 
-1.038 Mon Dec  9 2013
+1.038 2013-12-09 BOOK
     [THEME UPDATES]
     - ben_and_jerry
     - dwarves
@@ -110,7 +110,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pornstars
     - wales_towns
 
-1.037 Mon Oct 14 2013
+1.037 2013-10-14 BOOK
     [THEME UPDATES]
     - donmartin
     - evangelion
@@ -120,7 +120,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pornstars
     - wales_towns
 
-1.036 Mon Sep 16 2013
+1.036 2013-09-16 BOOK
     [THEME UPDATES]
     - ben_and_jerry
     - linux
@@ -128,7 +128,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.035 Mon Jul 29 2013
+1.035 2013-07-29 BOOK
     [THEME UPDATES]
     - linux
     - pm_groups
@@ -136,7 +136,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - tour_de_france
     - yapc
 
-1.034 Mon Jul 22 2013
+1.034 2013-07-22 BOOK
     [THEME UPDATES]
     - ben_and_jerry
     - currency
@@ -146,7 +146,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - tour_de_france
     - wales_towns
 
-1.033 Mon Jun 17 2013
+1.033 2013-06-17 BOOK
     [THEME UPDATES]
     - debian
     - dilbert
@@ -155,7 +155,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pornstars
     - wales_towns
 
-1.032 Mon Jun  3 2013
+1.032 2013-06-03 BOOK
     [THEME UPDATES]
     - ben_and_jerry
     - linux
@@ -163,7 +163,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.031 Mon Mar 25 2013
+1.031 2013-03-25 BOOK
     [THEME UPDATES]
     - ben_and_jerry
     - linux
@@ -171,7 +171,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.030 Mon Feb 18 2013
+1.030 2013-02-18 BOOK
     [THEME UPDATES]
     - ben_and_jerry
     - linux
@@ -180,7 +180,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.029 Mon Jan 14 2013
+1.029 2013-01-14 BOOK
     [THEME UPDATES]
     - currency
     - dilbert
@@ -189,7 +189,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.028 Mon Nov 19 2012
+1.028 2012-11-19 BOOK
     [NEW THEME 2012/11/19]
     - counting_to_one
     [THEME UPDATES]
@@ -197,20 +197,20 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.027 Mon Nov 12 2012
+1.027 2012-11-12 BOOK
     [NEW THEME 2012/11/12]
     - care_bears
     [THEME UPDATES]
     - ben_and_jerry
     - pause_id
 
-1.026 Mon Nov  5 2012
+1.026 2012-11-05 BOOK
     [NEW THEME 2012/11/05]
     - renault
     [THEME UPDATES]
     - pause_id
 
-1.025 Mon Oct 29 2012
+1.025 2012-10-29 BOOK
     [NEW THEME 2012/10/29]
     - fawlty_towers
     [THEME UPDATES]
@@ -220,7 +220,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - tour_de_france
 
-1.024 Mon Oct 22 2012
+1.024 2012-10-22 BOOK
     [NEW THEME 2012/10/22]
     - regions
     [THEME UPDATES]
@@ -229,19 +229,19 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.023 Mon Oct 15 2012
+1.023 2012-10-15 BOOK
     [NEW THEME 2012/10/15]
     - nobel_prize
     [THEME UPDATES]
     - magma
 
-1.022 Mon Oct  8 2012
+1.022 2012-10-08 BOOK
     [NEW THEME 2012/10/08]
     - bible
     [THEME UPDATES]
     - oulipo
 
-1.021 Mon Oct  1 2012
+1.021 2012-10-01 BOOK
     [NEW THEME 2012/10/01]
     - asterix
     [THEME UPDATES]
@@ -250,15 +250,15 @@ Revision history for Acme-MetaSyntactic-Themes
     - pause_id
     - pornstars
 
-1.020 Mon Sep 24 2012
+1.020 2012-09-24 BOOK
     [NEW THEME 2012/09/24]
     - doctor_who
 
-1.019 Mon Sep 17 2012
+1.019 2012-09-17 BOOK
     [NEW THEME 2012/09/17]
     - screw_drives
 
-1.018 Mon Sep 10 2012
+1.018 2012-09-10 BOOK
     [NEW THEME 2012/09/10]
     - bottles
     [THEME UPDATES]
@@ -269,11 +269,11 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.017 Mon Sep  3 2012
+1.017 2012-09-03 BOOK
     [NEW THEME 2012/09/03]
     - evangelion
 
-1.016 Mon Aug 27 2012
+1.016 2012-08-27 BOOK
     [NEW THEME 2012/08/27]
     - wales_towns
     [THEME UPDATES]
@@ -284,29 +284,29 @@ Revision history for Acme-MetaSyntactic-Themes
     - tld
     - yapc
 
-1.015 Mon Aug 20 2012
+1.015 2012-08-20 BOOK
     [NEW THEME 2012/08/20]
     - tokipona
     [THEME UPDATES]
     - ben_and_jerry
 
-1.014 Mon Aug 13 2012
+1.014 2012-08-13 BOOK
     [NEW THEME 2012/08/13]
     - ben_and_jerry
 
-1.013 Mon Aug  6 2012
+1.013 2012-08-06 BOOK
     [NEW THEME 2012/08/06]
     - lucky_luke
     [THEME UPDATES]
     - metro
 
-1.012 Tue Jul 31 2012
+1.012 2012-07-30 BOOK
     [NEW THEME 2012/07/30]
     - mars
     [THEME UPDATES]
     - tld
 
-1.011 Mon Jul 23 2012
+1.011 2012-07-23 BOOK
     [NEW THEME 2012/07/23]
     - smurfs
     [THEME UPDATES]
@@ -315,15 +315,15 @@ Revision history for Acme-MetaSyntactic-Themes
     - pokemon
     - pornstars
 
-1.010 Mon Jul 16 2012
+1.010 2012-07-16 BOOK
     [NEW THEME 2012/07/16]
     - calvin
 
-1.009 Mon Jul  9 2012
+1.009 2012-07-09 BOOK
     [NEW THEME 2012/07/09]
     - icao
 
-1.008 Mon Jul  2 2012
+1.008 2012-07-02 BOOK
     [NEW THEME 2012/07/02]
     - iata
     [THEME UPDATES]
@@ -437,7 +437,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - yapc
     - zodiac
 
-1.007 Mon Jun 25 2012
+1.007 2012-06-25 BOOK
     [NEW THEME 2012/06/25]
     - camelidae
     [THEME UPDATES]
@@ -446,15 +446,15 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.006 Mon Jun 18 2012
+1.006 2012-06-18 BOOK
     [NEW THEME 2012/06/18]
     - alice
 
-1.005 Mon Jun 11 2012
+1.005 2012-06-11 BOOK
     [NEW THEME 2012/06/11]
     - tarot
 
-1.004 Mon Jun 4 2012
+1.004 2012-06-04 BOOK
     [NEW THEME 2012/06/04]
     - fabeltjeskrant
     [THEME UPDATES]
@@ -462,7 +462,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - donmartin
     - elements
 
-1.003 Mon May 28 2012
+1.003 2012-05-28 BOOK
     [NEW THEME 2012/05/28]
     - afke
     [THEME UPDATES]
@@ -471,7 +471,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - pm_groups
     - pornstars
 
-1.002 Mon May 21 2012
+1.002 2012-05-21 BOOK
     [NEW THEME 2012/05/21]
     - reindeer
     [THEME UPDATES]
@@ -479,7 +479,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - muses
     - tmnt
 
-1.001 Mon May 14 2012
+1.001 2012-05-14 BOOK
     [NEW THEME 2012/05/14]
     - muses
     [THEME UPDATES]
@@ -510,7 +510,7 @@ Revision history for Acme-MetaSyntactic-Themes
     - vcs
     - yapc
 
-1.000 Mon May  7 2012
+1.000 2012-05-07 BOOK
     [NEW THEMES 2012/05/07]
     - abba
     - french_presidents
