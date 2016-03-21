@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::pornstars;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.028';
+our $VERSION = '1.029';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -57,6 +57,12 @@ Sébastien Aperghis-Tramoni, Philippe Bruhat, Rafaël Garcia-Suarez.
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2016-03-21 - v1.029
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.049.
 
 =item *
 
@@ -359,6 +365,7 @@ Amy_Fisher
 Andrea_True
 Anikka_Albrite
 Anna_Malle
+Annette_Haven
 Annie_Sprinkle
 April_Flores
 Asa_Akira
@@ -386,6 +393,7 @@ Casey_Calvert
 Charmane_Star
 Chloe_Jones
 C_J_Laing
+Dana_DeArmond
 Dana_Vespoli
 Dani_Daniels
 Debi_Diamond
@@ -409,6 +417,7 @@ Jenna_Jameson
 Jenna_Presley
 Jesse_Jane
 Jessie_Rogers
+Joanna_Angel
 Juliet_Anderson
 Justine_Joli
 Kandi_Barbour
@@ -418,6 +427,8 @@ Katja_Kassin
 Katsuni
 Kaylani_Lei
 Kendra_Lust
+Kimberly_Kane
+Kleio_Valentien
 Kylie_Ireland
 Leilani_Leeane
 Linda_Lovelace
@@ -429,6 +440,7 @@ Lupe_Fuentes
 Maddy_O_Reilly
 Mai_Lin
 Marilyn_Chambers
+Marlene_Willoughby
 Mary_Carey
 Marylin_Star
 Mary_Millington
@@ -441,8 +453,10 @@ Mika_Tan
 Mimi_Miyagi
 Missy
 Nicole_Aniston
+Nikita_Denise
 Nikki_Benz
 Nikki_Charm
+Nikki_Dial
 Nina_Hartley
 Porsche_Lynn
 Prinzzess
@@ -465,11 +479,13 @@ Shane
 Sharon_Mitchell
 Shauna_Grant
 Shyla_Jennings
+Shyla_Stylez
 Sinn_Sage
 Stormy_Daniels
+Sunny_Leone
 Taylor_St_Claire
-Taylor_Vixen
 Taylor_Wane
+Teagan_Presley
 Tera_Patrick
 Tericka_Dye
 Tina_Russell
