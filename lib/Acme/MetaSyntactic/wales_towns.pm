@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::wales_towns;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.008';
+our $VERSION = '1.009';
 __PACKAGE__->init();
 
 our %Remote = (
@@ -40,6 +40,12 @@ Abigail, Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2016-03-21 - v1.009
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.049.
 
 =item *
 
@@ -193,6 +199,7 @@ Kidwelly
 Knighton
 Lampeter
 Laugharne
+Llanddulas
 Llandeilo
 Llandovery
 Llandrindod_Wells
@@ -219,6 +226,7 @@ Maesteg
 Menai_Bridge
 Merthyr_Tydfil
 Milford_Haven
+Miskin
 Mold
 Monmouth
 Montgomery
@@ -244,6 +252,7 @@ Penmaenmawr
 Penrhyn_Bay
 Pontardawe
 Pontarddulais
+pontyclun
 Pontypool
 Pontypridd
 Porth
@@ -254,6 +263,7 @@ Prestatyn
 Presteigne
 Pwllheli
 Queensferry
+Radyr
 Rhayader
 Rhuddlan
 Rhyl
