@@ -12,29 +12,41 @@ __PACKAGE__->init();
 our %Remote = (
     source  => 'http://madcoversite.com/dmd-alphabetical.html',
     extract => sub {
-        return map {
-            s/\s+/ /g;
-
-            # do the "n times" math, but shorten items that are too long
-            s/nine times/9 times/;
-            s/52 times/24 times/;
-            s/FOOM FWEE BOOM DOOM DING \(12 times\)/FOOM FWEE BOOM DOOM DING \(10 times\)/;
-            s/(.*?)\([^\)\d]*?(\d+) times[^\)]*\)/$1x$2/eg;
-
-            # remove HTML
-            s/<[^>]+>//g;
-
-            # remove unsightly characters
-            y/- !'.,… /_/s;
-            s/^_+|_+$//g;
-
-            # send the final result
-            # but split one item that's way too long
-            /TIKAK_KAK_BINGCHIKA_CHUNK_THWIZZIK_ZAK/
+        return
+            # split a few items that are way too long
+            map /CHIRP_TIK_TIK_KRIK_BREET_BREET_TOOD_TOOD_KRIDIT_KRIDIT_BREET/
+                ? ( substr( $_, 0, 163 ), substr( $_, 164 ) )
+                : $_,
+            map /TIKAK_KAK_BINGCHIKA_CHUNK_THWIZZIK_ZAK/
                 ? ( substr( $_, 0, 164 ), substr( $_, 165 ) )
-                : $_
-            } $_[0]
-            =~ m!<tr[^<]+<td[^<]+<font[^<]+size=4>\s*(.*?)\s*</font>!igs;
+                : $_,
+
+            # pick and clean up items from the HTML table
+            map {
+                s/\s+/ /g;
+
+                # remove HTML
+                s/<[^>]+>//g;
+                s/&(?:hellip|nbsp);/_/g;
+                s/\(etc\. etc\.\)//g;
+
+                # do the "n times" math, but shorten items that are too long
+                s/twice/2 times/;
+                s/four times/4 times/;
+                s/nine times/9 times/;
+                s/eleven times/11 times/;
+                s/52 times/24 times/;
+                s/FOOM FWEE BOOM DOOM DING \(12 times\)/FOOM FWEE BOOM DOOM DING \(10 times\)/;
+                s/(.*?)\([^\)\d]*?(\d+) times[^\)]*\)/$1x$2/eg;
+
+                # remove unsightly characters
+                y/-_ !'.,… /_/s;
+                s/^_+|_+$//g;
+
+                # send the final result
+                $_;
+            }
+            $_[0] =~ m!<tr[^<]+<td[^<]+<font[^<]+size=4>\s*(.*?)\s*</font>!igs;
     },
 );
 
