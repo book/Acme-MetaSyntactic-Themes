@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::linux;
 use strict;
 use Acme::MetaSyntactic::List;
 our @ISA = qw( Acme::MetaSyntactic::List );
-our $VERSION = '1.029';
+our $VERSION = '1.030';
 
 our %Remote = (
     source  => 'http://distrowatch.com/',
@@ -45,6 +45,12 @@ Philippe Bruhat (BooK).
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2016-03-21 - v1.030
+
+Updated from the source web site in Acme-MetaSyntactic-Themes version 1.049.
 
 =item *
 
@@ -275,6 +281,8 @@ ZeroLinux
 TwoXOS
 FourMLinux
 Absolute
+AbulEdu
+AgiliaLinux
 Alpine
 ALT
 Android_x86
@@ -283,7 +291,6 @@ antiX
 APODIO
 Arch
 ArchBang
-ArtistX
 AsteriskNOW
 AUSTRUMI
 AV_Linux
@@ -291,7 +298,6 @@ BackBox
 Baltix
 Bardinux
 Baruwa
-Bella
 Berry
 Bicom
 Bio_Linux
@@ -303,24 +309,23 @@ BlankOn
 Bodhi
 BOSS
 Bridge
-CAELinux
+BSDRP
 CAINE
-Caixa_M_gica
+Caixa_Magica
 Calculate
 Canaima
-C_tix
 CentOS
 Centrych
 Chakra
 ChaletOS
 Chapeau
 Chitwanix
-Chromixium
 ClearOS
 Clonezilla
 Connochaet
 CoreOS
 CRUX
+Cub
 Debian
 deepin
 DEFT
@@ -331,11 +336,12 @@ Edubuntu
 Elastix
 elementary
 Elive
-Emmabunt_s
+Emmabuntus
 Endian
 Exe
 Exherbo
 ExTiX
+eZeY
 Fedora
 Fermi
 Finnix
@@ -344,15 +350,14 @@ FreeNAS
 Frugalware
 FuguIta
 Funtoo
-GeeXboX
 Gentoo
 GhostBSD
-gNewSense
 GoboLinux
 GParted
 Greenie
 Grml
 Guadalinex
+GuixSD
 Haiku
 HandyLinux
 Hanthana
@@ -379,7 +384,6 @@ Linpus
 LinuxBBQ
 LinuxConsole
 Linuxfx
-Liquid_Lemur
 Lite
 LliureX
 LPS
@@ -392,15 +396,14 @@ Mageia
 MakuluLinux
 Mangaka
 Manjaro
-Matriux
 MAX
+Metamorphose
 MidnightBSD
 MiniNo
 MINIX
 Mint
 Miracle
 MirOS
-Momonga
 Musix
 Mythbuntu
 Nanolinux
@@ -409,13 +412,10 @@ Neptune
 NetBSD
 NethServer
 Netrunner
-NetSecL
 NexentaStor
 NixOS
-Nova
 NST
 NuTyX
-Ojuba
 OLPC
 Omoikane
 OpenBSD
@@ -427,7 +427,6 @@ OpenMandriva
 OpenMediaVault
 openSUSE
 Openwall
-Open_Xange
 OPNsense
 Oracle
 OSMC
@@ -436,7 +435,7 @@ Oz_Unity
 paldo
 Parabola
 Pardus
-Parrot_Security_OS
+Parrot
 Parsix
 Parted_Magic
 PC_BSD
@@ -463,6 +462,7 @@ Qubes
 Quirky
 Raspbian
 ReactOS
+RebeccaBlackOS
 Rebellin
 Red_Hat
 REMnux
@@ -524,12 +524,13 @@ Ubuntu_Studio
 UHU_Linux
 Ulteo
 Ultimate
-Unity
 Univention
 Untangle
 UPR
+URIX
 Vector
 Vine
+Vinux
 Void
 Volumio
 VortexBox
@@ -537,6 +538,7 @@ Voyager
 VyOS
 wattOS
 Webconverger
+Whonix
 Wifislax
 WM_Live
 XStreamOS
