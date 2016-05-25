@@ -790,6 +790,7 @@ stricchetti_bolognesi
 stricchetti_tondi
 strichetti
 stringozzi
+strozzapreti
 svoltini
 svuotini
 svuotini_rigati
