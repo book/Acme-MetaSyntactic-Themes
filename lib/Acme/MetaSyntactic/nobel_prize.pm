@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.005';
+our $VERSION = '1.006';
 
 =encoding iso-8859-1
 
@@ -1055,6 +1055,19 @@ The winners are:
  2016   Physics     F. Duncan M. Haldane
  2016   Physics     J. Michael Kosterlitz
 
+ 2017   Chemistry   Jacques Dubochet
+ 2017   Chemistry   Joachim Frank
+ 2017   Chemistry   Richard Henderson
+ 2017   Economics   Richard H. Thaler
+ 2017   Literature  Kazuo Ishiguro
+ 2017   Medicine    Jeffrey C. Hall
+ 2017   Medicine    Michael Rosbash
+ 2017   Medicine    Michael W. Young
+ 2017   Peace       International Campaign to Abolish Nuclear Weapons
+ 2017   Physics     Rainer Weiss
+ 2017   Physics     Barry C. Barish
+ 2017   Physics     Kip S. Thorne
+
 =cut
 
         next unless $line =~ /^\s+(\d+)\s+(\w+)\s+(.*)/;
@@ -1086,6 +1099,13 @@ Abigail
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2017-11-13 - v1.006
+
+Updated with the Nobel prizes for 2017, and
+published in Acme-MetaSyntactic-Themes version 1.051.
 
 =item *
 
