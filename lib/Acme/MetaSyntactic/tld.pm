@@ -10,7 +10,7 @@ our %Remote = (
     extract => sub {
         ( my $type = $_[1]) =~ y/_/-/;
         local $/;
-        my %type = $_[0] =~ m{<td><span class="domain tld"><a href="/domains/root/db/(\w+).html">.\w+</a></span></td>\s+<td>([^<]+)</td>\s+<!-- <td>(?:[^<\n]*)}g;
+        my %type = $_[0] =~ m{<td>\s*<span class="domain tld"><a href="/domains/root/db/(\w+).html">.\w+</a></span></td>\s+<td>([^<]+)</td>}g;
         return grep $type{$_} eq $type, keys %type;
     },
 );
