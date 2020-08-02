@@ -31,6 +31,9 @@ The winners from 1903 onwards are:
 
 =pod
 
+    2019   Egan Bernal           COL
+    2018   Geraint Thomas        GBR
+    2017   Christopher Froome    GBR
     2016   Christopher Froome    GBR
     2015   Christopher Froome    GBR
     2014   Vincenzo Nibali       ITA
