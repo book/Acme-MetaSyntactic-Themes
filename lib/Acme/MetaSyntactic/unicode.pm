@@ -25,12 +25,18 @@ our $VERSION = '1.001';
 
     # clean up the list
     my %seen;
+    # perl 5.32 changes the format of unicore/Name.pl 
+    # see https://github.com/Perl/perl5/commit/b555069b72f93a232deba173dc7bf7892cfa5868#diff-034368c144964593667dac30dec09ac5
+    my ($entry_sep, $sep) = (qr{\n}, qr{\t+});
+    if ( $] >= 5.032 ) { 
+        ($entry_sep, $sep) = (qr{\n\n}, qr{\n});
+    } 
     $data = join ' ',
         grep !$seen{$_}++,            # we might have aliases/duplicates
         map  { s/ \(.*\)//; y/- /_/; $_ }
         grep { $_ ne '<control>' }    # what's this for a character name?
-        map  { my @F = split /\t+/; @F > 2 ? () : $F[1] }   # remove blocks
-        split /\n/, $data;
+        map  { my @F = split $sep; @F > 2 ? () : $F[1] }   # remove blocks
+        split $entry_sep, $data;
 
     __PACKAGE__->init( { names => $data } );
 }
