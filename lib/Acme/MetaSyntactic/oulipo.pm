@@ -38,7 +38,7 @@ Noël ARNAUD (1919-2003), founding member.
 
 =item *
 
-Michèle AUDIN (1954-), joined in 2009.
+Michèle AUDIN (1954-2025), joined in 2009.
 
 =item *
 
@@ -66,7 +66,7 @@ André BLAVIER (1922-2001), foreign correspondent.
 
 =item *
 
-Paul BRAFFORT (1923-), joined in 1961.
+Paul BRAFFORT (1923-2018), joined in 1961.
 
 =item *
 
@@ -82,7 +82,7 @@ Bernard CERQUIGLINI (1947-), joined in 1995.
 
 =item *
 
-Ross CHAMBERS (1932-), joined in 1961.
+Ross CHAMBERS (1932-2017), joined in 1961.
 
 =item *
 
@@ -94,7 +94,7 @@ Marcel DUCHAMP (1887-1968), joined in 1962.
 
 =item *
 
-Jacques DUCHATEAU (1929-), founding member.
+Jacques DUCHATEAU (1929-2017), founding member.
 
 =item *
 
@@ -114,7 +114,7 @@ Anne F. GARRÉTA (1962-), joined in 2000.
 
 =item *
 
-Michelle GRANGAUD (1941-), joined in 1995.
+Michelle GRANGAUD (1941-2022), joined in 1995.
 
 =item *
 
@@ -150,7 +150,7 @@ Pablo MARTÍN SÁNCHEZ (1977-), joined in 2014.
 
 =item *
 
-Harry MATHEWS (1930-), joined in 1973.
+Harry MATHEWS (1930-2017), joined in 1973.
 
 =item *
 
@@ -158,7 +158,7 @@ Michèle MÉTAIL (1950-), joined in 1975.
 
 =item *
 
-Ian MONK (1960-), joined in 1998.
+Ian MONK (1960-2025), joined in 1998.
 
 =item *
 
@@ -178,11 +178,11 @@ Jean QUEVAL (1913-1990), founding member.
 
 =item *
 
-Pierre ROSENSTIEHL (1933-), joined in 1992.
+Pierre ROSENSTIEHL (1933-2020), joined in 1992.
 
 =item *
 
-Jacques ROUBAUD (1932-), joined in 1966.
+Jacques ROUBAUD (1932-2024), joined in 1966.
 
 =item *
 
