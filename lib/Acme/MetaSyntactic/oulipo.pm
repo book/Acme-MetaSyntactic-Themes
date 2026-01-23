@@ -90,6 +90,10 @@ Stanley CHAPMAN (1925-2009), joined in 1961.
 
 =item *
 
+Samuel DESHAYES (1978-), joined in 2026.
+
+=item *
+
 Marcel DUCHAMP (1887-1968), joined in 1962.
 
 =item *
@@ -146,6 +150,10 @@ Daniel LEVIN BECKER (1984-), joined in 2009.
 
 =item *
 
+Guillaume MARIE (1979-), joined in 2026.
+
+=item *
+
 Pablo MARTÍN SÁNCHEZ (1977-), joined in 2014.
 
 =item *
@@ -175,6 +183,10 @@ Raymond QUENEAU (1903-1976), founder.
 =item *
 
 Jean QUEVAL (1913-1990), founding member.
+
+=item *
+
+Louise ROSE (1996-), joined in 2026.
 
 =item *
 
